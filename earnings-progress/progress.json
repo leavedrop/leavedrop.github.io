@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-12T20:42:33.742+08:00",
+  "generated_at_beijing": "2026-11-12T20:52:42.924+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：美东财报抓取→全文解析→EPS/营收提取比对→东京专线→币安1x合约实盘开单全链路≤500ms（已完成10/10次实盘FILLED测速，中位数186.5ms）",
@@ -15,16 +15,16 @@
   },
   "collector": {
     "state": "online",
-    "last_heartbeat_beijing": "2026-11-12T20:42:32.846+08:00"
+    "last_heartbeat_beijing": "2026-11-12T20:52:42.730+08:00"
   },
   "us_collector": {
     "state": "running",
     "us_execution_qualified": true,
-    "heartbeat_at_beijing": "2026-11-12T20:39:01.193+08:00"
+    "heartbeat_at_beijing": "2026-11-12T20:50:45.473+08:00"
   },
   "recent_updates": [
     {
-      "at_beijing": "2026-11-12T20:33:41+08:00",
+      "at_beijing": "2026-11-12T20:52:57+08:00",
       "text": "美国东岸（弗吉尼亚）独立采集节点已上线并按财报窗口自动启停；44 家目标旧稿在该节点完成真实网络下载、全文全表解析、完整归档、EPS/营收提取及模拟比较全链路复测：44/44 在 500 毫秒内（40/44 在 300 毫秒内，中位数 110.5 毫秒，P95 340.7 毫秒；历史复测不代表新公告首发表现）。"
     },
     {
@@ -80197,7 +80197,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.586913+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.924621+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -80210,7 +80210,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0699
+          "simulation_ms": 0.0334
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -80324,7 +80324,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.586913+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.924621+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -80337,7 +80337,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0699
+          "simulation_ms": 0.0334
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -80451,7 +80451,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.587962+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.924621+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -80464,7 +80464,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0458
+          "simulation_ms": 0.0301
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -80578,7 +80578,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.587962+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.924621+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -80591,7 +80591,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0458
+          "simulation_ms": 0.0301
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -80705,7 +80705,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.589550+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -80718,7 +80718,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0374
+          "simulation_ms": 0.0329
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -80835,7 +80835,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.589550+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -80848,7 +80848,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0374
+          "simulation_ms": 0.0329
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -80962,7 +80962,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.590729+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -80975,7 +80975,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0629
+          "simulation_ms": 0.0285
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -81089,7 +81089,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.590729+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -81102,7 +81102,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0629
+          "simulation_ms": 0.0285
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -81900,7 +81900,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.589040+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.925716+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -81913,7 +81913,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0447
+          "simulation_ms": 0.0312
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -82027,7 +82027,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.589040+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.925716+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -82040,7 +82040,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0447
+          "simulation_ms": 0.0312
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -82154,7 +82154,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.591241+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -82167,7 +82167,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0376
+          "simulation_ms": 0.0269
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -82281,7 +82281,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.591241+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -82294,7 +82294,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0376
+          "simulation_ms": 0.0269
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -82408,7 +82408,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.592603+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -82421,7 +82421,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0485
+          "simulation_ms": 0.0248
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -82535,7 +82535,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.592603+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.926227+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -82548,7 +82548,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0485
+          "simulation_ms": 0.0248
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -82850,7 +82850,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:19.196467+00:00",
+          "created_at_utc": "2026-11-12T12:53:22.815222+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -82863,7 +82863,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0215
+          "simulation_ms": 0.0318
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -82973,7 +82973,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:19.196467+00:00",
+          "created_at_utc": "2026-11-12T12:53:22.815222+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -82986,7 +82986,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0215
+          "simulation_ms": 0.0318
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -83095,7 +83095,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:38.622076+00:00",
+          "created_at_utc": "2026-11-12T12:53:37.720328+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -83108,7 +83108,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0469
+          "simulation_ms": 0.0437
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -83218,7 +83218,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:38.622076+00:00",
+          "created_at_utc": "2026-11-12T12:53:37.720328+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -83231,7 +83231,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0469
+          "simulation_ms": 0.0437
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -85398,7 +85398,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.554510+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -85411,7 +85411,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.057
+          "simulation_ms": 0.0378
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -85525,7 +85525,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.554510+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -85538,7 +85538,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.057
+          "simulation_ms": 0.0378
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -85652,7 +85652,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.560200+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -85665,7 +85665,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1319
+          "simulation_ms": 0.033
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -85779,7 +85779,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.560200+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -85792,7 +85792,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1319
+          "simulation_ms": 0.033
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -85906,7 +85906,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.578454+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -85919,7 +85919,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0421
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -86033,7 +86033,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.578454+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -86046,7 +86046,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0421
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -86160,7 +86160,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.580141+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -86173,7 +86173,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0405
+          "simulation_ms": 0.0175
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -86287,7 +86287,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.580141+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -86300,7 +86300,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0405
+          "simulation_ms": 0.0175
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -86414,7 +86414,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.580141+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -86427,7 +86427,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.1422
+          "simulation_ms": 0.0168
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -86541,7 +86541,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.580141+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -86554,7 +86554,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.1422
+          "simulation_ms": 0.0168
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -86668,7 +86668,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.583671+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.924109+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -86681,7 +86681,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0639
+          "simulation_ms": 0.019
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -86795,7 +86795,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.583671+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.924109+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -86808,7 +86808,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0639
+          "simulation_ms": 0.019
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -86922,7 +86922,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.158440+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.739718+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -86935,7 +86935,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.2389
+          "simulation_ms": 0.0375
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -87049,7 +87049,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.158440+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.739718+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -87062,7 +87062,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.2389
+          "simulation_ms": 0.0375
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -87176,7 +87176,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.158952+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.739718+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -87189,7 +87189,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0683
+          "simulation_ms": 0.0292
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -87303,7 +87303,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.158952+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.739718+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -87316,7 +87316,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0683
+          "simulation_ms": 0.0292
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -87632,7 +87632,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.555589+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -87645,7 +87645,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1612
+          "simulation_ms": 0.0339
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -87759,7 +87759,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.555589+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -87772,7 +87772,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1612
+          "simulation_ms": 0.0339
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -87886,7 +87886,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.556100+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -87899,7 +87899,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0606
+          "simulation_ms": 0.0331
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -88013,7 +88013,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.556100+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -88026,7 +88026,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0606
+          "simulation_ms": 0.0331
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -88140,7 +88140,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.562725+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -88153,7 +88153,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0461
+          "simulation_ms": 0.0316
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -88267,7 +88267,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.562725+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -88280,7 +88280,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0461
+          "simulation_ms": 0.0316
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -88394,7 +88394,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.563486+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -88407,7 +88407,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0519
+          "simulation_ms": 0.0308
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -88521,7 +88521,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.563486+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.916694+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -88534,7 +88534,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0519
+          "simulation_ms": 0.0308
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -88648,7 +88648,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.563999+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.919766+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -88661,7 +88661,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.047
+          "simulation_ms": 0.0302
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -88775,7 +88775,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.563999+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.919766+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -88788,7 +88788,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.047
+          "simulation_ms": 0.0302
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -88905,7 +88905,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.566592+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.920277+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -88918,7 +88918,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0425
+          "simulation_ms": 0.0379
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -89035,7 +89035,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.566592+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.920277+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -89048,7 +89048,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0425
+          "simulation_ms": 0.0379
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -89162,7 +89162,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.567148+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.920277+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -89175,7 +89175,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0345
+          "simulation_ms": 0.034
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -89289,7 +89289,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.567148+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.920277+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -89302,7 +89302,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0345
+          "simulation_ms": 0.034
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -89416,7 +89416,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.571384+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921393+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -89429,7 +89429,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0478
+          "simulation_ms": 0.0404
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -89543,7 +89543,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.571384+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921393+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -89556,7 +89556,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0478
+          "simulation_ms": 0.0404
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -89670,7 +89670,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.572905+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -89683,7 +89683,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0807
+          "simulation_ms": 0.0328
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -89797,7 +89797,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.572905+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -89810,7 +89810,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0807
+          "simulation_ms": 0.0328
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -89924,7 +89924,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.576561+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -89937,7 +89937,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1743
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -90051,7 +90051,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.576561+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -90064,7 +90064,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1743
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -90178,7 +90178,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.577594+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -90191,7 +90191,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0337
+          "simulation_ms": 0.0127
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -90299,7 +90299,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.577594+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -90312,7 +90312,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0337
+          "simulation_ms": 0.0127
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -90428,7 +90428,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.577942+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -90441,7 +90441,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0464
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -90555,7 +90555,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.577942+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -90568,7 +90568,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0464
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -90682,7 +90682,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.579116+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -90695,7 +90695,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0368
+          "simulation_ms": 0.0144
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -90809,7 +90809,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T12:43:37.579116+00:00",
+          "created_at_utc": "2026-11-12T12:53:36.921907+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -90822,7 +90822,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0368
+          "simulation_ms": 0.0144
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -94779,7 +94779,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:47+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:22+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000049071.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -101709,7 +101709,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:42+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:37+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001937926.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -104332,7 +104332,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:43:02+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:33+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000895728.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -107038,7 +107038,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:15+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:21+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001849056.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -108508,7 +108508,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:07+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:16+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001636519.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -111248,7 +111248,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:43:01+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:10+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002132873.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -113200,7 +113200,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:40+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:04+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001067983.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -115837,7 +115837,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:36+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:35+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001734107.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -118878,7 +118878,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:17+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:12+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000756894.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -121490,7 +121490,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:43:00+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:19+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002011641.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -123111,7 +123111,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:06+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:03+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001404912.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -125065,7 +125065,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:43:07+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:17+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000003197.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -126924,7 +126924,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:50+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:15+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001001316.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -128900,7 +128900,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:33+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:05+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002041610.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -131197,7 +131197,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:09+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:40+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001671933.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -133130,7 +133130,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:43+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:38+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001582313.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -135248,7 +135248,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:34+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:01+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001824502.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -136979,7 +136979,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:57+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:28+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001773751.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -139224,7 +139224,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:43:06+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:29+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001811210.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -142462,7 +142462,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:41+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:30+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001819994.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -144318,7 +144318,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:43:08+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:36+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000946581.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -146322,7 +146322,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:45+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:34+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000797468.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -147814,7 +147814,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:49+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:39+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001858985.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -149371,7 +149371,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:48+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:09+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001703399.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -151108,7 +151108,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:39+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:23+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001907982.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -152305,7 +152305,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:08+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:18+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001260221.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -155276,7 +155276,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:38+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:32+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001437925.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -157574,7 +157574,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:56+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:08+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001377630.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -159310,7 +159310,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:46+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:20+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001838359.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -161299,19 +161299,19 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T20:41:16.261+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:51:17.341+08:00",
           "last_checked_url": "https://www.cgi.com/en/newsroom",
           "target_kind": "公告入口",
-          "observation": "本次访问未获得HTTP响应",
+          "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
-          "status": null,
+          "status": 200,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:10+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:06+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001061574.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -161323,7 +161323,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T20:41:28.824+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:51:28.585+08:00",
           "last_checked_url": "https://www.prnewswire.com/search/news/",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -162714,19 +162714,19 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T20:43:03+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:03+08:00",
           "last_checked_url": "https://www.franco-nevada.com/feed/PressRelease.svc/GetPressReleaseList",
           "target_kind": "公告入口",
-          "observation": "HTTP 304",
+          "observation": "连接失败（ConnectionError）",
           "note": "",
           "observer": "本地",
-          "status": 304,
+          "status": null,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:43:05+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:14+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001456346.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -162738,7 +162738,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T20:43:01+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:01+08:00",
           "last_checked_url": "https://www.prnewswire.com/news/franco__nevada-corporation/",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -165363,7 +165363,7 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T20:43:07+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:13+08:00",
           "last_checked_url": "https://bn.brookfield.com/events-news/press-releases",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -165375,7 +165375,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:31+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:26+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001001085.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -165387,7 +165387,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T20:43:08+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:12+08:00",
           "last_checked_url": "https://www.globenewswire.com/search/organization/Brookfield%2520Corporation",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -166259,19 +166259,19 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T20:42:30.756+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:11+08:00",
           "last_checked_url": "https://nebius.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "HTTP 200",
+          "observation": "连接失败（ConnectError）",
           "note": "",
-          "observer": "云端",
-          "status": 200,
+          "observer": "本地",
+          "status": null,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:42:32+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:53:12+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001513845.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -166283,13 +166283,13 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T20:39:24.483+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:52:28.698+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "HTTP 403",
+          "observation": "HTTP 520",
           "note": "",
-          "observer": "本地",
-          "status": 403,
+          "observer": "云端",
+          "status": 520,
           "last_negative_listing_at_beijing": null
         }
       ],
@@ -167383,14 +167383,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:29.014+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:51:00.241+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000858877.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:29.014+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:51:00.241+08:00"
         },
         {
           "label": "财经发布网站",
@@ -168495,14 +168495,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:41:11.713+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:55.084+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002021728.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:41:11.713+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:55.084+08:00"
         },
         {
           "label": "财经发布网站",
@@ -169267,14 +169267,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:27.999+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:54.033+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001810997.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:27.999+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:54.033+08:00"
         },
         {
           "label": "财经发布网站",
@@ -169903,14 +169903,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:30.103+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:59.233+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001329099.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:30.103+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:59.233+08:00"
         },
         {
           "label": "财经发布网站",
@@ -170607,14 +170607,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:32.118+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:50.010+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001809587.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:32.118+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:50.010+08:00"
         },
         {
           "label": "财经发布网站",
@@ -171243,14 +171243,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:41:13.867+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:58.251+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001483994.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:41:13.867+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:58.251+08:00"
         },
         {
           "label": "财经发布网站",
@@ -171879,14 +171879,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:40.062+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:53.084+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001584509.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:40.062+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:53.084+08:00"
         },
         {
           "label": "财经发布网站",
@@ -172590,14 +172590,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:34.852+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:51:01.511+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000100493.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:34.852+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:51:01.511+08:00"
         },
         {
           "label": "财经发布网站",
@@ -173226,14 +173226,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:35.992+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:57.210+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000868857.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:35.992+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:57.210+08:00"
         },
         {
           "label": "财经发布网站",
@@ -173862,14 +173862,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:41:12.666+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:50.955+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002007825.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:41:12.666+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:50.955+08:00"
         },
         {
           "label": "财经发布网站",
@@ -174498,14 +174498,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T20:40:45.062+08:00",
+          "last_checked_at_beijing": "2026-11-12T20:50:52.017+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001758766.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T20:40:45.062+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:52.017+08:00"
         },
         {
           "label": "财经发布网站",
@@ -175197,38 +175197,38 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:50:07.241+08:00",
           "last_checked_url": "https://investors.figure.com/rss/news-releases.xml",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 403",
           "note": "",
-          "observer": null,
-          "status": null,
+          "observer": "美国采集器",
+          "status": 403,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:50:02.112+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002064124.json",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 200",
           "note": "",
-          "observer": null,
-          "status": null,
-          "last_negative_listing_at_beijing": null
+          "observer": "美国采集器",
+          "status": 200,
+          "last_negative_listing_at_beijing": "2026-11-12T19:47:02.035+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:46:03.666+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/keyword/Figure%20Technology",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 200",
           "note": "",
-          "observer": null,
-          "status": null,
-          "last_negative_listing_at_beijing": null
+          "observer": "美国采集器",
+          "status": 200,
+          "last_negative_listing_at_beijing": "2026-11-12T19:46:03.587+08:00"
         }
       ],
       "replays": [],
@@ -175404,38 +175404,38 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:50:04.383+08:00",
           "last_checked_url": "https://investors.intuitivemachines.com/rss/news-releases.xml",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 403",
           "note": "",
-          "observer": null,
-          "status": null,
+          "observer": "美国采集器",
+          "status": 403,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:50:03.119+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001844452.json",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 200",
           "note": "",
-          "observer": null,
-          "status": null,
-          "last_negative_listing_at_beijing": null
+          "observer": "美国采集器",
+          "status": 200,
+          "last_negative_listing_at_beijing": "2026-11-12T20:33:03.095+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:46:04.653+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/keyword/Intuitive%20Machines",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 200",
           "note": "",
-          "observer": null,
-          "status": null,
-          "last_negative_listing_at_beijing": null
+          "observer": "美国采集器",
+          "status": 200,
+          "last_negative_listing_at_beijing": "2026-11-12T20:31:04.822+08:00"
         }
       ],
       "replays": [],
@@ -175536,37 +175536,37 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:50:45.431+08:00",
           "last_checked_url": "https://www.ondas.com/news",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 304",
           "note": "",
-          "observer": null,
-          "status": null,
+          "observer": "美国采集器",
+          "status": 304,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:50:04.122+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001646188.json",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 200",
           "note": "",
-          "observer": null,
-          "status": null,
-          "last_negative_listing_at_beijing": null
+          "observer": "美国采集器",
+          "status": 200,
+          "last_negative_listing_at_beijing": "2026-11-12T20:50:04.122+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": null,
+          "last_checked_at_beijing": "2026-11-12T20:50:45.236+08:00",
           "last_checked_url": "https://ondas-holdings-inc.suite.accessnewswire.com/",
           "target_kind": "公告入口",
-          "observation": "暂无实际访问记录",
+          "observation": "HTTP 200",
           "note": "",
-          "observer": null,
-          "status": null,
+          "observer": "美国采集器",
+          "status": 200,
           "last_negative_listing_at_beijing": null
         }
       ],

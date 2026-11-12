@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-12T22:18:54.386+08:00",
+  "generated_at_beijing": "2026-11-12T22:28:11.993+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：美东财报抓取→全文解析→EPS/营收提取比对→东京专线→币安1x合约实盘开单全链路≤500ms（已完成10/10次实盘FILLED测速，中位数186.5ms）",
-    "received_companies": 35,
+    "received_companies": 36,
     "total_companies": 63,
     "original_companies": 34,
     "extension_companies": 29,
@@ -15,16 +15,16 @@
   },
   "collector": {
     "state": "online",
-    "last_heartbeat_beijing": "2026-11-12T22:18:53.801+08:00"
+    "last_heartbeat_beijing": "2026-11-12T22:28:10.951+08:00"
   },
   "us_collector": {
     "state": "running",
     "us_execution_qualified": true,
-    "heartbeat_at_beijing": "2026-11-12T22:16:07.584+08:00"
+    "heartbeat_at_beijing": "2026-11-12T22:25:27.883+08:00"
   },
   "recent_updates": [
     {
-      "at_beijing": "2026-11-12T22:16:30+08:00",
+      "at_beijing": "2026-11-12T22:25:49+08:00",
       "text": "美国东岸（弗吉尼亚）独立采集节点已上线并按财报窗口自动启停；44 家目标旧稿在该节点完成真实网络下载、全文全表解析、完整归档、EPS/营收提取及模拟比较全链路复测：44/44 在 500 毫秒内（40/44 在 300 毫秒内，中位数 110.5 毫秒，P95 340.7 毫秒；历史复测不代表新公告首发表现）。"
     },
     {
@@ -49,6 +49,43 @@
     }
   ],
   "latest_results": [
+    {
+      "id": "b9a0512261314b11",
+      "symbol": "NBIS",
+      "company_name": "Nebius Group",
+      "document": "业绩公告",
+      "source_label": "SEC披露网站",
+      "channel": "sec",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+      "title": "NBIS 财报文档",
+      "acquired_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "parsed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "context": "unknown",
+      "context_label": "采集性质待核实",
+      "start_at_beijing": "2026-11-12T22:22:36.572+08:00",
+      "original_received_at_beijing": null,
+      "discovery_to_parsed_ms": 1298.110481,
+      "timing_scope": "云端采集",
+      "timing_basis": "recorded",
+      "timing_note": "原始日志记录的发现至全文解析耗时。",
+      "observer": "美国采集器",
+      "already_present_on_first_poll": false,
+      "last_negative_listing_ns": null,
+      "last_negative_listing_at_beijing": null,
+      "listing_observation_gap_ms": null,
+      "outcome": "本次超过300ms",
+      "latency_budget_passed": false,
+      "current_quality_review": null,
+      "new_release_timing": false,
+      "table_count": 15,
+      "content_complete": true,
+      "full_chain_completed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "full_chain_ms": 1298.110481,
+      "completion_kind": "captured",
+      "report_url": null,
+      "log_reference": "43206331469-1:35097",
+      "log_url": "./files/logs/NBIS.csv"
+    },
     {
       "id": "d1d315be69793e8a",
       "symbol": "ONDS",
@@ -307,26 +344,65 @@
       "report_url": null,
       "log_reference": "43206331469-1:12380",
       "log_url": "./files/logs/BN.csv"
-    },
+    }
+  ],
+  "collection_records": [
     {
-      "id": "bcfb151baaf2cf55",
-      "symbol": "GIB",
-      "company_name": "CGI",
+      "id": "b9a0512261314b11",
+      "symbol": "NBIS",
+      "company_name": "Nebius Group",
       "document": "业绩公告",
       "source_label": "SEC披露网站",
       "channel": "sec",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1061574/000106157426000020/cgi-fy26_q4xpressrelease.htm",
-      "title": "Document",
-      "acquired_at_beijing": "2026-11-12T19:55:45.197+08:00",
-      "parsed_at_beijing": "2026-11-12T19:55:45.197+08:00",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+      "title": "NBIS 财报文档",
+      "acquired_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "parsed_at_beijing": "2026-11-12T22:22:37.871+08:00",
       "context": "unknown",
       "context_label": "采集性质待核实",
-      "start_at_beijing": "2026-11-12T19:55:14.438+08:00",
-      "original_received_at_beijing": "2026-11-12T19:55:45+08:00",
-      "discovery_to_parsed_ms": 30759.4534,
+      "start_at_beijing": "2026-11-12T22:22:36.572+08:00",
+      "original_received_at_beijing": null,
+      "discovery_to_parsed_ms": 1298.110481,
+      "timing_scope": "云端采集",
+      "timing_basis": "recorded",
+      "timing_note": "原始日志记录的发现至全文解析耗时。",
+      "observer": "美国采集器",
+      "already_present_on_first_poll": false,
+      "last_negative_listing_ns": null,
+      "last_negative_listing_at_beijing": null,
+      "listing_observation_gap_ms": null,
+      "outcome": "本次超过300ms",
+      "latency_budget_passed": false,
+      "current_quality_review": null,
+      "new_release_timing": false,
+      "table_count": 15,
+      "content_complete": true,
+      "full_chain_completed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "full_chain_ms": 1298.110481,
+      "completion_kind": "captured",
+      "report_url": null,
+      "log_reference": "43206331469-1:35097",
+      "log_url": "./files/logs/NBIS.csv"
+    },
+    {
+      "id": "6a430c746099a8af",
+      "symbol": "NBIS",
+      "company_name": "Nebius Group",
+      "document": "业绩公告",
+      "source_label": "SEC披露网站",
+      "channel": "sec",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+      "title": "NBIS 财报文档",
+      "acquired_at_beijing": "2026-11-12T22:22:37.430+08:00",
+      "parsed_at_beijing": "2026-11-12T22:22:37.430+08:00",
+      "context": "unknown",
+      "context_label": "采集性质待核实",
+      "start_at_beijing": "2026-11-12T22:22:36.357+08:00",
+      "original_received_at_beijing": "2026-11-12T22:22:37+08:00",
+      "discovery_to_parsed_ms": 1075.3377,
       "timing_scope": "本地采集",
       "timing_basis": "recorded",
-      "timing_note": "原始日志记录的发现至全文解析耗时。当时排队1.40秒，下载311.6ms。",
+      "timing_note": "原始日志记录的发现至全文解析耗时。",
       "observer": null,
       "already_present_on_first_poll": false,
       "last_negative_listing_ns": null,
@@ -336,17 +412,52 @@
       "latency_budget_passed": false,
       "current_quality_review": null,
       "new_release_timing": false,
-      "table_count": 8,
+      "table_count": 15,
       "content_complete": true,
-      "full_chain_completed_at_beijing": "2026-11-12T19:55:45.197+08:00",
-      "full_chain_ms": 30759.4534,
+      "full_chain_completed_at_beijing": "2026-11-12T22:22:37.430+08:00",
+      "full_chain_ms": 1075.3377,
       "completion_kind": "captured",
       "report_url": null,
-      "log_reference": 1182284,
-      "log_url": "./files/logs/GIB.csv"
-    }
-  ],
-  "collection_records": [
+      "log_reference": 1193143,
+      "log_url": "./files/logs/NBIS.csv"
+    },
+    {
+      "id": "7813463867338a7a",
+      "symbol": "NBIS",
+      "company_name": "Nebius Group",
+      "document": "业绩公告",
+      "source_label": "SEC披露网站",
+      "channel": "sec",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+      "title": "NBIS 财报文档",
+      "acquired_at_beijing": "2026-11-12T22:22:36.526+08:00",
+      "parsed_at_beijing": "2026-11-12T22:22:36.526+08:00",
+      "context": "unknown",
+      "context_label": "采集性质待核实",
+      "start_at_beijing": "2026-11-12T22:22:36.187+08:00",
+      "original_received_at_beijing": null,
+      "discovery_to_parsed_ms": 338.259014,
+      "timing_scope": "云端采集",
+      "timing_basis": "recorded",
+      "timing_note": "原始日志记录的发现至全文解析耗时。",
+      "observer": "美国采集器",
+      "already_present_on_first_poll": false,
+      "last_negative_listing_ns": null,
+      "last_negative_listing_at_beijing": null,
+      "listing_observation_gap_ms": null,
+      "outcome": "本次超过300ms",
+      "latency_budget_passed": false,
+      "current_quality_review": null,
+      "new_release_timing": false,
+      "table_count": 15,
+      "content_complete": true,
+      "full_chain_completed_at_beijing": "2026-11-12T22:22:36.526+08:00",
+      "full_chain_ms": 338.259014,
+      "completion_kind": "captured",
+      "report_url": null,
+      "log_reference": "ec2_a48e7251ef4d-1:63158",
+      "log_url": "./files/logs/NBIS.csv"
+    },
     {
       "id": "d1d315be69793e8a",
       "symbol": "ONDS",
@@ -77380,6 +77491,43 @@
   ],
   "latest_retests": [
     {
+      "id": "b9a0512261314b11",
+      "symbol": "NBIS",
+      "company_name": "Nebius Group",
+      "document": "业绩公告",
+      "source_label": "SEC披露网站",
+      "channel": "sec",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+      "title": "NBIS 财报文档",
+      "acquired_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "parsed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "context": "unknown",
+      "context_label": "采集性质待核实",
+      "start_at_beijing": "2026-11-12T22:22:36.572+08:00",
+      "original_received_at_beijing": null,
+      "discovery_to_parsed_ms": 1298.110481,
+      "timing_scope": "云端采集",
+      "timing_basis": "recorded",
+      "timing_note": "原始日志记录的发现至全文解析耗时。",
+      "observer": "美国采集器",
+      "already_present_on_first_poll": false,
+      "last_negative_listing_ns": null,
+      "last_negative_listing_at_beijing": null,
+      "listing_observation_gap_ms": null,
+      "outcome": "本次超过300ms",
+      "latency_budget_passed": false,
+      "current_quality_review": null,
+      "new_release_timing": false,
+      "table_count": 15,
+      "content_complete": true,
+      "full_chain_completed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+      "full_chain_ms": 1298.110481,
+      "completion_kind": "captured",
+      "report_url": null,
+      "log_reference": "43206331469-1:35097",
+      "log_url": "./files/logs/NBIS.csv"
+    },
+    {
       "id": "d1d315be69793e8a",
       "symbol": "ONDS",
       "company_name": "Ondas",
@@ -83786,7 +83934,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.600258+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -83799,7 +83947,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0184
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -83913,7 +84061,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.600258+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -83926,7 +84074,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0184
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -84040,7 +84188,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.601250+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -84053,7 +84201,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0325
+          "simulation_ms": 0.0262
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -84167,7 +84315,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.601250+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -84180,7 +84328,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0325
+          "simulation_ms": 0.0262
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -84294,7 +84442,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.602611+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -84307,7 +84455,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0436
+          "simulation_ms": 0.0305
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -84424,7 +84572,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.602611+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -84437,7 +84585,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0436
+          "simulation_ms": 0.0305
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -84551,7 +84699,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.602611+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.466009+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -84564,7 +84712,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0308
+          "simulation_ms": 0.0288
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -84678,7 +84826,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.602611+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.466009+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -84691,7 +84839,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0308
+          "simulation_ms": 0.0288
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -84943,13 +85091,13 @@
         "display_report_period": "历史测试 FY2026 Q4，不是本季"
       },
       {
-        "log_reference": "us-replay:ec2_20261112_m44_v9:metrics_all_supported:NBIS_COVERAGE_metrics_full_chain:0",
+        "log_reference": "local:1193144",
         "metric_index": 4,
         "symbol": "NBIS",
         "company_name": "Nebius Group",
-        "report_period": "FY2026 Q2",
-        "period_start": "2026-04-01",
-        "period_end": "2026-06-30",
+        "report_period": "FY2026 Q3",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
         "metric": "eps",
         "metric_definition": "US_GAAP",
         "business_scope": "consolidated",
@@ -84958,112 +85106,120 @@
         "currency": "USD",
         "scale": 1,
         "unit": "USD/股",
-        "raw_label": "Net income / (loss) per ClassA and ClassB share: / Diluted",
-        "raw_value": "(0.68 )",
-        "actual_value": "-0.68",
-        "forecast_value": "-0.7480",
-        "beat_standard": null,
-        "miss_standard": null,
-        "institution_count": null,
-        "envelope_rule": false,
-        "envelope_verdict": null,
-        "surprise_pct": "9.090909090909090909090909091",
-        "difference": "0.0680",
+        "raw_label": "Net income / (loss) per Class A and Class B share: / Diluted",
+        "raw_value": "(0.13 )",
+        "actual_value": "-0.13",
+        "forecast_value": "-0.61",
+        "beat_standard": "-0.61",
+        "miss_standard": "-1.24",
+        "institution_count": 4,
+        "envelope_rule": true,
+        "envelope_verdict": "beat",
+        "surprise_pct": "78.68852459016393442622950820",
+        "difference": "0.48",
         "metric_status": "matched",
         "comparison_status": "compared",
-        "status_label": "已完成模拟比较",
+        "status_label": "双超机构正向最大标准 → 模拟买入",
         "use_for_decision": true,
-        "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
         "source_position": {
-          "table_index": 7,
-          "row_index": 28,
+          "table_index": 9,
+          "row_index": 29,
           "column_range": [
             6,
             9
           ]
         },
-        "source_position_label": "第 8 表，第 29 行，第 7–10 列",
-        "document_hash": "fd23b38d557307a3380a36bab39084a76e75e261068bacf4a32cdad19390c1fe",
-        "document_version": "unknown_historical_version",
-        "context": "replay",
-        "forecast_origin": "synthetic_test",
+        "source_position_label": "第 10 表，第 30 行，第 7–10 列",
+        "document_hash": "3e5f600801f182b096a01698feb529e85be8dde5687378816d70bd00ce7dff60",
+        "document_version": "unknown_version",
+        "context": "unknown",
+        "forecast_origin": "institutional_sheet",
         "not_a_model_prediction": true,
         "attempt_status": "completed",
         "error_type": null,
-        "extracted_at_beijing": "2026-11-12T16:39:51+08:00",
-        "processing_ms": 7.121367,
-        "observer": "aws-ec2-US-IAD-ec2_20261112_m44_v9",
-        "node_region": {
-          "loc": "US",
-          "colo": "IAD",
-          "is_us": true,
-          "status": 200
-        },
+        "extracted_at_beijing": "2026-11-12T22:22:44+08:00",
+        "processing_ms": 48.6885,
+        "observer": "本地",
+        "node_region": null,
         "timing_basis": "same_process_perf_counter",
-        "discovery_to_parsed_ms": 236.239891,
-        "discovery_to_comparison_ms": 244.733927,
-        "discovery_to_decision_ms": 244.800788,
-        "decision_completed_at_beijing": "2026-11-12T16:39:51+08:00",
+        "discovery_to_parsed_ms": 1075.3377,
+        "discovery_to_comparison_ms": 1104.2142,
+        "discovery_to_decision_ms": 1131.7522,
+        "decision_completed_at_beijing": "2026-11-12T22:22:44+08:00",
         "decision_budget_ms": 500,
-        "decision_budget_passed": true,
-        "original_decision_budget_passed": true,
-        "whole_document_verified": true,
-        "original_worker_budget_passed": true,
-        "capture_evidence_id": "us-replay:ec2_20261112_m44_v9:metrics_all_supported:NBIS_COVERAGE_metrics_full_chain:capture",
+        "decision_budget_passed": false,
+        "original_decision_budget_passed": false,
+        "whole_document_verified": null,
+        "original_worker_budget_passed": null,
+        "capture_evidence_id": null,
         "decision_timing_endpoint": "event_loop_delivery",
         "simulation_decision": {
           "mode": "local_simulation",
           "action": "long",
-          "reason": "both_above_positive_thresholds",
+          "reason": "both_above_institutional_max",
           "eligible": true,
-          "strict_thresholds": true,
-          "contract_selection": "synthetic_fixture",
-          "exchange_submitted": false,
-          "exchange_acknowledged": false,
-          "created_at_utc": "2026-11-12T08:39:51.462965+00:00",
-          "simulation_ms": 0.01581,
           "forecast_ids": {
-            "eps": "synthetic-13c596bbce138418",
-            "revenue": "synthetic-c77eac590e4fb847"
+            "eps": "inst-env-NBIS-2026-09-30-eps-USD-consolidated",
+            "revenue": "inst-env-NBIS-2026-09-30-revenue-USD-consolidated"
           },
           "surprise_pct": {
-            "eps": "9.090909090909090909090909091",
-            "revenue": "11.11111111111111111111111111"
+            "eps": "78.68852459016393442622950820",
+            "revenue": "6.983136630380243897118174480"
           },
           "thresholds_pct": {
-            "eps": "5",
-            "revenue": "3"
-          }
+            "eps": "0",
+            "revenue": "0"
+          },
+          "strict_thresholds": true,
+          "contract_selection": "institutional_envelope",
+          "exchange_submitted": false,
+          "exchange_acknowledged": false,
+          "fill_price": null,
+          "created_at_utc": "2026-11-12T14:29:08.577913+00:00",
+          "beat_standards": {
+            "eps": "-0.61",
+            "revenue": "916780000"
+          },
+          "miss_standards": {
+            "eps": "-1.24",
+            "revenue": "907170000"
+          },
+          "envelope_verdicts": {
+            "eps": "beat",
+            "revenue": "beat"
+          },
+          "simulation_ms": 0.031
         },
         "timings_ms": {
-          "queue": 0.12392,
-          "extraction": 6.748115,
-          "comparison": 0.182471,
-          "decision": 0.02112,
-          "pipeline": 7.121367,
-          "delivery_queue": 0.043591
+          "queue": 0.3558,
+          "extraction": 20.4287,
+          "comparison": 0.366,
+          "decision": 0.0603,
+          "pipeline": 48.6885,
+          "delivery_queue": 27.4711
         },
         "archive_timing_verified": true,
-        "archive_simulation_budget_passed": true,
-        "archive_completed_at_beijing": "2026-11-12T16:39:51+08:00",
-        "archive_timing_note": "含归档及指标模拟，≤500ms",
-        "actual_display": "-0.68 USD/股",
-        "forecast_display": "-0.748 USD/股",
-        "forecast_sub_note": "旧季回放合成基准",
-        "difference_display": "+9.09%",
+        "archive_simulation_budget_passed": false,
+        "archive_completed_at_beijing": "2026-11-12T22:22:37+08:00",
+        "archive_timing_note": "含归档及指标模拟，超过500ms",
+        "actual_display": "-0.13 USD/股",
+        "forecast_display": "低 -1.24 ~ 高 -0.61 USD/股",
+        "forecast_sub_note": "4家机构包络（超>-0.61 / 低<-1.24）",
+        "difference_display": "+78.69%（超最高）",
         "decision_pair_complete": true,
-        "is_current_period": false,
-        "is_historical_sample": true,
-        "display_report_period": "历史测试 FY2026 Q2，不是本季"
+        "is_current_period": true,
+        "is_historical_sample": false,
+        "display_report_period": "FY2026 Q3"
       },
       {
-        "log_reference": "us-replay:ec2_20261112_m44_v9:metrics_all_supported:NBIS_COVERAGE_metrics_full_chain:0",
+        "log_reference": "local:1193144",
         "metric_index": 0,
         "symbol": "NBIS",
         "company_name": "Nebius Group",
-        "report_period": "FY2026 Q2",
-        "period_start": "2026-04-01",
-        "period_end": "2026-06-30",
+        "report_period": "FY2026 Q3",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
         "metric": "revenue",
         "metric_definition": "US_GAAP:revenues",
         "business_scope": "consolidated",
@@ -85073,21 +85229,21 @@
         "scale": 1000000,
         "unit": "USD",
         "raw_label": "Revenues",
-        "raw_value": "582.3",
-        "actual_value": "582300000.0",
-        "forecast_value": "524070000.000",
-        "beat_standard": null,
-        "miss_standard": null,
-        "institution_count": null,
-        "envelope_rule": false,
-        "envelope_verdict": null,
-        "surprise_pct": "11.11111111111111111111111111",
-        "difference": "58230000.000",
+        "raw_value": "980.8",
+        "actual_value": "980800000.0",
+        "forecast_value": "916780000",
+        "beat_standard": "916780000",
+        "miss_standard": "907170000",
+        "institution_count": 4,
+        "envelope_rule": true,
+        "envelope_verdict": "beat",
+        "surprise_pct": "6.983136630380243897118174480",
+        "difference": "64020000.0",
         "metric_status": "matched",
         "comparison_status": "compared",
-        "status_label": "已完成模拟比较",
+        "status_label": "双超机构正向最大标准 → 模拟买入",
         "use_for_decision": true,
-        "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
         "source_position": {
           "table_index": 0,
           "row_index": 2,
@@ -85097,78 +85253,86 @@
           ]
         },
         "source_position_label": "第 1 表，第 3 行，第 7–9 列",
-        "document_hash": "fd23b38d557307a3380a36bab39084a76e75e261068bacf4a32cdad19390c1fe",
-        "document_version": "unknown_historical_version",
-        "context": "replay",
-        "forecast_origin": "synthetic_test",
+        "document_hash": "3e5f600801f182b096a01698feb529e85be8dde5687378816d70bd00ce7dff60",
+        "document_version": "unknown_version",
+        "context": "unknown",
+        "forecast_origin": "institutional_sheet",
         "not_a_model_prediction": true,
         "attempt_status": "completed",
         "error_type": null,
-        "extracted_at_beijing": "2026-11-12T16:39:51+08:00",
-        "processing_ms": 7.121367,
-        "observer": "aws-ec2-US-IAD-ec2_20261112_m44_v9",
-        "node_region": {
-          "loc": "US",
-          "colo": "IAD",
-          "is_us": true,
-          "status": 200
-        },
+        "extracted_at_beijing": "2026-11-12T22:22:44+08:00",
+        "processing_ms": 48.6885,
+        "observer": "本地",
+        "node_region": null,
         "timing_basis": "same_process_perf_counter",
-        "discovery_to_parsed_ms": 236.239891,
-        "discovery_to_comparison_ms": 244.733927,
-        "discovery_to_decision_ms": 244.800788,
-        "decision_completed_at_beijing": "2026-11-12T16:39:51+08:00",
+        "discovery_to_parsed_ms": 1075.3377,
+        "discovery_to_comparison_ms": 1104.2142,
+        "discovery_to_decision_ms": 1131.7522,
+        "decision_completed_at_beijing": "2026-11-12T22:22:44+08:00",
         "decision_budget_ms": 500,
-        "decision_budget_passed": true,
-        "original_decision_budget_passed": true,
-        "whole_document_verified": true,
-        "original_worker_budget_passed": true,
-        "capture_evidence_id": "us-replay:ec2_20261112_m44_v9:metrics_all_supported:NBIS_COVERAGE_metrics_full_chain:capture",
+        "decision_budget_passed": false,
+        "original_decision_budget_passed": false,
+        "whole_document_verified": null,
+        "original_worker_budget_passed": null,
+        "capture_evidence_id": null,
         "decision_timing_endpoint": "event_loop_delivery",
         "simulation_decision": {
           "mode": "local_simulation",
           "action": "long",
-          "reason": "both_above_positive_thresholds",
+          "reason": "both_above_institutional_max",
           "eligible": true,
-          "strict_thresholds": true,
-          "contract_selection": "synthetic_fixture",
-          "exchange_submitted": false,
-          "exchange_acknowledged": false,
-          "created_at_utc": "2026-11-12T08:39:51.462965+00:00",
-          "simulation_ms": 0.01581,
           "forecast_ids": {
-            "eps": "synthetic-13c596bbce138418",
-            "revenue": "synthetic-c77eac590e4fb847"
+            "eps": "inst-env-NBIS-2026-09-30-eps-USD-consolidated",
+            "revenue": "inst-env-NBIS-2026-09-30-revenue-USD-consolidated"
           },
           "surprise_pct": {
-            "eps": "9.090909090909090909090909091",
-            "revenue": "11.11111111111111111111111111"
+            "eps": "78.68852459016393442622950820",
+            "revenue": "6.983136630380243897118174480"
           },
           "thresholds_pct": {
-            "eps": "5",
-            "revenue": "3"
-          }
+            "eps": "0",
+            "revenue": "0"
+          },
+          "strict_thresholds": true,
+          "contract_selection": "institutional_envelope",
+          "exchange_submitted": false,
+          "exchange_acknowledged": false,
+          "fill_price": null,
+          "created_at_utc": "2026-11-12T14:29:08.577913+00:00",
+          "beat_standards": {
+            "eps": "-0.61",
+            "revenue": "916780000"
+          },
+          "miss_standards": {
+            "eps": "-1.24",
+            "revenue": "907170000"
+          },
+          "envelope_verdicts": {
+            "eps": "beat",
+            "revenue": "beat"
+          },
+          "simulation_ms": 0.031
         },
         "timings_ms": {
-          "queue": 0.12392,
-          "extraction": 6.748115,
-          "comparison": 0.182471,
-          "decision": 0.02112,
-          "pipeline": 7.121367,
-          "delivery_queue": 0.043591
+          "queue": 0.3558,
+          "extraction": 20.4287,
+          "comparison": 0.366,
+          "decision": 0.0603,
+          "pipeline": 48.6885,
+          "delivery_queue": 27.4711
         },
         "archive_timing_verified": true,
-        "archive_simulation_budget_passed": true,
-        "archive_completed_at_beijing": "2026-11-12T16:39:51+08:00",
-        "archive_timing_note": "含归档及指标模拟，≤500ms",
-        "actual_display": "582,300,000 USD",
-        "forecast_display": "524,070,000 USD",
-        "forecast_sub_note": "旧季回放合成基准",
-        "difference_display": "+11.11%",
+        "archive_simulation_budget_passed": false,
+        "archive_completed_at_beijing": "2026-11-12T22:22:37+08:00",
+        "archive_timing_note": "含归档及指标模拟，超过500ms",
+        "actual_display": "980,800,000 USD",
+        "forecast_display": "低 907,170,000 ~ 高 916,780,000 USD",
+        "forecast_sub_note": "4家机构包络 · ≈ 低标 9.07亿 ~ 高标 9.17亿 USD",
+        "difference_display": "+6.98%（超最高）",
         "decision_pair_complete": true,
-        "is_current_period": false,
-        "is_historical_sample": true,
-        "display_report_period": "历史测试 FY2026 Q2，不是本季"
+        "is_current_period": true,
+        "is_historical_sample": false,
+        "display_report_period": "FY2026 Q3"
       },
       {
         "log_reference": "us-replay:ec2_20261112_m44_v9:metrics_all_supported:CBRS_REPAIRED_COVERAGE_metrics_full_chain:0",
@@ -85489,7 +85653,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.601976+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -85502,7 +85666,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.03
+          "simulation_ms": 0.0266
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -85616,7 +85780,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.601976+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -85629,7 +85793,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.03
+          "simulation_ms": 0.0266
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -85743,7 +85907,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.603754+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.466521+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -85756,7 +85920,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0301
+          "simulation_ms": 0.0263
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -85870,7 +86034,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.603754+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.466521+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -85883,7 +86047,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0301
+          "simulation_ms": 0.0263
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -85997,7 +86161,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.604266+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.466521+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -86010,7 +86174,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.038
+          "simulation_ms": 0.0262
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -86124,7 +86288,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.604266+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.466521+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -86137,7 +86301,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.038
+          "simulation_ms": 0.0262
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -86439,7 +86603,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:33.270263+00:00",
+          "created_at_utc": "2026-11-12T14:28:51.064995+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -86452,7 +86616,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0272
+          "simulation_ms": 0.0181
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -86562,7 +86726,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:33.270263+00:00",
+          "created_at_utc": "2026-11-12T14:28:51.064995+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -86575,7 +86739,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0272
+          "simulation_ms": 0.0181
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -86684,7 +86848,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:51.698969+00:00",
+          "created_at_utc": "2026-11-12T14:29:08.538548+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -86697,7 +86861,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0382
+          "simulation_ms": 0.0337
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -86807,7 +86971,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:51.698969+00:00",
+          "created_at_utc": "2026-11-12T14:29:08.538548+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -86820,7 +86984,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0382
+          "simulation_ms": 0.0337
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -88987,7 +89151,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.592895+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -89000,7 +89164,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0428
+          "simulation_ms": 0.0388
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -89114,7 +89278,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.592895+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -89127,7 +89291,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0428
+          "simulation_ms": 0.0388
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -89241,7 +89405,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.594467+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -89254,7 +89418,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0282
+          "simulation_ms": 0.0271
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -89368,7 +89532,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.594467+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -89381,7 +89545,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0282
+          "simulation_ms": 0.0271
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -89495,7 +89659,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.598739+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -89508,7 +89672,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0187
+          "simulation_ms": 0.0266
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -89622,7 +89786,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.598739+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -89635,7 +89799,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0187
+          "simulation_ms": 0.0266
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -89749,7 +89913,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.599249+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -89762,7 +89926,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0186
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -89876,7 +90040,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.599249+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -89889,7 +90053,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0186
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -90003,7 +90167,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.599249+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -90016,7 +90180,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0178
+          "simulation_ms": 0.0268
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -90130,7 +90294,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.599249+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -90143,7 +90307,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0178
+          "simulation_ms": 0.0268
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -90257,7 +90421,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.600258+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -90270,7 +90434,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0227
+          "simulation_ms": 0.0257
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -90384,7 +90548,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.600258+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -90397,7 +90561,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0227
+          "simulation_ms": 0.0257
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -90511,7 +90675,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.414620+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.263751+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -90524,7 +90688,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0384
+          "simulation_ms": 0.0344
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -90638,7 +90802,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.414620+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.263751+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -90651,7 +90815,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0384
+          "simulation_ms": 0.0344
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -90765,7 +90929,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.414620+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.263751+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -90778,7 +90942,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0333
+          "simulation_ms": 0.0281
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -90892,7 +91056,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.414620+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.263751+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -90905,7 +91069,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0333
+          "simulation_ms": 0.0281
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -91221,7 +91385,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.593895+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -91234,7 +91398,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0414
+          "simulation_ms": 0.029
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -91348,7 +91512,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.593895+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -91361,7 +91525,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0414
+          "simulation_ms": 0.029
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -91475,7 +91639,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.593895+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -91488,7 +91652,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0319
+          "simulation_ms": 0.0275
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -91602,7 +91766,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.593895+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -91615,7 +91779,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0319
+          "simulation_ms": 0.0275
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -91729,7 +91893,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.594999+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -91742,7 +91906,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0293
+          "simulation_ms": 0.0269
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -91856,7 +92020,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.594999+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -91869,7 +92033,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0293
+          "simulation_ms": 0.0269
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -91983,7 +92147,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.594999+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -91996,7 +92160,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0236
+          "simulation_ms": 0.0283
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -92110,7 +92274,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.594999+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -92123,7 +92287,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0236
+          "simulation_ms": 0.0283
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -92237,7 +92401,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.595998+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -92250,7 +92414,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0365
+          "simulation_ms": 0.0264
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -92364,7 +92528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.595998+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -92377,7 +92541,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0365
+          "simulation_ms": 0.0264
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -92494,7 +92658,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.595998+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -92507,7 +92671,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0186
+          "simulation_ms": 0.0254
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -92624,7 +92788,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.595998+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -92637,7 +92801,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0186
+          "simulation_ms": 0.0254
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -92751,7 +92915,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.596993+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -92764,7 +92928,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0404
+          "simulation_ms": 0.0259
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -92878,7 +93042,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.596993+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -92891,7 +93055,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0404
+          "simulation_ms": 0.0259
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -93005,7 +93169,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597405+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -93018,7 +93182,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0195
+          "simulation_ms": 0.0242
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -93132,7 +93296,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597405+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -93145,7 +93309,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0195
+          "simulation_ms": 0.0242
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -93259,7 +93423,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597405+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -93272,7 +93436,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0192
+          "simulation_ms": 0.0248
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -93386,7 +93550,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597405+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -93399,7 +93563,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0192
+          "simulation_ms": 0.0248
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -93513,7 +93677,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597915+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -93526,7 +93690,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0173
+          "simulation_ms": 0.0242
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -93640,7 +93804,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597915+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -93653,7 +93817,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0173
+          "simulation_ms": 0.0242
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -93767,7 +93931,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597915+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -93780,7 +93944,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -93888,7 +94052,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.597915+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -93901,7 +94065,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -94017,7 +94181,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.598739+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -94030,7 +94194,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0238
+          "simulation_ms": 0.0249
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -94144,7 +94308,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.598739+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -94157,7 +94321,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0238
+          "simulation_ms": 0.0249
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -94271,7 +94435,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.599249+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -94284,7 +94448,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0296
+          "simulation_ms": 0.0249
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -94399,7 +94563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-12T14:19:50.599249+00:00",
+          "created_at_utc": "2026-11-12T14:29:07.455925+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -94412,7 +94576,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0296
+          "simulation_ms": 0.0249
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -95041,8 +95205,8 @@
         "display_report_period": "FY2026 Q3"
       }
     ],
-    "attempts": 1873,
-    "rows": 8168
+    "attempts": 1876,
+    "rows": 8183
   },
   "institutional_forecasts_review": {
     "rule_summary": "超预期标准 = 所有机构预测中正向最大数值（max）；低于预期标准 = 所有机构预测中最低数值（min）；EPS与营收规则完全一致。双指标均高于各自最高标准做多，双指标均低于各自最低标准做空，落入区间或方向冲突不发信号。",
@@ -97819,45 +97983,45 @@
     "tokyo_node": "AWS ap-northeast-1 (NRT · 东京)",
     "venue": "Binance USD-M Futures (fapi.binance.com · TRADIFI_PERPETUAL)",
     "leverage": 1,
-    "total_runs": 21,
+    "total_runs": 26,
     "filled_runs": 10,
-    "under_500ms_runs": 18,
+    "under_500ms_runs": 21,
     "post_test_open_positions": 0,
     "stats": {
       "http_fetch_ms": {
         "min": 0.0,
         "p50": 0.0,
-        "mean": 49.23,
-        "p95": 195.99,
-        "max": 205.8
+        "mean": 52.77,
+        "p95": 203.35,
+        "max": 338.26
       },
       "us_signal_ready_ms": {
         "min": 0.0,
-        "p50": 68.94,
-        "mean": 91.1,
-        "p95": 248.68,
-        "max": 300.05
+        "p50": 73.03,
+        "mean": 95.63,
+        "p95": 287.21,
+        "max": 347.39
       },
       "us_to_tokyo_one_way_ms": {
         "min": 0.0,
-        "p50": 75.86,
-        "mean": 86.67,
+        "p50": 75.9,
+        "mean": 90.39,
         "p95": 152.43,
         "max": 152.43
       },
       "binance_order_rtt_ms": {
         "min": 0.0,
-        "p50": 0.51,
-        "mean": 2.71,
-        "p95": 5.67,
+        "p50": 0.48,
+        "mean": 2.23,
+        "p95": 5.66,
         "max": 6.68
       },
       "e2e_binance_done_ms": {
         "min": 0.0,
         "p50": 204.43,
-        "mean": 180.59,
-        "p95": 330.2,
-        "max": 381.65
+        "mean": 200.3,
+        "p95": 368.79,
+        "max": 808.99
       }
     },
     "rows": [
@@ -98532,9 +98696,169 @@
         "e2e_binance_done_ms": 204.43,
         "e2e_roundtrip_us_ms": 354.54,
         "under_500ms": true
+      },
+      {
+        "run_no": 22,
+        "symbol": "FIGR",
+        "company_name": "FIGR",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "http_version": "HTTP/2",
+        "bytes": 0,
+        "http_fetch_ms": 0.0,
+        "parse_validate_ms": 0.0,
+        "discovery_to_parsed_ms": 0.0,
+        "metric_extract_ms": 0.0,
+        "signal_compare_ms": 0.0,
+        "metrics_count": 2,
+        "signal_action": "long",
+        "us_signal_ready_ms": 0.0,
+        "us_to_tokyo_one_way_ms": 0.0,
+        "us_to_tokyo_rtt_ms": 0.0,
+        "tokyo_exec_total_ms": 0.0,
+        "binance_order_rtt_ms": 0.0,
+        "binance_symbol": "FIGRUSDT",
+        "binance_side": "BUY",
+        "binance_leverage": 1,
+        "binance_order_px": "",
+        "binance_executed_qty": "",
+        "binance_state": "relay_error",
+        "binance_order_id": 0,
+        "binance_client_order_id": "",
+        "e2e_binance_done_ms": 0.0,
+        "e2e_roundtrip_us_ms": 0.0,
+        "under_500ms": false
+      },
+      {
+        "run_no": 23,
+        "symbol": "FIGR",
+        "company_name": "FIGR",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "http_version": "HTTP/2",
+        "bytes": 0,
+        "http_fetch_ms": 0.0,
+        "parse_validate_ms": 0.0,
+        "discovery_to_parsed_ms": 0.0,
+        "metric_extract_ms": 0.0,
+        "signal_compare_ms": 0.0,
+        "metrics_count": 2,
+        "signal_action": "long",
+        "us_signal_ready_ms": 95.23,
+        "us_to_tokyo_one_way_ms": 152.43,
+        "us_to_tokyo_rtt_ms": 304.86,
+        "tokyo_exec_total_ms": 0.04,
+        "binance_order_rtt_ms": 0.04,
+        "binance_symbol": "FIGRUSDT",
+        "binance_side": "BUY",
+        "binance_leverage": 1,
+        "binance_order_px": "",
+        "binance_executed_qty": "",
+        "binance_state": "skipped_unlisted",
+        "binance_order_id": 0,
+        "binance_client_order_id": "",
+        "e2e_binance_done_ms": 247.69,
+        "e2e_roundtrip_us_ms": 400.08,
+        "under_500ms": true
+      },
+      {
+        "run_no": 24,
+        "symbol": "LUNR",
+        "company_name": "LUNR",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "http_version": "HTTP/2",
+        "bytes": 0,
+        "http_fetch_ms": 0.0,
+        "parse_validate_ms": 0.0,
+        "discovery_to_parsed_ms": 0.0,
+        "metric_extract_ms": 0.0,
+        "signal_compare_ms": 0.0,
+        "metrics_count": 2,
+        "signal_action": "long",
+        "us_signal_ready_ms": 53.42,
+        "us_to_tokyo_one_way_ms": 150.56,
+        "us_to_tokyo_rtt_ms": 301.12,
+        "tokyo_exec_total_ms": 0.45,
+        "binance_order_rtt_ms": 0.45,
+        "binance_symbol": "LUNRUSDT",
+        "binance_side": "BUY",
+        "binance_leverage": 1,
+        "binance_order_px": "",
+        "binance_executed_qty": "",
+        "binance_state": "skipped_unlisted",
+        "binance_order_id": 0,
+        "binance_client_order_id": "",
+        "e2e_binance_done_ms": 204.43,
+        "e2e_roundtrip_us_ms": 354.54,
+        "under_500ms": true
+      },
+      {
+        "run_no": 25,
+        "symbol": "LUNR",
+        "company_name": "LUNR",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "http_version": "HTTP/2",
+        "bytes": 0,
+        "http_fetch_ms": 0.0,
+        "parse_validate_ms": 0.0,
+        "discovery_to_parsed_ms": 0.0,
+        "metric_extract_ms": 0.0,
+        "signal_compare_ms": 0.0,
+        "metrics_count": 2,
+        "signal_action": "long",
+        "us_signal_ready_ms": 77.12,
+        "us_to_tokyo_one_way_ms": 76.67,
+        "us_to_tokyo_rtt_ms": 153.33,
+        "tokyo_exec_total_ms": 0.51,
+        "binance_order_rtt_ms": 0.51,
+        "binance_symbol": "LUNRUSDT",
+        "binance_side": "BUY",
+        "binance_leverage": 1,
+        "binance_order_px": "",
+        "binance_executed_qty": "",
+        "binance_state": "skipped_unlisted",
+        "binance_order_id": 0,
+        "binance_client_order_id": "",
+        "e2e_binance_done_ms": 154.29,
+        "e2e_roundtrip_us_ms": 230.45,
+        "under_500ms": true
+      },
+      {
+        "run_no": 26,
+        "symbol": "NBIS",
+        "company_name": "NBIS",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "http_version": "HTTP/2",
+        "bytes": 0,
+        "http_fetch_ms": 338.26,
+        "parse_validate_ms": 0.0,
+        "discovery_to_parsed_ms": 338.26,
+        "metric_extract_ms": 7.04,
+        "signal_compare_ms": 0.147,
+        "metrics_count": 5,
+        "signal_action": "long",
+        "us_signal_ready_ms": 347.39,
+        "us_to_tokyo_one_way_ms": 150.49,
+        "us_to_tokyo_rtt_ms": 612.09,
+        "tokyo_exec_total_ms": 311.1,
+        "binance_order_rtt_ms": 0.01,
+        "binance_symbol": "NBISUSDT",
+        "binance_side": "BUY",
+        "binance_leverage": 1,
+        "binance_order_px": "126.16",
+        "binance_executed_qty": "0.05",
+        "binance_state": "BLOCKED_MISSING_LIVE_CREDENTIALS",
+        "binance_order_id": 0,
+        "binance_client_order_id": "ewd0232df5d400e5ac3838526d8c",
+        "e2e_binance_done_ms": 808.99,
+        "e2e_roundtrip_us_ms": 959.48,
+        "under_500ms": false
       }
     ],
-    "raw_log_text": "[RUN #01] TTWO  (TTWO) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (HIMS) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (OKLO) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (NBIS) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (CBRS) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (TTWO) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n[RUN #11] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 0.00 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :   0.00 ms (双程RTT 0.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.00 ms (东京总处理 0.00 ms)\n     => 【全链路至币安FILLED】:   0.00 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=relay_error | orderId=0 (clientOrderId=)\n\n[RUN #12] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 95.23 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 152.43 ms (双程RTT 304.86 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.04 ms (东京总处理 0.04 ms)\n     => 【全链路至币安FILLED】: 247.69 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #13] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 53.42 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.56 ms (双程RTT 301.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.45 ms (东京总处理 0.45 ms)\n     => 【全链路至币安FILLED】: 204.43 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #14] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 77.12 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  76.67 ms (双程RTT 153.33 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.51 ms (东京总处理 0.51 ms)\n     => 【全链路至币安FILLED】: 154.29 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #15] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 0.00 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :   0.00 ms (双程RTT 0.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.00 ms (东京总处理 0.00 ms)\n     => 【全链路至币安FILLED】:   0.00 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=relay_error | orderId=0 (clientOrderId=)\n\n[RUN #16] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 95.23 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 152.43 ms (双程RTT 304.86 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.04 ms (东京总处理 0.04 ms)\n     => 【全链路至币安FILLED】: 247.69 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #17] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 53.42 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.56 ms (双程RTT 301.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.45 ms (东京总处理 0.45 ms)\n     => 【全链路至币安FILLED】: 204.43 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #18] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 77.12 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  76.67 ms (双程RTT 153.33 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.51 ms (东京总处理 0.51 ms)\n     => 【全链路至币安FILLED】: 154.29 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #19] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 0.00 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :   0.00 ms (双程RTT 0.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.00 ms (东京总处理 0.00 ms)\n     => 【全链路至币安FILLED】:   0.00 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=relay_error | orderId=0 (clientOrderId=)\n\n[RUN #20] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 95.23 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 152.43 ms (双程RTT 304.86 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.04 ms (东京总处理 0.04 ms)\n     => 【全链路至币安FILLED】: 247.69 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #21] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 53.42 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.56 ms (双程RTT 301.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.45 ms (东京总处理 0.45 ms)\n     => 【全链路至币安FILLED】: 204.43 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)"
+    "raw_log_text": "[RUN #01] TTWO  (TTWO) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (HIMS) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (OKLO) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (NBIS) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (CBRS) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (TTWO) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n[RUN #11] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 0.00 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :   0.00 ms (双程RTT 0.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.00 ms (东京总处理 0.00 ms)\n     => 【全链路至币安FILLED】:   0.00 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=relay_error | orderId=0 (clientOrderId=)\n\n[RUN #12] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 95.23 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 152.43 ms (双程RTT 304.86 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.04 ms (东京总处理 0.04 ms)\n     => 【全链路至币安FILLED】: 247.69 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #13] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 53.42 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.56 ms (双程RTT 301.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.45 ms (东京总处理 0.45 ms)\n     => 【全链路至币安FILLED】: 204.43 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #14] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 77.12 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  76.67 ms (双程RTT 153.33 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.51 ms (东京总处理 0.51 ms)\n     => 【全链路至币安FILLED】: 154.29 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #15] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 0.00 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :   0.00 ms (双程RTT 0.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.00 ms (东京总处理 0.00 ms)\n     => 【全链路至币安FILLED】:   0.00 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=relay_error | orderId=0 (clientOrderId=)\n\n[RUN #16] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 95.23 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 152.43 ms (双程RTT 304.86 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.04 ms (东京总处理 0.04 ms)\n     => 【全链路至币安FILLED】: 247.69 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #17] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 53.42 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.56 ms (双程RTT 301.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.45 ms (东京总处理 0.45 ms)\n     => 【全链路至币安FILLED】: 204.43 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #18] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 77.12 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  76.67 ms (双程RTT 153.33 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.51 ms (东京总处理 0.51 ms)\n     => 【全链路至币安FILLED】: 154.29 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #19] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 0.00 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :   0.00 ms (双程RTT 0.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.00 ms (东京总处理 0.00 ms)\n     => 【全链路至币安FILLED】:   0.00 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=relay_error | orderId=0 (clientOrderId=)\n\n[RUN #20] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 95.23 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 152.43 ms (双程RTT 304.86 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.04 ms (东京总处理 0.04 ms)\n     => 【全链路至币安FILLED】: 247.69 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #21] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 53.42 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.56 ms (双程RTT 301.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.45 ms (东京总处理 0.45 ms)\n     => 【全链路至币安FILLED】: 204.43 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #22] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 0.00 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :   0.00 ms (双程RTT 0.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.00 ms (东京总处理 0.00 ms)\n     => 【全链路至币安FILLED】:   0.00 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=relay_error | orderId=0 (clientOrderId=)\n\n[RUN #23] FIGR  (FIGR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 95.23 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 152.43 ms (双程RTT 304.86 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.04 ms (东京总处理 0.04 ms)\n     => 【全链路至币安FILLED】: 247.69 ms | 合约=FIGRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #24] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 53.42 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.56 ms (双程RTT 301.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.45 ms (东京总处理 0.45 ms)\n     => 【全链路至币安FILLED】: 204.43 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #25] LUNR  (LUNR) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      :   0.00 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 0.00 ms)\n  ├─ ③ EPS/营收指标提取      :   0.00 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.000 ms -> 信号=LONG (美东就绪 77.12 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  76.67 ms (双程RTT 153.33 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.51 ms (东京总处理 0.51 ms)\n     => 【全链路至币安FILLED】: 154.29 ms | 合约=LUNRUSDT BUY 1x | 价格= 成交量= | 状态=skipped_unlisted | orderId=0 (clientOrderId=)\n\n[RUN #26] NBIS  (NBIS) | 渠道=sec (HTTP/2, 0B)\n  ├─ ① 美东拉取财报页面      : 338.26 ms\n  ├─ ② 全文与表格解析校验    :   0.00 ms (累计 338.26 ms)\n  ├─ ③ EPS/营收指标提取      :   7.04 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.147 ms -> 信号=LONG (美东就绪 347.39 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 : 150.49 ms (双程RTT 612.09 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   0.01 ms (东京总处理 311.10 ms)\n     => 【全链路至币安FILLED】: 808.99 ms | 合约=NBISUSDT BUY 1x | 价格=126.16 成交量=0.05 | 状态=BLOCKED_MISSING_LIVE_CREDENTIALS | orderId=0 (clientOrderId=ewd0232df5d400e5ac3838526d8c)"
   },
   "timing_summary": [
     {
@@ -98552,11 +98876,11 @@
     {
       "key": "existing",
       "label": "事后抓取已发布的公告",
-      "records": 943,
-      "timed": 941,
+      "records": 946,
+      "timed": 944,
       "under300": 302,
-      "from300to1000": 182,
-      "over1000": 457,
+      "from300to1000": 183,
+      "over1000": 459,
       "unavailable": 2,
       "passed": 286,
       "note": "包括程序启动前已发布的公告，不代表首发时的速度。"
@@ -98842,7 +99166,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:23+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:36+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000049071.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -105920,7 +106244,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:26+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:24+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001937926.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -108617,7 +108941,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:02+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:26+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000895728.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -111434,7 +111758,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:12+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:25+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001849056.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -112941,7 +113265,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:03+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:35+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001636519.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -115792,7 +116116,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:50+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:53+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002132873.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -117818,7 +118142,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:53+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:40+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001067983.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -120603,7 +120927,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:55+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:00+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001734107.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -123755,7 +124079,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:52+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:03+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000756894.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -126478,7 +126802,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:47+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:06+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002011641.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -128173,7 +128497,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:08+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:48+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001404912.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -130164,7 +130488,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:04+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:08+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000003197.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -132097,7 +132421,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:24+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:41+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001001316.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -134147,7 +134471,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:58+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:46+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002041610.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -136592,7 +136916,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:21+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:55+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001671933.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -138636,7 +138960,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:00+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:56+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001582313.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -140865,7 +141189,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:27+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:33+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001824502.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -142670,7 +142994,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:28+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:38+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001773751.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -145063,7 +145387,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:48+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:42+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001811210.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -148560,7 +148884,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:13+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:32+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001819994.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -150490,7 +150814,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:57+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:43+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000946581.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -152605,7 +152929,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:59+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:54+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000797468.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -154171,7 +154495,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:09+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:50+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001858985.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -155802,7 +156126,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:05+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:47+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001703399.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -157613,7 +157937,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:06+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:34+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001907982.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -158847,7 +159171,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:10+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:57+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001260221.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -162003,7 +162327,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:01+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:05+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001437925.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -164412,7 +164736,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:56+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:58+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001377630.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -166222,7 +166546,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:22+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:59+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001838359.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -168322,19 +168646,19 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T22:19:15+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:16.606+08:00",
           "last_checked_url": "https://www.cgi.com/en/newsroom",
           "target_kind": "公告入口",
-          "observation": "连接失败（ConnectError）",
+          "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
-          "status": null,
+          "status": 200,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:19:07+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:45+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001061574.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -168346,7 +168670,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T22:17:28.497+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:27+08:00",
           "last_checked_url": "https://www.prnewswire.com/search/news/",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -169774,19 +170098,19 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T22:19:02+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:03.656+08:00",
           "last_checked_url": "https://www.franco-nevada.com/feed/PressRelease.svc/GetPressReleaseList",
           "target_kind": "公告入口",
-          "observation": "连接失败（SSLError）",
+          "observation": "HTTP 304",
           "note": "",
           "observer": "本地",
-          "status": null,
+          "status": 304,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:49+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:44+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001456346.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -169798,7 +170122,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T22:19:01+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:27:02.063+08:00",
           "last_checked_url": "https://www.prnewswire.com/news/franco__nevada-corporation/",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -172645,19 +172969,19 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T22:18:02.176+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:01+08:00",
           "last_checked_url": "https://bn.brookfield.com/events-news/press-releases",
           "target_kind": "公告入口",
-          "observation": "HTTP 304",
+          "observation": "连接失败（ConnectError）",
           "note": "",
           "observer": "本地",
-          "status": 304,
-          "last_negative_listing_at_beijing": "2026-11-12T20:08:13.992+08:00"
+          "status": null,
+          "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:54+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:01+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001001085.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -172669,14 +172993,14 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T22:18:01.423+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:00+08:00",
           "last_checked_url": "https://www.globenewswire.com/search/organization/Brookfield%2520Corporation",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T22:18:01.423+08:00"
+          "last_negative_listing_at_beijing": null
         }
       ],
       "replays": [
@@ -173607,15 +173931,53 @@
       "schedule_text": "11月12日 22:30前 币安预测时间 20:42 美东 11/12 盘前",
       "window_start_beijing": "2026-11-12T13:00:00+08:00",
       "window_end_beijing": "2026-11-12T23:30:00+08:00",
-      "state": "monitoring",
-      "state_label": "监测中，尚未取得报告",
-      "materials": [],
+      "state": "received",
+      "state_label": "已取得报告",
+      "materials": [
+        {
+          "id": "b9a0512261314b11",
+          "symbol": "NBIS",
+          "company_name": "Nebius Group",
+          "document": "业绩公告",
+          "source_label": "SEC披露网站",
+          "channel": "sec",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+          "title": "NBIS 财报文档",
+          "acquired_at_beijing": "2026-11-12T22:22:37.871+08:00",
+          "parsed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+          "context": "unknown",
+          "context_label": "采集性质待核实",
+          "start_at_beijing": "2026-11-12T22:22:36.572+08:00",
+          "original_received_at_beijing": null,
+          "discovery_to_parsed_ms": 1298.110481,
+          "timing_scope": "云端采集",
+          "timing_basis": "recorded",
+          "timing_note": "原始日志记录的发现至全文解析耗时。",
+          "observer": "美国采集器",
+          "already_present_on_first_poll": false,
+          "last_negative_listing_ns": null,
+          "last_negative_listing_at_beijing": null,
+          "listing_observation_gap_ms": null,
+          "outcome": "本次超过300ms",
+          "latency_budget_passed": false,
+          "current_quality_review": null,
+          "new_release_timing": false,
+          "table_count": 15,
+          "content_complete": true,
+          "full_chain_completed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+          "full_chain_ms": 1298.110481,
+          "completion_kind": "captured",
+          "report_url": null,
+          "log_reference": "43206331469-1:35097",
+          "log_url": "./files/logs/NBIS.csv"
+        }
+      ],
       "supporting_materials": [],
       "source_checks": [
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T22:19:22+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:41+08:00",
           "last_checked_url": "https://nebius.com/newsroom",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -173627,7 +173989,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:25+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:37+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001513845.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -173639,13 +174001,13 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T22:14:46.305+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:41+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "HTTP 403",
+          "observation": "连接失败（ConnectError）",
           "note": "",
           "observer": "本地",
-          "status": 403,
+          "status": null,
           "last_negative_listing_at_beijing": null
         }
       ],
@@ -174705,7 +175067,119 @@
           "log_url": "./files/logs/NBIS.csv"
         }
       ],
-      "records": [],
+      "records": [
+        {
+          "id": "b9a0512261314b11",
+          "symbol": "NBIS",
+          "company_name": "Nebius Group",
+          "document": "业绩公告",
+          "source_label": "SEC披露网站",
+          "channel": "sec",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+          "title": "NBIS 财报文档",
+          "acquired_at_beijing": "2026-11-12T22:22:37.871+08:00",
+          "parsed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+          "context": "unknown",
+          "context_label": "采集性质待核实",
+          "start_at_beijing": "2026-11-12T22:22:36.572+08:00",
+          "original_received_at_beijing": null,
+          "discovery_to_parsed_ms": 1298.110481,
+          "timing_scope": "云端采集",
+          "timing_basis": "recorded",
+          "timing_note": "原始日志记录的发现至全文解析耗时。",
+          "observer": "美国采集器",
+          "already_present_on_first_poll": false,
+          "last_negative_listing_ns": null,
+          "last_negative_listing_at_beijing": null,
+          "listing_observation_gap_ms": null,
+          "outcome": "本次超过300ms",
+          "latency_budget_passed": false,
+          "current_quality_review": null,
+          "new_release_timing": false,
+          "table_count": 15,
+          "content_complete": true,
+          "full_chain_completed_at_beijing": "2026-11-12T22:22:37.871+08:00",
+          "full_chain_ms": 1298.110481,
+          "completion_kind": "captured",
+          "report_url": null,
+          "log_reference": "43206331469-1:35097",
+          "log_url": "./files/logs/NBIS.csv"
+        },
+        {
+          "id": "6a430c746099a8af",
+          "symbol": "NBIS",
+          "company_name": "Nebius Group",
+          "document": "业绩公告",
+          "source_label": "SEC披露网站",
+          "channel": "sec",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+          "title": "NBIS 财报文档",
+          "acquired_at_beijing": "2026-11-12T22:22:37.430+08:00",
+          "parsed_at_beijing": "2026-11-12T22:22:37.430+08:00",
+          "context": "unknown",
+          "context_label": "采集性质待核实",
+          "start_at_beijing": "2026-11-12T22:22:36.357+08:00",
+          "original_received_at_beijing": "2026-11-12T22:22:37+08:00",
+          "discovery_to_parsed_ms": 1075.3377,
+          "timing_scope": "本地采集",
+          "timing_basis": "recorded",
+          "timing_note": "原始日志记录的发现至全文解析耗时。",
+          "observer": null,
+          "already_present_on_first_poll": false,
+          "last_negative_listing_ns": null,
+          "last_negative_listing_at_beijing": null,
+          "listing_observation_gap_ms": null,
+          "outcome": "本次超过300ms",
+          "latency_budget_passed": false,
+          "current_quality_review": null,
+          "new_release_timing": false,
+          "table_count": 15,
+          "content_complete": true,
+          "full_chain_completed_at_beijing": "2026-11-12T22:22:37.430+08:00",
+          "full_chain_ms": 1075.3377,
+          "completion_kind": "captured",
+          "report_url": null,
+          "log_reference": 1193143,
+          "log_url": "./files/logs/NBIS.csv"
+        },
+        {
+          "id": "7813463867338a7a",
+          "symbol": "NBIS",
+          "company_name": "Nebius Group",
+          "document": "业绩公告",
+          "source_label": "SEC披露网站",
+          "channel": "sec",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+          "title": "NBIS 财报文档",
+          "acquired_at_beijing": "2026-11-12T22:22:36.526+08:00",
+          "parsed_at_beijing": "2026-11-12T22:22:36.526+08:00",
+          "context": "unknown",
+          "context_label": "采集性质待核实",
+          "start_at_beijing": "2026-11-12T22:22:36.187+08:00",
+          "original_received_at_beijing": null,
+          "discovery_to_parsed_ms": 338.259014,
+          "timing_scope": "云端采集",
+          "timing_basis": "recorded",
+          "timing_note": "原始日志记录的发现至全文解析耗时。",
+          "observer": "美国采集器",
+          "already_present_on_first_poll": false,
+          "last_negative_listing_ns": null,
+          "last_negative_listing_at_beijing": null,
+          "listing_observation_gap_ms": null,
+          "outcome": "本次超过300ms",
+          "latency_budget_passed": false,
+          "current_quality_review": null,
+          "new_release_timing": false,
+          "table_count": 15,
+          "content_complete": true,
+          "full_chain_completed_at_beijing": "2026-11-12T22:22:36.526+08:00",
+          "full_chain_ms": 338.259014,
+          "completion_kind": "captured",
+          "report_url": null,
+          "log_reference": "ec2_a48e7251ef4d-1:63158",
+          "log_url": "./files/logs/NBIS.csv"
+        }
+      ],
       "log_url": "./files/logs/NBIS.csv"
     },
     {
@@ -174739,14 +175213,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:32+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:46.440+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000858877.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:46.440+08:00"
         },
         {
           "label": "财经发布网站",
@@ -175851,14 +176325,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:35+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:44.438+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002021728.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:44.438+08:00"
         },
         {
           "label": "财经发布网站",
@@ -176623,14 +177097,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:44+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:26:08.457+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001810997.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:26:08.457+08:00"
         },
         {
           "label": "财经发布网站",
@@ -177259,14 +177733,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:34+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:51.548+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001329099.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:51.548+08:00"
         },
         {
           "label": "财经发布网站",
@@ -177963,14 +178437,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:42+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:45.571+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001809587.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:45.571+08:00"
         },
         {
           "label": "财经发布网站",
@@ -178599,14 +179073,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:46+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:26:09.425+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001483994.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:26:09.425+08:00"
         },
         {
           "label": "财经发布网站",
@@ -179235,22 +179709,22 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:45+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:23.373+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001584509.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:23.373+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T21:53:25.475+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:26+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "本次访问未获得HTTP响应",
+          "observation": "连接失败（ConnectError）",
           "note": "",
           "observer": "本地",
           "status": null,
@@ -179946,14 +180420,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:31+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:48.644+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000100493.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:48.644+08:00"
         },
         {
           "label": "财经发布网站",
@@ -180582,22 +181056,22 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:29+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:49.554+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000868857.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:49.554+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T21:53:26.478+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:25+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "本次访问未获得HTTP响应",
+          "observation": "连接失败（ConnectError）",
           "note": "",
           "observer": "本地",
           "status": null,
@@ -181218,22 +181692,22 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:43+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:40.455+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002007825.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:40.455+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T21:53:27.656+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:23+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "本次访问未获得HTTP响应",
+          "observation": "连接失败（ConnectError）",
           "note": "",
           "observer": "本地",
           "status": null,
@@ -181854,22 +182328,22 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:18:41+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:43.417+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001758766.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": null
+          "last_negative_listing_at_beijing": "2026-11-12T22:25:43.417+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T21:53:24.996+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:28:24+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "本次访问未获得HTTP响应",
+          "observation": "连接失败（ConnectError）",
           "note": "",
           "observer": "本地",
           "status": null,
@@ -182553,7 +183027,7 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T22:14:49.135+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:24:49.657+08:00",
           "last_checked_url": "https://investors.figure.com/rss/news-releases.xml",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
@@ -182565,7 +183039,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:15:34.926+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:24:50.008+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002064124.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -182577,14 +183051,14 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T22:11:52.185+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:21:52.160+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/keyword/Figure%20Technology",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-12T22:11:52.185+08:00"
+          "last_negative_listing_at_beijing": "2026-11-12T22:21:52.160+08:00"
         }
       ],
       "replays": [],
@@ -182834,7 +183308,7 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T22:14:47.606+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:24:47.953+08:00",
           "last_checked_url": "https://investors.intuitivemachines.com/rss/news-releases.xml",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
@@ -182846,7 +183320,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:15:33.922+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:24:47.980+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001844452.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -182858,7 +183332,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T22:11:49.033+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:21:49.152+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/keyword/Intuitive%20Machines",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -183078,7 +183552,7 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-12T22:16:07.423+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:27.707+08:00",
           "last_checked_url": "https://www.ondas.com/news",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -183090,7 +183564,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-12T22:15:32.920+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:24:44.950+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001646188.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -183102,7 +183576,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-12T22:16:06.640+08:00",
+          "last_checked_at_beijing": "2026-11-12T22:25:26.927+08:00",
           "last_checked_url": "https://ondas-holdings-inc.suite.accessnewswire.com/",
           "target_kind": "公告入口",
           "observation": "HTTP 200",

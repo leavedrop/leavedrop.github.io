@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-13T17:12:04.856+08:00",
+  "generated_at_beijing": "2026-11-13T17:22:14.274+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京专线→币安1x合约实盘开单全链路≤500ms已验证，10/10次FILLED中位数186.5ms）",
@@ -87436,7 +87436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486075+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87449,7 +87449,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0364
+          "simulation_ms": 0.0176
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87563,7 +87563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486075+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87576,7 +87576,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0364
+          "simulation_ms": 0.0176
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87690,7 +87690,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87703,7 +87703,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.027
+          "simulation_ms": 0.0182
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87817,7 +87817,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87830,7 +87830,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.027
+          "simulation_ms": 0.0182
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87944,7 +87944,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160208+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87957,7 +87957,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0296
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88074,7 +88074,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160208+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -88087,7 +88087,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0296
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88201,7 +88201,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160208+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88214,7 +88214,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0208
+          "simulation_ms": 0.0166
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88328,7 +88328,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160208+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88341,7 +88341,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0208
+          "simulation_ms": 0.0166
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88450,7 +88450,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.275915+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.405432+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88463,7 +88463,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1937
+          "simulation_ms": 0.0263
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88572,7 +88572,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.275915+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.405432+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88585,7 +88585,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.1937
+          "simulation_ms": 0.0263
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88694,7 +88694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.276508+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.406444+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88707,7 +88707,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0391
+          "simulation_ms": 0.0202
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -88816,7 +88816,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.276508+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.406444+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88829,7 +88829,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0391
+          "simulation_ms": 0.0202
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -89186,7 +89186,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160085+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89199,7 +89199,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0246
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89313,7 +89313,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160085+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89326,7 +89326,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0246
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89440,7 +89440,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160720+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89453,7 +89453,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0188
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89567,7 +89567,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160720+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89580,7 +89580,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0188
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89694,7 +89694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160720+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89707,7 +89707,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.02
+          "simulation_ms": 0.0165
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89821,7 +89821,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.486600+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.160720+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89834,7 +89834,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.02
+          "simulation_ms": 0.0165
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -90136,7 +90136,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:12:49.312256+00:00",
+          "created_at_utc": "2026-11-13T09:22:53.588967+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -90259,7 +90259,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:12:49.312256+00:00",
+          "created_at_utc": "2026-11-13T09:22:53.588967+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -92658,7 +92658,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92671,7 +92671,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0274
+          "simulation_ms": 0.0457
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92785,7 +92785,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92798,7 +92798,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0274
+          "simulation_ms": 0.0457
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92912,7 +92912,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92925,7 +92925,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0171
+          "simulation_ms": 0.0314
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93039,7 +93039,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -93052,7 +93052,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0171
+          "simulation_ms": 0.0314
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93166,7 +93166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93179,7 +93179,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0183
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93293,7 +93293,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93306,7 +93306,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0183
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93420,7 +93420,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93433,7 +93433,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0303
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93547,7 +93547,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93560,7 +93560,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0303
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93674,7 +93674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93687,7 +93687,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0303
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93801,7 +93801,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93814,7 +93814,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0303
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93928,7 +93928,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93941,7 +93941,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0315
+          "simulation_ms": 0.0159
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94055,7 +94055,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -94068,7 +94068,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0315
+          "simulation_ms": 0.0159
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94182,7 +94182,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.284969+00:00",
+          "created_at_utc": "2026-11-13T09:23:13.985301+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94195,7 +94195,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0391
+          "simulation_ms": 0.0248
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94309,7 +94309,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.284969+00:00",
+          "created_at_utc": "2026-11-13T09:23:13.985301+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94322,7 +94322,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0391
+          "simulation_ms": 0.0248
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94436,7 +94436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.284969+00:00",
+          "created_at_utc": "2026-11-13T09:23:13.985301+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94449,7 +94449,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0193
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94563,7 +94563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.284969+00:00",
+          "created_at_utc": "2026-11-13T09:23:13.985301+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94576,7 +94576,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0193
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94892,7 +94892,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94905,7 +94905,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0185
+          "simulation_ms": 0.0317
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95020,7 +95020,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -95033,7 +95033,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0185
+          "simulation_ms": 0.0317
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95147,7 +95147,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95160,7 +95160,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0174
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95274,7 +95274,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95287,7 +95287,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0174
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95401,7 +95401,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95414,7 +95414,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0172
+          "simulation_ms": 0.032
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95528,7 +95528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.476071+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95541,7 +95541,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0172
+          "simulation_ms": 0.032
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95655,7 +95655,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95668,7 +95668,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0226
+          "simulation_ms": 0.0323
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95782,7 +95782,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95795,7 +95795,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0226
+          "simulation_ms": 0.0323
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95909,7 +95909,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95922,7 +95922,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0214
+          "simulation_ms": 0.0306
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96036,7 +96036,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -96049,7 +96049,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0214
+          "simulation_ms": 0.0306
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96166,7 +96166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96179,7 +96179,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0177
+          "simulation_ms": 0.0292
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -96296,7 +96296,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.151179+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96309,7 +96309,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0177
+          "simulation_ms": 0.0292
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -96423,7 +96423,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.155694+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96436,7 +96436,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0175
+          "simulation_ms": 0.0349
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96550,7 +96550,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.155694+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96563,7 +96563,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0175
+          "simulation_ms": 0.0349
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96677,7 +96677,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.155857+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96690,7 +96690,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0244
+          "simulation_ms": 0.0296
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96804,7 +96804,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.479589+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.155857+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96817,7 +96817,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0244
+          "simulation_ms": 0.0296
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96931,7 +96931,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.481963+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.156562+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96944,7 +96944,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0486
+          "simulation_ms": 0.0301
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97058,7 +97058,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.481963+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.156562+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -97071,7 +97071,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0486
+          "simulation_ms": 0.0301
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97185,7 +97185,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97198,7 +97198,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.035
+          "simulation_ms": 0.0282
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97312,7 +97312,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97325,7 +97325,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.035
+          "simulation_ms": 0.0282
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97439,7 +97439,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97452,7 +97452,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0266
+          "simulation_ms": 0.0161
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97560,7 +97560,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97573,7 +97573,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0266
+          "simulation_ms": 0.0161
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97689,7 +97689,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97702,7 +97702,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0338
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97816,7 +97816,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97829,7 +97829,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0338
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97943,7 +97943,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97956,7 +97956,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0151
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -98071,7 +98071,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:11.482474+00:00",
+          "created_at_utc": "2026-11-13T09:23:14.157072+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -98084,7 +98084,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0151
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -98193,7 +98193,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.045613+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.190961+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98206,7 +98206,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0447
+          "simulation_ms": 0.0305
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98315,7 +98315,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.045613+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.190961+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98328,7 +98328,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0447
+          "simulation_ms": 0.0305
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98437,7 +98437,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.045613+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.190961+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98450,7 +98450,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0311
+          "simulation_ms": 0.0195
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98559,7 +98559,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.045613+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.190961+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98572,7 +98572,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0311
+          "simulation_ms": 0.0195
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98681,7 +98681,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.045613+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.191473+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -98694,7 +98694,7 @@
             "eps": "miss",
             "revenue": null
           },
-          "simulation_ms": 0.025
+          "simulation_ms": 0.0131
         },
         "timings_ms": {
           "queue": 0.0515,
@@ -98803,7 +98803,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.029731+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.168761+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98816,7 +98816,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0178
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98925,7 +98925,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:13:15.029731+00:00",
+          "created_at_utc": "2026-11-13T09:23:17.168761+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98938,7 +98938,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0178
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -111631,7 +111631,7 @@
     ]
   },
   "strategy_presets": {
-    "updated_utc": "2026-11-13T08:52:00+00:00",
+    "updated_utc": "2026-11-13T09:18:00+00:00",
     "default": {
       "mode": "custom_or_adaptive",
       "use_custom_tp_sl": false,
@@ -111655,14 +111655,14 @@
           "max_slippage_bps": 35
         },
         "hyperliquid": {
-          "enabled": true,
+          "enabled": false,
           "margin_usd": 0.0,
           "leverage": 1,
           "notional_usd": 0.0,
           "max_slippage_bps": 45
         },
         "okx": {
-          "enabled": true,
+          "enabled": false,
           "margin_usd": 0.0,
           "leverage": 1,
           "notional_usd": 0.0,
@@ -111677,13 +111677,14 @@
         "venue": "binance",
         "label": "币安 Binance (U本位合约/现货)",
         "currency": "USDT",
-        "total_equity_usd": null,
-        "available_usd": null,
+        "total_equity_usd": 53.48,
+        "available_usd": 53.48,
+        "exact_balance_str": "53.47855647 USDT",
         "min_notional_usd": 5.0,
         "fee_rate_bps": 5.0,
         "default_leverage": 1,
-        "live_key_configured": false,
-        "status_note": "东京节点当前未配置 BINANCE_API_KEY (余额未知 · 需接入Key或手动填预算)"
+        "live_key_configured": true,
+        "status_note": "fapi/v2/balance 实查可用 53.48 USDT (精确值 53.47855647 USDT · 默认主力启用)"
       },
       "hyperliquid": {
         "venue": "hyperliquid",
@@ -111691,17 +111692,18 @@
         "currency": "USDC",
         "total_equity_usd": 52.45,
         "available_usd": 52.45,
+        "exact_balance_str": "52.446821 USDC",
         "perp_margin_usd": 0.0,
         "spot_usdc": 52.446821,
         "min_notional_usd": 10.0,
         "fee_rate_bps": 4.5,
         "default_leverage": 1,
         "live_key_configured": true,
-        "status_note": "链上实查 Spot 52.45 USDC (xyz永续子账户保证金 0.00 USDC，开单前需划转)"
+        "status_note": "链上实查 Spot 52.45 USDC (默认不勾选，按需手动启用)"
       },
       "okx": {
         "venue": "okx",
-        "label": "欧易 OKX (USDT永续 SWAP)",
+        "label": "欧易 OKX (未开通账号)",
         "currency": "USDT",
         "total_equity_usd": null,
         "available_usd": null,
@@ -111709,7 +111711,7 @@
         "fee_rate_bps": 5.0,
         "default_leverage": 1,
         "live_key_configured": false,
-        "status_note": "东京节点当前为模拟盘Key (OKX_SIMULATED=1，未接实盘账户 · 余额未知)"
+        "status_note": "未开通 OKX 账号 (默认停用)"
       }
     },
     "upcoming_targets": [
@@ -111762,14 +111764,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -111829,14 +111831,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -111896,14 +111898,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -111963,14 +111965,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112030,14 +112032,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112097,14 +112099,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112164,14 +112166,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112231,14 +112233,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112298,14 +112300,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112365,14 +112367,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112432,14 +112434,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112499,14 +112501,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112566,14 +112568,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112633,14 +112635,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112700,14 +112702,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112767,14 +112769,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112834,14 +112836,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112901,14 +112903,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -112968,14 +112970,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113035,14 +113037,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113102,14 +113104,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113169,14 +113171,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113236,14 +113238,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113303,14 +113305,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113370,14 +113372,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113437,14 +113439,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113504,14 +113506,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113571,14 +113573,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113638,14 +113640,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113705,14 +113707,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113772,14 +113774,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
@@ -113839,14 +113841,14 @@
               "max_slippage_bps": 35
             },
             "hyperliquid": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
               "max_slippage_bps": 45
             },
             "okx": {
-              "enabled": true,
+              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,

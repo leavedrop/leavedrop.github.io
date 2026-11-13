@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-13T17:52:22.139+08:00",
+  "generated_at_beijing": "2026-11-13T18:02:34.903+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京专线→币安1x合约实盘开单全链路≤500ms已验证，10/10次FILLED中位数186.5ms）",
@@ -87436,7 +87436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923162+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.869312+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87449,7 +87449,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0269
+          "simulation_ms": 0.0394
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87563,7 +87563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923162+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.869312+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87576,7 +87576,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0269
+          "simulation_ms": 0.0394
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87690,7 +87690,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87703,7 +87703,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0457
+          "simulation_ms": 0.0341
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87817,7 +87817,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87830,7 +87830,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0457
+          "simulation_ms": 0.0341
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87944,7 +87944,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87957,7 +87957,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0357
+          "simulation_ms": 0.0323
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88074,7 +88074,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -88087,7 +88087,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0357
+          "simulation_ms": 0.0323
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88201,7 +88201,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88214,7 +88214,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.031
+          "simulation_ms": 0.0312
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88328,7 +88328,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88341,7 +88341,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.031
+          "simulation_ms": 0.0312
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88450,7 +88450,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.324589+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.413867+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88463,7 +88463,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.026
+          "simulation_ms": 0.0456
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88572,7 +88572,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.324589+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.413867+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88585,7 +88585,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.026
+          "simulation_ms": 0.0456
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88694,7 +88694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.324589+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.419019+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88707,7 +88707,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0185
+          "simulation_ms": 0.0365
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -88816,7 +88816,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.324589+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.419019+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88829,7 +88829,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0185
+          "simulation_ms": 0.0365
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -89186,7 +89186,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89199,7 +89199,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0379
+          "simulation_ms": 0.0317
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89313,7 +89313,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89326,7 +89326,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0379
+          "simulation_ms": 0.0317
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89440,7 +89440,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89453,7 +89453,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0237
+          "simulation_ms": 0.0288
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89567,7 +89567,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89580,7 +89580,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0237
+          "simulation_ms": 0.0288
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89694,7 +89694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89707,7 +89707,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0189
+          "simulation_ms": 0.0332
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89821,7 +89821,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.923753+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.870389+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89834,7 +89834,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0189
+          "simulation_ms": 0.0332
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -90136,7 +90136,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:06.490774+00:00",
+          "created_at_utc": "2026-11-13T10:03:29.624120+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -90149,7 +90149,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0227
+          "simulation_ms": 0.0331
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -90259,7 +90259,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:06.490774+00:00",
+          "created_at_utc": "2026-11-13T10:03:29.624120+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -90272,7 +90272,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0227
+          "simulation_ms": 0.0331
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -92658,7 +92658,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92671,7 +92671,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0441
+          "simulation_ms": 0.0332
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92785,7 +92785,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92798,7 +92798,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0441
+          "simulation_ms": 0.0332
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92912,7 +92912,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92925,7 +92925,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0334
+          "simulation_ms": 0.0192
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93039,7 +93039,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -93052,7 +93052,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0334
+          "simulation_ms": 0.0192
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93166,7 +93166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93179,7 +93179,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0203
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93293,7 +93293,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93306,7 +93306,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0203
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93420,7 +93420,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93433,7 +93433,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0219
+          "simulation_ms": 0.018
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93547,7 +93547,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93560,7 +93560,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0219
+          "simulation_ms": 0.018
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93674,7 +93674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93687,7 +93687,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.018
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93801,7 +93801,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93814,7 +93814,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.018
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93928,7 +93928,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.867642+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93941,7 +93941,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0196
+          "simulation_ms": 0.1229
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94055,7 +94055,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.867642+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -94068,7 +94068,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0196
+          "simulation_ms": 0.1229
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94182,7 +94182,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.640097+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.658978+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94195,7 +94195,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0475
+          "simulation_ms": 0.0505
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94309,7 +94309,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.640097+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.658978+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94322,7 +94322,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0475
+          "simulation_ms": 0.0505
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94436,7 +94436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.640097+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.661081+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94449,7 +94449,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0359
+          "simulation_ms": 0.0334
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94563,7 +94563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.640097+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.661081+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94576,7 +94576,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0359
+          "simulation_ms": 0.0334
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94892,7 +94892,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94905,7 +94905,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0345
+          "simulation_ms": 0.02
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95020,7 +95020,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -95033,7 +95033,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0345
+          "simulation_ms": 0.02
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95147,7 +95147,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95160,7 +95160,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0323
+          "simulation_ms": 0.019
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95274,7 +95274,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.913496+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95287,7 +95287,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0323
+          "simulation_ms": 0.019
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95401,7 +95401,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.916613+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95414,7 +95414,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0892
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95528,7 +95528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.916613+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95541,7 +95541,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0892
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95655,7 +95655,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95668,7 +95668,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0438
+          "simulation_ms": 0.0188
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95782,7 +95782,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95795,7 +95795,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0438
+          "simulation_ms": 0.0188
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95909,7 +95909,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95922,7 +95922,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0432
+          "simulation_ms": 0.0178
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96036,7 +96036,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -96049,7 +96049,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0432
+          "simulation_ms": 0.0178
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96166,7 +96166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96179,7 +96179,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0385
+          "simulation_ms": 0.0176
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -96296,7 +96296,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96309,7 +96309,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0385
+          "simulation_ms": 0.0176
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -96423,7 +96423,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96436,7 +96436,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0264
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96550,7 +96550,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96563,7 +96563,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0264
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96677,7 +96677,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96690,7 +96690,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0203
+          "simulation_ms": 0.0166
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96804,7 +96804,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96817,7 +96817,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0203
+          "simulation_ms": 0.0166
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96931,7 +96931,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96944,7 +96944,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0208
+          "simulation_ms": 0.0169
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97058,7 +97058,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -97071,7 +97071,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0208
+          "simulation_ms": 0.0169
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97185,7 +97185,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97198,7 +97198,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0219
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97312,7 +97312,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97325,7 +97325,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0219
+          "simulation_ms": 0.0173
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97439,7 +97439,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97452,7 +97452,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0149
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97560,7 +97560,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97573,7 +97573,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0149
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97689,7 +97689,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97702,7 +97702,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0189
+          "simulation_ms": 0.0175
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97816,7 +97816,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97829,7 +97829,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0189
+          "simulation_ms": 0.0175
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97943,7 +97943,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97956,7 +97956,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0194
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -98071,7 +98071,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:30.917639+00:00",
+          "created_at_utc": "2026-11-13T10:03:54.859971+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -98084,7 +98084,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0194
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -98193,7 +98193,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.092182+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.188699+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98206,7 +98206,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0279
+          "simulation_ms": 0.0568
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98315,7 +98315,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.092182+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.188699+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98328,7 +98328,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0279
+          "simulation_ms": 0.0568
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98437,7 +98437,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.101189+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.189211+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98450,7 +98450,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.026
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98559,7 +98559,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.101189+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.189211+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98572,7 +98572,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.026
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98681,7 +98681,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.102258+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.189750+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -98694,7 +98694,7 @@
             "eps": "miss",
             "revenue": null
           },
-          "simulation_ms": 0.0228
+          "simulation_ms": 0.023
         },
         "timings_ms": {
           "queue": 0.0515,
@@ -98803,7 +98803,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.084367+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.163857+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98816,7 +98816,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.018
+          "simulation_ms": 0.0195
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98925,7 +98925,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T09:53:34.084367+00:00",
+          "created_at_utc": "2026-11-13T10:03:58.163857+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98938,7 +98938,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.018
+          "simulation_ms": 0.0195
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98968,8 +98968,8 @@
   "institutional_forecasts_review": {
     "rule_summary": "超预期标准 = 所有机构预测中正向最大数值（max）；低于预期标准 = 所有机构预测中最低数值（min）；EPS与营收规则完全一致。双指标均高于各自最高标准做多，双指标均低于各自最低标准做空，落入区间或方向冲突不发信号。",
     "total_companies": 63,
-    "upcoming_companies": 32,
-    "published_companies": 31,
+    "upcoming_companies": 24,
+    "published_companies": 39,
     "total_contracts": 133,
     "items": [
       {
@@ -98978,7 +98978,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月06日 19:00",
+        "scheduled_at": "2026-11-06T19:00:00+08:00",
+        "schedule_text": "11月06日(周五) 19:00 · 美东 11/06 06:00",
         "contracts": [
           {
             "forecast_id": "inst-env-HUM-2026-09-30-eps-USD-consolidated",
@@ -99020,7 +99021,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月06日 20:00前",
+        "scheduled_at": "2026-11-06T20:00:00+08:00",
+        "schedule_text": "11月06日(周五) 20:00前 · 美东 11/06 07:00前",
         "contracts": [
           {
             "forecast_id": "inst-env-BAM-2026-09-30-eps-USD-consolidated",
@@ -99062,7 +99064,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月06日 22:30前",
+        "scheduled_at": "2026-11-06T22:30:00+08:00",
+        "schedule_text": "11月06日(周五) 22:30前 · 美东 11/06 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-ENB-2026-09-30-eps-USD-consolidated",
@@ -99104,7 +99107,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月06日 21:30前",
+        "scheduled_at": "2026-11-06T21:30:00+08:00",
+        "schedule_text": "11月06日(周五) 21:30前 · 美东 11/06 08:30前",
         "contracts": [
           {
             "forecast_id": "inst-env-OKLO-2026-09-30-eps-USD-consolidated",
@@ -99146,7 +99150,8 @@
         "section": "published",
         "report_period": "FY2027 Q1",
         "period_end": "2026-09-30",
-        "schedule_text": "11月06日 22:30前",
+        "scheduled_at": "2026-11-06T22:30:00+08:00",
+        "schedule_text": "11月06日(周五) 22:30前 · 美东 11/06 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-MSGK-2026-09-30-eps-USD-consolidated",
@@ -99188,7 +99193,8 @@
         "section": "published",
         "report_period": "FY2027 Q1",
         "period_end": "2026-09-30",
-        "schedule_text": "11月06日 22:30前",
+        "scheduled_at": "2026-11-06T22:30:00+08:00",
+        "schedule_text": "11月06日(周五) 22:30前 · 美东 11/06 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-MSGR-2026-09-30-eps-USD-consolidated",
@@ -99230,7 +99236,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月07日 约21:00",
+        "scheduled_at": "2026-11-07T21:00:00+08:00",
+        "schedule_text": "11月07日(周六) 约21:00",
         "contracts": [
           {
             "forecast_id": "inst-env-BRK.B-2026-09-30-eps-USD-consolidated",
@@ -99272,7 +99279,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月09日 20:30前",
+        "scheduled_at": "2026-11-09T20:30:00+08:00",
+        "schedule_text": "11月09日(周一) 20:30前 · 美东 11/09 07:30前",
         "contracts": [
           {
             "forecast_id": "inst-env-SOHU-2026-09-30-eps-USD-consolidated",
@@ -99314,7 +99322,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月09日 19:00",
+        "scheduled_at": "2026-11-09T19:00:00+08:00",
+        "schedule_text": "11月09日(周一) 19:00 · 美东 11/09 06:00",
         "contracts": [
           {
             "forecast_id": "inst-env-B-2026-09-30-eps-USD-consolidated",
@@ -99356,7 +99365,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月09日 19:45",
+        "scheduled_at": "2026-11-09T19:45:00+08:00",
+        "schedule_text": "11月09日(周一) 19:45 · 美东 11/09 06:45",
         "contracts": [
           {
             "forecast_id": "inst-env-FERG-2026-09-30-eps-USD-consolidated",
@@ -99398,7 +99408,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月09日 22:30前",
+        "scheduled_at": "2026-11-09T22:30:00+08:00",
+        "schedule_text": "11月09日(周一) 22:30前 · 美东 11/09 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-KKR-2026-09-30-eps-USD-consolidated",
@@ -99440,7 +99451,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月09日 22:30前",
+        "scheduled_at": "2026-11-09T22:30:00+08:00",
+        "schedule_text": "11月09日(周一) 22:30前 · 美东 11/09 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-CECO-2026-09-30-eps-USD-consolidated",
@@ -99482,7 +99494,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月09日 21:30前",
+        "scheduled_at": "2026-11-09T21:30:00+08:00",
+        "schedule_text": "11月09日(周一) 21:30前 · 美东 11/09 08:30前",
         "contracts": [
           {
             "forecast_id": "inst-env-TGTX-2026-09-30-eps-USD-consolidated",
@@ -99524,7 +99537,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 06:00前",
+        "scheduled_at": "2026-11-10T06:00:00+08:00",
+        "schedule_text": "11月10日(周二) 06:00前 · 美东 11/09 17:00前",
         "contracts": [
           {
             "forecast_id": "inst-env-SKYD-2026-09-30-eps-USD-consolidated",
@@ -99566,7 +99580,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 05:00后",
+        "scheduled_at": "2026-11-10T05:00:00+08:00",
+        "schedule_text": "11月10日(周二) 05:00后 · 美东 11/09 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-TTD-2026-09-30-eps-USD-consolidated",
@@ -99608,7 +99623,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 05:00后",
+        "scheduled_at": "2026-11-10T05:00:00+08:00",
+        "schedule_text": "11月10日(周二) 05:00后 · 美东 11/09 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-XENE-2026-09-30-eps-USD-consolidated",
@@ -99650,7 +99666,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 05:00后",
+        "scheduled_at": "2026-11-10T05:00:00+08:00",
+        "schedule_text": "11月10日(周二) 05:00后 · 美东 11/09 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-ACHR-2026-09-30-eps-USD-consolidated",
@@ -99692,7 +99709,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 05:00后",
+        "scheduled_at": "2026-11-10T05:00:00+08:00",
+        "schedule_text": "11月10日(周二) 05:00后 · 美东 11/09 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-HIMS-2026-09-30-eps-USD-consolidated",
@@ -99734,7 +99752,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 06:30前",
+        "scheduled_at": "2026-11-10T06:30:00+08:00",
+        "schedule_text": "11月10日(周二) 06:30前",
         "contracts": [
           {
             "forecast_id": "inst-env-LCID-2026-09-30-eps-USD-consolidated",
@@ -99776,7 +99795,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 05:00后",
+        "scheduled_at": "2026-11-10T05:00:00+08:00",
+        "schedule_text": "11月10日(周二) 05:00后 · 美东 11/09 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-RKLB-2026-09-30-eps-USD-consolidated",
@@ -99818,7 +99838,8 @@
         "section": "published",
         "report_period": "FY2027 Q2",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 05:00后",
+        "scheduled_at": "2026-11-10T05:00:00+08:00",
+        "schedule_text": "11月10日(周二) 05:00后 · 美东 11/09 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-TTWO-2026-09-30-eps-USD-consolidated",
@@ -99860,7 +99881,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 05:00后",
+        "scheduled_at": "2026-11-10T05:00:00+08:00",
+        "schedule_text": "11月10日(周二) 05:00后 · 美东 11/09 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-OXY-2026-09-30-eps-USD-consolidated",
@@ -99902,7 +99924,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 22:30前",
+        "scheduled_at": "2026-11-10T22:30:00+08:00",
+        "schedule_text": "11月10日(周二) 22:30前 · 美东 11/10 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-ONON-2026-09-30-eps-USD-consolidated",
@@ -99976,7 +99999,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 22:30前",
+        "scheduled_at": "2026-11-10T22:30:00+08:00",
+        "schedule_text": "11月10日(周二) 22:30前 · 美东 11/10 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-SE-2026-09-30-eps-USD-consolidated",
@@ -100018,7 +100042,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 22:30前",
+        "scheduled_at": "2026-11-10T22:30:00+08:00",
+        "schedule_text": "11月10日(周二) 22:30前 · 美东 11/10 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-QBTS-2026-09-30-eps-USD-consolidated",
@@ -100060,7 +100085,8 @@
         "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 22:30前",
+        "scheduled_at": "2026-11-10T22:30:00+08:00",
+        "schedule_text": "11月10日(周二) 22:30前 · 美东 11/10 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-TDG-2026-09-30-eps-USD-consolidated",
@@ -100102,7 +100128,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月10日 22:30前",
+        "scheduled_at": "2026-11-10T22:30:00+08:00",
+        "schedule_text": "11月10日(周二) 22:30前 · 美东 11/10 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-MRDN-2026-09-30-eps-USD-consolidated",
@@ -100144,7 +100171,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-10-01",
-        "schedule_text": "11月11日 05:00后",
+        "scheduled_at": "2026-11-11T05:00:00+08:00",
+        "schedule_text": "11月11日(周三) 05:00后 · 美东 11/10 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-NCMI-2026-10-01-eps-USD-consolidated",
@@ -100186,7 +100214,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月11日 05:00后",
+        "scheduled_at": "2026-11-11T05:00:00+08:00",
+        "schedule_text": "11月11日(周三) 05:00后 · 美东 11/10 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-RGTI-2026-09-30-eps-USD-consolidated",
@@ -100228,7 +100257,8 @@
         "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-30",
-        "schedule_text": "11月11日 22:30前",
+        "scheduled_at": "2026-11-11T22:30:00+08:00",
+        "schedule_text": "11月11日(周三) 22:30前 · 美东 11/11 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-GIB-2026-09-30-eps-USD-consolidated",
@@ -100270,7 +100300,8 @@
         "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月12日 05:00后",
+        "scheduled_at": "2026-11-12T05:00:00+08:00",
+        "schedule_text": "11月12日(周四) 05:00后 · 美东 11/11 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-FNV-2026-09-30-eps-USD-consolidated",
@@ -100309,10 +100340,11 @@
       {
         "symbol": "BN",
         "company_name": "布鲁克菲尔德",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月12日 约20:00",
+        "scheduled_at": "2026-11-12T20:00:00+08:00",
+        "schedule_text": "11月12日(周四) 约20:00 · 美东 11/12 约07:00",
         "contracts": [
           {
             "forecast_id": "inst-env-BN-2026-09-30-eps-USD-consolidated",
@@ -100351,10 +100383,11 @@
       {
         "symbol": "NBIS",
         "company_name": "Nebius Group",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "11月12日 22:30前",
+        "scheduled_at": "2026-11-12T22:30:00+08:00",
+        "schedule_text": "11月12日(周四) 22:30前 · 美东 11/12 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-NBIS-2026-09-30-eps-USD-consolidated",
@@ -100393,10 +100426,11 @@
       {
         "symbol": "CSCO",
         "company_name": "思科",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2027 Q1",
         "period_end": "2026-10-24",
-        "schedule_text": "11月13日 05:00后",
+        "scheduled_at": "2026-11-13T05:00:00+08:00",
+        "schedule_text": "11月13日(周五) 05:00后 · 美东 11/12 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-CSCO-2026-10-24-eps-USD-consolidated",
@@ -100435,10 +100469,11 @@
       {
         "symbol": "CBRS",
         "company_name": "Cerebras Systems",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "05:00后",
+        "scheduled_at": "2026-11-13T05:00:00+08:00",
+        "schedule_text": "11月13日(周五) 05:00后 · 美东 11/12 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-CBRS-2026-09-30-eps-USD-consolidated",
@@ -100475,128 +100510,174 @@
         ]
       },
       {
-        "symbol": "XPEV",
-        "company_name": "小鹏汽车",
-        "section": "upcoming",
+        "symbol": "FIGR",
+        "company_name": "Figure Technology Solutions",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-12T22:30:00+08:00",
+        "schedule_text": "11月12日(周四) 22:30前 · 美东 11/12 盘前",
         "contracts": [
           {
-            "forecast_id": "inst-env-XPEV-2026-09-30-eps-CNY-consolidated",
+            "forecast_id": "inst-env-FIGR-2026-09-30-eps-USD-consolidated",
             "metric": "eps",
-            "currency": "CNY",
-            "unit": "CNY/股",
+            "currency": "USD",
+            "unit": "USD/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "-0.71",
-            "beat_standard": "-0.7",
-            "miss_display": "-0.71 CNY/股",
-            "beat_display": "-0.7 CNY/股",
+            "miss_standard": "0.31",
+            "beat_standard": "0.34",
+            "miss_display": "0.31 USD/股",
+            "beat_display": "0.34 USD/股",
             "same_bound": false,
             "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Yahoo Finance: EPS -0.7 人民币 ｜ Equibles: EPS -0.71 人民币"
+            "institution_count": 3,
+            "institutions_summary": "Zacks公告前文章: EPS $0.31 ｜ Yahoo Finance: EPS $0.34 ｜ Equibles: EPS $0.34"
           },
           {
-            "forecast_id": "inst-env-XPEV-2026-09-30-revenue-CNY-consolidated",
-            "metric": "revenue",
-            "currency": "CNY",
-            "unit": "CNY",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "23170000000",
-            "beat_standard": "23170000000",
-            "miss_display": "23,170,000,000 CNY",
-            "beat_display": "23,170,000,000 CNY",
-            "same_bound": true,
-            "readable_span": "≈ 231.7亿 CNY",
-            "institution_count": 2,
-            "institutions_summary": "Yahoo Finance: 营收 231.7亿人民币 ｜ Equibles: 营收 231.7亿人民币"
-          }
-        ]
-      },
-      {
-        "symbol": "BIDU",
-        "company_name": "百度",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-BIDU-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "0.85",
-            "beat_standard": "0.85",
-            "miss_display": "0.85 USD/股",
-            "beat_display": "0.85 USD/股",
-            "same_bound": true,
-            "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $0.85 ｜ Earnings Whispers: EPS $0.85"
-          },
-          {
-            "forecast_id": "inst-env-BIDU-2026-09-30-revenue-USD-consolidated",
+            "forecast_id": "inst-env-FIGR-2026-09-30-revenue-USD-consolidated",
             "metric": "revenue",
             "currency": "USD",
             "unit": "USD",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "4610000000",
-            "beat_standard": "4610000000",
-            "miss_display": "4,610,000,000 USD",
-            "beat_display": "4,610,000,000 USD",
-            "same_bound": true,
-            "readable_span": "≈ 46.1亿 USD",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: 营收 46.1亿美元 ｜ Earnings Whispers: 营收 46.1亿美元"
+            "miss_standard": "249490000",
+            "beat_standard": "253270000",
+            "miss_display": "249,490,000 USD",
+            "beat_display": "253,270,000 USD",
+            "same_bound": false,
+            "readable_span": "≈ 低标 2.49亿 ~ 高标 2.53亿 USD",
+            "institution_count": 3,
+            "institutions_summary": "Zacks公告前文章: 营收 2.4949亿美元 ｜ Yahoo Finance: 营收 2.5327亿美元 ｜ Equibles: 营收 2.5327亿美元"
           }
         ]
       },
       {
-        "symbol": "BEKE",
-        "company_name": "贝壳",
-        "section": "upcoming",
+        "symbol": "LUNR",
+        "company_name": "Intuitive Machines",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-12T22:30:00+08:00",
+        "schedule_text": "11月12日(周四) 22:30前 · 美东 11/12 盘前",
         "contracts": [
           {
-            "forecast_id": "inst-env-BEKE-2026-09-30-eps-USD-consolidated",
+            "forecast_id": "inst-env-LUNR-2026-09-30-eps-USD-consolidated",
             "metric": "eps",
             "currency": "USD",
             "unit": "USD/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "0.25",
-            "beat_standard": "0.25",
-            "miss_display": "0.25 USD/股",
-            "beat_display": "0.25 USD/股",
-            "same_bound": true,
+            "miss_standard": "-0.12",
+            "beat_standard": "-0.11",
+            "miss_display": "-0.12 USD/股",
+            "beat_display": "-0.11 USD/股",
+            "same_bound": false,
             "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $0.25 ｜ Earnings Whispers: EPS $0.25"
+            "institution_count": 3,
+            "institutions_summary": "Zacks公告前文章: EPS $-0.12 ｜ Yahoo Finance: EPS $-0.11 ｜ Equibles: EPS $-0.11"
           },
           {
-            "forecast_id": "inst-env-BEKE-2026-09-30-revenue-USD-consolidated",
+            "forecast_id": "inst-env-LUNR-2026-09-30-revenue-USD-consolidated",
             "metric": "revenue",
             "currency": "USD",
             "unit": "USD",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "3070000000",
-            "beat_standard": "3070000000",
-            "miss_display": "3,070,000,000 USD",
-            "beat_display": "3,070,000,000 USD",
+            "miss_standard": "243300000",
+            "beat_standard": "247560000",
+            "miss_display": "243,300,000 USD",
+            "beat_display": "247,560,000 USD",
+            "same_bound": false,
+            "readable_span": "≈ 低标 2.43亿 ~ 高标 2.48亿 USD",
+            "institution_count": 3,
+            "institutions_summary": "Zacks公告前文章: 营收 2.433亿美元 ｜ Yahoo Finance: 营收 2.4756亿美元 ｜ Equibles: 营收 2.4756亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "ONDS",
+        "company_name": "Ondas",
+        "section": "published",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-12T21:30:00+08:00",
+        "schedule_text": "11月12日(周四) 21:30前 · 美东 11/12 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-ONDS-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "-0.09",
+            "beat_standard": "-0.09",
+            "miss_display": "-0.09 USD/股",
+            "beat_display": "-0.09 USD/股",
             "same_bound": true,
-            "readable_span": "≈ 30.7亿 USD",
+            "readable_span": "",
+            "institution_count": 3,
+            "institutions_summary": "Zacks公告前文章: EPS $-0.09 ｜ Yahoo Finance: EPS $-0.09 ｜ Equibles: EPS $-0.09"
+          },
+          {
+            "forecast_id": "inst-env-ONDS-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "147050000",
+            "beat_standard": "148040000",
+            "miss_display": "147,050,000 USD",
+            "beat_display": "148,040,000 USD",
+            "same_bound": false,
+            "readable_span": "≈ 低标 1.47亿 ~ 高标 1.48亿 USD",
+            "institution_count": 3,
+            "institutions_summary": "Zacks公告前文章: 营收 1.4705亿美元 ｜ Yahoo Finance: 营收 1.4804亿美元 ｜ Equibles: 营收 1.4804亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "GEMI",
+        "company_name": "Gemini Space Station",
+        "section": "published",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-13T05:00:00+08:00",
+        "schedule_text": "11月13日(周五) 05:00后 · 美东 11/12 盘后",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-GEMI-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "-1.13",
+            "beat_standard": "-1.13",
+            "miss_display": "-1.13 USD/股",
+            "beat_display": "-1.13 USD/股",
+            "same_bound": true,
+            "readable_span": "",
             "institution_count": 2,
-            "institutions_summary": "Zacks: 营收 30.7亿美元 ｜ Earnings Whispers: 营收 30.7亿美元"
+            "institutions_summary": "Zacks: EPS $-1.13 ｜ Earnings Whispers: EPS $-1.13"
+          },
+          {
+            "forecast_id": "inst-env-GEMI-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "45440000",
+            "beat_standard": "45440000",
+            "miss_display": "45,440,000 USD",
+            "beat_display": "45,440,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 4,544万 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 0.4544亿美元 ｜ Earnings Whispers: 0.4544亿美元"
           }
         ]
       },
@@ -100606,7 +100687,8 @@
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "16:00后—19:00前",
+        "scheduled_at": "2026-11-16T19:00:00+08:00",
+        "schedule_text": "11月16日(周一) 16:00后—19:00前 · 美东11/16 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-HTHT-2026-09-30-eps-USD-consolidated",
@@ -100680,7 +100762,8 @@
         "section": "upcoming",
         "report_period": "FY2026 Q4",
         "period_end": "2026-10-02",
-        "schedule_text": "21:30前",
+        "scheduled_at": "2026-11-16T21:30:00+08:00",
+        "schedule_text": "11月16日(周一) 21:30前 · 美东11/16 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-ARMK-2026-10-02-eps-USD-consolidated",
@@ -100717,12 +100800,142 @@
         ]
       },
       {
+        "symbol": "BEKE",
+        "company_name": "贝壳",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-16T22:30:00+08:00",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-BEKE-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.25",
+            "beat_standard": "0.25",
+            "miss_display": "0.25 USD/股",
+            "beat_display": "0.25 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $0.25 ｜ Earnings Whispers: EPS $0.25"
+          },
+          {
+            "forecast_id": "inst-env-BEKE-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "3070000000",
+            "beat_standard": "3070000000",
+            "miss_display": "3,070,000,000 USD",
+            "beat_display": "3,070,000,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 30.7亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 30.7亿美元 ｜ Earnings Whispers: 营收 30.7亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "BIDU",
+        "company_name": "百度",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-16T22:30:00+08:00",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-BIDU-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.85",
+            "beat_standard": "0.85",
+            "miss_display": "0.85 USD/股",
+            "beat_display": "0.85 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $0.85 ｜ Earnings Whispers: EPS $0.85"
+          },
+          {
+            "forecast_id": "inst-env-BIDU-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "4610000000",
+            "beat_standard": "4610000000",
+            "miss_display": "4,610,000,000 USD",
+            "beat_display": "4,610,000,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 46.1亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 46.1亿美元 ｜ Earnings Whispers: 营收 46.1亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "IQ",
+        "company_name": "爱奇艺",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-16T22:30:00+08:00",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-IQ-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "-0.01",
+            "beat_standard": "-0.01",
+            "miss_display": "-0.01 USD/股",
+            "beat_display": "-0.01 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $-0.01 ｜ Earnings Whispers: EPS $-0.01"
+          },
+          {
+            "forecast_id": "inst-env-IQ-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "909000000",
+            "beat_standard": "909000000",
+            "miss_display": "909,000,000 USD",
+            "beat_display": "909,000,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 9.09亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 9.09亿美元 ｜ Earnings Whispers: 9.09亿美元"
+          }
+        ]
+      },
+      {
         "symbol": "TSN",
         "company_name": "泰森食品",
         "section": "upcoming",
         "report_period": "FY2026 Q4",
         "period_end": "2026-10-03",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-16T22:30:00+08:00",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-TSN-2026-10-03-eps-USD-consolidated",
@@ -100759,12 +100972,56 @@
         ]
       },
       {
+        "symbol": "XPEV",
+        "company_name": "小鹏汽车",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-16T22:30:00+08:00",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-XPEV-2026-09-30-eps-CNY-consolidated",
+            "metric": "eps",
+            "currency": "CNY",
+            "unit": "CNY/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "-0.71",
+            "beat_standard": "-0.7",
+            "miss_display": "-0.71 CNY/股",
+            "beat_display": "-0.7 CNY/股",
+            "same_bound": false,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Yahoo Finance: EPS -0.7 人民币 ｜ Equibles: EPS -0.71 人民币"
+          },
+          {
+            "forecast_id": "inst-env-XPEV-2026-09-30-revenue-CNY-consolidated",
+            "metric": "revenue",
+            "currency": "CNY",
+            "unit": "CNY",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "23170000000",
+            "beat_standard": "23170000000",
+            "miss_display": "23,170,000,000 CNY",
+            "beat_display": "23,170,000,000 CNY",
+            "same_bound": true,
+            "readable_span": "≈ 231.7亿 CNY",
+            "institution_count": 2,
+            "institutions_summary": "Yahoo Finance: 营收 231.7亿人民币 ｜ Equibles: 营收 231.7亿人民币"
+          }
+        ]
+      },
+      {
         "symbol": "ACM",
         "company_name": "AECOM",
         "section": "upcoming",
         "report_period": "FY2026 Q4",
         "period_end": "2026-10-02",
-        "schedule_text": "05:00后",
+        "scheduled_at": "2026-11-17T05:00:00+08:00",
+        "schedule_text": "11月17日(周二) 05:00后 · 美东11/16 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-ACM-2026-10-02-eps-USD-consolidated",
@@ -100822,7 +101079,8 @@
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "05:00后",
+        "scheduled_at": "2026-11-17T05:00:00+08:00",
+        "schedule_text": "11月17日(周二) 05:00后 · 美东11/16 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-INFQ-2026-09-30-eps-USD-consolidated",
@@ -100864,7 +101122,8 @@
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "约05:05",
+        "scheduled_at": "2026-11-17T05:05:00+08:00",
+        "schedule_text": "11月17日(周二) 约05:05 · 美东11/16 约16:05",
         "contracts": [
           {
             "forecast_id": "inst-env-STEM-2026-09-30-eps-USD-consolidated",
@@ -100901,264 +101160,13 @@
         ]
       },
       {
-        "symbol": "FIGR",
-        "company_name": "Figure Technology Solutions",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-FIGR-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "0.31",
-            "beat_standard": "0.34",
-            "miss_display": "0.31 USD/股",
-            "beat_display": "0.34 USD/股",
-            "same_bound": false,
-            "readable_span": "",
-            "institution_count": 3,
-            "institutions_summary": "Zacks公告前文章: EPS $0.31 ｜ Yahoo Finance: EPS $0.34 ｜ Equibles: EPS $0.34"
-          },
-          {
-            "forecast_id": "inst-env-FIGR-2026-09-30-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "249490000",
-            "beat_standard": "253270000",
-            "miss_display": "249,490,000 USD",
-            "beat_display": "253,270,000 USD",
-            "same_bound": false,
-            "readable_span": "≈ 低标 2.49亿 ~ 高标 2.53亿 USD",
-            "institution_count": 3,
-            "institutions_summary": "Zacks公告前文章: 营收 2.4949亿美元 ｜ Yahoo Finance: 营收 2.5327亿美元 ｜ Equibles: 营收 2.5327亿美元"
-          }
-        ]
-      },
-      {
-        "symbol": "LUNR",
-        "company_name": "Intuitive Machines",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-LUNR-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "-0.12",
-            "beat_standard": "-0.11",
-            "miss_display": "-0.12 USD/股",
-            "beat_display": "-0.11 USD/股",
-            "same_bound": false,
-            "readable_span": "",
-            "institution_count": 3,
-            "institutions_summary": "Zacks公告前文章: EPS $-0.12 ｜ Yahoo Finance: EPS $-0.11 ｜ Equibles: EPS $-0.11"
-          },
-          {
-            "forecast_id": "inst-env-LUNR-2026-09-30-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "243300000",
-            "beat_standard": "247560000",
-            "miss_display": "243,300,000 USD",
-            "beat_display": "247,560,000 USD",
-            "same_bound": false,
-            "readable_span": "≈ 低标 2.43亿 ~ 高标 2.48亿 USD",
-            "institution_count": 3,
-            "institutions_summary": "Zacks公告前文章: 营收 2.433亿美元 ｜ Yahoo Finance: 营收 2.4756亿美元 ｜ Equibles: 营收 2.4756亿美元"
-          }
-        ]
-      },
-      {
-        "symbol": "ONDS",
-        "company_name": "Ondas",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "21:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-ONDS-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "-0.09",
-            "beat_standard": "-0.09",
-            "miss_display": "-0.09 USD/股",
-            "beat_display": "-0.09 USD/股",
-            "same_bound": true,
-            "readable_span": "",
-            "institution_count": 3,
-            "institutions_summary": "Zacks公告前文章: EPS $-0.09 ｜ Yahoo Finance: EPS $-0.09 ｜ Equibles: EPS $-0.09"
-          },
-          {
-            "forecast_id": "inst-env-ONDS-2026-09-30-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "147050000",
-            "beat_standard": "148040000",
-            "miss_display": "147,050,000 USD",
-            "beat_display": "148,040,000 USD",
-            "same_bound": false,
-            "readable_span": "≈ 低标 1.47亿 ~ 高标 1.48亿 USD",
-            "institution_count": 3,
-            "institutions_summary": "Zacks公告前文章: 营收 1.4705亿美元 ｜ Yahoo Finance: 营收 1.4804亿美元 ｜ Equibles: 营收 1.4804亿美元"
-          }
-        ]
-      },
-      {
-        "symbol": "GEMI",
-        "company_name": "Gemini Space Station",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "05:00后",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-GEMI-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "-1.13",
-            "beat_standard": "-1.13",
-            "miss_display": "-1.13 USD/股",
-            "beat_display": "-1.13 USD/股",
-            "same_bound": true,
-            "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $-1.13 ｜ Earnings Whispers: EPS $-1.13"
-          },
-          {
-            "forecast_id": "inst-env-GEMI-2026-09-30-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "45440000",
-            "beat_standard": "45440000",
-            "miss_display": "45,440,000 USD",
-            "beat_display": "45,440,000 USD",
-            "same_bound": true,
-            "readable_span": "≈ 4,544万 USD",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: 0.4544亿美元 ｜ Earnings Whispers: 0.4544亿美元"
-          }
-        ]
-      },
-      {
-        "symbol": "IQ",
-        "company_name": "爱奇艺",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-IQ-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "-0.01",
-            "beat_standard": "-0.01",
-            "miss_display": "-0.01 USD/股",
-            "beat_display": "-0.01 USD/股",
-            "same_bound": true,
-            "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $-0.01 ｜ Earnings Whispers: EPS $-0.01"
-          },
-          {
-            "forecast_id": "inst-env-IQ-2026-09-30-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "909000000",
-            "beat_standard": "909000000",
-            "miss_display": "909,000,000 USD",
-            "beat_display": "909,000,000 USD",
-            "same_bound": true,
-            "readable_span": "≈ 9.09亿 USD",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: 9.09亿美元 ｜ Earnings Whispers: 9.09亿美元"
-          }
-        ]
-      },
-      {
-        "symbol": "TME",
-        "company_name": "腾讯音乐",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-TME-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "0.22",
-            "beat_standard": "0.22",
-            "miss_display": "0.22 USD/股",
-            "beat_display": "0.22 USD/股",
-            "same_bound": true,
-            "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $0.22 ｜ Earnings Whispers: EPS $0.22"
-          },
-          {
-            "forecast_id": "inst-env-TME-2026-09-30-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "1350000000",
-            "beat_standard": "1350000000",
-            "miss_display": "1,350,000,000 USD",
-            "beat_display": "1,350,000,000 USD",
-            "same_bound": true,
-            "readable_span": "≈ 13.5亿 USD",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: 13.5亿美元 ｜ Earnings Whispers: 13.5亿美元"
-          }
-        ]
-      },
-      {
         "symbol": "AS",
         "company_name": "亚玛芬体育",
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-17T22:30:00+08:00",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-AS-2026-09-30-eps-USD-consolidated",
@@ -101195,54 +101203,13 @@
         ]
       },
       {
-        "symbol": "JD",
-        "company_name": "京东",
-        "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-JD-2026-09-30-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "0.98",
-            "beat_standard": "1.05",
-            "miss_display": "0.98 USD/股",
-            "beat_display": "1.05 USD/股",
-            "same_bound": false,
-            "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $1.05 ｜ Earnings Whispers: EPS $0.98"
-          },
-          {
-            "forecast_id": "inst-env-JD-2026-09-30-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "46270000000",
-            "beat_standard": "46270000000",
-            "miss_display": "46,270,000,000 USD",
-            "beat_display": "46,270,000,000 USD",
-            "same_bound": true,
-            "readable_span": "≈ 462.7亿 USD",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: 462.7亿美元 ｜ Earnings Whispers: 462.7亿美元"
-          }
-        ]
-      },
-      {
         "symbol": "DIS",
         "company_name": "迪士尼",
         "section": "upcoming",
         "report_period": "FY2026 Q4",
         "period_end": "2026-10-03",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-17T22:30:00+08:00",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-DIS-2026-10-03-eps-USD-consolidated",
@@ -101279,44 +101246,45 @@
         ]
       },
       {
-        "symbol": "VIK",
-        "company_name": "Viking Holdings",
+        "symbol": "JD",
+        "company_name": "京东",
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-17T22:30:00+08:00",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "contracts": [
           {
-            "forecast_id": "inst-env-VIK-2026-09-30-eps-USD-consolidated",
+            "forecast_id": "inst-env-JD-2026-09-30-eps-USD-consolidated",
             "metric": "eps",
             "currency": "USD",
             "unit": "USD/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "1.23",
-            "beat_standard": "1.23",
-            "miss_display": "1.23 USD/股",
-            "beat_display": "1.23 USD/股",
-            "same_bound": true,
+            "miss_standard": "0.98",
+            "beat_standard": "1.05",
+            "miss_display": "0.98 USD/股",
+            "beat_display": "1.05 USD/股",
+            "same_bound": false,
             "readable_span": "",
             "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $1.23 ｜ Earnings Whispers: EPS $1.23"
+            "institutions_summary": "Zacks: EPS $1.05 ｜ Earnings Whispers: EPS $0.98"
           },
           {
-            "forecast_id": "inst-env-VIK-2026-09-30-revenue-USD-consolidated",
+            "forecast_id": "inst-env-JD-2026-09-30-revenue-USD-consolidated",
             "metric": "revenue",
             "currency": "USD",
             "unit": "USD",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "2180000000",
-            "beat_standard": "2180000000",
-            "miss_display": "2,180,000,000 USD",
-            "beat_display": "2,180,000,000 USD",
+            "miss_standard": "46270000000",
+            "beat_standard": "46270000000",
+            "miss_display": "46,270,000,000 USD",
+            "beat_display": "46,270,000,000 USD",
             "same_bound": true,
-            "readable_span": "≈ 21.8亿 USD",
+            "readable_span": "≈ 462.7亿 USD",
             "institution_count": 2,
-            "institutions_summary": "Zacks: 21.8亿美元 ｜ Earnings Whispers: 21.8亿美元"
+            "institutions_summary": "Zacks: 462.7亿美元 ｜ Earnings Whispers: 462.7亿美元"
           }
         ]
       },
@@ -101326,7 +101294,8 @@
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-17T22:30:00+08:00",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-KLAR-2026-09-30-eps-USD-consolidated",
@@ -101363,44 +101332,88 @@
         ]
       },
       {
-        "symbol": "NVDA",
-        "company_name": "英伟达",
+        "symbol": "TME",
+        "company_name": "腾讯音乐",
         "section": "upcoming",
-        "report_period": "FY2027 Q3",
-        "period_end": "2026-10-25",
-        "schedule_text": "约05:20",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-17T22:30:00+08:00",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "contracts": [
           {
-            "forecast_id": "inst-env-NVDA-2026-10-25-eps-USD-consolidated",
+            "forecast_id": "inst-env-TME-2026-09-30-eps-USD-consolidated",
             "metric": "eps",
             "currency": "USD",
             "unit": "USD/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "2.49",
-            "beat_standard": "2.49",
-            "miss_display": "2.49 USD/股",
-            "beat_display": "2.49 USD/股",
+            "miss_standard": "0.22",
+            "beat_standard": "0.22",
+            "miss_display": "0.22 USD/股",
+            "beat_display": "0.22 USD/股",
             "same_bound": true,
             "readable_span": "",
             "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $2.49 ｜ Earnings Whispers: EPS $2.49"
+            "institutions_summary": "Zacks: EPS $0.22 ｜ Earnings Whispers: EPS $0.22"
           },
           {
-            "forecast_id": "inst-env-NVDA-2026-10-25-revenue-USD-consolidated",
+            "forecast_id": "inst-env-TME-2026-09-30-revenue-USD-consolidated",
             "metric": "revenue",
             "currency": "USD",
             "unit": "USD",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "108990000000",
-            "beat_standard": "108990000000",
-            "miss_display": "108,990,000,000 USD",
-            "beat_display": "108,990,000,000 USD",
+            "miss_standard": "1350000000",
+            "beat_standard": "1350000000",
+            "miss_display": "1,350,000,000 USD",
+            "beat_display": "1,350,000,000 USD",
             "same_bound": true,
-            "readable_span": "≈ 1,089.9亿 USD",
+            "readable_span": "≈ 13.5亿 USD",
             "institution_count": 2,
-            "institutions_summary": "Zacks: 1089.9亿美元 ｜ Earnings Whispers: 1089.9亿美元"
+            "institutions_summary": "Zacks: 13.5亿美元 ｜ Earnings Whispers: 13.5亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "VIK",
+        "company_name": "Viking Holdings",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-17T22:30:00+08:00",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-VIK-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "1.23",
+            "beat_standard": "1.23",
+            "miss_display": "1.23 USD/股",
+            "beat_display": "1.23 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $1.23 ｜ Earnings Whispers: EPS $1.23"
+          },
+          {
+            "forecast_id": "inst-env-VIK-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "2180000000",
+            "beat_standard": "2180000000",
+            "miss_display": "2,180,000,000 USD",
+            "beat_display": "2,180,000,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 21.8亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 21.8亿美元 ｜ Earnings Whispers: 21.8亿美元"
           }
         ]
       },
@@ -101410,7 +101423,8 @@
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "05:00后",
+        "scheduled_at": "2026-11-18T05:00:00+08:00",
+        "schedule_text": "11月18日(周三) 05:00后 · 美东 11/17 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-ZTO-2026-09-30-eps-CNY-consolidated",
@@ -101479,44 +101493,45 @@
         ]
       },
       {
-        "symbol": "PONY",
-        "company_name": "小马智行",
+        "symbol": "NVDA",
+        "company_name": "英伟达",
         "section": "upcoming",
-        "report_period": "FY2026 Q3",
-        "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "report_period": "FY2027 Q3",
+        "period_end": "2026-10-25",
+        "scheduled_at": "2026-11-18T05:20:00+08:00",
+        "schedule_text": "11月18日(周三) 约05:20 · 美东 11/17 约16:20",
         "contracts": [
           {
-            "forecast_id": "inst-env-PONY-2026-09-30-eps-USD-consolidated",
+            "forecast_id": "inst-env-NVDA-2026-10-25-eps-USD-consolidated",
             "metric": "eps",
             "currency": "USD",
             "unit": "USD/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "-0.18",
-            "beat_standard": "-0.18",
-            "miss_display": "-0.18 USD/股",
-            "beat_display": "-0.18 USD/股",
+            "miss_standard": "2.49",
+            "beat_standard": "2.49",
+            "miss_display": "2.49 USD/股",
+            "beat_display": "2.49 USD/股",
             "same_bound": true,
             "readable_span": "",
             "institution_count": 2,
-            "institutions_summary": "Equibles: EPS $-0.18 ｜ Yahoo Finance: EPS $-0.18"
+            "institutions_summary": "Zacks: EPS $2.49 ｜ Earnings Whispers: EPS $2.49"
           },
           {
-            "forecast_id": "inst-env-PONY-2026-09-30-revenue-USD-consolidated",
+            "forecast_id": "inst-env-NVDA-2026-10-25-revenue-USD-consolidated",
             "metric": "revenue",
             "currency": "USD",
             "unit": "USD",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "39120000",
-            "beat_standard": "39120000",
-            "miss_display": "39,120,000 USD",
-            "beat_display": "39,120,000 USD",
+            "miss_standard": "108990000000",
+            "beat_standard": "108990000000",
+            "miss_display": "108,990,000,000 USD",
+            "beat_display": "108,990,000,000 USD",
             "same_bound": true,
-            "readable_span": "≈ 3,912万 USD",
+            "readable_span": "≈ 1,089.9亿 USD",
             "institution_count": 2,
-            "institutions_summary": "Equibles: 营收 3912万美元 ｜ Yahoo Finance: 营收 3912万美元"
+            "institutions_summary": "Zacks: 1089.9亿美元 ｜ Earnings Whispers: 1089.9亿美元"
           }
         ]
       },
@@ -101526,7 +101541,8 @@
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-18T22:30:00+08:00",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-GLBE-2026-09-30-eps-USD-consolidated",
@@ -101563,54 +101579,13 @@
         ]
       },
       {
-        "symbol": "TJX",
-        "company_name": "TJX零售",
-        "section": "upcoming",
-        "report_period": "FY2027 Q3",
-        "period_end": "2026-10-31",
-        "schedule_text": "22:30前",
-        "contracts": [
-          {
-            "forecast_id": "inst-env-TJX-2026-10-31-eps-USD-consolidated",
-            "metric": "eps",
-            "currency": "USD",
-            "unit": "USD/股",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "1.33",
-            "beat_standard": "1.33",
-            "miss_display": "1.33 USD/股",
-            "beat_display": "1.33 USD/股",
-            "same_bound": true,
-            "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $1.33 ｜ Earnings Whispers: EPS $1.33"
-          },
-          {
-            "forecast_id": "inst-env-TJX-2026-10-31-revenue-USD-consolidated",
-            "metric": "revenue",
-            "currency": "USD",
-            "unit": "USD",
-            "business_scope": "consolidated",
-            "scope_label": "合并口径",
-            "miss_standard": "15810000000",
-            "beat_standard": "15810000000",
-            "miss_display": "15,810,000,000 USD",
-            "beat_display": "15,810,000,000 USD",
-            "same_bound": true,
-            "readable_span": "≈ 158.1亿 USD",
-            "institution_count": 2,
-            "institutions_summary": "Zacks: 158.1亿美元 ｜ Earnings Whispers: 158.1亿美元"
-          }
-        ]
-      },
-      {
         "symbol": "GLNG",
         "company_name": "Golar LNG",
         "section": "upcoming",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
-        "schedule_text": "22:30前",
+        "scheduled_at": "2026-11-18T22:30:00+08:00",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
         "contracts": [
           {
             "forecast_id": "inst-env-GLNG-2026-09-30-eps-USD-consolidated",
@@ -101647,12 +101622,99 @@
         ]
       },
       {
+        "symbol": "PONY",
+        "company_name": "小马智行",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-18T22:30:00+08:00",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-PONY-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "-0.18",
+            "beat_standard": "-0.18",
+            "miss_display": "-0.18 USD/股",
+            "beat_display": "-0.18 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Equibles: EPS $-0.18 ｜ Yahoo Finance: EPS $-0.18"
+          },
+          {
+            "forecast_id": "inst-env-PONY-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "39120000",
+            "beat_standard": "39120000",
+            "miss_display": "39,120,000 USD",
+            "beat_display": "39,120,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 3,912万 USD",
+            "institution_count": 2,
+            "institutions_summary": "Equibles: 营收 3912万美元 ｜ Yahoo Finance: 营收 3912万美元"
+          }
+        ]
+      },
+      {
+        "symbol": "TJX",
+        "company_name": "TJX零售",
+        "section": "upcoming",
+        "report_period": "FY2027 Q3",
+        "period_end": "2026-10-31",
+        "scheduled_at": "2026-11-18T22:30:00+08:00",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-TJX-2026-10-31-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "1.33",
+            "beat_standard": "1.33",
+            "miss_display": "1.33 USD/股",
+            "beat_display": "1.33 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $1.33 ｜ Earnings Whispers: EPS $1.33"
+          },
+          {
+            "forecast_id": "inst-env-TJX-2026-10-31-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "15810000000",
+            "beat_standard": "15810000000",
+            "miss_display": "15,810,000,000 USD",
+            "beat_display": "15,810,000,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 158.1亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 158.1亿美元 ｜ Earnings Whispers: 158.1亿美元"
+          }
+        ]
+      },
+      {
         "symbol": "WWD",
         "company_name": "Woodward",
         "section": "upcoming",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-30",
-        "schedule_text": "约05:00",
+        "scheduled_at": "2026-11-19T05:00:00+08:00",
+        "schedule_text": "11月19日(周四) 约05:00 · 美东 11/18 约16:00",
         "contracts": [
           {
             "forecast_id": "inst-env-WWD-2026-09-30-eps-USD-consolidated",
@@ -101694,7 +101756,8 @@
         "section": "upcoming",
         "report_period": "FY2027 Q1",
         "period_end": "2026-10-31",
-        "schedule_text": "05:00后—05:30前",
+        "scheduled_at": "2026-11-19T05:30:00+08:00",
+        "schedule_text": "11月19日(周四) 05:00后—05:30前 · 美东 11/18 盘后",
         "contracts": [
           {
             "forecast_id": "inst-env-PANW-2026-10-31-eps-USD-consolidated",
@@ -109888,7 +109951,7 @@
       {
         "symbol": "GEMI",
         "company_name": "Gemini航天",
-        "schedule_text": "05:00后",
+        "schedule_text": "11月13日 05:00后",
         "channels_count": 3,
         "winner_channel": "newswire",
         "winner_label": "财经社专线",
@@ -109985,7 +110048,7 @@
       {
         "symbol": "CBRS",
         "company_name": "Cerebras芯片",
-        "schedule_text": "05:00后",
+        "schedule_text": "11月13日 05:00后",
         "channels_count": 2,
         "winner_channel": "sec",
         "winner_label": "SEC披露网站",
@@ -110060,7 +110123,7 @@
       {
         "symbol": "ONDS",
         "company_name": "Ondas网络",
-        "schedule_text": "21:30前",
+        "schedule_text": "11月12日 21:30前",
         "channels_count": 1,
         "winner_channel": "sec",
         "winner_label": "SEC披露网站",
@@ -110092,7 +110155,7 @@
       {
         "symbol": "LUNR",
         "company_name": "直觉机器",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月12日 22:30前",
         "channels_count": 3,
         "winner_channel": "newswire",
         "winner_label": "财经社专线",
@@ -110189,7 +110252,7 @@
       {
         "symbol": "FIGR",
         "company_name": "Figure科技",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月12日 22:30前",
         "channels_count": 3,
         "winner_channel": "newswire",
         "winner_label": "财经社专线",
@@ -111650,9 +111713,9 @@
       "venues": {
         "binance": {
           "enabled": true,
-          "margin_usd": 50.0,
+          "margin_usd": 0.0,
           "leverage": 1,
-          "notional_usd": 50.0,
+          "notional_usd": 0.0,
           "max_slippage_bps": 35
         },
         "hyperliquid": {
@@ -111720,9 +111783,9 @@
     },
     "upcoming_targets": [
       {
-        "symbol": "BN",
-        "company_name": "布鲁克菲尔德",
-        "schedule_text": "11月12日 约20:00",
+        "symbol": "HTHT",
+        "company_name": "华住集团",
+        "schedule_text": "11月16日(周一) 16:00后—19:00前 · 美东11/16 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -111763,9 +111826,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -111788,93 +111851,25 @@
         }
       },
       {
-        "symbol": "NBIS",
-        "company_name": "Nebius算力",
-        "schedule_text": "11月12日 22:30前",
-        "report_period": "FY2026 Q3",
+        "symbol": "ARMK",
+        "company_name": "爱玛客",
+        "schedule_text": "11月16日(周一) 21:30前 · 美东11/16 盘前",
+        "report_period": "FY2026 Q4",
         "has_custom_override": false,
         "contracts": {
-          "binance": "NBISUSDT",
-          "hyperliquid": "xyz:NBIS",
-          "okx": "NBIS-USDT-SWAP"
-        },
-        "listed": {
-          "binance": true,
-          "hyperliquid": true,
-          "okx": true
-        },
-        "ref_prices": {
-          "binance": 119.55,
-          "hyperliquid": 119.63,
-          "okx": 119.575
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "CSCO",
-        "company_name": "思科",
-        "schedule_text": "11月13日 05:00后",
-        "report_period": "FY2027 Q1",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "CSCOUSDT",
+          "binance": "未上架",
           "hyperliquid": "未上架",
-          "okx": "CSCO-USDT-SWAP"
+          "okx": "未上架"
         },
         "listed": {
-          "binance": true,
+          "binance": false,
           "hyperliquid": false,
-          "okx": true
+          "okx": false
         },
         "ref_prices": {
-          "binance": 100.045,
+          "binance": null,
           "hyperliquid": null,
-          "okx": 100.105
+          "okx": null
         },
         "min_notional": {
           "binance": 5.0,
@@ -111899,9 +111894,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -111924,77 +111919,9 @@
         }
       },
       {
-        "symbol": "CBRS",
-        "company_name": "Cerebras芯片",
-        "schedule_text": "05:00后",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "CBRSUSDT",
-          "hyperliquid": "xyz:CBRS",
-          "okx": "CBRS-USDT-SWAP"
-        },
-        "listed": {
-          "binance": true,
-          "hyperliquid": true,
-          "okx": true
-        },
-        "ref_prices": {
-          "binance": 113.425,
-          "hyperliquid": 113.43,
-          "okx": 113.46
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "XPEV",
-        "company_name": "小鹏汽车",
-        "schedule_text": "22:30前",
+        "symbol": "BEKE",
+        "company_name": "贝壳",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -112035,9 +111962,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -112062,7 +111989,7 @@
       {
         "symbol": "BIDU",
         "company_name": "百度",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -112103,9 +112030,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -112128,9 +112055,9 @@
         }
       },
       {
-        "symbol": "BEKE",
-        "company_name": "贝壳",
-        "schedule_text": "22:30前",
+        "symbol": "IQ",
+        "company_name": "爱奇艺",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -112171,145 +112098,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "HTHT",
-        "company_name": "华住集团",
-        "schedule_text": "16:00后—19:00前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "ARMK",
-        "company_name": "爱玛客",
-        "schedule_text": "21:30前",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -112334,7 +112125,7 @@
       {
         "symbol": "TSN",
         "company_name": "泰森食品",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
         "report_period": "FY2026 Q4",
         "has_custom_override": false,
         "contracts": {
@@ -112375,9 +112166,77 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 35
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 45
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 40
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false
+        }
+      },
+      {
+        "symbol": "XPEV",
+        "company_name": "小鹏汽车",
+        "schedule_text": "11月16日(周一) 22:30前 · 美东 11/16 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 0.8,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 1.5,
+          "breakeven_lock_pct": 0.5,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -112402,7 +112261,7 @@
       {
         "symbol": "ACM",
         "company_name": "AECOM工程",
-        "schedule_text": "05:00后",
+        "schedule_text": "11月17日(周二) 05:00后 · 美东11/16 盘后",
         "report_period": "FY2026 Q4",
         "has_custom_override": false,
         "contracts": {
@@ -112443,9 +112302,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -112470,7 +112329,7 @@
       {
         "symbol": "INFQ",
         "company_name": "Infleqtion量子",
-        "schedule_text": "05:00后",
+        "schedule_text": "11月17日(周二) 05:00后 · 美东11/16 盘后",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -112511,9 +112370,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -112538,7 +112397,7 @@
       {
         "symbol": "STEM",
         "company_name": "Stem储能",
-        "schedule_text": "约05:05",
+        "schedule_text": "11月17日(周二) 约05:05 · 美东11/16 约16:05",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -112579,417 +112438,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "FIGR",
-        "company_name": "Figure科技",
-        "schedule_text": "22:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "LUNR",
-        "company_name": "直觉机器",
-        "schedule_text": "22:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "LUNR-USDT-SWAP"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": true
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": 13.8455
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "ONDS",
-        "company_name": "Ondas网络",
-        "schedule_text": "21:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "ONDSUSDT",
-          "hyperliquid": "未上架",
-          "okx": "ONDS-USDT-SWAP"
-        },
-        "listed": {
-          "binance": true,
-          "hyperliquid": false,
-          "okx": true
-        },
-        "ref_prices": {
-          "binance": 5.597,
-          "hyperliquid": null,
-          "okx": 5.579
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "GEMI",
-        "company_name": "Gemini航天",
-        "schedule_text": "05:00后",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "IQ",
-        "company_name": "爱奇艺",
-        "schedule_text": "22:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "TME",
-        "company_name": "腾讯音乐",
-        "schedule_text": "22:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113014,7 +112465,7 @@
       {
         "symbol": "AS",
         "company_name": "亚玛芬体育",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -113055,77 +112506,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "JD",
-        "company_name": "京东",
-        "schedule_text": "22:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113150,7 +112533,7 @@
       {
         "symbol": "DIS",
         "company_name": "迪士尼",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "report_period": "FY2026 Q4",
         "has_custom_override": false,
         "contracts": {
@@ -113191,9 +112574,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113216,9 +112599,9 @@
         }
       },
       {
-        "symbol": "VIK",
-        "company_name": "维京游轮",
-        "schedule_text": "22:30前",
+        "symbol": "JD",
+        "company_name": "京东",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -113259,9 +112642,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113286,7 +112669,7 @@
       {
         "symbol": "KLAR",
         "company_name": "Klarna支付",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -113327,9 +112710,213 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 35
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 45
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 40
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false
+        }
+      },
+      {
+        "symbol": "TME",
+        "company_name": "腾讯音乐",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 0.8,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 1.5,
+          "breakeven_lock_pct": 0.5,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 35
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 45
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 40
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false
+        }
+      },
+      {
+        "symbol": "VIK",
+        "company_name": "维京游轮",
+        "schedule_text": "11月17日(周二) 22:30前 · 美东 11/17 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 0.8,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 1.5,
+          "breakeven_lock_pct": 0.5,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 35
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 45
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 40
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false
+        }
+      },
+      {
+        "symbol": "ZTO",
+        "company_name": "中通快递",
+        "schedule_text": "11月18日(周三) 05:00后 · 美东 11/17 盘后",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 0.8,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 1.5,
+          "breakeven_lock_pct": 0.5,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113354,7 +112941,7 @@
       {
         "symbol": "NVDA",
         "company_name": "英伟达",
-        "schedule_text": "约05:20",
+        "schedule_text": "11月18日(周三) 约05:20 · 美东 11/17 约16:20",
         "report_period": "FY2027 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -113395,145 +112982,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "ZTO",
-        "company_name": "中通快递",
-        "schedule_text": "05:00后",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "PONY",
-        "company_name": "小马智行",
-        "schedule_text": "22:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113558,7 +113009,7 @@
       {
         "symbol": "GLBE",
         "company_name": "Global-e跨境",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -113599,9 +113050,145 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 35
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 45
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 40
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false
+        }
+      },
+      {
+        "symbol": "GLNG",
+        "company_name": "Golar液化气",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 0.8,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 1.5,
+          "breakeven_lock_pct": 0.5,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 35
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 45
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
+              "max_slippage_bps": 40
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false
+        }
+      },
+      {
+        "symbol": "PONY",
+        "company_name": "小马智行",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 0.8,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 1.5,
+          "breakeven_lock_pct": 0.5,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113626,7 +113213,7 @@
       {
         "symbol": "TJX",
         "company_name": "TJX零售",
-        "schedule_text": "22:30前",
+        "schedule_text": "11月18日(周三) 22:30前 · 美东 11/18 盘前",
         "report_period": "FY2027 Q3",
         "has_custom_override": false,
         "contracts": {
@@ -113667,77 +113254,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
-            },
-            "hyperliquid": {
-              "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
               "notional_usd": 0.0,
-              "max_slippage_bps": 45
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false
-        }
-      },
-      {
-        "symbol": "GLNG",
-        "company_name": "Golar液化气",
-        "schedule_text": "22:30前",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 0.8,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 1.5,
-          "breakeven_lock_pct": 0.5,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 50.0,
-              "leverage": 1,
-              "notional_usd": 50.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113762,7 +113281,7 @@
       {
         "symbol": "WWD",
         "company_name": "伍德沃德",
-        "schedule_text": "约05:00",
+        "schedule_text": "11月19日(周四) 约05:00 · 美东 11/18 约16:00",
         "report_period": "FY2026 Q4",
         "has_custom_override": false,
         "contracts": {
@@ -113803,9 +113322,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -113830,7 +113349,7 @@
       {
         "symbol": "PANW",
         "company_name": "派拓网络",
-        "schedule_text": "05:00后—05:30前",
+        "schedule_text": "11月19日(周四) 05:00后—05:30前 · 美东 11/18 盘后",
         "report_period": "FY2027 Q1",
         "has_custom_override": false,
         "contracts": {
@@ -113871,9 +113390,9 @@
           "venues": {
             "binance": {
               "enabled": true,
-              "margin_usd": 50.0,
+              "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 50.0,
+              "notional_usd": 0.0,
               "max_slippage_bps": 35
             },
             "hyperliquid": {
@@ -120638,7 +120157,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026年第三季度（Q3） 涵盖： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "05:00后 币安预测时间 05:05 美东 11/12 盘后",
+      "schedule_text": "11月13日 05:00后 币安预测时间 05:05 美东 11/12 盘后",
       "window_start_beijing": "2026-11-13T04:45:00+08:00",
       "window_end_beijing": "2026-11-13T12:59:00+08:00",
       "state": "received",
@@ -120805,7 +120324,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 17:00 美东 11/16 盘前",
+      "schedule_text": "11月16日 22:30前 币安预测时间 17:00 美东 11/16 盘前",
       "window_start_beijing": "2026-11-16T13:00:00+08:00",
       "window_end_beijing": "2026-11-16T23:30:00+08:00",
       "state": "waiting",
@@ -120860,7 +120379,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 18:00 美东 11/16 盘前",
+      "schedule_text": "11月16日 22:30前 币安预测时间 18:00 美东 11/16 盘前",
       "window_start_beijing": "2026-11-16T13:00:00+08:00",
       "window_end_beijing": "2026-11-16T23:30:00+08:00",
       "state": "waiting",
@@ -120915,7 +120434,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 19:00 美东 11/16 盘前",
+      "schedule_text": "11月16日 22:30前 币安预测时间 19:00 美东 11/16 盘前",
       "window_start_beijing": "2026-11-16T13:00:00+08:00",
       "window_end_beijing": "2026-11-16T23:30:00+08:00",
       "state": "waiting",
@@ -120970,7 +120489,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026年第三季度（Q3） · 未审计业绩 涵盖： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "16:00后—19:00前 币安预测时间 19:15 （时段不同） 美东11/16 盘前",
+      "schedule_text": "11月16日 16:00后—19:00前 币安预测时间 19:15 （时段不同） 美东11/16 盘前",
       "window_start_beijing": "2026-11-16T16:00:00+08:00",
       "window_end_beijing": "2026-11-16T19:00:00+08:00",
       "state": "waiting",
@@ -121025,7 +120544,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026财年第四季度（Q4）及全年 季度： 2026-07-04 — 2026-10-02 全年： 2025-10-04 — 2026-10-02 按公司财历换算",
-      "schedule_text": "21:30前 币安预测时间 19:30 美东11/16 盘前",
+      "schedule_text": "11月16日 21:30前 币安预测时间 19:30 美东11/16 盘前",
       "window_start_beijing": "2026-11-16T13:00:00+08:00",
       "window_end_beijing": "2026-11-16T22:30:00+08:00",
       "state": "waiting",
@@ -121080,7 +120599,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026财年第四季度（Q4）及全年 季度： 2026-06-28 — 2026-10-03 全年： 2025-09-28 — 2026-10-03 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 20:00 美东 11/16 盘前",
+      "schedule_text": "11月16日 22:30前 币安预测时间 20:00 美东 11/16 盘前",
       "window_start_beijing": "2026-11-16T13:00:00+08:00",
       "window_end_beijing": "2026-11-16T23:30:00+08:00",
       "state": "waiting",
@@ -121135,7 +120654,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026财年第四季度（Q4）及全年 季度： 2026-07-04 — 2026-10-02 全年： 2025-10-04 — 2026-10-02 按公司财历换算",
-      "schedule_text": "05:00后 币安预测时间 05:05 美东11/16 盘后 发布时段跨本轮截止，准确时刻未定",
+      "schedule_text": "11月17日 05:00后 币安预测时间 05:05 美东11/16 盘后 发布时段跨本轮截止，准确时刻未定",
       "window_start_beijing": "2026-11-17T04:45:00+08:00",
       "window_end_beijing": "2026-11-17T12:59:00+08:00",
       "state": "waiting",
@@ -121190,7 +120709,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026年第三季度（Q3） 涵盖： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "05:00后 币安预测时间 05:05 美东11/16 盘后 发布时段跨本轮截止，准确时刻未定",
+      "schedule_text": "11月17日 05:00后 币安预测时间 05:05 美东11/16 盘后 发布时段跨本轮截止，准确时刻未定",
       "window_start_beijing": "2026-11-17T04:45:00+08:00",
       "window_end_beijing": "2026-11-17T12:59:00+08:00",
       "state": "waiting",
@@ -121245,7 +120764,7 @@
       "monitoring_group": "metrics_22_extension",
       "list_group_label": "新参考新增",
       "report": "2026年第三季度（Q3） 涵盖： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "约05:05 币安预测时间 05:05 美东11/16 约16:05",
+      "schedule_text": "11月17日 约05:05 币安预测时间 05:05 美东11/16 约16:05",
       "window_start_beijing": "2026-11-17T04:35:00+08:00",
       "window_end_beijing": "2026-11-17T07:05:00+08:00",
       "state": "waiting",
@@ -121300,7 +120819,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 19:30 美东 11/12 盘前",
+      "schedule_text": "11月12日 22:30前 币安预测时间 19:30 美东 11/12 盘前",
       "window_start_beijing": "2026-11-12T13:00:00+08:00",
       "window_end_beijing": "2026-11-12T23:30:00+08:00",
       "state": "received",
@@ -121467,7 +120986,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 20:30 美东 11/12 盘前",
+      "schedule_text": "11月12日 22:30前 币安预测时间 20:30 美东 11/12 盘前",
       "window_start_beijing": "2026-11-12T13:00:00+08:00",
       "window_end_beijing": "2026-11-12T23:30:00+08:00",
       "state": "received",
@@ -121634,7 +121153,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "21:30前 币安预测时间 21:00 美东 11/12 盘前（08:30前）",
+      "schedule_text": "11月12日 21:30前 币安预测时间 21:00 美东 11/12 盘前（08:30前）",
       "window_start_beijing": "2026-11-12T13:00:00+08:00",
       "window_end_beijing": "2026-11-12T22:30:00+08:00",
       "state": "received",
@@ -121764,7 +121283,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "05:00后 币安预测时间 05:05 美东 11/12 盘后",
+      "schedule_text": "11月13日 05:00后 币安预测时间 05:05 美东 11/12 盘后",
       "window_start_beijing": "2026-11-13T04:45:00+08:00",
       "window_end_beijing": "2026-11-13T12:59:00+08:00",
       "state": "received",
@@ -121931,7 +121450,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 18:00 美东 11/16 盘前",
+      "schedule_text": "11月16日 22:30前 币安预测时间 18:00 美东 11/16 盘前",
       "window_start_beijing": "2026-11-16T13:00:00+08:00",
       "window_end_beijing": "2026-11-16T23:30:00+08:00",
       "state": "waiting",
@@ -121986,7 +121505,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 18:00 美东 11/17 盘前",
+      "schedule_text": "11月17日 22:30前 币安预测时间 18:00 美东 11/17 盘前",
       "window_start_beijing": "2026-11-17T13:00:00+08:00",
       "window_end_beijing": "2026-11-17T23:30:00+08:00",
       "state": "waiting",
@@ -122041,7 +121560,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 19:00 美东 11/17 盘前",
+      "schedule_text": "11月17日 22:30前 币安预测时间 19:00 美东 11/17 盘前",
       "window_start_beijing": "2026-11-17T13:00:00+08:00",
       "window_end_beijing": "2026-11-17T23:30:00+08:00",
       "state": "waiting",
@@ -122096,7 +121615,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 19:00 美东 11/17 盘前",
+      "schedule_text": "11月17日 22:30前 币安预测时间 19:00 美东 11/17 盘前",
       "window_start_beijing": "2026-11-17T13:00:00+08:00",
       "window_end_beijing": "2026-11-17T23:30:00+08:00",
       "state": "waiting",
@@ -122151,7 +121670,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026财年第四季度（Q4）及全年 季度： 2026-06-28 — 2026-10-03 全年： 2025-09-28 — 2026-10-03 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 19:31 美东 11/17 盘前",
+      "schedule_text": "11月17日 22:30前 币安预测时间 19:31 美东 11/17 盘前",
       "window_start_beijing": "2026-11-17T13:00:00+08:00",
       "window_end_beijing": "2026-11-17T23:30:00+08:00",
       "state": "waiting",
@@ -122206,7 +121725,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 20:00 美东 11/17 盘前",
+      "schedule_text": "11月17日 22:30前 币安预测时间 20:00 美东 11/17 盘前",
       "window_start_beijing": "2026-11-17T13:00:00+08:00",
       "window_end_beijing": "2026-11-17T23:30:00+08:00",
       "state": "waiting",
@@ -122261,7 +121780,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 20:30 美东 11/17 盘前",
+      "schedule_text": "11月17日 22:30前 币安预测时间 20:30 美东 11/17 盘前",
       "window_start_beijing": "2026-11-17T13:00:00+08:00",
       "window_end_beijing": "2026-11-17T23:30:00+08:00",
       "state": "waiting",
@@ -122316,7 +121835,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2027财年第三季度（Q3） 季度： 2026-07-27 — 2026-10-25 按公司财历换算",
-      "schedule_text": "约05:20 币安预测时间 05:20 美东 11/17 约16:20",
+      "schedule_text": "11月18日 约05:20 币安预测时间 05:20 美东 11/17 约16:20",
       "window_start_beijing": "2026-11-18T04:50:00+08:00",
       "window_end_beijing": "2026-11-18T07:20:00+08:00",
       "state": "waiting",
@@ -122371,7 +121890,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "05:00后 币安预测时间 07:00 美东 11/17 盘后",
+      "schedule_text": "11月18日 05:00后 币安预测时间 07:00 美东 11/17 盘后",
       "window_start_beijing": "2026-11-18T04:45:00+08:00",
       "window_end_beijing": "2026-11-18T12:59:00+08:00",
       "state": "waiting",
@@ -122426,7 +121945,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 18:00 美东 11/18 盘前",
+      "schedule_text": "11月18日 22:30前 币安预测时间 18:00 美东 11/18 盘前",
       "window_start_beijing": "2026-11-18T13:00:00+08:00",
       "window_end_beijing": "2026-11-18T23:30:00+08:00",
       "state": "waiting",
@@ -122481,7 +122000,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 19:00 美东 11/18 盘前",
+      "schedule_text": "11月18日 22:30前 币安预测时间 19:00 美东 11/18 盘前",
       "window_start_beijing": "2026-11-18T13:00:00+08:00",
       "window_end_beijing": "2026-11-18T23:30:00+08:00",
       "state": "waiting",
@@ -122536,7 +122055,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2027财年第三季度（Q3） 季度： 2026-08-02 — 2026-10-31 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 20:30 美东 11/18 盘前",
+      "schedule_text": "11月18日 22:30前 币安预测时间 20:30 美东 11/18 盘前",
       "window_start_beijing": "2026-11-18T13:00:00+08:00",
       "window_end_beijing": "2026-11-18T23:30:00+08:00",
       "state": "waiting",
@@ -122591,7 +122110,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "22:30前 币安预测时间 暂未查到 美东 11/18 盘前",
+      "schedule_text": "11月18日 22:30前 币安预测时间 暂未查到 美东 11/18 盘前",
       "window_start_beijing": "2026-11-18T13:00:00+08:00",
       "window_end_beijing": "2026-11-18T23:30:00+08:00",
       "state": "waiting",
@@ -122646,7 +122165,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2026财年第四季度（Q4）及全年 季度： 2026-07-01 — 2026-09-30 全年： 2025-10-01 — 2026-09-30 按公司财历换算",
-      "schedule_text": "约05:00 币安预测时间 05:00 美东 11/18 约16:00",
+      "schedule_text": "11月19日 约05:00 币安预测时间 05:00 美东 11/18 约16:00",
       "window_start_beijing": "2026-11-19T04:30:00+08:00",
       "window_end_beijing": "2026-11-19T07:00:00+08:00",
       "state": "waiting",
@@ -122701,7 +122220,7 @@
       "monitoring_group": "upcoming_7d_extension_20261112",
       "list_group_label": "完整版7天新增",
       "report": "2027财年第一季度（Q1） 季度： 2026-08-01 — 2026-10-31 按公司财历换算",
-      "schedule_text": "05:00后—05:30前 币安预测时间 05:05 美东 11/18 盘后（16:30前）",
+      "schedule_text": "11月19日 05:00后—05:30前 币安预测时间 05:05 美东 11/18 盘后（16:30前）",
       "window_start_beijing": "2026-11-19T04:45:00+08:00",
       "window_end_beijing": "2026-11-19T06:30:00+08:00",
       "state": "waiting",

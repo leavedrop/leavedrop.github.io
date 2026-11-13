@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-13T11:27:36.956+08:00",
+  "generated_at_beijing": "2026-11-13T11:32:03.851+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京专线→币安1x合约实盘开单全链路≤500ms已验证，10/10次FILLED中位数186.5ms）",
@@ -20,11 +20,11 @@
   "us_collector": {
     "state": "running",
     "us_execution_qualified": true,
-    "heartbeat_at_beijing": "2026-11-13T11:25:26.401+08:00"
+    "heartbeat_at_beijing": "2026-11-13T11:28:39.109+08:00"
   },
   "recent_updates": [
     {
-      "at_beijing": "2026-11-13T11:25:40+08:00",
+      "at_beijing": "2026-11-13T11:32:54+08:00",
       "text": "美国东岸（弗吉尼亚）独立采集节点已上线并按财报窗口自动启停；44 家目标旧稿在该节点完成真实网络下载、全文全表解析、完整归档、EPS/营收提取及模拟比较全链路复测：44/44 在 500 毫秒内（40/44 在 300 毫秒内，中位数 110.5 毫秒，P95 340.7 毫秒；历史复测不代表新公告首发表现）。"
     },
     {
@@ -86918,7 +86918,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -86931,7 +86931,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87045,7 +87045,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87058,7 +87058,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87172,7 +87172,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.737986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87185,7 +87185,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0253
+          "simulation_ms": 0.0189
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87299,7 +87299,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.737986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87312,7 +87312,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0253
+          "simulation_ms": 0.0189
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87426,7 +87426,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87439,7 +87439,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0178
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -87556,7 +87556,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87569,7 +87569,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0178
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -87683,7 +87683,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -87696,7 +87696,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -87810,7 +87810,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -87823,7 +87823,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -87932,7 +87932,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.099037+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.748488+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -87945,7 +87945,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0173
+          "simulation_ms": 0.0262
         },
         "timings_ms": {
           "queue": 5.636996,
@@ -88054,7 +88054,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.099037+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.748488+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88067,7 +88067,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0173
+          "simulation_ms": 0.0262
         },
         "timings_ms": {
           "queue": 5.636996,
@@ -88176,7 +88176,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.252097+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.838791+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88189,7 +88189,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0433
+          "simulation_ms": 0.0296
         },
         "timings_ms": {
           "queue": 0.381862,
@@ -88298,7 +88298,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.252097+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.838791+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88311,7 +88311,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0433
+          "simulation_ms": 0.0296
         },
         "timings_ms": {
           "queue": 0.381862,
@@ -88668,7 +88668,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -88681,7 +88681,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.019
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -88795,7 +88795,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -88808,7 +88808,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.019
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -88922,7 +88922,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -88935,7 +88935,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.0169
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89049,7 +89049,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.739118+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89062,7 +89062,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.0169
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89176,7 +89176,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.740117+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89189,7 +89189,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0171
+          "simulation_ms": 0.017
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89303,7 +89303,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.740117+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89316,7 +89316,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0171
+          "simulation_ms": 0.017
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89618,7 +89618,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:08.531952+00:00",
+          "created_at_utc": "2026-11-13T03:32:37.338351+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -89631,7 +89631,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0146
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -89741,7 +89741,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:08.531952+00:00",
+          "created_at_utc": "2026-11-13T03:32:37.338351+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -89754,7 +89754,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0146
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -89863,7 +89863,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:26.234180+00:00",
+          "created_at_utc": "2026-11-13T03:32:55.657262+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -89876,7 +89876,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0249
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -89986,7 +89986,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:26.234180+00:00",
+          "created_at_utc": "2026-11-13T03:32:55.657262+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -89999,7 +89999,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0249
+          "simulation_ms": 0.0272
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -92166,7 +92166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.733110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.760543+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92179,7 +92179,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0237
+          "simulation_ms": 0.0453
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92293,7 +92293,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.733110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.760543+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92306,7 +92306,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0237
+          "simulation_ms": 0.0453
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92420,7 +92420,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92433,7 +92433,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -92547,7 +92547,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92560,7 +92560,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0183
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -92674,7 +92674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.772061+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -92687,7 +92687,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0152
+          "simulation_ms": 0.0217
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -92801,7 +92801,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.772061+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -92814,7 +92814,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0152
+          "simulation_ms": 0.0217
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -92928,7 +92928,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.772579+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -92941,7 +92941,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0156
+          "simulation_ms": 0.019
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93055,7 +93055,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.772579+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93068,7 +93068,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0156
+          "simulation_ms": 0.019
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93182,7 +93182,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93195,7 +93195,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0189
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93309,7 +93309,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93322,7 +93322,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0189
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93436,7 +93436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93449,7 +93449,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.0175
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -93563,7 +93563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.736986+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.773086+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93576,7 +93576,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.0175
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -93690,7 +93690,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.594092+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.604666+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -93703,7 +93703,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.023
+          "simulation_ms": 0.0229
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -93817,7 +93817,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.594092+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.604666+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -93830,7 +93830,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.023
+          "simulation_ms": 0.0229
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -93944,7 +93944,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.594092+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.604666+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -93957,7 +93957,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0176
+          "simulation_ms": 0.017
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94071,7 +94071,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.594092+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.604666+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94084,7 +94084,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0176
+          "simulation_ms": 0.017
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94400,7 +94400,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.733110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768174+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94413,7 +94413,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0154
+          "simulation_ms": 0.0224
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -94528,7 +94528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.733110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768174+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94541,7 +94541,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0154
+          "simulation_ms": 0.0224
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -94655,7 +94655,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.733110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768174+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -94668,7 +94668,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0149
+          "simulation_ms": 0.0192
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -94782,7 +94782,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.733110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768174+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -94795,7 +94795,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0149
+          "simulation_ms": 0.0192
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -94909,7 +94909,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -94922,7 +94922,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0145
+          "simulation_ms": 0.018
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95036,7 +95036,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95049,7 +95049,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0145
+          "simulation_ms": 0.018
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95163,7 +95163,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95176,7 +95176,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0155
+          "simulation_ms": 0.0188
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95290,7 +95290,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734110+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95303,7 +95303,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0155
+          "simulation_ms": 0.0188
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95417,7 +95417,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95430,7 +95430,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.0184
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -95544,7 +95544,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95557,7 +95557,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.0184
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -95674,7 +95674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -95687,7 +95687,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -95804,7 +95804,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.768681+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -95817,7 +95817,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0171
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -95931,7 +95931,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.770366+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -95944,7 +95944,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0349
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96058,7 +96058,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.770366+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96071,7 +96071,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0349
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96185,7 +96185,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.770366+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96198,7 +96198,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96312,7 +96312,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.770366+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96325,7 +96325,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96439,7 +96439,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.770874+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96452,7 +96452,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0255
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -96566,7 +96566,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.734990+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.770874+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96579,7 +96579,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0255
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -96693,7 +96693,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.771381+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -96706,7 +96706,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0205
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -96820,7 +96820,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.771381+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -96833,7 +96833,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0205
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -96947,7 +96947,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.771381+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -96960,7 +96960,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0106
+          "simulation_ms": 0.0147
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97068,7 +97068,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.771381+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97081,7 +97081,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0106
+          "simulation_ms": 0.0147
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97197,7 +97197,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.771381+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97210,7 +97210,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0146
+          "simulation_ms": 0.0184
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97324,7 +97324,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.771381+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97337,7 +97337,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0146
+          "simulation_ms": 0.0184
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97451,7 +97451,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.772579+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97464,7 +97464,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0198
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -97579,7 +97579,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:24.735987+00:00",
+          "created_at_utc": "2026-11-13T03:32:53.772579+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97592,7 +97592,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0198
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -97701,7 +97701,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.266128+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.858725+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -97714,7 +97714,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0264
+          "simulation_ms": 0.03
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -97823,7 +97823,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.266128+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.858725+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -97836,7 +97836,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0264
+          "simulation_ms": 0.03
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -97945,7 +97945,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.266128+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.858725+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -97958,7 +97958,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0167
+          "simulation_ms": 0.0207
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98067,7 +98067,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.266128+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.858725+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98080,7 +98080,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0167
+          "simulation_ms": 0.0207
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98189,7 +98189,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.266128+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.858725+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -98202,7 +98202,7 @@
             "eps": "miss",
             "revenue": null
           },
-          "simulation_ms": 0.0115
+          "simulation_ms": 0.0146
         },
         "timings_ms": {
           "queue": 0.0515,
@@ -98311,7 +98311,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.255297+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.838791+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98324,7 +98324,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0181
+          "simulation_ms": 0.0189
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98433,7 +98433,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T03:28:27.255297+00:00",
+          "created_at_utc": "2026-11-13T03:32:56.838791+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98446,7 +98446,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0181
+          "simulation_ms": 0.0189
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -101611,8 +101611,1126 @@
         "under_500ms": true
       }
     ],
-    "extra_audit_count": 284,
-    "raw_log_text": "[RUN #01] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (Hims & Hers) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (Oklo核能) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (Nebius算力) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (Cerebras芯片) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n========================================================================================\n[后台实时盯盘与网关路由审计流水 · 共 284 条，最近 20 条]\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:02:22.739622+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:02:22.751020+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:02:22.751020+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:02:22.761715+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:06:57.291316+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:06:57.296943+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:06:57.296943+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:06:57.304057+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:13:32.771879+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:13:32.778276+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:13:32.781380+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:13:32.788017+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:21:14.198842+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:21:14.207841+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:21:14.217840+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:21:14.228847+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:25:40.514276+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:25:40.523155+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:25:40.528071+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:25:40.538590+00:00"
+    "extra_audit_count": 288,
+    "raw_log_text": "[RUN #01] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (Hims & Hers) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (Oklo核能) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (Nebius算力) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (Cerebras芯片) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n========================================================================================\n[后台实时盯盘与网关路由审计流水 · 共 288 条，最近 20 条]\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:06:57.291316+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:06:57.296943+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:06:57.296943+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:06:57.304057+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:13:32.771879+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:13:32.778276+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:13:32.781380+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:13:32.788017+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:21:14.198842+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:21:14.207841+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:21:14.217840+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:21:14.228847+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:25:40.514276+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:25:40.523155+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:25:40.528071+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:25:40.538590+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-13T03:32:54.149696+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-13T03:32:54.155803+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-13T03:32:54.160420+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-13T03:32:54.168705+00:00"
+  },
+  "scheduled_strategy_trades": {
+    "updated_at_beijing": "2026-11-13T05:06:29+08:00",
+    "summary": {
+      "total_positions": 9,
+      "closed_positions": 9,
+      "open_positions": 0,
+      "win_count": 0,
+      "loss_count": 9,
+      "total_notional_usd": 70.5,
+      "total_net_pnl_usd": -1.889,
+      "avg_net_pnl_pct": -2.64,
+      "scheduled_companies_count": 10
+    },
+    "positions": [
+      {
+        "seq": 1,
+        "position_id": "NBIS:2026-09-30:6c0c7f7c-c14b-4f27-8b32-64ca79bf2f96:binance",
+        "event_key": "NBIS:2026-09-30:6c0c7f7c-c14b-4f27-8b32-64ca79bf2f96",
+        "symbol": "NBIS",
+        "company_name": "Nebius算力",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "venue": "binance",
+        "venue_label": "Binance",
+        "instrument_symbol": "NBISUSDT",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "BUY",
+        "signal_action": "long",
+        "direction_label": "多头买入 (BUY)",
+        "state": "CLOSED",
+        "quantity": "0.05",
+        "notional_usd": 6.227,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 50.01,
+        "entry_px": 124.54,
+        "exit_px": 121.76,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0401,
+        "mae_pct": -2.2322,
+        "gross_pnl_pct": -2.2322,
+        "fee_pct": 0.1,
+        "net_pnl_pct": -2.3322,
+        "net_pnl_usd": -0.1452,
+        "hold_duration_s": 166.22,
+        "opened_at_beijing": "2026-11-12T22:22:37+08:00",
+        "closed_at_beijing": "2026-11-12T22:25:23+08:00",
+        "us_signal_ms": 347.39,
+        "eps_surprise_pct": 78.69,
+        "rev_surprise_pct": 6.98,
+        "fundamental_trigger": "EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY",
+        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 2,
+        "position_id": "NBIS:2026-09-30:6c0c7f7c-c14b-4f27-8b32-64ca79bf2f96:okx",
+        "event_key": "NBIS:2026-09-30:6c0c7f7c-c14b-4f27-8b32-64ca79bf2f96",
+        "symbol": "NBIS",
+        "company_name": "Nebius算力",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "venue": "okx",
+        "venue_label": "OKX",
+        "instrument_symbol": "NBIS-USDT-SWAP",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "BUY",
+        "signal_action": "long",
+        "direction_label": "多头买入 (BUY)",
+        "state": "CLOSED",
+        "quantity": "0.05",
+        "notional_usd": 6.224,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 50.01,
+        "entry_px": 124.48,
+        "exit_px": 121.68,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0643,
+        "mae_pct": -2.2494,
+        "gross_pnl_pct": -2.2494,
+        "fee_pct": 0.1,
+        "net_pnl_pct": -2.3494,
+        "net_pnl_usd": -0.1462,
+        "hold_duration_s": 166.22,
+        "opened_at_beijing": "2026-11-12T22:22:37+08:00",
+        "closed_at_beijing": "2026-11-12T22:25:23+08:00",
+        "us_signal_ms": 347.39,
+        "eps_surprise_pct": 78.69,
+        "rev_surprise_pct": 6.98,
+        "fundamental_trigger": "EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY",
+        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 3,
+        "position_id": "NBIS:2026-09-30:6c0c7f7c-c14b-4f27-8b32-64ca79bf2f96:hyperliquid",
+        "event_key": "NBIS:2026-09-30:6c0c7f7c-c14b-4f27-8b32-64ca79bf2f96",
+        "symbol": "NBIS",
+        "company_name": "Nebius算力",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "venue": "hyperliquid",
+        "venue_label": "Hyperliquid",
+        "instrument_symbol": "xyz:NBIS",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "BUY",
+        "signal_action": "long",
+        "direction_label": "多头买入 (BUY)",
+        "state": "CLOSED",
+        "quantity": "0.09",
+        "notional_usd": 11.1996,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 50.01,
+        "entry_px": 124.44,
+        "exit_px": 121.6,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0,
+        "mae_pct": -2.2822,
+        "gross_pnl_pct": -2.2822,
+        "fee_pct": 0.09,
+        "net_pnl_pct": -2.3722,
+        "net_pnl_usd": -0.2657,
+        "hold_duration_s": 167.72,
+        "opened_at_beijing": "2026-11-12T22:22:37+08:00",
+        "closed_at_beijing": "2026-11-12T22:25:24+08:00",
+        "us_signal_ms": 347.39,
+        "eps_surprise_pct": 78.69,
+        "rev_surprise_pct": 6.98,
+        "fundamental_trigger": "EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY",
+        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 4,
+        "position_id": "CBRS:2026-09-30:1a6d2a0f-4c74-4982-8fa6-4e1a57342110:binance",
+        "event_key": "CBRS:2026-09-30:1a6d2a0f-4c74-4982-8fa6-4e1a57342110",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "venue": "binance",
+        "venue_label": "Binance",
+        "instrument_symbol": "CBRSUSDT",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "SELL",
+        "signal_action": "short",
+        "direction_label": "空头卖出 (SELL)",
+        "state": "CLOSED",
+        "quantity": "0.06",
+        "notional_usd": 6.0876,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 250.16,
+        "entry_px": 101.46,
+        "exit_px": 104.33,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.2563,
+        "mae_pct": -2.8287,
+        "gross_pnl_pct": -2.8287,
+        "fee_pct": 0.1,
+        "net_pnl_pct": -2.9287,
+        "net_pnl_usd": -0.1783,
+        "hold_duration_s": 14.23,
+        "opened_at_beijing": "2026-11-13T05:04:30+08:00",
+        "closed_at_beijing": "2026-11-13T05:04:44+08:00",
+        "us_signal_ms": 44.36,
+        "eps_surprise_pct": -415.38,
+        "rev_surprise_pct": -2.32,
+        "fundamental_trigger": "EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL",
+        "loss_reason": "当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 5,
+        "position_id": "CBRS:2026-09-30:1a6d2a0f-4c74-4982-8fa6-4e1a57342110:okx",
+        "event_key": "CBRS:2026-09-30:1a6d2a0f-4c74-4982-8fa6-4e1a57342110",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "venue": "okx",
+        "venue_label": "OKX",
+        "instrument_symbol": "CBRS-USDT-SWAP",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "SELL",
+        "signal_action": "short",
+        "direction_label": "空头卖出 (SELL)",
+        "state": "CLOSED",
+        "quantity": "0.06",
+        "notional_usd": 5.9088,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 250.16,
+        "entry_px": 98.48,
+        "exit_px": 100.93,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0,
+        "mae_pct": -2.4878,
+        "gross_pnl_pct": -2.4878,
+        "fee_pct": 0.1,
+        "net_pnl_pct": -2.5878,
+        "net_pnl_usd": -0.1529,
+        "hold_duration_s": 0.2,
+        "opened_at_beijing": "2026-11-13T05:04:30+08:00",
+        "closed_at_beijing": "2026-11-13T05:04:30+08:00",
+        "us_signal_ms": 44.36,
+        "eps_surprise_pct": -415.38,
+        "rev_surprise_pct": -2.32,
+        "fundamental_trigger": "EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL",
+        "loss_reason": "当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 6,
+        "position_id": "CBRS:2026-09-30:1a6d2a0f-4c74-4982-8fa6-4e1a57342110:hyperliquid",
+        "event_key": "CBRS:2026-09-30:1a6d2a0f-4c74-4982-8fa6-4e1a57342110",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel": "sec",
+        "channel_label": "SEC披露网站",
+        "venue": "hyperliquid",
+        "venue_label": "Hyperliquid",
+        "instrument_symbol": "xyz:CBRS",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "SELL",
+        "signal_action": "short",
+        "direction_label": "空头卖出 (SELL)",
+        "state": "CLOSED",
+        "quantity": "0.11",
+        "notional_usd": 10.811,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 250.16,
+        "entry_px": 98.282,
+        "exit_px": 101.92,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0,
+        "mae_pct": -3.7016,
+        "gross_pnl_pct": -3.7016,
+        "fee_pct": 0.09,
+        "net_pnl_pct": -3.7916,
+        "net_pnl_usd": -0.4099,
+        "hold_duration_s": 0.2,
+        "opened_at_beijing": "2026-11-13T05:04:30+08:00",
+        "closed_at_beijing": "2026-11-13T05:04:30+08:00",
+        "us_signal_ms": 44.36,
+        "eps_surprise_pct": -415.38,
+        "rev_surprise_pct": -2.32,
+        "fundamental_trigger": "EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL",
+        "loss_reason": "当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 7,
+        "position_id": "CBRS:2026-09-30:7fffd02e-235e-4e44-a92a-af7e4068ba5f:binance",
+        "event_key": "CBRS:2026-09-30:7fffd02e-235e-4e44-a92a-af7e4068ba5f",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel": "official",
+        "channel_label": "公司官网",
+        "venue": "binance",
+        "venue_label": "Binance",
+        "instrument_symbol": "CBRSUSDT",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "SELL",
+        "signal_action": "short",
+        "direction_label": "空头卖出 (SELL)",
+        "state": "CLOSED",
+        "quantity": "0.06",
+        "notional_usd": 6.2892,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 250.16,
+        "entry_px": 104.82,
+        "exit_px": 107.35,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0,
+        "mae_pct": -2.4137,
+        "gross_pnl_pct": -2.4137,
+        "fee_pct": 0.1,
+        "net_pnl_pct": -2.5137,
+        "net_pnl_usd": -0.1581,
+        "hold_duration_s": 13.39,
+        "opened_at_beijing": "2026-11-13T05:06:23+08:00",
+        "closed_at_beijing": "2026-11-13T05:06:37+08:00",
+        "us_signal_ms": 93.91,
+        "eps_surprise_pct": -415.38,
+        "rev_surprise_pct": -2.32,
+        "fundamental_trigger": "EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL",
+        "loss_reason": "当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 8,
+        "position_id": "CBRS:2026-09-30:7fffd02e-235e-4e44-a92a-af7e4068ba5f:okx",
+        "event_key": "CBRS:2026-09-30:7fffd02e-235e-4e44-a92a-af7e4068ba5f",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel": "official",
+        "channel_label": "公司官网",
+        "venue": "okx",
+        "venue_label": "OKX",
+        "instrument_symbol": "CBRS-USDT-SWAP",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "SELL",
+        "signal_action": "short",
+        "direction_label": "空头卖出 (SELL)",
+        "state": "CLOSED",
+        "quantity": "0.06",
+        "notional_usd": 6.2766,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 250.16,
+        "entry_px": 104.61,
+        "exit_px": 107.09,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0,
+        "mae_pct": -2.3707,
+        "gross_pnl_pct": -2.3707,
+        "fee_pct": 0.1,
+        "net_pnl_pct": -2.4707,
+        "net_pnl_usd": -0.1551,
+        "hold_duration_s": 5.63,
+        "opened_at_beijing": "2026-11-13T05:06:23+08:00",
+        "closed_at_beijing": "2026-11-13T05:06:29+08:00",
+        "us_signal_ms": 93.91,
+        "eps_surprise_pct": -415.38,
+        "rev_surprise_pct": -2.32,
+        "fundamental_trigger": "EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL",
+        "loss_reason": "当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓"
+      },
+      {
+        "seq": 9,
+        "position_id": "CBRS:2026-09-30:7fffd02e-235e-4e44-a92a-af7e4068ba5f:hyperliquid",
+        "event_key": "CBRS:2026-09-30:7fffd02e-235e-4e44-a92a-af7e4068ba5f",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel": "official",
+        "channel_label": "公司官网",
+        "venue": "hyperliquid",
+        "venue_label": "Hyperliquid",
+        "instrument_symbol": "xyz:CBRS",
+        "market_type": "perp",
+        "fill_mode": "SHADOW_LIVE_BBO",
+        "side": "SELL",
+        "signal_action": "short",
+        "direction_label": "空头卖出 (SELL)",
+        "state": "CLOSED",
+        "quantity": "0.11",
+        "notional_usd": 11.4752,
+        "tier": "T3_EXPLOSIVE",
+        "surprise_score": 250.16,
+        "entry_px": 104.32,
+        "exit_px": 106.75,
+        "exit_reason": "HARD_SL",
+        "exit_reason_label": "触发-2.2%硬止损",
+        "mfe_pct": 0.0,
+        "mae_pct": -2.3294,
+        "gross_pnl_pct": -2.3294,
+        "fee_pct": 0.09,
+        "net_pnl_pct": -2.4194,
+        "net_pnl_usd": -0.2776,
+        "hold_duration_s": 5.63,
+        "opened_at_beijing": "2026-11-13T05:06:23+08:00",
+        "closed_at_beijing": "2026-11-13T05:06:29+08:00",
+        "us_signal_ms": 93.91,
+        "eps_surprise_pct": -415.38,
+        "rev_surprise_pct": -2.32,
+        "fundamental_trigger": "EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL",
+        "loss_reason": "当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓"
+      }
+    ],
+    "window_events": [
+      {
+        "window_time_bj": "2026-11-12 22:22:37",
+        "symbol": "NBIS",
+        "company_name": "Nebius算力",
+        "channel_label": "SEC披露网站",
+        "us_signal_ms": 347.39,
+        "signal_action": "long",
+        "signal_label": "双超做多 (LONG)",
+        "fundamental_summary": "EPS -0.13 vs 上限 -0.61 (+78.7%) · 营收 9.81亿 vs 上限 9.17亿 (+7.0%)",
+        "execution_status": "三所同步开多 3 笔 ➔ 触发 -2.2% 硬止损",
+        "trades_count": 3,
+        "entry_summary": "BN 124.54 / OKX 124.48 / HL 124.44",
+        "exit_summary": "BN 121.76 / OKX 121.68 / HL 121.60 (持仓 166s)",
+        "net_pnl_pct": -2.35,
+        "net_pnl_usd": -0.5571,
+        "note": "财报双超预期做多，盘中利好兑现反向砸盘跌破 -2.2% 止损线亏损平仓"
+      },
+      {
+        "window_time_bj": "2026-11-13 05:04:30",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel_label": "SEC披露网站",
+        "us_signal_ms": 44.36,
+        "signal_action": "short",
+        "signal_label": "双低做空 (SHORT)",
+        "fundamental_summary": "EPS -0.67 vs 下限 -0.13 (-415.4%) · 营收 2.11亿 vs 下限 2.16亿 (-2.3%)",
+        "execution_status": "三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损",
+        "trades_count": 3,
+        "entry_summary": "BN 101.46 / OKX 98.48 / HL 98.282",
+        "exit_summary": "BN 104.33 / OKX 100.93 / HL 101.92 (持仓 0.2~14s)",
+        "net_pnl_pct": -3.1,
+        "net_pnl_usd": -0.7411,
+        "note": "当期业绩双低触发做空，市场炒作远期指引逆势爆拉逼空，触发 -2.2% 止损平仓"
+      },
+      {
+        "window_time_bj": "2026-11-13 05:06:23",
+        "symbol": "CBRS",
+        "company_name": "Cerebras芯片",
+        "channel_label": "公司官网",
+        "us_signal_ms": 93.91,
+        "signal_action": "short",
+        "signal_label": "双低做空 (SHORT)",
+        "fundamental_summary": "官网新闻稿二次确认 EPS -0.67 / 营收 2.11亿 双低于机构下限",
+        "execution_status": "三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损",
+        "trades_count": 3,
+        "entry_summary": "BN 104.82 / OKX 104.61 / HL 104.32",
+        "exit_summary": "BN 107.35 / OKX 107.09 / HL 106.75 (持仓 5.6~13s)",
+        "net_pnl_pct": -2.47,
+        "net_pnl_usd": -0.5908,
+        "note": "官网通道触发第二波做空，盘后继续逼空上涨至 107，触发 -2.2% 硬止损离场"
+      },
+      {
+        "window_time_bj": "2026-11-12 20:33:02",
+        "symbol": "LUNR",
+        "company_name": "直觉机器",
+        "channel_label": "SEC / 财经社",
+        "us_signal_ms": 53.42,
+        "signal_action": "long",
+        "signal_label": "双超做多 (LONG)",
+        "fundamental_summary": "EPS 与营收双双突破机构预期最高包络上限",
+        "execution_status": "OKX 网关验证通过 (BUY @ 13.242)",
+        "trades_count": 2,
+        "entry_summary": "OKX LUNR-USDT-SWAP BUY 3.7 @ 13.242 / 13.241",
+        "exit_summary": "网关测速模式 (RTT 0.19ms / 0.21ms)",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "美东 53.4ms 产出做多信号直传东京，OKX 永续合约网关校验通过"
+      },
+      {
+        "window_time_bj": "2026-11-12 21:05:10",
+        "symbol": "FIGR",
+        "company_name": "Figure科技",
+        "channel_label": "财经社 / SEC",
+        "us_signal_ms": 95.23,
+        "signal_action": "long",
+        "signal_label": "双超做多 (LONG)",
+        "fundamental_summary": "EPS 与营收双双突破机构预期最高包络上限",
+        "execution_status": "三所均未上架合约 (自动跳过)",
+        "trades_count": 0,
+        "entry_summary": "信号已传至东京 (RTT 152.4ms)",
+        "exit_summary": "skipped_unlisted",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "美东 95.2ms 触发做多并传至东京，因 Binance/OKX/Hyperliquid 均无 FIGR 合约自动跳过"
+      },
+      {
+        "window_time_bj": "2026-11-13 05:05:12",
+        "symbol": "CSCO",
+        "company_name": "思科",
+        "channel_label": "财经社 / SEC",
+        "us_signal_ms": 47.9,
+        "signal_action": "hold",
+        "signal_label": "区间观望 (HOLD)",
+        "fundamental_summary": "EPS 超预期，但营收落入机构预测区间内，方向不一致",
+        "execution_status": "包络护栏拦截 · 不开单",
+        "trades_count": 0,
+        "entry_summary": "未开仓 (0 笔)",
+        "exit_summary": "—",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "美东 47.9ms 完成解析，因未同时击穿 EPS+营收包络边界，严格按规则观望不开单"
+      },
+      {
+        "window_time_bj": "2026-11-13 05:05:18",
+        "symbol": "GEMI",
+        "company_name": "Gemini航天",
+        "channel_label": "财经社 / SEC",
+        "us_signal_ms": 39.73,
+        "signal_action": "hold",
+        "signal_label": "区间观望 (HOLD)",
+        "fundamental_summary": "核心指标落入机构预测包络区间 [min, max] 内部",
+        "execution_status": "包络护栏拦截 · 不开单",
+        "trades_count": 0,
+        "entry_summary": "未开仓 (0 笔)",
+        "exit_summary": "—",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "美东 39.7ms 完成解析，指标在机构预期范围内，严格观望不开单"
+      },
+      {
+        "window_time_bj": "2026-11-12 20:01:05",
+        "symbol": "BN",
+        "company_name": "布鲁克菲尔德",
+        "channel_label": "公司官网 / SEC",
+        "us_signal_ms": 94.67,
+        "signal_action": "hold",
+        "signal_label": "区间观望 (HOLD)",
+        "fundamental_summary": "指标落入机构预测包络区间内部",
+        "execution_status": "包络护栏拦截 · 不开单",
+        "trades_count": 0,
+        "entry_summary": "未开仓 (0 笔)",
+        "exit_summary": "—",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "美东 94.7ms 完成解析，未触发双超/双低包络突破，不开单"
+      },
+      {
+        "window_time_bj": "2026-11-12 18:02:14",
+        "symbol": "FNV",
+        "company_name": "Franco-Nevada",
+        "channel_label": "SEC / 财经社",
+        "us_signal_ms": 110.37,
+        "signal_action": "hold",
+        "signal_label": "SEC观望 / 社稿做多",
+        "fundamental_summary": "SEC 110.4ms 落入区间观望；Newswire 458.9ms 触发做多",
+        "execution_status": "三所均未上架合约 (自动跳过)",
+        "trades_count": 0,
+        "entry_summary": "未开仓 (0 笔)",
+        "exit_summary": "—",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "定时窗口首家采集，三大交易所均无 FNV 永续合约"
+      },
+      {
+        "window_time_bj": "2026-11-12 21:30:40",
+        "symbol": "ONDS",
+        "company_name": "Ondas网络",
+        "channel_label": "SEC披露网站",
+        "us_signal_ms": 75.09,
+        "signal_action": "hold",
+        "signal_label": "区间观望 (HOLD)",
+        "fundamental_summary": "单指标或落入机构预期区间",
+        "execution_status": "包络护栏拦截 · 不开单",
+        "trades_count": 0,
+        "entry_summary": "未开仓 (0 笔)",
+        "exit_summary": "—",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "美东 75.1ms 完成解析，严格按双指标包络规则过滤不开单"
+      }
+    ],
+    "venue_matrix": [
+      {
+        "symbol": "ACHR",
+        "company": "Archer Aviation",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ACM",
+        "company": "AECOM",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ARMK",
+        "company": "Aramark",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "AS",
+        "company": "亚玛芬体育",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "B",
+        "company": "Barrick Mining",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BAM",
+        "company": "Brookfield Asset Management",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BEKE",
+        "company": "贝壳",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BIDU",
+        "company": "百度",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "BIDU-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corporation",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "伯克希尔哈撒韦",
+        "available_count": 2,
+        "binance": "BRKBUSDT",
+        "okx": "BRKB-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "CBRS",
+        "company": "Cerebras Systems",
+        "available_count": 3,
+        "binance": "CBRSUSDT",
+        "okx": "CBRS-USDT-SWAP",
+        "hyperliquid": "xyz:CBRS",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "CECO",
+        "company": "CECO Environmental",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "CSCO",
+        "company": "思科",
+        "available_count": 2,
+        "binance": "CSCOUSDT",
+        "okx": "CSCO-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "DIS",
+        "company": "迪士尼",
+        "available_count": 1,
+        "binance": "DISUSDT",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "ENB",
+        "company": "Enbridge",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FERG",
+        "company": "Ferguson Enterprises",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FIGR",
+        "company": "Figure Technology Solutions",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FNV",
+        "company": "Franco-Nevada",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GEMI",
+        "company": "Gemini Space Station",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GIB",
+        "company": "CGI",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GLBE",
+        "company": "Global-e Online",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GLNG",
+        "company": "Golar LNG",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "HIMS",
+        "company": "Hims & Hers",
+        "available_count": 3,
+        "binance": "HIMSUSDT",
+        "okx": "HIMS-USDT-SWAP",
+        "hyperliquid": "xyz:HIMS",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "HTHT",
+        "company": "华住集团",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "HUM",
+        "company": "Humana",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "INFQ",
+        "company": "Infleqtion",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "INFQ-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "IQ",
+        "company": "爱奇艺",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "JD",
+        "company": "京东",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "KKR",
+        "company": "KKR",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "KLAR",
+        "company": "Klarna Group",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "LCID",
+        "company": "Lucid",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "LUNR",
+        "company": "Intuitive Machines",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "LUNR-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "MRDN",
+        "company": "Meridian Holdings",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "MSGK",
+        "company": "MSG Knickerbockers Corp.",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "MSGR",
+        "company": "MSG Rangers Corp.",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NBIS",
+        "company": "Nebius Group",
+        "available_count": 3,
+        "binance": "NBISUSDT",
+        "okx": "NBIS-USDT-SWAP",
+        "hyperliquid": "xyz:NBIS",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "NCMI",
+        "company": "National CineMedia",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NVDA",
+        "company": "英伟达",
+        "available_count": 3,
+        "binance": "NVDAUSDT",
+        "okx": "NVDA-USDT-SWAP",
+        "hyperliquid": "xyz:NVDA",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "OKLO",
+        "company": "Oklo",
+        "available_count": 2,
+        "binance": "OKLOUSDT",
+        "okx": "OKLO-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "ONDS",
+        "company": "Ondas",
+        "available_count": 2,
+        "binance": "ONDSUSDT",
+        "okx": "ONDS-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "ONON",
+        "company": "On Holding",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental",
+        "available_count": 2,
+        "binance": "OXYUSDT",
+        "okx": "OXY-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "PANW",
+        "company": "Palo Alto Networks",
+        "available_count": 2,
+        "binance": "PANWUSDT",
+        "okx": "PANW-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "PONY",
+        "company": "小马智行",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "QBTS",
+        "company": "D-Wave Quantum",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "RGTI",
+        "company": "Rigetti Computing",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "RKLB",
+        "company": "Rocket Lab",
+        "available_count": 3,
+        "binance": "RKLBUSDT",
+        "okx": "RKLB-USDT-SWAP",
+        "hyperliquid": "xyz:RKLB",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "SE",
+        "company": "Sea",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SKYD",
+        "company": "Skydance",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SOHU",
+        "company": "搜狐",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "STEM",
+        "company": "Stem",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TDG",
+        "company": "TransDigm Group",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TGTX",
+        "company": "TG Therapeutics",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TJX",
+        "company": "The TJX Companies",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TME",
+        "company": "腾讯音乐",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TSN",
+        "company": "泰森食品",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TTD",
+        "company": "The Trade Desk",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TTWO",
+        "company": "Take-Two Interactive",
+        "available_count": 3,
+        "binance": "TTWOUSDT",
+        "okx": "TTWO-USDT-SWAP",
+        "hyperliquid": "para:TTWO",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "VIK",
+        "company": "Viking Holdings",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "WWD",
+        "company": "Woodward",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "XENE",
+        "company": "Xenon Pharmaceuticals",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "XPEV",
+        "company": "小鹏汽车",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ZTO",
+        "company": "中通快递",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      }
+    ],
+    "raw_journal_text": "[昨今定时财报窗口实战开单与止损平仓台账 · 共 9 笔交易，合计净盈亏 -1.8890 USDT (均值 -2.64%)]\n\n[TRADE #01] 2026-11-12T22:22:37+08:00 BJ | NBIS (Nebius算力 · SEC披露网站) | Binance NBISUSDT | BUY 0.05 @ 124.54\n  ├─ 信号依据: EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY (美东提取耗时 347.39 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.04% | 最大浮亏 MAE=-2.23% | 持仓时长=166.22 s\n  ├─ 平仓回执: 2026-11-12T22:25:23+08:00 BJ @ 121.76 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.33% (-0.1452 USDT)\n  └─ 亏损复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线自动平仓\n\n[TRADE #02] 2026-11-12T22:22:37+08:00 BJ | NBIS (Nebius算力 · SEC披露网站) | OKX NBIS-USDT-SWAP | BUY 0.05 @ 124.48\n  ├─ 信号依据: EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY (美东提取耗时 347.39 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.06% | 最大浮亏 MAE=-2.25% | 持仓时长=166.22 s\n  ├─ 平仓回执: 2026-11-12T22:25:23+08:00 BJ @ 121.68 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.35% (-0.1462 USDT)\n  └─ 亏损复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线自动平仓\n\n[TRADE #03] 2026-11-12T22:22:37+08:00 BJ | NBIS (Nebius算力 · SEC披露网站) | Hyperliquid xyz:NBIS | BUY 0.09 @ 124.44\n  ├─ 信号依据: EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY (美东提取耗时 347.39 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.28% | 持仓时长=167.72 s\n  ├─ 平仓回执: 2026-11-12T22:25:24+08:00 BJ @ 121.6 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.37% (-0.2657 USDT)\n  └─ 亏损复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线自动平仓\n\n[TRADE #04] 2026-11-13T05:04:30+08:00 BJ | CBRS (Cerebras芯片 · SEC披露网站) | Binance CBRSUSDT | SELL 0.06 @ 101.46\n  ├─ 信号依据: EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL (美东提取耗时 44.36 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.26% | 最大浮亏 MAE=-2.83% | 持仓时长=14.23 s\n  ├─ 平仓回执: 2026-11-13T05:04:44+08:00 BJ @ 104.33 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.93% (-0.1783 USDT)\n  └─ 亏损复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓\n\n[TRADE #05] 2026-11-13T05:04:30+08:00 BJ | CBRS (Cerebras芯片 · SEC披露网站) | OKX CBRS-USDT-SWAP | SELL 0.06 @ 98.48\n  ├─ 信号依据: EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL (美东提取耗时 44.36 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.49% | 持仓时长=0.20 s\n  ├─ 平仓回执: 2026-11-13T05:04:30+08:00 BJ @ 100.93 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.59% (-0.1529 USDT)\n  └─ 亏损复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓\n\n[TRADE #06] 2026-11-13T05:04:30+08:00 BJ | CBRS (Cerebras芯片 · SEC披露网站) | Hyperliquid xyz:CBRS | SELL 0.11 @ 98.282\n  ├─ 信号依据: EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL (美东提取耗时 44.36 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-3.70% | 持仓时长=0.20 s\n  ├─ 平仓回执: 2026-11-13T05:04:30+08:00 BJ @ 101.92 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-3.79% (-0.4099 USDT)\n  └─ 亏损复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓\n\n[TRADE #07] 2026-11-13T05:06:23+08:00 BJ | CBRS (Cerebras芯片 · 公司官网) | Binance CBRSUSDT | SELL 0.06 @ 104.82\n  ├─ 信号依据: EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL (美东提取耗时 93.91 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.41% | 持仓时长=13.39 s\n  ├─ 平仓回执: 2026-11-13T05:06:37+08:00 BJ @ 107.35 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.51% (-0.1581 USDT)\n  └─ 亏损复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓\n\n[TRADE #08] 2026-11-13T05:06:23+08:00 BJ | CBRS (Cerebras芯片 · 公司官网) | OKX CBRS-USDT-SWAP | SELL 0.06 @ 104.61\n  ├─ 信号依据: EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL (美东提取耗时 93.91 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.37% | 持仓时长=5.63 s\n  ├─ 平仓回执: 2026-11-13T05:06:29+08:00 BJ @ 107.09 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.47% (-0.1551 USDT)\n  └─ 亏损复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓\n\n[TRADE #09] 2026-11-13T05:06:23+08:00 BJ | CBRS (Cerebras芯片 · 公司官网) | Hyperliquid xyz:CBRS | SELL 0.11 @ 104.32\n  ├─ 信号依据: EPS 实际 -0.67 < 机构下限 -0.13 (-415.4%) · 营收低于下限 (-2.3%) ➔ 双低触发做空 SELL (美东提取耗时 93.91 ms)\n  ├─ 盘中监控: 最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.33% | 持仓时长=5.63 s\n  ├─ 平仓回执: 2026-11-13T05:06:29+08:00 BJ @ 106.75 | 原因=触发-2.2%硬止损 (HARD_SL) | 净盈亏=-2.42% (-0.2776 USDT)\n  └─ 亏损复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，触发 -2.2% 硬止损线自动平仓\n\n========================================================================================\n[昨今定时财报窗口全量 10 场采集、信号与执行汇总]\n\n[WINDOW #01] 2026-11-12 22:22:37 BJ | NBIS  (Nebius算力) | 渠道=SEC披露网站 | 美东解析=347.39 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS -0.13 vs 上限 -0.61 (+78.7%) · 营收 9.81亿 vs 上限 9.17亿 (+7.0%)\n  └─ 执行结果: 三所同步开多 3 笔 ➔ 触发 -2.2% 硬止损 | 财报双超预期做多，盘中利好兑现反向砸盘跌破 -2.2% 止损线亏损平仓\n\n[WINDOW #02] 2026-11-13 05:04:30 BJ | CBRS  (Cerebras芯片) | 渠道=SEC披露网站 | 美东解析=44.36 ms\n  ├─ 信号判定: 双低做空 (SHORT) — EPS -0.67 vs 下限 -0.13 (-415.4%) · 营收 2.11亿 vs 下限 2.16亿 (-2.3%)\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 当期业绩双低触发做空，市场炒作远期指引逆势爆拉逼空，触发 -2.2% 止损平仓\n\n[WINDOW #03] 2026-11-13 05:06:23 BJ | CBRS  (Cerebras芯片) | 渠道=公司官网 | 美东解析=93.91 ms\n  ├─ 信号判定: 双低做空 (SHORT) — 官网新闻稿二次确认 EPS -0.67 / 营收 2.11亿 双低于机构下限\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 官网通道触发第二波做空，盘后继续逼空上涨至 107，触发 -2.2% 硬止损离场\n\n[WINDOW #04] 2026-11-12 20:33:02 BJ | LUNR  (直觉机器) | 渠道=SEC / 财经社 | 美东解析=53.42 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: OKX 网关验证通过 (BUY @ 13.242) | 美东 53.4ms 产出做多信号直传东京，OKX 永续合约网关校验通过\n\n[WINDOW #05] 2026-11-12 21:05:10 BJ | FIGR  (Figure科技) | 渠道=财经社 / SEC | 美东解析=95.23 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 美东 95.2ms 触发做多并传至东京，因 Binance/OKX/Hyperliquid 均无 FIGR 合约自动跳过\n\n[WINDOW #06] 2026-11-13 05:05:12 BJ | CSCO  (思科) | 渠道=财经社 / SEC | 美东解析=47.90 ms\n  ├─ 信号判定: 区间观望 (HOLD) — EPS 超预期，但营收落入机构预测区间内，方向不一致\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 47.9ms 完成解析，因未同时击穿 EPS+营收包络边界，严格按规则观望不开单\n\n[WINDOW #07] 2026-11-13 05:05:18 BJ | GEMI  (Gemini航天) | 渠道=财经社 / SEC | 美东解析=39.73 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 核心指标落入机构预测包络区间 [min, max] 内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 39.7ms 完成解析，指标在机构预期范围内，严格观望不开单\n\n[WINDOW #08] 2026-11-12 20:01:05 BJ | BN    (布鲁克菲尔德) | 渠道=公司官网 / SEC | 美东解析=94.67 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 指标落入机构预测包络区间内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 94.7ms 完成解析，未触发双超/双低包络突破，不开单\n\n[WINDOW #09] 2026-11-12 18:02:14 BJ | FNV   (Franco-Nevada) | 渠道=SEC / 财经社 | 美东解析=110.37 ms\n  ├─ 信号判定: SEC观望 / 社稿做多 — SEC 110.4ms 落入区间观望；Newswire 458.9ms 触发做多\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 定时窗口首家采集，三大交易所均无 FNV 永续合约\n\n[WINDOW #10] 2026-11-12 21:30:40 BJ | ONDS  (Ondas网络) | 渠道=SEC披露网站 | 美东解析=75.09 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 单指标或落入机构预期区间\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 75.1ms 完成解析，严格按双指标包络规则过滤不开单"
   },
   "timing_summary": [
     {
@@ -101920,7 +103038,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:44.799+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:58.637+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000049071.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -102124,7 +103242,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:26.381+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:16.077+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001937926.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -102291,7 +103409,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:31.079+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:56.329+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000895728.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -102384,7 +103502,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:39.671+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:54.787+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001849056.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -102793,7 +103911,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:17.375+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:03.270+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001636519.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -103121,7 +104239,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:29.316+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:06.784+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002132873.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -103337,7 +104455,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:55.531+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:43.186+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001067983.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -103504,7 +104622,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:16.484+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:05.632+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001734107.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -103727,7 +104845,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:53.869+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:20.527+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000756894.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -103857,7 +104975,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:16.208+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:02.223+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002011641.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -104039,7 +105157,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:29.569+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:17.110+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001404912.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -104206,7 +105324,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:48.882+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:57.951+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000003197.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -104373,7 +105491,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:49.218+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:18.719+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001001316.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -104577,7 +105695,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:20.979+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:12.051+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002041610.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -104744,7 +105862,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:53.806+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:18.924+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001671933.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -104911,7 +106029,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:37.632+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:52.780+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001582313.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -105223,7 +106341,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:19.139+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:01.820+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001824502.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -105390,7 +106508,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:22.243+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:12.267+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001773751.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -105668,7 +106786,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:35.964+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:08.860+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001811210.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -105872,7 +106990,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:37.482+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:51.187+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001819994.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -106039,7 +107157,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:22.647+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:01.812+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000946581.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -106169,7 +107287,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:34.770+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:08.250+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000797468.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -106299,7 +107417,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:46.580+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:49.587+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001858985.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -106429,7 +107547,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:27.968+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:06.655+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001703399.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -106536,7 +107654,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:32.645+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:17.127+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001907982.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -106781,7 +107899,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:48.797+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:45.808+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001260221.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -107073,7 +108191,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:43.281+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:57.549+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001437925.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -107247,7 +108365,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:44.986+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:48.168+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001377630.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -107451,7 +108569,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:24.199+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:11.628+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001838359.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -107581,7 +108699,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:38.578+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:51.706+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001061574.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -107847,7 +108965,7 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-13T11:22:29.368+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:29.470+08:00",
           "last_checked_url": "https://www.franco-nevada.com/feed/PressRelease.svc/GetPressReleaseList",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -107859,7 +108977,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:41.645+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:50.186+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001456346.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -107871,7 +108989,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-13T11:23:09.329+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:10.259+08:00",
           "last_checked_url": "https://www.prnewswire.com/news/franco__nevada-corporation/",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -108014,7 +109132,7 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-13T11:22:33.038+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:32.906+08:00",
           "last_checked_url": "https://bn.brookfield.com/events-news/press-releases",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
@@ -108026,7 +109144,7 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:53.281+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:44.863+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001001085.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -108038,7 +109156,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-13T11:23:31.472+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:31.544+08:00",
           "last_checked_url": "https://www.globenewswire.com/search/organization/Brookfield%2520Corporation",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
@@ -108181,19 +109299,19 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-13T11:22:34.779+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:34.627+08:00",
           "last_checked_url": "https://nebius.com/newsroom",
           "target_kind": "公告入口",
-          "observation": "HTTP 200",
+          "observation": "HTTP 304",
           "note": "",
           "observer": "美国采集器",
-          "status": 200,
+          "status": 304,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:23:25.305+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:13.298+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001513845.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
@@ -108205,7 +109323,7 @@
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-13T11:22:40.348+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:38.754+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
@@ -108311,38 +109429,38 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-13T11:25:25.887+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:36.597+08:00",
           "last_checked_url": "https://newsroom.cisco.com/c/services/i/servlets/newsroom/rssfeed.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:25:25.887+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:28:36.597+08:00"
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:24:46.438+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:36.596+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000858877.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T05:07:56.757+08:00"
+          "last_negative_listing_at_beijing": null
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-13T11:25:26.240+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:36.946+08:00",
           "last_checked_url": "https://www.prnewswire.com/news/cisco-systems%2C-inc./",
           "target_kind": "公告入口",
           "observation": "HTTP 304",
           "note": "",
           "observer": "美国采集器",
           "status": 304,
-          "last_negative_listing_at_beijing": "2026-11-13T11:25:26.240+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:28:36.946+08:00"
         }
       ],
       "log_url": "./files/logs/CSCO.csv"
@@ -108478,38 +109596,38 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-13T11:25:26.229+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:35.159+08:00",
           "last_checked_url": "https://investors.cerebras.ai/news-events/news-releases",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T05:06:23.210+08:00"
+          "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:24:47.433+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:28:34.757+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002021728.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T05:05:06.667+08:00"
+          "last_negative_listing_at_beijing": null
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-13T11:23:35.098+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:27:30.140+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/organization/Cerebras%2520Systems%2520Inc%C2%A7",
           "target_kind": "公告入口",
-          "observation": "HTTP 200",
+          "observation": "HTTP 403",
           "note": "",
           "observer": "美国采集器",
-          "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:23:35.098+08:00"
+          "status": 403,
+          "last_negative_listing_at_beijing": null
         }
       ],
       "log_url": "./files/logs/CBRS.csv"
@@ -108545,14 +109663,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:15.767+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:41.583+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001810997.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:15.767+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:41.583+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108600,14 +109718,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:09.023+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:39.492+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001329099.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:09.023+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:39.492+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108655,14 +109773,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:07.381+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:34.583+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001809587.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:07.381+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:34.583+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108710,14 +109828,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:12.047+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:33.531+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001483994.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:12.047+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:33.531+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108765,14 +109883,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:08.890+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:39.909+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001584509.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:08.890+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:39.909+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108820,14 +109938,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:11.134+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:42.110+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000100493.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:11.134+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:42.110+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108875,14 +109993,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:05.380+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:36.805+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000868857.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:05.380+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:36.805+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108930,14 +110048,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:05.330+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:36.858+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002007825.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:05.330+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:36.858+08:00"
         },
         {
           "label": "财经发布网站",
@@ -108985,14 +110103,14 @@
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:19:10.027+08:00",
+          "last_checked_at_beijing": "2026-11-13T11:24:39.971+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001758766.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T11:19:10.027+08:00"
+          "last_negative_listing_at_beijing": "2026-11-13T11:24:39.971+08:00"
         },
         {
           "label": "财经发布网站",
@@ -109604,38 +110722,38 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-13T11:25:16.129+08:00",
+          "last_checked_at_beijing": "2026-11-13T10:02:00+08:00",
           "last_checked_url": "https://investors.gemini.com/rss/news-releases.xml",
           "target_kind": "公告入口",
-          "observation": "HTTP 403",
+          "observation": "HTTP 200",
           "note": "",
-          "observer": "美国采集器",
-          "status": 403,
+          "observer": "本地",
+          "status": 200,
           "last_negative_listing_at_beijing": null
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-13T11:24:48.452+08:00",
+          "last_checked_at_beijing": "2026-11-13T10:01:02.839+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002055592.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
-          "observer": "美国采集器",
+          "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T05:35:28.948+08:00"
+          "last_negative_listing_at_beijing": null
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-13T11:23:34.220+08:00",
+          "last_checked_at_beijing": "2026-11-13T09:58:23.136+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/keyword/Gemini%20Space%20Station",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
-          "observer": "美国采集器",
+          "observer": "本地",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-13T05:28:33.927+08:00"
+          "last_negative_listing_at_beijing": null
         }
       ],
       "log_url": "./files/logs/GEMI.csv"
@@ -110475,6 +111593,7 @@
     "first_release": "./files/logs/first-release.csv",
     "metrics": "./files/logs/metrics.csv",
     "institutional_forecasts": "./files/logs/institutional_forecasts.csv",
-    "binance_live_10x": "./files/logs/binance_live_10x_e2e.csv"
+    "binance_live_10x": "./files/logs/binance_live_10x_e2e.csv",
+    "scheduled_trades": "./files/logs/scheduled_trades.csv"
   }
 }

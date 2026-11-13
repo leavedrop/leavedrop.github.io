@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-14T03:01:59.575+08:00",
+  "generated_at_beijing": "2026-11-14T03:12:01.598+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -87436,7 +87436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.094490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87449,7 +87449,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0178
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87563,7 +87563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.094490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87576,7 +87576,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0178
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87690,7 +87690,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87703,7 +87703,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0253
+          "simulation_ms": 0.014
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87817,7 +87817,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87830,7 +87830,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0253
+          "simulation_ms": 0.014
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87944,7 +87944,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87957,7 +87957,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0134
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88074,7 +88074,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -88087,7 +88087,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0134
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88201,7 +88201,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88214,7 +88214,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0157
+          "simulation_ms": 0.0128
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88328,7 +88328,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88341,7 +88341,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0157
+          "simulation_ms": 0.0128
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88450,7 +88450,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.488850+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.313390+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88463,7 +88463,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0243
+          "simulation_ms": 0.022
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88572,7 +88572,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.488850+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.313390+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88585,7 +88585,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0243
+          "simulation_ms": 0.022
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88694,7 +88694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.488850+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.313390+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88816,7 +88816,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.488850+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.313390+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -89186,7 +89186,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89199,7 +89199,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0152
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89313,7 +89313,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.095515+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89326,7 +89326,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0152
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89440,7 +89440,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.096500+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89453,7 +89453,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0139
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89567,7 +89567,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.096500+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89580,7 +89580,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0139
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89694,7 +89694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.096500+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89707,7 +89707,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89821,7 +89821,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.096500+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89834,7 +89834,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -90136,7 +90136,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:27.726003+00:00",
+          "created_at_utc": "2026-11-13T19:12:29.523909+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -90149,7 +90149,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0155
+          "simulation_ms": 0.0164
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -90259,7 +90259,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:27.726003+00:00",
+          "created_at_utc": "2026-11-13T19:12:29.523909+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -90272,7 +90272,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0155
+          "simulation_ms": 0.0164
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -92658,7 +92658,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.089734+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.960828+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92671,7 +92671,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0241
+          "simulation_ms": 0.0228
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92785,7 +92785,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.089734+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.960828+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92798,7 +92798,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0241
+          "simulation_ms": 0.0228
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92912,7 +92912,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92925,7 +92925,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0143
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93039,7 +93039,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -93052,7 +93052,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0143
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93166,7 +93166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93179,7 +93179,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0135
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93293,7 +93293,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93306,7 +93306,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0135
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93420,7 +93420,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93433,7 +93433,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93547,7 +93547,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93560,7 +93560,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93674,7 +93674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.093490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93687,7 +93687,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.05
+          "simulation_ms": 0.0131
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93801,7 +93801,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.093490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93814,7 +93814,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.05
+          "simulation_ms": 0.0131
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93928,7 +93928,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.094490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93941,7 +93941,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0196
+          "simulation_ms": 0.013
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94055,7 +94055,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.094490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -94068,7 +94068,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0196
+          "simulation_ms": 0.013
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94182,7 +94182,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:42.954021+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.823943+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94195,7 +94195,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0181
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94309,7 +94309,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:42.954021+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.823943+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94322,7 +94322,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0181
+          "simulation_ms": 0.0174
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94436,7 +94436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:42.954021+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.823943+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94449,7 +94449,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0146
+          "simulation_ms": 0.014
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94563,7 +94563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:42.954021+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.823943+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94576,7 +94576,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0146
+          "simulation_ms": 0.014
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94892,7 +94892,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.089734+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94905,7 +94905,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0157
+          "simulation_ms": 0.0152
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95020,7 +95020,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.089734+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -95033,7 +95033,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0157
+          "simulation_ms": 0.0152
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95147,7 +95147,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.089734+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95160,7 +95160,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0144
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95274,7 +95274,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.089734+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95287,7 +95287,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0144
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95401,7 +95401,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95414,7 +95414,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0136
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95528,7 +95528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95541,7 +95541,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0136
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95655,7 +95655,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95668,7 +95668,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0136
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95782,7 +95782,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95795,7 +95795,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0136
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95909,7 +95909,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95922,7 +95922,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96036,7 +96036,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.090495+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -96049,7 +96049,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96166,7 +96166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96296,7 +96296,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.961335+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96423,7 +96423,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.962864+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96436,7 +96436,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0128
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96550,7 +96550,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.962864+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96563,7 +96563,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0128
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96677,7 +96677,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.962951+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96690,7 +96690,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0123
+          "simulation_ms": 0.0141
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96804,7 +96804,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.962951+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96817,7 +96817,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0123
+          "simulation_ms": 0.0141
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96931,7 +96931,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.962951+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96944,7 +96944,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0158
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97058,7 +97058,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.962951+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -97071,7 +97071,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0158
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97185,7 +97185,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97198,7 +97198,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0125
+          "simulation_ms": 0.0126
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97312,7 +97312,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.091489+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97325,7 +97325,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0125
+          "simulation_ms": 0.0126
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97439,7 +97439,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97560,7 +97560,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97689,7 +97689,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97702,7 +97702,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0127
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97816,7 +97816,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97829,7 +97829,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0127
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97943,7 +97943,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97956,7 +97956,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0114
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -98071,7 +98071,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:43.092490+00:00",
+          "created_at_utc": "2026-11-13T19:12:44.963566+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -98084,7 +98084,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0114
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -98193,7 +98193,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.323002+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.152881+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98206,7 +98206,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0226
+          "simulation_ms": 0.022
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98315,7 +98315,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.323002+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.152881+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98328,7 +98328,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0226
+          "simulation_ms": 0.022
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98437,7 +98437,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.323656+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.152881+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98450,7 +98450,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0216
+          "simulation_ms": 0.0154
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98559,7 +98559,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.323656+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.152881+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98572,7 +98572,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0216
+          "simulation_ms": 0.0154
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98681,7 +98681,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.323656+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.152881+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -98694,7 +98694,7 @@
             "eps": "miss",
             "revenue": null
           },
-          "simulation_ms": 0.0113
+          "simulation_ms": 0.0112
         },
         "timings_ms": {
           "queue": 0.0515,
@@ -98803,7 +98803,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.311392+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.142514+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98816,7 +98816,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0141
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98925,7 +98925,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T19:02:45.311392+00:00",
+          "created_at_utc": "2026-11-13T19:12:47.142514+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98938,7 +98938,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0141
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -103162,841 +103162,11 @@
         "eps_surprise_pct": 78.69,
         "rev_surprise_pct": 6.98,
         "fundamental_trigger": "EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY",
-        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.8001) 自动平仓；止损离场 (@ 121.76) 后 K 线继续深跌至 120.475 (-3.26%)，-2.2% 硬止损有效拦截后续续跌",
-        "post_exit_extreme_px": 120.475,
-        "post_exit_move_note": "止损离场 (@ 121.76) 后 K 线继续深跌至 120.475 (-3.26%)，-2.2% 硬止损有效拦截后续续跌",
-        "klines_5s": [
-          {
-            "t_ms": 1794493310000,
-            "t_bj": "22:21:50",
-            "o": 125.02,
-            "h": 125.02,
-            "l": 125.02,
-            "c": 125.02,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493315000,
-            "t_bj": "22:21:55",
-            "o": 124.985,
-            "h": 125.32,
-            "l": 124.985,
-            "c": 125.32,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493320000,
-            "t_bj": "22:22:00",
-            "o": 125.32,
-            "h": 125.455,
-            "l": 125.295,
-            "c": 125.455,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493325000,
-            "t_bj": "22:22:05",
-            "o": 125.46,
-            "h": 125.46,
-            "l": 125.335,
-            "c": 125.335,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493330000,
-            "t_bj": "22:22:10",
-            "o": 125.39,
-            "h": 125.47,
-            "l": 125.39,
-            "c": 125.47,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493335000,
-            "t_bj": "22:22:15",
-            "o": 125.435,
-            "h": 125.56,
-            "l": 125.435,
-            "c": 125.56,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493340000,
-            "t_bj": "22:22:20",
-            "o": 125.36,
-            "h": 125.385,
-            "l": 125.31,
-            "c": 125.385,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493345000,
-            "t_bj": "22:22:25",
-            "o": 125.47,
-            "h": 125.47,
-            "l": 125.35,
-            "c": 125.35,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493350000,
-            "t_bj": "22:22:30",
-            "o": 124.755,
-            "h": 124.755,
-            "l": 124.675,
-            "c": 124.73,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493355000,
-            "t_bj": "22:22:35",
-            "o": 124.52,
-            "h": 124.595,
-            "l": 124.52,
-            "c": 124.595,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493360000,
-            "t_bj": "22:22:40",
-            "o": 124.555,
-            "h": 124.555,
-            "l": 124.365,
-            "c": 124.415,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493365000,
-            "t_bj": "22:22:45",
-            "o": 124.265,
-            "h": 124.37,
-            "l": 124.265,
-            "c": 124.37,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493370000,
-            "t_bj": "22:22:50",
-            "o": 124.37,
-            "h": 124.495,
-            "l": 124.37,
-            "c": 124.495,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493375000,
-            "t_bj": "22:22:55",
-            "o": 124.5,
-            "h": 124.5,
-            "l": 124.435,
-            "c": 124.435,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493380000,
-            "t_bj": "22:23:00",
-            "o": 124.21,
-            "h": 124.44,
-            "l": 124.21,
-            "c": 124.44,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493385000,
-            "t_bj": "22:23:05",
-            "o": 124.42,
-            "h": 124.42,
-            "l": 124.405,
-            "c": 124.405,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493390000,
-            "t_bj": "22:23:10",
-            "o": 124.325,
-            "h": 124.395,
-            "l": 124.315,
-            "c": 124.395,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493395000,
-            "t_bj": "22:23:15",
-            "o": 124.32,
-            "h": 124.32,
-            "l": 124.16,
-            "c": 124.18,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493400000,
-            "t_bj": "22:23:20",
-            "o": 124.0,
-            "h": 124.17,
-            "l": 124.0,
-            "c": 124.17,
-            "ticks": 2
-          },
-          {
-            "t_ms": 1794493405000,
-            "t_bj": "22:23:25",
-            "o": 124.255,
-            "h": 124.255,
-            "l": 124.125,
-            "c": 124.125,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493410000,
-            "t_bj": "22:23:30",
-            "o": 124.135,
-            "h": 124.195,
-            "l": 124.135,
-            "c": 124.195,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493415000,
-            "t_bj": "22:23:35",
-            "o": 124.26,
-            "h": 124.385,
-            "l": 124.26,
-            "c": 124.385,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493420000,
-            "t_bj": "22:23:40",
-            "o": 124.295,
-            "h": 124.37,
-            "l": 123.97,
-            "c": 123.97,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493425000,
-            "t_bj": "22:23:45",
-            "o": 124.03,
-            "h": 124.03,
-            "l": 123.965,
-            "c": 123.98,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493430000,
-            "t_bj": "22:23:50",
-            "o": 123.995,
-            "h": 123.995,
-            "l": 123.93,
-            "c": 123.93,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493435000,
-            "t_bj": "22:23:55",
-            "o": 123.75,
-            "h": 123.795,
-            "l": 123.745,
-            "c": 123.795,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493440000,
-            "t_bj": "22:24:00",
-            "o": 123.935,
-            "h": 124.11,
-            "l": 123.935,
-            "c": 124.11,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493445000,
-            "t_bj": "22:24:05",
-            "o": 124.135,
-            "h": 124.135,
-            "l": 123.995,
-            "c": 123.995,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493450000,
-            "t_bj": "22:24:10",
-            "o": 123.945,
-            "h": 124.05,
-            "l": 123.945,
-            "c": 124.05,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493455000,
-            "t_bj": "22:24:15",
-            "o": 123.885,
-            "h": 123.99,
-            "l": 123.885,
-            "c": 123.905,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493460000,
-            "t_bj": "22:24:20",
-            "o": 123.905,
-            "h": 123.99,
-            "l": 123.905,
-            "c": 123.97,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493465000,
-            "t_bj": "22:24:25",
-            "o": 123.95,
-            "h": 123.95,
-            "l": 123.88,
-            "c": 123.88,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493470000,
-            "t_bj": "22:24:30",
-            "o": 123.855,
-            "h": 123.87,
-            "l": 123.855,
-            "c": 123.86,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493475000,
-            "t_bj": "22:24:35",
-            "o": 123.855,
-            "h": 123.855,
-            "l": 123.705,
-            "c": 123.755,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493480000,
-            "t_bj": "22:24:40",
-            "o": 123.895,
-            "h": 123.895,
-            "l": 123.8,
-            "c": 123.8,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493485000,
-            "t_bj": "22:24:45",
-            "o": 123.815,
-            "h": 123.815,
-            "l": 123.73,
-            "c": 123.745,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493490000,
-            "t_bj": "22:24:50",
-            "o": 123.86,
-            "h": 123.915,
-            "l": 123.86,
-            "c": 123.915,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493495000,
-            "t_bj": "22:24:55",
-            "o": 123.865,
-            "h": 123.865,
-            "l": 123.745,
-            "c": 123.775,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493500000,
-            "t_bj": "22:25:00",
-            "o": 123.365,
-            "h": 123.445,
-            "l": 123.045,
-            "c": 123.045,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493505000,
-            "t_bj": "22:25:05",
-            "o": 123.13,
-            "h": 123.13,
-            "l": 122.985,
-            "c": 123.05,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493510000,
-            "t_bj": "22:25:10",
-            "o": 122.47,
-            "h": 122.545,
-            "l": 122.47,
-            "c": 122.545,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493515000,
-            "t_bj": "22:25:15",
-            "o": 122.55,
-            "h": 122.55,
-            "l": 121.945,
-            "c": 121.945,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493520000,
-            "t_bj": "22:25:20",
-            "o": 121.955,
-            "h": 121.955,
-            "l": 121.765,
-            "c": 121.765,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493525000,
-            "t_bj": "22:25:25",
-            "o": 121.735,
-            "h": 121.785,
-            "l": 121.635,
-            "c": 121.785,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493530000,
-            "t_bj": "22:25:30",
-            "o": 121.72,
-            "h": 121.84,
-            "l": 121.58,
-            "c": 121.58,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493535000,
-            "t_bj": "22:25:35",
-            "o": 121.595,
-            "h": 121.7,
-            "l": 121.155,
-            "c": 121.155,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493540000,
-            "t_bj": "22:25:40",
-            "o": 121.065,
-            "h": 121.065,
-            "l": 120.83,
-            "c": 120.83,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493545000,
-            "t_bj": "22:25:45",
-            "o": 120.805,
-            "h": 120.805,
-            "l": 120.49,
-            "c": 120.49,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493550000,
-            "t_bj": "22:25:50",
-            "o": 120.475,
-            "h": 120.615,
-            "l": 120.475,
-            "c": 120.615,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493555000,
-            "t_bj": "22:25:55",
-            "o": 120.815,
-            "h": 120.815,
-            "l": 120.55,
-            "c": 120.605,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493560000,
-            "t_bj": "22:26:00",
-            "o": 120.495,
-            "h": 120.655,
-            "l": 120.495,
-            "c": 120.655,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493565000,
-            "t_bj": "22:26:05",
-            "o": 120.71,
-            "h": 120.745,
-            "l": 120.665,
-            "c": 120.745,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493570000,
-            "t_bj": "22:26:10",
-            "o": 120.975,
-            "h": 121.23,
-            "l": 120.975,
-            "c": 121.175,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493575000,
-            "t_bj": "22:26:15",
-            "o": 121.365,
-            "h": 121.365,
-            "l": 121.205,
-            "c": 121.205,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493580000,
-            "t_bj": "22:26:20",
-            "o": 121.17,
-            "h": 121.17,
-            "l": 120.52,
-            "c": 120.52,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493585000,
-            "t_bj": "22:26:25",
-            "o": 120.59,
-            "h": 120.655,
-            "l": 120.565,
-            "c": 120.655,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493590000,
-            "t_bj": "22:26:30",
-            "o": 120.625,
-            "h": 120.71,
-            "l": 120.615,
-            "c": 120.71,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493595000,
-            "t_bj": "22:26:35",
-            "o": 120.685,
-            "h": 120.685,
-            "l": 120.59,
-            "c": 120.59,
-            "ticks": 2
-          }
-        ],
-        "klines_1s": [
-          {
-            "t_ms": 1794493348000,
-            "t_bj": "22:22:28",
-            "o": 125.38,
-            "h": 125.38,
-            "l": 125.38,
-            "c": 125.38,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493349000,
-            "t_bj": "22:22:29",
-            "o": 125.35,
-            "h": 125.35,
-            "l": 125.35,
-            "c": 125.35,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493351000,
-            "t_bj": "22:22:31",
-            "o": 124.755,
-            "h": 124.755,
-            "l": 124.755,
-            "c": 124.755,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493352000,
-            "t_bj": "22:22:32",
-            "o": 124.675,
-            "h": 124.675,
-            "l": 124.675,
-            "c": 124.675,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493354000,
-            "t_bj": "22:22:34",
-            "o": 124.73,
-            "h": 124.73,
-            "l": 124.73,
-            "c": 124.73,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493355000,
-            "t_bj": "22:22:35",
-            "o": 124.52,
-            "h": 124.52,
-            "l": 124.52,
-            "c": 124.52,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493357000,
-            "t_bj": "22:22:37",
-            "o": 124.56,
-            "h": 124.56,
-            "l": 124.56,
-            "c": 124.56,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493358000,
-            "t_bj": "22:22:38",
-            "o": 124.595,
-            "h": 124.595,
-            "l": 124.595,
-            "c": 124.595,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493360000,
-            "t_bj": "22:22:40",
-            "o": 124.555,
-            "h": 124.555,
-            "l": 124.555,
-            "c": 124.555,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493362000,
-            "t_bj": "22:22:42",
-            "o": 124.365,
-            "h": 124.365,
-            "l": 124.365,
-            "c": 124.365,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493363000,
-            "t_bj": "22:22:43",
-            "o": 124.415,
-            "h": 124.415,
-            "l": 124.415,
-            "c": 124.415,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493365000,
-            "t_bj": "22:22:45",
-            "o": 124.265,
-            "h": 124.265,
-            "l": 124.265,
-            "c": 124.265,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493367000,
-            "t_bj": "22:22:47",
-            "o": 124.33,
-            "h": 124.33,
-            "l": 124.33,
-            "c": 124.33,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493369000,
-            "t_bj": "22:22:49",
-            "o": 124.37,
-            "h": 124.37,
-            "l": 124.37,
-            "c": 124.37,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493370000,
-            "t_bj": "22:22:50",
-            "o": 124.37,
-            "h": 124.37,
-            "l": 124.37,
-            "c": 124.37,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493372000,
-            "t_bj": "22:22:52",
-            "o": 124.41,
-            "h": 124.41,
-            "l": 124.41,
-            "c": 124.41,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493373000,
-            "t_bj": "22:22:53",
-            "o": 124.49,
-            "h": 124.49,
-            "l": 124.49,
-            "c": 124.49,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493374000,
-            "t_bj": "22:22:54",
-            "o": 124.495,
-            "h": 124.495,
-            "l": 124.495,
-            "c": 124.495,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493376000,
-            "t_bj": "22:22:56",
-            "o": 124.5,
-            "h": 124.5,
-            "l": 124.5,
-            "c": 124.5,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493377000,
-            "t_bj": "22:22:57",
-            "o": 124.45,
-            "h": 124.45,
-            "l": 124.45,
-            "c": 124.45,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493379000,
-            "t_bj": "22:22:59",
-            "o": 124.435,
-            "h": 124.435,
-            "l": 124.435,
-            "c": 124.435,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493380000,
-            "t_bj": "22:23:00",
-            "o": 124.21,
-            "h": 124.21,
-            "l": 124.21,
-            "c": 124.21,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493382000,
-            "t_bj": "22:23:02",
-            "o": 124.37,
-            "h": 124.37,
-            "l": 124.37,
-            "c": 124.37,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493384000,
-            "t_bj": "22:23:04",
-            "o": 124.44,
-            "h": 124.44,
-            "l": 124.44,
-            "c": 124.44,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493386000,
-            "t_bj": "22:23:06",
-            "o": 124.42,
-            "h": 124.42,
-            "l": 124.42,
-            "c": 124.42,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493387000,
-            "t_bj": "22:23:07",
-            "o": 124.405,
-            "h": 124.405,
-            "l": 124.405,
-            "c": 124.405,
-            "ticks": 2
-          },
-          {
-            "t_ms": 1794493390000,
-            "t_bj": "22:23:10",
-            "o": 124.325,
-            "h": 124.325,
-            "l": 124.325,
-            "c": 124.325,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493392000,
-            "t_bj": "22:23:12",
-            "o": 124.315,
-            "h": 124.315,
-            "l": 124.315,
-            "c": 124.315,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493394000,
-            "t_bj": "22:23:14",
-            "o": 124.395,
-            "h": 124.395,
-            "l": 124.395,
-            "c": 124.395,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493395000,
-            "t_bj": "22:23:15",
-            "o": 124.32,
-            "h": 124.32,
-            "l": 124.32,
-            "c": 124.32,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493396000,
-            "t_bj": "22:23:16",
-            "o": 124.245,
-            "h": 124.245,
-            "l": 124.245,
-            "c": 124.245,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493398000,
-            "t_bj": "22:23:18",
-            "o": 124.16,
-            "h": 124.16,
-            "l": 124.16,
-            "c": 124.16,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493399000,
-            "t_bj": "22:23:19",
-            "o": 124.18,
-            "h": 124.18,
-            "l": 124.18,
-            "c": 124.18,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493402000,
-            "t_bj": "22:23:22",
-            "o": 124.0,
-            "h": 124.0,
-            "l": 124.0,
-            "c": 124.0,
-            "ticks": 1
-          }
-        ]
+        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.8001) 自动平仓；止损离场 (@ 121.76) 后 K 线继续深跌至 121.76 (-2.23%)，-2.2% 硬止损有效拦截后续续跌",
+        "post_exit_extreme_px": 121.76,
+        "post_exit_move_note": "止损离场 (@ 121.76) 后 K 线继续深跌至 121.76 (-2.23%)，-2.2% 硬止损有效拦截后续续跌",
+        "klines_5s": [],
+        "klines_1s": []
       },
       {
         "seq": 2,
@@ -104049,850 +103219,11 @@
         "eps_surprise_pct": 78.69,
         "rev_surprise_pct": 6.98,
         "fundamental_trigger": "EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY",
-        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7414) 自动平仓；止损离场 (@ 121.68) 后 K 线继续深跌至 120.395 (-3.28%)，-2.2% 硬止损有效拦截后续续跌",
-        "post_exit_extreme_px": 120.395,
-        "post_exit_move_note": "止损离场 (@ 121.68) 后 K 线继续深跌至 120.395 (-3.28%)，-2.2% 硬止损有效拦截后续续跌",
-        "klines_5s": [
-          {
-            "t_ms": 1794493310000,
-            "t_bj": "22:21:50",
-            "o": 124.995,
-            "h": 125.035,
-            "l": 124.995,
-            "c": 125.035,
-            "ticks": 2
-          },
-          {
-            "t_ms": 1794493315000,
-            "t_bj": "22:21:55",
-            "o": 124.955,
-            "h": 125.255,
-            "l": 124.955,
-            "c": 125.255,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493320000,
-            "t_bj": "22:22:00",
-            "o": 125.265,
-            "h": 125.33,
-            "l": 125.265,
-            "c": 125.33,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493325000,
-            "t_bj": "22:22:05",
-            "o": 125.43,
-            "h": 125.455,
-            "l": 125.255,
-            "c": 125.255,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493330000,
-            "t_bj": "22:22:10",
-            "o": 125.395,
-            "h": 125.46,
-            "l": 125.395,
-            "c": 125.46,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493335000,
-            "t_bj": "22:22:15",
-            "o": 125.375,
-            "h": 125.5,
-            "l": 125.375,
-            "c": 125.5,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493340000,
-            "t_bj": "22:22:20",
-            "o": 125.295,
-            "h": 125.36,
-            "l": 125.295,
-            "c": 125.36,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493345000,
-            "t_bj": "22:22:25",
-            "o": 125.315,
-            "h": 125.33,
-            "l": 125.255,
-            "c": 125.255,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493350000,
-            "t_bj": "22:22:30",
-            "o": 124.69,
-            "h": 124.69,
-            "l": 124.535,
-            "c": 124.62,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493355000,
-            "t_bj": "22:22:35",
-            "o": 124.475,
-            "h": 124.585,
-            "l": 124.475,
-            "c": 124.585,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493360000,
-            "t_bj": "22:22:40",
-            "o": 124.535,
-            "h": 124.535,
-            "l": 124.355,
-            "c": 124.38,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493365000,
-            "t_bj": "22:22:45",
-            "o": 124.27,
-            "h": 124.325,
-            "l": 124.27,
-            "c": 124.325,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493370000,
-            "t_bj": "22:22:50",
-            "o": 124.325,
-            "h": 124.435,
-            "l": 124.325,
-            "c": 124.435,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493375000,
-            "t_bj": "22:22:55",
-            "o": 124.425,
-            "h": 124.44,
-            "l": 124.385,
-            "c": 124.385,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493380000,
-            "t_bj": "22:23:00",
-            "o": 124.375,
-            "h": 124.385,
-            "l": 124.16,
-            "c": 124.385,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493385000,
-            "t_bj": "22:23:05",
-            "o": 124.385,
-            "h": 124.385,
-            "l": 124.34,
-            "c": 124.34,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493390000,
-            "t_bj": "22:23:10",
-            "o": 124.265,
-            "h": 124.285,
-            "l": 124.265,
-            "c": 124.28,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493395000,
-            "t_bj": "22:23:15",
-            "o": 124.275,
-            "h": 124.275,
-            "l": 124.12,
-            "c": 124.12,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493400000,
-            "t_bj": "22:23:20",
-            "o": 124.13,
-            "h": 124.14,
-            "l": 123.97,
-            "c": 124.14,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493405000,
-            "t_bj": "22:23:25",
-            "o": 124.045,
-            "h": 124.085,
-            "l": 124.045,
-            "c": 124.085,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493410000,
-            "t_bj": "22:23:30",
-            "o": 124.12,
-            "h": 124.14,
-            "l": 124.11,
-            "c": 124.14,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493415000,
-            "t_bj": "22:23:35",
-            "o": 124.305,
-            "h": 124.345,
-            "l": 124.305,
-            "c": 124.345,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493420000,
-            "t_bj": "22:23:40",
-            "o": 124.265,
-            "h": 124.33,
-            "l": 123.955,
-            "c": 123.98,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493425000,
-            "t_bj": "22:23:45",
-            "o": 123.955,
-            "h": 123.955,
-            "l": 123.945,
-            "c": 123.95,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493430000,
-            "t_bj": "22:23:50",
-            "o": 123.94,
-            "h": 123.94,
-            "l": 123.905,
-            "c": 123.905,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493435000,
-            "t_bj": "22:23:55",
-            "o": 123.775,
-            "h": 123.775,
-            "l": 123.695,
-            "c": 123.755,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493440000,
-            "t_bj": "22:24:00",
-            "o": 123.86,
-            "h": 124.02,
-            "l": 123.86,
-            "c": 124.02,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493445000,
-            "t_bj": "22:24:05",
-            "o": 124.02,
-            "h": 124.04,
-            "l": 123.96,
-            "c": 123.96,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493450000,
-            "t_bj": "22:24:10",
-            "o": 123.895,
-            "h": 123.935,
-            "l": 123.825,
-            "c": 123.825,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493455000,
-            "t_bj": "22:24:15",
-            "o": 123.855,
-            "h": 123.925,
-            "l": 123.855,
-            "c": 123.925,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493460000,
-            "t_bj": "22:24:20",
-            "o": 123.86,
-            "h": 123.92,
-            "l": 123.86,
-            "c": 123.92,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493465000,
-            "t_bj": "22:24:25",
-            "o": 123.875,
-            "h": 123.875,
-            "l": 123.8,
-            "c": 123.8,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493470000,
-            "t_bj": "22:24:30",
-            "o": 123.795,
-            "h": 123.82,
-            "l": 123.795,
-            "c": 123.82,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493475000,
-            "t_bj": "22:24:35",
-            "o": 123.655,
-            "h": 123.845,
-            "l": 123.655,
-            "c": 123.845,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493480000,
-            "t_bj": "22:24:40",
-            "o": 123.845,
-            "h": 123.845,
-            "l": 123.77,
-            "c": 123.77,
-            "ticks": 2
-          },
-          {
-            "t_ms": 1794493485000,
-            "t_bj": "22:24:45",
-            "o": 123.76,
-            "h": 123.76,
-            "l": 123.7,
-            "c": 123.7,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493490000,
-            "t_bj": "22:24:50",
-            "o": 123.79,
-            "h": 123.86,
-            "l": 123.79,
-            "c": 123.86,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493495000,
-            "t_bj": "22:24:55",
-            "o": 123.835,
-            "h": 123.835,
-            "l": 123.685,
-            "c": 123.75,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493500000,
-            "t_bj": "22:25:00",
-            "o": 123.375,
-            "h": 123.375,
-            "l": 122.985,
-            "c": 122.985,
-            "ticks": 2
-          },
-          {
-            "t_ms": 1794493505000,
-            "t_bj": "22:25:05",
-            "o": 123.005,
-            "h": 123.005,
-            "l": 122.925,
-            "c": 122.925,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493510000,
-            "t_bj": "22:25:10",
-            "o": 122.435,
-            "h": 122.445,
-            "l": 122.435,
-            "c": 122.44,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493515000,
-            "t_bj": "22:25:15",
-            "o": 122.07,
-            "h": 122.07,
-            "l": 121.875,
-            "c": 121.875,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493520000,
-            "t_bj": "22:25:20",
-            "o": 121.865,
-            "h": 121.865,
-            "l": 121.625,
-            "c": 121.625,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493525000,
-            "t_bj": "22:25:25",
-            "o": 121.685,
-            "h": 121.685,
-            "l": 121.535,
-            "c": 121.535,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493530000,
-            "t_bj": "22:25:30",
-            "o": 121.69,
-            "h": 121.69,
-            "l": 121.62,
-            "c": 121.62,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493535000,
-            "t_bj": "22:25:35",
-            "o": 121.545,
-            "h": 121.565,
-            "l": 121.15,
-            "c": 121.15,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493540000,
-            "t_bj": "22:25:40",
-            "o": 121.025,
-            "h": 121.025,
-            "l": 120.735,
-            "c": 120.735,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493545000,
-            "t_bj": "22:25:45",
-            "o": 120.76,
-            "h": 120.76,
-            "l": 120.42,
-            "c": 120.455,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493550000,
-            "t_bj": "22:25:50",
-            "o": 120.395,
-            "h": 120.79,
-            "l": 120.395,
-            "c": 120.79,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493555000,
-            "t_bj": "22:25:55",
-            "o": 120.54,
-            "h": 120.54,
-            "l": 120.425,
-            "c": 120.425,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493560000,
-            "t_bj": "22:26:00",
-            "o": 120.5,
-            "h": 120.59,
-            "l": 120.475,
-            "c": 120.59,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493565000,
-            "t_bj": "22:26:05",
-            "o": 120.585,
-            "h": 120.85,
-            "l": 120.585,
-            "c": 120.85,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493570000,
-            "t_bj": "22:26:10",
-            "o": 121.17,
-            "h": 121.17,
-            "l": 121.165,
-            "c": 121.165,
-            "ticks": 2
-          },
-          {
-            "t_ms": 1794493575000,
-            "t_bj": "22:26:15",
-            "o": 121.31,
-            "h": 121.31,
-            "l": 121.175,
-            "c": 121.175,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493580000,
-            "t_bj": "22:26:20",
-            "o": 120.555,
-            "h": 120.585,
-            "l": 120.495,
-            "c": 120.585,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493585000,
-            "t_bj": "22:26:25",
-            "o": 120.59,
-            "h": 120.615,
-            "l": 120.445,
-            "c": 120.615,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493590000,
-            "t_bj": "22:26:30",
-            "o": 120.585,
-            "h": 120.68,
-            "l": 120.51,
-            "c": 120.68,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493595000,
-            "t_bj": "22:26:35",
-            "o": 120.615,
-            "h": 120.615,
-            "l": 120.585,
-            "c": 120.585,
-            "ticks": 2
-          }
-        ],
-        "klines_1s": [
-          {
-            "t_ms": 1794493348000,
-            "t_bj": "22:22:28",
-            "o": 125.255,
-            "h": 125.255,
-            "l": 125.255,
-            "c": 125.255,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493350000,
-            "t_bj": "22:22:30",
-            "o": 124.69,
-            "h": 124.69,
-            "l": 124.69,
-            "c": 124.69,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493352000,
-            "t_bj": "22:22:32",
-            "o": 124.535,
-            "h": 124.535,
-            "l": 124.535,
-            "c": 124.535,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493354000,
-            "t_bj": "22:22:34",
-            "o": 124.62,
-            "h": 124.62,
-            "l": 124.62,
-            "c": 124.62,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493355000,
-            "t_bj": "22:22:35",
-            "o": 124.475,
-            "h": 124.475,
-            "l": 124.475,
-            "c": 124.475,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493357000,
-            "t_bj": "22:22:37",
-            "o": 124.5,
-            "h": 124.5,
-            "l": 124.5,
-            "c": 124.5,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493359000,
-            "t_bj": "22:22:39",
-            "o": 124.585,
-            "h": 124.585,
-            "l": 124.585,
-            "c": 124.585,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493360000,
-            "t_bj": "22:22:40",
-            "o": 124.535,
-            "h": 124.535,
-            "l": 124.535,
-            "c": 124.535,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493361000,
-            "t_bj": "22:22:41",
-            "o": 124.355,
-            "h": 124.355,
-            "l": 124.355,
-            "c": 124.355,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493363000,
-            "t_bj": "22:22:43",
-            "o": 124.38,
-            "h": 124.38,
-            "l": 124.38,
-            "c": 124.38,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493365000,
-            "t_bj": "22:22:45",
-            "o": 124.27,
-            "h": 124.27,
-            "l": 124.27,
-            "c": 124.27,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493367000,
-            "t_bj": "22:22:47",
-            "o": 124.295,
-            "h": 124.295,
-            "l": 124.295,
-            "c": 124.295,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493369000,
-            "t_bj": "22:22:49",
-            "o": 124.325,
-            "h": 124.325,
-            "l": 124.325,
-            "c": 124.325,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493370000,
-            "t_bj": "22:22:50",
-            "o": 124.325,
-            "h": 124.325,
-            "l": 124.325,
-            "c": 124.325,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493372000,
-            "t_bj": "22:22:52",
-            "o": 124.415,
-            "h": 124.415,
-            "l": 124.415,
-            "c": 124.415,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493373000,
-            "t_bj": "22:22:53",
-            "o": 124.435,
-            "h": 124.435,
-            "l": 124.435,
-            "c": 124.435,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493375000,
-            "t_bj": "22:22:55",
-            "o": 124.425,
-            "h": 124.425,
-            "l": 124.425,
-            "c": 124.425,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493376000,
-            "t_bj": "22:22:56",
-            "o": 124.44,
-            "h": 124.44,
-            "l": 124.44,
-            "c": 124.44,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493377000,
-            "t_bj": "22:22:57",
-            "o": 124.405,
-            "h": 124.405,
-            "l": 124.405,
-            "c": 124.405,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493379000,
-            "t_bj": "22:22:59",
-            "o": 124.385,
-            "h": 124.385,
-            "l": 124.385,
-            "c": 124.385,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493380000,
-            "t_bj": "22:23:00",
-            "o": 124.375,
-            "h": 124.375,
-            "l": 124.375,
-            "c": 124.375,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493381000,
-            "t_bj": "22:23:01",
-            "o": 124.16,
-            "h": 124.16,
-            "l": 124.16,
-            "c": 124.16,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493384000,
-            "t_bj": "22:23:04",
-            "o": 124.385,
-            "h": 124.385,
-            "l": 124.385,
-            "c": 124.385,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493385000,
-            "t_bj": "22:23:05",
-            "o": 124.385,
-            "h": 124.385,
-            "l": 124.385,
-            "c": 124.385,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493387000,
-            "t_bj": "22:23:07",
-            "o": 124.345,
-            "h": 124.345,
-            "l": 124.345,
-            "c": 124.345,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493388000,
-            "t_bj": "22:23:08",
-            "o": 124.34,
-            "h": 124.34,
-            "l": 124.34,
-            "c": 124.34,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493390000,
-            "t_bj": "22:23:10",
-            "o": 124.265,
-            "h": 124.265,
-            "l": 124.265,
-            "c": 124.265,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493392000,
-            "t_bj": "22:23:12",
-            "o": 124.285,
-            "h": 124.285,
-            "l": 124.285,
-            "c": 124.285,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493393000,
-            "t_bj": "22:23:13",
-            "o": 124.28,
-            "h": 124.28,
-            "l": 124.28,
-            "c": 124.28,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493395000,
-            "t_bj": "22:23:15",
-            "o": 124.275,
-            "h": 124.275,
-            "l": 124.275,
-            "c": 124.275,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493397000,
-            "t_bj": "22:23:17",
-            "o": 124.145,
-            "h": 124.145,
-            "l": 124.145,
-            "c": 124.145,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493398000,
-            "t_bj": "22:23:18",
-            "o": 124.12,
-            "h": 124.12,
-            "l": 124.12,
-            "c": 124.12,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493400000,
-            "t_bj": "22:23:20",
-            "o": 124.13,
-            "h": 124.13,
-            "l": 124.13,
-            "c": 124.13,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493401000,
-            "t_bj": "22:23:21",
-            "o": 123.97,
-            "h": 123.97,
-            "l": 123.97,
-            "c": 123.97,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493402000,
-            "t_bj": "22:23:22",
-            "o": 124.02,
-            "h": 124.02,
-            "l": 124.02,
-            "c": 124.02,
-            "ticks": 1
-          }
-        ]
+        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7414) 自动平仓；止损离场 (@ 121.68) 后 K 线继续深跌至 121.68 (-2.25%)，-2.2% 硬止损有效拦截后续续跌",
+        "post_exit_extreme_px": 121.68,
+        "post_exit_move_note": "止损离场 (@ 121.68) 后 K 线继续深跌至 121.68 (-2.25%)，-2.2% 硬止损有效拦截后续续跌",
+        "klines_5s": [],
+        "klines_1s": []
       },
       {
         "seq": 3,
@@ -104945,832 +103276,11 @@
         "eps_surprise_pct": 78.69,
         "rev_surprise_pct": 6.98,
         "fundamental_trigger": "EPS 实际 -0.13 > 机构上限 -0.61 (+78.7%) · 营收超上限 (+7.0%) ➔ 双超触发做多 BUY",
-        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7023) 自动平仓；止损离场 (@ 121.6) 后 K 线继续深跌至 120.305 (-3.32%)，-2.2% 硬止损有效拦截后续续跌",
-        "post_exit_extreme_px": 120.305,
-        "post_exit_move_note": "止损离场 (@ 121.6) 后 K 线继续深跌至 120.305 (-3.32%)，-2.2% 硬止损有效拦截后续续跌",
-        "klines_5s": [
-          {
-            "t_ms": 1794493315000,
-            "t_bj": "22:21:55",
-            "o": 124.895,
-            "h": 125.13,
-            "l": 124.815,
-            "c": 125.13,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493320000,
-            "t_bj": "22:22:00",
-            "o": 125.145,
-            "h": 125.205,
-            "l": 125.145,
-            "c": 125.2,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493325000,
-            "t_bj": "22:22:05",
-            "o": 125.32,
-            "h": 125.32,
-            "l": 125.155,
-            "c": 125.155,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493330000,
-            "t_bj": "22:22:10",
-            "o": 125.135,
-            "h": 125.385,
-            "l": 125.135,
-            "c": 125.385,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493335000,
-            "t_bj": "22:22:15",
-            "o": 125.295,
-            "h": 125.4,
-            "l": 125.295,
-            "c": 125.37,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493340000,
-            "t_bj": "22:22:20",
-            "o": 125.225,
-            "h": 125.265,
-            "l": 125.17,
-            "c": 125.265,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493345000,
-            "t_bj": "22:22:25",
-            "o": 125.175,
-            "h": 125.21,
-            "l": 125.14,
-            "c": 125.14,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493350000,
-            "t_bj": "22:22:30",
-            "o": 124.585,
-            "h": 124.585,
-            "l": 124.45,
-            "c": 124.545,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493355000,
-            "t_bj": "22:22:35",
-            "o": 124.38,
-            "h": 124.43,
-            "l": 124.38,
-            "c": 124.425,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493360000,
-            "t_bj": "22:22:40",
-            "o": 124.395,
-            "h": 124.395,
-            "l": 124.21,
-            "c": 124.21,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493365000,
-            "t_bj": "22:22:45",
-            "o": 124.205,
-            "h": 124.21,
-            "l": 124.185,
-            "c": 124.21,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493370000,
-            "t_bj": "22:22:50",
-            "o": 124.235,
-            "h": 124.395,
-            "l": 124.235,
-            "c": 124.395,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493375000,
-            "t_bj": "22:22:55",
-            "o": 124.37,
-            "h": 124.37,
-            "l": 124.305,
-            "c": 124.305,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493380000,
-            "t_bj": "22:23:00",
-            "o": 124.07,
-            "h": 124.215,
-            "l": 124.07,
-            "c": 124.215,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493385000,
-            "t_bj": "22:23:05",
-            "o": 124.285,
-            "h": 124.285,
-            "l": 124.245,
-            "c": 124.255,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493390000,
-            "t_bj": "22:23:10",
-            "o": 124.195,
-            "h": 124.195,
-            "l": 124.14,
-            "c": 124.165,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493395000,
-            "t_bj": "22:23:15",
-            "o": 124.2,
-            "h": 124.2,
-            "l": 124.035,
-            "c": 124.035,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493400000,
-            "t_bj": "22:23:20",
-            "o": 124.04,
-            "h": 124.04,
-            "l": 123.92,
-            "c": 123.92,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493405000,
-            "t_bj": "22:23:25",
-            "o": 124.03,
-            "h": 124.03,
-            "l": 123.975,
-            "c": 123.985,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493410000,
-            "t_bj": "22:23:30",
-            "o": 123.985,
-            "h": 124.055,
-            "l": 123.985,
-            "c": 124.055,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493415000,
-            "t_bj": "22:23:35",
-            "o": 124.155,
-            "h": 124.235,
-            "l": 124.155,
-            "c": 124.235,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493420000,
-            "t_bj": "22:23:40",
-            "o": 124.155,
-            "h": 124.255,
-            "l": 123.92,
-            "c": 123.92,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493425000,
-            "t_bj": "22:23:45",
-            "o": 123.855,
-            "h": 123.865,
-            "l": 123.845,
-            "c": 123.845,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493430000,
-            "t_bj": "22:23:50",
-            "o": 123.845,
-            "h": 123.845,
-            "l": 123.765,
-            "c": 123.795,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493435000,
-            "t_bj": "22:23:55",
-            "o": 123.675,
-            "h": 123.675,
-            "l": 123.605,
-            "c": 123.625,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493440000,
-            "t_bj": "22:24:00",
-            "o": 123.735,
-            "h": 123.79,
-            "l": 123.735,
-            "c": 123.79,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493445000,
-            "t_bj": "22:24:05",
-            "o": 123.91,
-            "h": 124.0,
-            "l": 123.87,
-            "c": 123.87,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493450000,
-            "t_bj": "22:24:10",
-            "o": 123.785,
-            "h": 123.875,
-            "l": 123.7,
-            "c": 123.7,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493455000,
-            "t_bj": "22:24:15",
-            "o": 123.735,
-            "h": 123.795,
-            "l": 123.735,
-            "c": 123.795,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493460000,
-            "t_bj": "22:24:20",
-            "o": 123.735,
-            "h": 123.805,
-            "l": 123.735,
-            "c": 123.805,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493465000,
-            "t_bj": "22:24:25",
-            "o": 123.74,
-            "h": 123.745,
-            "l": 123.705,
-            "c": 123.705,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493470000,
-            "t_bj": "22:24:30",
-            "o": 123.725,
-            "h": 123.725,
-            "l": 123.695,
-            "c": 123.695,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493475000,
-            "t_bj": "22:24:35",
-            "o": 123.635,
-            "h": 123.635,
-            "l": 123.515,
-            "c": 123.55,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493480000,
-            "t_bj": "22:24:40",
-            "o": 123.745,
-            "h": 123.745,
-            "l": 123.63,
-            "c": 123.645,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493485000,
-            "t_bj": "22:24:45",
-            "o": 123.58,
-            "h": 123.585,
-            "l": 123.555,
-            "c": 123.555,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493490000,
-            "t_bj": "22:24:50",
-            "o": 123.605,
-            "h": 123.755,
-            "l": 123.605,
-            "c": 123.755,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493495000,
-            "t_bj": "22:24:55",
-            "o": 123.715,
-            "h": 123.715,
-            "l": 123.56,
-            "c": 123.585,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493500000,
-            "t_bj": "22:25:00",
-            "o": 123.63,
-            "h": 123.63,
-            "l": 123.065,
-            "c": 123.065,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493505000,
-            "t_bj": "22:25:05",
-            "o": 122.885,
-            "h": 122.9,
-            "l": 122.835,
-            "c": 122.9,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493510000,
-            "t_bj": "22:25:10",
-            "o": 122.825,
-            "h": 122.825,
-            "l": 122.32,
-            "c": 122.32,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493515000,
-            "t_bj": "22:25:15",
-            "o": 122.08,
-            "h": 122.08,
-            "l": 121.805,
-            "c": 121.805,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493520000,
-            "t_bj": "22:25:20",
-            "o": 121.76,
-            "h": 121.76,
-            "l": 121.605,
-            "c": 121.605,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493525000,
-            "t_bj": "22:25:25",
-            "o": 121.555,
-            "h": 121.555,
-            "l": 121.48,
-            "c": 121.48,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493530000,
-            "t_bj": "22:25:30",
-            "o": 121.595,
-            "h": 121.595,
-            "l": 121.415,
-            "c": 121.415,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493535000,
-            "t_bj": "22:25:35",
-            "o": 121.37,
-            "h": 121.465,
-            "l": 120.93,
-            "c": 120.93,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493540000,
-            "t_bj": "22:25:40",
-            "o": 120.735,
-            "h": 120.735,
-            "l": 120.595,
-            "c": 120.595,
-            "ticks": 2
-          },
-          {
-            "t_ms": 1794493545000,
-            "t_bj": "22:25:45",
-            "o": 120.61,
-            "h": 120.61,
-            "l": 120.325,
-            "c": 120.325,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493550000,
-            "t_bj": "22:25:50",
-            "o": 120.305,
-            "h": 120.525,
-            "l": 120.305,
-            "c": 120.525,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493555000,
-            "t_bj": "22:25:55",
-            "o": 120.46,
-            "h": 120.46,
-            "l": 120.355,
-            "c": 120.355,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493560000,
-            "t_bj": "22:26:00",
-            "o": 120.345,
-            "h": 120.425,
-            "l": 120.345,
-            "c": 120.425,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493565000,
-            "t_bj": "22:26:05",
-            "o": 120.51,
-            "h": 120.525,
-            "l": 120.48,
-            "c": 120.525,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493570000,
-            "t_bj": "22:26:10",
-            "o": 120.775,
-            "h": 121.02,
-            "l": 120.775,
-            "c": 121.02,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493575000,
-            "t_bj": "22:26:15",
-            "o": 120.985,
-            "h": 121.09,
-            "l": 120.985,
-            "c": 121.04,
-            "ticks": 4
-          },
-          {
-            "t_ms": 1794493580000,
-            "t_bj": "22:26:20",
-            "o": 120.475,
-            "h": 120.475,
-            "l": 120.36,
-            "c": 120.4,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493585000,
-            "t_bj": "22:26:25",
-            "o": 120.46,
-            "h": 120.46,
-            "l": 120.325,
-            "c": 120.41,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493590000,
-            "t_bj": "22:26:30",
-            "o": 120.44,
-            "h": 120.555,
-            "l": 120.365,
-            "c": 120.555,
-            "ticks": 3
-          },
-          {
-            "t_ms": 1794493595000,
-            "t_bj": "22:26:35",
-            "o": 120.515,
-            "h": 120.515,
-            "l": 120.395,
-            "c": 120.425,
-            "ticks": 3
-          }
-        ],
-        "klines_1s": [
-          {
-            "t_ms": 1794493349000,
-            "t_bj": "22:22:29",
-            "o": 125.14,
-            "h": 125.14,
-            "l": 125.14,
-            "c": 125.14,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493350000,
-            "t_bj": "22:22:30",
-            "o": 124.585,
-            "h": 124.585,
-            "l": 124.585,
-            "c": 124.585,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493352000,
-            "t_bj": "22:22:32",
-            "o": 124.45,
-            "h": 124.45,
-            "l": 124.45,
-            "c": 124.45,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493354000,
-            "t_bj": "22:22:34",
-            "o": 124.545,
-            "h": 124.545,
-            "l": 124.545,
-            "c": 124.545,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493355000,
-            "t_bj": "22:22:35",
-            "o": 124.38,
-            "h": 124.38,
-            "l": 124.38,
-            "c": 124.38,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493357000,
-            "t_bj": "22:22:37",
-            "o": 124.43,
-            "h": 124.43,
-            "l": 124.43,
-            "c": 124.43,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493359000,
-            "t_bj": "22:22:39",
-            "o": 124.425,
-            "h": 124.425,
-            "l": 124.425,
-            "c": 124.425,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493360000,
-            "t_bj": "22:22:40",
-            "o": 124.395,
-            "h": 124.395,
-            "l": 124.395,
-            "c": 124.395,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493362000,
-            "t_bj": "22:22:42",
-            "o": 124.305,
-            "h": 124.305,
-            "l": 124.305,
-            "c": 124.305,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493363000,
-            "t_bj": "22:22:43",
-            "o": 124.21,
-            "h": 124.21,
-            "l": 124.21,
-            "c": 124.21,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493365000,
-            "t_bj": "22:22:45",
-            "o": 124.205,
-            "h": 124.205,
-            "l": 124.205,
-            "c": 124.205,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493367000,
-            "t_bj": "22:22:47",
-            "o": 124.185,
-            "h": 124.185,
-            "l": 124.185,
-            "c": 124.185,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493368000,
-            "t_bj": "22:22:48",
-            "o": 124.21,
-            "h": 124.21,
-            "l": 124.21,
-            "c": 124.21,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493370000,
-            "t_bj": "22:22:50",
-            "o": 124.235,
-            "h": 124.235,
-            "l": 124.235,
-            "c": 124.235,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493371000,
-            "t_bj": "22:22:51",
-            "o": 124.305,
-            "h": 124.305,
-            "l": 124.305,
-            "c": 124.305,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493373000,
-            "t_bj": "22:22:53",
-            "o": 124.395,
-            "h": 124.395,
-            "l": 124.395,
-            "c": 124.395,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493375000,
-            "t_bj": "22:22:55",
-            "o": 124.37,
-            "h": 124.37,
-            "l": 124.37,
-            "c": 124.37,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493376000,
-            "t_bj": "22:22:56",
-            "o": 124.365,
-            "h": 124.365,
-            "l": 124.365,
-            "c": 124.365,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493377000,
-            "t_bj": "22:22:57",
-            "o": 124.335,
-            "h": 124.335,
-            "l": 124.335,
-            "c": 124.335,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493379000,
-            "t_bj": "22:22:59",
-            "o": 124.305,
-            "h": 124.305,
-            "l": 124.305,
-            "c": 124.305,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493381000,
-            "t_bj": "22:23:01",
-            "o": 124.07,
-            "h": 124.07,
-            "l": 124.07,
-            "c": 124.07,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493382000,
-            "t_bj": "22:23:02",
-            "o": 124.085,
-            "h": 124.085,
-            "l": 124.085,
-            "c": 124.085,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493384000,
-            "t_bj": "22:23:04",
-            "o": 124.215,
-            "h": 124.215,
-            "l": 124.215,
-            "c": 124.215,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493385000,
-            "t_bj": "22:23:05",
-            "o": 124.285,
-            "h": 124.285,
-            "l": 124.285,
-            "c": 124.285,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493387000,
-            "t_bj": "22:23:07",
-            "o": 124.245,
-            "h": 124.245,
-            "l": 124.245,
-            "c": 124.245,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493388000,
-            "t_bj": "22:23:08",
-            "o": 124.255,
-            "h": 124.255,
-            "l": 124.255,
-            "c": 124.255,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493390000,
-            "t_bj": "22:23:10",
-            "o": 124.195,
-            "h": 124.195,
-            "l": 124.195,
-            "c": 124.195,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493392000,
-            "t_bj": "22:23:12",
-            "o": 124.14,
-            "h": 124.14,
-            "l": 124.14,
-            "c": 124.14,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493394000,
-            "t_bj": "22:23:14",
-            "o": 124.165,
-            "h": 124.165,
-            "l": 124.165,
-            "c": 124.165,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493395000,
-            "t_bj": "22:23:15",
-            "o": 124.2,
-            "h": 124.2,
-            "l": 124.2,
-            "c": 124.2,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493397000,
-            "t_bj": "22:23:17",
-            "o": 124.06,
-            "h": 124.06,
-            "l": 124.06,
-            "c": 124.06,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493398000,
-            "t_bj": "22:23:18",
-            "o": 124.035,
-            "h": 124.035,
-            "l": 124.035,
-            "c": 124.035,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493400000,
-            "t_bj": "22:23:20",
-            "o": 124.04,
-            "h": 124.04,
-            "l": 124.04,
-            "c": 124.04,
-            "ticks": 1
-          },
-          {
-            "t_ms": 1794493401000,
-            "t_bj": "22:23:21",
-            "o": 124.005,
-            "h": 124.005,
-            "l": 124.005,
-            "c": 124.005,
-            "ticks": 1
-          }
-        ]
+        "loss_reason": "财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7023) 自动平仓；止损离场 (@ 121.6) 后 K 线继续深跌至 121.6 (-2.28%)，-2.2% 硬止损有效拦截后续续跌",
+        "post_exit_extreme_px": 121.6,
+        "post_exit_move_note": "止损离场 (@ 121.6) 后 K 线继续深跌至 121.6 (-2.28%)，-2.2% 硬止损有效拦截后续续跌",
+        "klines_5s": [],
+        "klines_1s": []
       },
       {
         "seq": 4,
@@ -111044,7 +108554,7 @@
         "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
       }
     ],
-    "raw_journal_text": "[昨今定时财报窗口实战开单与止损平仓台账 · 共 9 笔交易，合计净盈亏 -1.8890 USDT (均值 -2.64%)]\n\n[TRADE #01] 交易所=Binance | 合约=NBISUSDT | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.23 USDT | 名义仓位=6.2270 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.54 | 预设止盈线=133.0087 (+6.8%) | 预设硬止损线=121.8001 (-2.2%) | 平仓成交价=121.76\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.292 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.04% | 最大浮亏 MAE=-2.23%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.23% (-0.1390 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.33% (-0.1452 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.8001) 自动平仓；止损离场 (@ 121.76) 后 K 线继续深跌至 120.475 (-3.26%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #02] 交易所=OKX | 合约=NBIS-USDT-SWAP | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.22 USDT | 名义仓位=6.2240 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.48 | 预设止盈线=132.9446 (+6.8%) | 预设硬止损线=121.7414 (-2.2%) | 平仓成交价=121.68\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.293 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.06% | 最大浮亏 MAE=-2.25%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.25% (-0.1400 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.35% (-0.1462 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7414) 自动平仓；止损离场 (@ 121.68) 后 K 线继续深跌至 120.395 (-3.28%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #03] 交易所=Hyperliquid | 合约=xyz:NBIS | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.09 张/币 | 保证金=11.20 USDT | 名义仓位=11.1996 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.44 | 预设止盈线=132.9019 (+6.8%) | 预设硬止损线=121.7023 (-2.2%) | 平仓成交价=121.6\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:24.795 BJ | 持仓时长=167.722 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.28%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.28% (-0.2556 USDT) | 双边手续费=0.09% (-0.0101 USDT) | 净盈亏=-2.37% (-0.2657 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7023) 自动平仓；止损离场 (@ 121.6) 后 K 线继续深跌至 120.305 (-3.32%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #04] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.09 USDT | 名义仓位=6.0876 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.923 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.968 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.120 BJ\n  ├─ 价格与止损水位: 开仓均价=101.46 | 预设止盈线=94.5607 (+6.8%) | 预设硬止损线=103.6921 (-2.2%) | 平仓成交价=104.33\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:44.349 BJ | 持仓时长=14.229 秒 | 盘中最大浮盈 MFE=+0.26% | 最大浮亏 MAE=-2.83%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.83% (-0.1722 USDT) | 双边手续费=0.10% (-0.0061 USDT) | 净盈亏=-2.93% (-0.1783 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (103.6921) 自动平仓；止损离场 (@ 104.33) 后 K 线继续逼空暴拉至 113.195 (空头浮亏达 -11.57%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #05] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=5.91 USDT | 名义仓位=5.9088 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.48 | 预设止盈线=91.7834 (+6.8%) | 预设硬止损线=100.6466 (-2.2%) | 平仓成交价=100.93\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.49%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.49% (-0.1470 USDT) | 双边手续费=0.10% (-0.0059 USDT) | 净盈亏=-2.59% (-0.1529 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.6466) 自动平仓；止损离场 (@ 100.93) 后 K 线继续逼空暴拉至 113.205 (空头浮亏达 -14.95%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #06] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=10.81 USDT | 名义仓位=10.8110 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.282 | 预设止盈线=91.5988 (+6.8%) | 预设硬止损线=100.4442 (-2.2%) | 平仓成交价=101.92\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-3.70%\n  ├─ 盈亏与费用明细: 毛盈亏=-3.70% (-0.4002 USDT) | 双边手续费=0.09% (-0.0097 USDT) | 净盈亏=-3.79% (-0.4099 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.4442) 自动平仓；止损离场 (@ 101.92) 后 K 线继续逼空暴拉至 113.04 (空头浮亏达 -15.02%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #07] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.29 USDT | 名义仓位=6.2892 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.82 | 预设止盈线=97.6922 (+6.8%) | 预设硬止损线=107.126 (-2.2%) | 平仓成交价=107.35\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:37.281 BJ | 持仓时长=13.393 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.41%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.41% (-0.1518 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.51% (-0.1581 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (107.126) 自动平仓；止损离场 (@ 107.35) 后 K 线继续逼空暴拉至 114.235 (空头浮亏达 -8.98%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #08] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.28 USDT | 名义仓位=6.2766 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.61 | 预设止盈线=97.4965 (+6.8%) | 预设硬止损线=106.9114 (-2.2%) | 平仓成交价=107.09\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.37%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.37% (-0.1488 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.47% (-0.1551 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.9114) 自动平仓；止损离场 (@ 107.09) 后 K 线继续逼空暴拉至 114.275 (空头浮亏达 -9.24%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #09] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=11.48 USDT | 名义仓位=11.4752 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.32 | 预设止盈线=97.2262 (+6.8%) | 预设硬止损线=106.615 (-2.2%) | 平仓成交价=106.75\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.33%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.33% (-0.2673 USDT) | 双边手续费=0.09% (-0.0103 USDT) | 净盈亏=-2.42% (-0.2776 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.615) 自动平仓；止损离场 (@ 106.75) 后 K 线继续逼空暴拉至 113.995 (空头浮亏达 -9.27%)，-2.2% 硬止损成功拦截逼空穿仓\n\n========================================================================================\n[昨今定时财报窗口全量 10 场采集、信号与执行汇总]\n\n[WINDOW #01] 2026-11-12 22:22:36 BJ | NBIS  (Nebius算力) | 渠道=SEC披露网站 | 美东解析=347.39 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS -0.13 vs 上限 -0.61 (+78.7%) · 营收 980800000.0 vs 上限 916780000 (+7.0%)\n  └─ 执行结果: 三所同步开多 3 笔 ➔ 触发 -2.2% 硬止损 | 财报双超预期做多，盘中利好兑现反向砸盘跌破 -2.2% 止损线亏损平仓\n\n[WINDOW #02] 2026-11-13 05:04:29 BJ | CBRS  (Cerebras芯片) | 渠道=SEC披露网站 | 美东解析=44.36 ms\n  ├─ 信号判定: 双低做空 (SHORT) — EPS -0.67 vs 下限 -0.13 (-415.4%) · 营收 210809000 vs 下限 215820000 (-2.3%)\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 当期业绩双低触发做空，市场炒作远期指引逆势爆拉逼空，触发 -2.2% 止损平仓\n\n[WINDOW #03] 2026-11-13 05:06:23 BJ | CBRS  (Cerebras芯片) | 渠道=公司官网 | 美东解析=93.91 ms\n  ├─ 信号判定: 双低做空 (SHORT) — 官网新闻稿二次确认 EPS -0.67 / 营收 210809000 双低于机构下限\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 官网通道触发第二波做空，盘后继续逼空上涨，触发 -2.2% 硬止损离场\n\n[WINDOW #04] 2026-11-12 20:33:02 BJ | LUNR  (直觉机器) | 渠道=SEC / 财经社 | 美东解析=53.42 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: OKX 网关验证通过 (BUY @ 13.242) | 美东 53.4ms 产出做多信号直传东京，OKX 永续合约网关校验通过\n\n[WINDOW #05] 2026-11-12 21:05:10 BJ | FIGR  (Figure科技) | 渠道=财经社 / SEC | 美东解析=95.23 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 美东 95.2ms 触发做多并传至东京，因 Binance/OKX/Hyperliquid 均无 FIGR 合约自动跳过\n\n[WINDOW #06] 2026-11-13 05:05:12 BJ | CSCO  (思科) | 渠道=财经社 / SEC | 美东解析=47.90 ms\n  ├─ 信号判定: 区间观望 (HOLD) — EPS 超预期，但营收落入机构预测区间内，方向不一致\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 47.9ms 完成解析，因未同时击穿 EPS+营收包络边界，严格按规则观望不开单\n\n[WINDOW #07] 2026-11-13 05:05:18 BJ | GEMI  (Gemini航天) | 渠道=财经社 / SEC | 美东解析=39.73 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 核心指标落入机构预测包络区间 [min, max] 内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 39.7ms 完成解析，指标在机构预期范围内，严格观望不开单\n\n[WINDOW #08] 2026-11-12 20:01:05 BJ | BN    (布鲁克菲尔德) | 渠道=公司官网 / SEC | 美东解析=94.67 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 指标落入机构预测包络区间内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 94.7ms 完成解析，未触发双超/双低包络突破，不开单\n\n[WINDOW #09] 2026-11-12 18:02:14 BJ | FNV   (Franco-Nevada) | 渠道=SEC / 财经社 | 美东解析=110.37 ms\n  ├─ 信号判定: SEC观望 / 社稿做多 — SEC 110.4ms 落入区间观望；Newswire 458.9ms 触发做多\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 定时窗口首家采集，三大交易所均无 FNV 永续合约\n\n[WINDOW #10] 2026-11-12 21:30:40 BJ | ONDS  (Ondas网络) | 渠道=SEC披露网站 | 美东解析=75.09 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 单指标或落入机构预期区间\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 75.1ms 完成解析，严格按双指标包络规则过滤不开单"
+    "raw_journal_text": "[昨今定时财报窗口实战开单与止损平仓台账 · 共 9 笔交易，合计净盈亏 -1.8890 USDT (均值 -2.64%)]\n\n[TRADE #01] 交易所=Binance | 合约=NBISUSDT | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.23 USDT | 名义仓位=6.2270 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.54 | 预设止盈线=133.0087 (+6.8%) | 预设硬止损线=121.8001 (-2.2%) | 平仓成交价=121.76\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.292 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.04% | 最大浮亏 MAE=-2.23%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.23% (-0.1390 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.33% (-0.1452 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.8001) 自动平仓；止损离场 (@ 121.76) 后 K 线继续深跌至 121.76 (-2.23%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #02] 交易所=OKX | 合约=NBIS-USDT-SWAP | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.22 USDT | 名义仓位=6.2240 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.48 | 预设止盈线=132.9446 (+6.8%) | 预设硬止损线=121.7414 (-2.2%) | 平仓成交价=121.68\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.293 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.06% | 最大浮亏 MAE=-2.25%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.25% (-0.1400 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.35% (-0.1462 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7414) 自动平仓；止损离场 (@ 121.68) 后 K 线继续深跌至 121.68 (-2.25%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #03] 交易所=Hyperliquid | 合约=xyz:NBIS | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.09 张/币 | 保证金=11.20 USDT | 名义仓位=11.1996 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.44 | 预设止盈线=132.9019 (+6.8%) | 预设硬止损线=121.7023 (-2.2%) | 平仓成交价=121.6\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:24.795 BJ | 持仓时长=167.722 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.28%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.28% (-0.2556 USDT) | 双边手续费=0.09% (-0.0101 USDT) | 净盈亏=-2.37% (-0.2657 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7023) 自动平仓；止损离场 (@ 121.6) 后 K 线继续深跌至 121.6 (-2.28%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #04] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.09 USDT | 名义仓位=6.0876 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.923 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.968 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.120 BJ\n  ├─ 价格与止损水位: 开仓均价=101.46 | 预设止盈线=94.5607 (+6.8%) | 预设硬止损线=103.6921 (-2.2%) | 平仓成交价=104.33\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:44.349 BJ | 持仓时长=14.229 秒 | 盘中最大浮盈 MFE=+0.26% | 最大浮亏 MAE=-2.83%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.83% (-0.1722 USDT) | 双边手续费=0.10% (-0.0061 USDT) | 净盈亏=-2.93% (-0.1783 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (103.6921) 自动平仓；止损离场 (@ 104.33) 后 K 线继续逼空暴拉至 113.195 (空头浮亏达 -11.57%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #05] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=5.91 USDT | 名义仓位=5.9088 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.48 | 预设止盈线=91.7834 (+6.8%) | 预设硬止损线=100.6466 (-2.2%) | 平仓成交价=100.93\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.49%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.49% (-0.1470 USDT) | 双边手续费=0.10% (-0.0059 USDT) | 净盈亏=-2.59% (-0.1529 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.6466) 自动平仓；止损离场 (@ 100.93) 后 K 线继续逼空暴拉至 113.205 (空头浮亏达 -14.95%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #06] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=10.81 USDT | 名义仓位=10.8110 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.282 | 预设止盈线=91.5988 (+6.8%) | 预设硬止损线=100.4442 (-2.2%) | 平仓成交价=101.92\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-3.70%\n  ├─ 盈亏与费用明细: 毛盈亏=-3.70% (-0.4002 USDT) | 双边手续费=0.09% (-0.0097 USDT) | 净盈亏=-3.79% (-0.4099 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.4442) 自动平仓；止损离场 (@ 101.92) 后 K 线继续逼空暴拉至 113.04 (空头浮亏达 -15.02%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #07] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.29 USDT | 名义仓位=6.2892 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.82 | 预设止盈线=97.6922 (+6.8%) | 预设硬止损线=107.126 (-2.2%) | 平仓成交价=107.35\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:37.281 BJ | 持仓时长=13.393 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.41%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.41% (-0.1518 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.51% (-0.1581 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (107.126) 自动平仓；止损离场 (@ 107.35) 后 K 线继续逼空暴拉至 114.235 (空头浮亏达 -8.98%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #08] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.28 USDT | 名义仓位=6.2766 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.61 | 预设止盈线=97.4965 (+6.8%) | 预设硬止损线=106.9114 (-2.2%) | 平仓成交价=107.09\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.37%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.37% (-0.1488 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.47% (-0.1551 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.9114) 自动平仓；止损离场 (@ 107.09) 后 K 线继续逼空暴拉至 114.275 (空头浮亏达 -9.24%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #09] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=11.48 USDT | 名义仓位=11.4752 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.32 | 预设止盈线=97.2262 (+6.8%) | 预设硬止损线=106.615 (-2.2%) | 平仓成交价=106.75\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.33%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.33% (-0.2673 USDT) | 双边手续费=0.09% (-0.0103 USDT) | 净盈亏=-2.42% (-0.2776 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.615) 自动平仓；止损离场 (@ 106.75) 后 K 线继续逼空暴拉至 113.995 (空头浮亏达 -9.27%)，-2.2% 硬止损成功拦截逼空穿仓\n\n========================================================================================\n[昨今定时财报窗口全量 10 场采集、信号与执行汇总]\n\n[WINDOW #01] 2026-11-12 22:22:36 BJ | NBIS  (Nebius算力) | 渠道=SEC披露网站 | 美东解析=347.39 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS -0.13 vs 上限 -0.61 (+78.7%) · 营收 980800000.0 vs 上限 916780000 (+7.0%)\n  └─ 执行结果: 三所同步开多 3 笔 ➔ 触发 -2.2% 硬止损 | 财报双超预期做多，盘中利好兑现反向砸盘跌破 -2.2% 止损线亏损平仓\n\n[WINDOW #02] 2026-11-13 05:04:29 BJ | CBRS  (Cerebras芯片) | 渠道=SEC披露网站 | 美东解析=44.36 ms\n  ├─ 信号判定: 双低做空 (SHORT) — EPS -0.67 vs 下限 -0.13 (-415.4%) · 营收 210809000 vs 下限 215820000 (-2.3%)\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 当期业绩双低触发做空，市场炒作远期指引逆势爆拉逼空，触发 -2.2% 止损平仓\n\n[WINDOW #03] 2026-11-13 05:06:23 BJ | CBRS  (Cerebras芯片) | 渠道=公司官网 | 美东解析=93.91 ms\n  ├─ 信号判定: 双低做空 (SHORT) — 官网新闻稿二次确认 EPS -0.67 / 营收 210809000 双低于机构下限\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 官网通道触发第二波做空，盘后继续逼空上涨，触发 -2.2% 硬止损离场\n\n[WINDOW #04] 2026-11-12 20:33:02 BJ | LUNR  (直觉机器) | 渠道=SEC / 财经社 | 美东解析=53.42 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: OKX 网关验证通过 (BUY @ 13.242) | 美东 53.4ms 产出做多信号直传东京，OKX 永续合约网关校验通过\n\n[WINDOW #05] 2026-11-12 21:05:10 BJ | FIGR  (Figure科技) | 渠道=财经社 / SEC | 美东解析=95.23 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 美东 95.2ms 触发做多并传至东京，因 Binance/OKX/Hyperliquid 均无 FIGR 合约自动跳过\n\n[WINDOW #06] 2026-11-13 05:05:12 BJ | CSCO  (思科) | 渠道=财经社 / SEC | 美东解析=47.90 ms\n  ├─ 信号判定: 区间观望 (HOLD) — EPS 超预期，但营收落入机构预测区间内，方向不一致\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 47.9ms 完成解析，因未同时击穿 EPS+营收包络边界，严格按规则观望不开单\n\n[WINDOW #07] 2026-11-13 05:05:18 BJ | GEMI  (Gemini航天) | 渠道=财经社 / SEC | 美东解析=39.73 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 核心指标落入机构预测包络区间 [min, max] 内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 39.7ms 完成解析，指标在机构预期范围内，严格观望不开单\n\n[WINDOW #08] 2026-11-12 20:01:05 BJ | BN    (布鲁克菲尔德) | 渠道=公司官网 / SEC | 美东解析=94.67 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 指标落入机构预测包络区间内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 94.7ms 完成解析，未触发双超/双低包络突破，不开单\n\n[WINDOW #09] 2026-11-12 18:02:14 BJ | FNV   (Franco-Nevada) | 渠道=SEC / 财经社 | 美东解析=110.37 ms\n  ├─ 信号判定: SEC观望 / 社稿做多 — SEC 110.4ms 落入区间观望；Newswire 458.9ms 触发做多\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 定时窗口首家采集，三大交易所均无 FNV 永续合约\n\n[WINDOW #10] 2026-11-12 21:30:40 BJ | ONDS  (Ondas网络) | 渠道=SEC披露网站 | 美东解析=75.09 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 单指标或落入机构预期区间\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 75.1ms 完成解析，严格按双指标包络规则过滤不开单"
   },
   "channel_race_review": {
     "total_companies": 39,

@@ -1,10 +1,10 @@
-﻿代码,信号方向,测试场景,美东发现至信号(ms),美东至东京单向专线(ms),东京三所并发处理(ms),全链路至网关回执总耗时(ms),500ms达标,Binance状态与耗时,OKX状态与耗时,Hyperliquid状态与耗时,真实资金下单数
-TTWO,long,三所全齐标的（Binance + OKX + Hyperliquid para:TTWO）,46.03,76.29,279.559,401.88,通过,TTWOUSDT:DRYRUN_WS_GATEWAY_VERIFIED(249.65ms),TTWO-USDT-SWAP:DRYRUN_GATEWAY_VERIFIED(278.81ms),para:TTWO:DRYRUN_WS_AND_EIP712_VERIFIED(255.728ms),0
-RKLB,long,三所全齐标的（Binance + OKX + Hyperliquid xyz:RKLB）,139.05,76.22,6.184,221.45,通过,RKLBUSDT:DRYRUN_WS_GATEWAY_VERIFIED(3.935ms),RKLB-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(3.73ms),xyz:RKLB:DRYRUN_WS_AND_EIP712_VERIFIED(5.755ms),0
-HIMS,long,三所全齐标的（Binance + OKX + Hyperliquid xyz:HIMS）,139.12,76.2,5.956,221.28,通过,HIMSUSDT:DRYRUN_WS_GATEWAY_VERIFIED(3.767ms),HIMS-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(3.593ms),xyz:HIMS:DRYRUN_WS_AND_EIP712_VERIFIED(5.59ms),0
-NBIS,long,三所全齐标的（Binance + OKX + Hyperliquid xyz:NBIS 最深池）,244.8,76.19,7.676,328.67,通过,NBISUSDT:DRYRUN_WS_GATEWAY_VERIFIED(3.813ms),NBIS-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(3.647ms),xyz:NBIS:DRYRUN_WS_AND_EIP712_VERIFIED(7.336ms),0
-OXY,long,双所可用自动路由（Binance + OKX 并发；Hyperliquid 未上架自动跳过）,83.06,76.19,2.477,161.73,通过,OXYUSDT:DRYRUN_WS_GATEWAY_VERIFIED(2.366ms),OXY-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(0.072ms),跳过:skipped_unlisted(-ms),0
-CSCO,long,双所可用自动路由（Binance + OKX 并发；Hyperliquid 未上架自动跳过）,273.42,76.25,2.631,352.3,通过,CSCOUSDT:DRYRUN_WS_GATEWAY_VERIFIED(2.522ms),CSCO-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(0.071ms),跳过:skipped_unlisted(-ms),0
-BIDU,long,单所独有自动路由（仅 OKX 股票合约可用；Binance/Hyperliquid 自动跳过）,106.4,76.19,0.28,182.87,通过,跳过:skipped_unlisted(-ms),BIDU-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(0.119ms),跳过:skipped_unlisted(-ms),0
-B,long,同名山寨币拦截验证（Binance BUSDT Meme币被铁闸拦截，零误下单）,75.65,76.17,0.009,151.83,通过,跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),0
-ACM,long,同名粉丝币拦截验证（Binance ACMUSDT 足球币被铁闸拦截，零误下单）,71.12,76.16,0.007,147.29,通过,跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),0
+﻿代码,信号方向,测试场景,美东发现至信号(ms),美东至东京单向专线(ms),东京三所并发处理(ms),全链路至网关回执总耗时(ms),500ms达标,Binance状态与耗时,OKX状态与耗时,Hyperliquid状态与耗时,真实资金下单数
+TTWO,long,三所全齐标的（Binance + OKX + Hyperliquid para:TTWO）,46.03,76.29,279.559,401.88,通过,TTWOUSDT:DRYRUN_WS_GATEWAY_VERIFIED(249.65ms),TTWO-USDT-SWAP:DRYRUN_GATEWAY_VERIFIED(278.81ms),para:TTWO:DRYRUN_WS_AND_EIP712_VERIFIED(255.728ms),0
+RKLB,long,三所全齐标的（Binance + OKX + Hyperliquid xyz:RKLB）,139.05,76.22,6.184,221.45,通过,RKLBUSDT:DRYRUN_WS_GATEWAY_VERIFIED(3.935ms),RKLB-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(3.73ms),xyz:RKLB:DRYRUN_WS_AND_EIP712_VERIFIED(5.755ms),0
+HIMS,long,三所全齐标的（Binance + OKX + Hyperliquid xyz:HIMS）,139.12,76.2,5.956,221.28,通过,HIMSUSDT:DRYRUN_WS_GATEWAY_VERIFIED(3.767ms),HIMS-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(3.593ms),xyz:HIMS:DRYRUN_WS_AND_EIP712_VERIFIED(5.59ms),0
+NBIS,long,三所全齐标的（Binance + OKX + Hyperliquid xyz:NBIS 最深池）,244.8,76.19,7.676,328.67,通过,NBISUSDT:DRYRUN_WS_GATEWAY_VERIFIED(3.813ms),NBIS-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(3.647ms),xyz:NBIS:DRYRUN_WS_AND_EIP712_VERIFIED(7.336ms),0
+OXY,long,双所可用自动路由（Binance + OKX 并发；Hyperliquid 未上架自动跳过）,83.06,76.19,2.477,161.73,通过,OXYUSDT:DRYRUN_WS_GATEWAY_VERIFIED(2.366ms),OXY-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(0.072ms),跳过:skipped_unlisted(-ms),0
+CSCO,long,双所可用自动路由（Binance + OKX 并发；Hyperliquid 未上架自动跳过）,273.42,76.25,2.631,352.3,通过,CSCOUSDT:DRYRUN_WS_GATEWAY_VERIFIED(2.522ms),CSCO-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(0.071ms),跳过:skipped_unlisted(-ms),0
+BIDU,long,单所独有自动路由（仅 OKX 股票合约可用；Binance/Hyperliquid 自动跳过）,106.4,76.19,0.28,182.87,通过,跳过:skipped_unlisted(-ms),BIDU-USDT-SWAP:DRYRUN_WS_GATEWAY_VERIFIED(0.119ms),跳过:skipped_unlisted(-ms),0
+B,long,同名山寨币拦截验证（Binance BUSDT Meme币被铁闸拦截，零误下单）,75.65,76.17,0.009,151.83,通过,跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),0
+ACM,long,同名粉丝币拦截验证（Binance ACMUSDT 足球币被铁闸拦截，零误下单）,71.12,76.16,0.007,147.29,通过,跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),跳过:skipped_unlisted(-ms),0

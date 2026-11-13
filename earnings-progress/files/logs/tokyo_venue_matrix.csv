@@ -1,64 +1,64 @@
-﻿代码,公司,已覆盖交易所数,Binance股票永续,OKX股票合约,Hyperliquid(HIP-3股票永续),K线粒度与缺失路由策略
-ACHR,Archer Aviation,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-ACM,AECOM,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-ARMK,Aramark,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-AS,亚玛芬体育,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-B,Barrick Mining,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-BAM,Brookfield Asset Management,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-BEKE,贝壳,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-BIDU,百度,1,未上架,BIDU-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-BN,Brookfield Corporation,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-BRK.B,伯克希尔哈撒韦,2,BRKBUSDT,BRKB-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-CBRS,Cerebras Systems,3,CBRSUSDT,CBRS-USDT-SWAP,xyz:CBRS,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-CECO,CECO Environmental,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-CSCO,思科,2,CSCOUSDT,CSCO-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-DIS,迪士尼,1,DISUSDT,未上架,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-ENB,Enbridge,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-FERG,Ferguson Enterprises,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-FIGR,Figure Technology Solutions,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-FNV,Franco-Nevada,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-GEMI,Gemini Space Station,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-GIB,CGI,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-GLBE,Global-e Online,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-GLNG,Golar LNG,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-HIMS,Hims & Hers,3,HIMSUSDT,HIMS-USDT-SWAP,xyz:HIMS,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-HTHT,华住集团,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-HUM,Humana,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-INFQ,Infleqtion,1,未上架,INFQ-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-IQ,爱奇艺,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-JD,京东,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-KKR,KKR,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-KLAR,Klarna Group,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-LCID,Lucid,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-LUNR,Intuitive Machines,1,未上架,LUNR-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-MRDN,Meridian Holdings,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-MSGK,MSG Knickerbockers Corp.,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-MSGR,MSG Rangers Corp.,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-NBIS,Nebius Group,3,NBISUSDT,NBIS-USDT-SWAP,xyz:NBIS,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-NCMI,National CineMedia,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-NVDA,英伟达,3,NVDAUSDT,NVDA-USDT-SWAP,xyz:NVDA,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-OKLO,Oklo,2,OKLOUSDT,OKLO-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-ONDS,Ondas,2,ONDSUSDT,ONDS-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-ONON,On Holding,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-OXY,Occidental,2,OXYUSDT,OXY-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-PANW,Palo Alto Networks,2,PANWUSDT,PANW-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-PONY,小马智行,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-QBTS,D-Wave Quantum,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-RGTI,Rigetti Computing,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-RKLB,Rocket Lab,3,RKLBUSDT,RKLB-USDT-SWAP,xyz:RKLB,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-SE,Sea,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-SKYD,Skydance,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-SOHU,搜狐,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-STEM,Stem,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-TDG,TransDigm Group,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-TGTX,TG Therapeutics,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-TJX,The TJX Companies,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-TME,腾讯音乐,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-TSN,泰森食品,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-TTD,The Trade Desk,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-TTWO,Take-Two Interactive,3,TTWOUSDT,TTWO-USDT-SWAP,para:TTWO,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
-VIK,Viking Holdings,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-WWD,Woodward,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-XENE,Xenon Pharmaceuticals,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-XPEV,小鹏汽车,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
-ZTO,中通快递,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+﻿代码,公司,已覆盖交易所数,Binance股票永续,OKX股票合约,Hyperliquid(HIP-3股票永续),K线粒度与缺失路由策略
+ACHR,Archer Aviation,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+ACM,AECOM,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+ARMK,Aramark,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+AS,亚玛芬体育,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+B,Barrick Mining,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+BAM,Brookfield Asset Management,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+BEKE,贝壳,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+BIDU,百度,1,未上架,BIDU-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+BN,Brookfield Corporation,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+BRK.B,伯克希尔哈撒韦,2,BRKBUSDT,BRKB-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+CBRS,Cerebras Systems,3,CBRSUSDT,CBRS-USDT-SWAP,xyz:CBRS,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+CECO,CECO Environmental,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+CSCO,思科,2,CSCOUSDT,CSCO-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+DIS,迪士尼,1,DISUSDT,未上架,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+ENB,Enbridge,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+FERG,Ferguson Enterprises,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+FIGR,Figure Technology Solutions,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+FNV,Franco-Nevada,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+GEMI,Gemini Space Station,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+GIB,CGI,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+GLBE,Global-e Online,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+GLNG,Golar LNG,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+HIMS,Hims & Hers,3,HIMSUSDT,HIMS-USDT-SWAP,xyz:HIMS,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+HTHT,华住集团,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+HUM,Humana,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+INFQ,Infleqtion,1,未上架,INFQ-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+IQ,爱奇艺,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+JD,京东,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+KKR,KKR,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+KLAR,Klarna Group,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+LCID,Lucid,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+LUNR,Intuitive Machines,1,未上架,LUNR-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+MRDN,Meridian Holdings,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+MSGK,MSG Knickerbockers Corp.,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+MSGR,MSG Rangers Corp.,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+NBIS,Nebius Group,3,NBISUSDT,NBIS-USDT-SWAP,xyz:NBIS,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+NCMI,National CineMedia,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+NVDA,英伟达,3,NVDAUSDT,NVDA-USDT-SWAP,xyz:NVDA,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+OKLO,Oklo,2,OKLOUSDT,OKLO-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+ONDS,Ondas,2,ONDSUSDT,ONDS-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+ONON,On Holding,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+OXY,Occidental,2,OXYUSDT,OXY-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+PANW,Palo Alto Networks,2,PANWUSDT,PANW-USDT-SWAP,未上架,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+PONY,小马智行,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+QBTS,D-Wave Quantum,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+RGTI,Rigetti Computing,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+RKLB,Rocket Lab,3,RKLBUSDT,RKLB-USDT-SWAP,xyz:RKLB,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+SE,Sea,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+SKYD,Skydance,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+SOHU,搜狐,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+STEM,Stem,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+TDG,TransDigm Group,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+TGTX,TG Therapeutics,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+TJX,The TJX Companies,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+TME,腾讯音乐,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+TSN,泰森食品,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+TTD,The Trade Desk,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+TTWO,Take-Two Interactive,3,TTWOUSDT,TTWO-USDT-SWAP,para:TTWO,Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿
+VIK,Viking Holdings,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+WWD,Woodward,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+XENE,Xenon Pharmaceuticals,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+XPEV,小鹏汽车,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过
+ZTO,中通快递,0,未上架,未上架,未上架,三所均未上架该美股合约/现货，触发信号时自动安全跳过

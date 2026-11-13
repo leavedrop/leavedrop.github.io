@@ -86918,7 +86918,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -86931,7 +86931,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0173
+          "simulation_ms": 0.0341
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87045,7 +87045,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87058,7 +87058,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0173
+          "simulation_ms": 0.0341
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87172,7 +87172,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87185,7 +87185,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0453
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87299,7 +87299,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87312,7 +87312,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0453
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87426,7 +87426,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87439,7 +87439,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.018
+          "simulation_ms": 0.0254
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -87556,7 +87556,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87569,7 +87569,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.018
+          "simulation_ms": 0.0254
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -87683,7 +87683,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -87696,7 +87696,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.017
+          "simulation_ms": 0.0385
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -87810,7 +87810,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -87823,7 +87823,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.017
+          "simulation_ms": 0.0385
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -87932,7 +87932,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.237631+00:00",
+          "created_at_utc": "2026-11-13T04:42:16.991128+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -87945,7 +87945,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.0388
         },
         "timings_ms": {
           "queue": 5.636996,
@@ -88054,7 +88054,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.237631+00:00",
+          "created_at_utc": "2026-11-13T04:42:16.991128+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88067,7 +88067,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.0388
         },
         "timings_ms": {
           "queue": 5.636996,
@@ -88176,7 +88176,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.341878+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.093033+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88189,7 +88189,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.027
+          "simulation_ms": 0.0291
         },
         "timings_ms": {
           "queue": 0.381862,
@@ -88298,7 +88298,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.341878+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.093033+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88311,7 +88311,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.027
+          "simulation_ms": 0.0291
         },
         "timings_ms": {
           "queue": 0.381862,
@@ -88668,7 +88668,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -88681,7 +88681,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0331
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -88795,7 +88795,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -88808,7 +88808,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0165
+          "simulation_ms": 0.0331
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -88922,7 +88922,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.480834+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -88935,7 +88935,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.0389
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89049,7 +89049,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.480834+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89062,7 +89062,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.0389
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89176,7 +89176,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.480834+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89189,7 +89189,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0156
+          "simulation_ms": 0.0234
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89303,7 +89303,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.480834+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89316,7 +89316,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0156
+          "simulation_ms": 0.0234
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89618,7 +89618,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:10.989142+00:00",
+          "created_at_utc": "2026-11-13T04:41:48.866742+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -89631,7 +89631,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0206
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -89741,7 +89741,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:10.989142+00:00",
+          "created_at_utc": "2026-11-13T04:41:48.866742+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -89754,7 +89754,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0206
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -89863,7 +89863,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:31.372515+00:00",
+          "created_at_utc": "2026-11-13T04:42:15.739101+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -89876,7 +89876,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0235
+          "simulation_ms": 0.0463
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -89986,7 +89986,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:31.372515+00:00",
+          "created_at_utc": "2026-11-13T04:42:15.739101+00:00",
           "beat_standards": {
             "eps": "0.72",
             "revenue": "1780000000"
@@ -89999,7 +89999,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0235
+          "simulation_ms": 0.0463
         },
         "timings_ms": {
           "queue": 0.57945,
@@ -92166,7 +92166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.463524+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92179,7 +92179,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0278
+          "simulation_ms": 0.0455
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92293,7 +92293,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.463524+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92306,7 +92306,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0278
+          "simulation_ms": 0.0455
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92420,7 +92420,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.469636+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92433,7 +92433,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0353
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -92547,7 +92547,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.469636+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92560,7 +92560,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0179
+          "simulation_ms": 0.0353
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -92674,7 +92674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -92687,7 +92687,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0168
+          "simulation_ms": 0.0263
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -92801,7 +92801,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -92814,7 +92814,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0168
+          "simulation_ms": 0.0263
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -92928,7 +92928,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -92941,7 +92941,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0176
+          "simulation_ms": 0.0259
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93055,7 +93055,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93068,7 +93068,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0176
+          "simulation_ms": 0.0259
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93182,7 +93182,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93195,7 +93195,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0174
+          "simulation_ms": 0.0347
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93309,7 +93309,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93322,7 +93322,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0174
+          "simulation_ms": 0.0347
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93436,7 +93436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93449,7 +93449,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.031
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -93563,7 +93563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93576,7 +93576,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.031
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -93690,7 +93690,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.371859+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.258562+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -93703,7 +93703,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0257
+          "simulation_ms": 0.045
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -93817,7 +93817,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.371859+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.258562+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -93830,7 +93830,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0257
+          "simulation_ms": 0.045
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -93944,7 +93944,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.371859+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.258562+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -93957,7 +93957,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0157
+          "simulation_ms": 0.0357
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94071,7 +94071,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.371859+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.258562+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94084,7 +94084,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0157
+          "simulation_ms": 0.0357
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94400,7 +94400,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.463524+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94413,7 +94413,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0191
+          "simulation_ms": 0.0399
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -94528,7 +94528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.463524+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94541,7 +94541,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0191
+          "simulation_ms": 0.0399
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -94655,7 +94655,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.469120+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -94668,7 +94668,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0182
+          "simulation_ms": 0.0363
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -94782,7 +94782,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.469120+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -94795,7 +94795,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0182
+          "simulation_ms": 0.0363
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -94909,7 +94909,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.469636+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -94922,7 +94922,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0182
+          "simulation_ms": 0.0396
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95036,7 +95036,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.469636+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95049,7 +95049,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0182
+          "simulation_ms": 0.0396
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95163,7 +95163,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.470653+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95176,7 +95176,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0175
+          "simulation_ms": 0.0379
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95290,7 +95290,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.526513+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.470653+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95303,7 +95303,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0175
+          "simulation_ms": 0.0379
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95417,7 +95417,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.536683+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.471166+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95430,7 +95430,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0228
+          "simulation_ms": 0.0339
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -95544,7 +95544,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.536683+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.471166+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95557,7 +95557,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0228
+          "simulation_ms": 0.0339
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -95674,7 +95674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537195+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.471166+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -95687,7 +95687,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0171
+          "simulation_ms": 0.0339
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -95804,7 +95804,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537195+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.471166+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -95817,7 +95817,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0171
+          "simulation_ms": 0.0339
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -95931,7 +95931,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.471166+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -95944,7 +95944,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0204
+          "simulation_ms": 0.0312
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96058,7 +96058,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.471166+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96071,7 +96071,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0204
+          "simulation_ms": 0.0312
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96185,7 +96185,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.472686+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96198,7 +96198,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0284
+          "simulation_ms": 0.0258
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96312,7 +96312,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.472686+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96325,7 +96325,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0284
+          "simulation_ms": 0.0258
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96439,7 +96439,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473302+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96452,7 +96452,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0247
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -96566,7 +96566,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473302+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96579,7 +96579,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0247
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -96693,7 +96693,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473302+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -96706,7 +96706,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0261
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -96820,7 +96820,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473302+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -96833,7 +96833,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0261
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -96947,7 +96947,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -96960,7 +96960,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0122
+          "simulation_ms": 0.0184
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97068,7 +97068,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97081,7 +97081,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0122
+          "simulation_ms": 0.0184
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97197,7 +97197,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97210,7 +97210,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0249
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97324,7 +97324,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97337,7 +97337,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0163
+          "simulation_ms": 0.0249
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97451,7 +97451,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97464,7 +97464,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0155
+          "simulation_ms": 0.0222
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -97579,7 +97579,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:29.537703+00:00",
+          "created_at_utc": "2026-11-13T04:42:13.473810+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97592,7 +97592,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0155
+          "simulation_ms": 0.0222
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -97701,7 +97701,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.362561+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.115656+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -97714,7 +97714,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0435
+          "simulation_ms": 0.0491
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -97823,7 +97823,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.362561+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.115656+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -97836,7 +97836,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0435
+          "simulation_ms": 0.0491
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -97945,7 +97945,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.362561+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.116847+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -97958,7 +97958,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0407
+          "simulation_ms": 0.0406
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98067,7 +98067,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.362561+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.116847+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98080,7 +98080,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0407
+          "simulation_ms": 0.0406
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98189,7 +98189,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.362561+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.117432+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -98202,7 +98202,7 @@
             "eps": "miss",
             "revenue": null
           },
-          "simulation_ms": 0.0241
+          "simulation_ms": 0.0334
         },
         "timings_ms": {
           "queue": 0.0515,
@@ -98311,7 +98311,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.344601+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.093542+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98324,7 +98324,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0167
+          "simulation_ms": 0.0195
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98433,7 +98433,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-13T04:38:32.344601+00:00",
+          "created_at_utc": "2026-11-13T04:42:17.093542+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98446,7 +98446,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0167
+          "simulation_ms": 0.0195
         },
         "timings_ms": {
           "queue": 0.0891,

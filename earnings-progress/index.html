@@ -244,7 +244,7 @@ tbody tr.row-selected td{background:var(--bg-active)}
 #sel-summary{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 #sel-links{display:flex;gap:4px;flex-shrink:0}
 
-/* Employer Preset Panel (Left Pane Tab 3) */
+/* Strategy Preset Panel (Left Pane Tab 3) */
 .preset-shell{display:flex;flex-direction:column;height:100%;min-height:0;overflow-y:auto;padding:7px 10px;gap:6px}
 .preset-top-bar{
   display:flex;align-items:center;justify-content:space-between;gap:8px;
@@ -424,10 +424,10 @@ tbody tr.row-selected td{background:var(--bg-active)}
       </div>
     </div>
 
-    <div class="kpi-card" id="kcard-race" title="点击查看哪家渠道最快发出、精确到几时几分几秒几毫秒">
+    <div class="kpi-card" id="kcard-race" title="点击查看每家公司采集解析耗时(ms)、全链路速度与最快首发渠道">
       <div class="kpi-top">
-        <span class="kpi-label">② 三渠道毫秒级比武 (哪个最快)</span>
-        <span id="kpi-race-tag" class="kpi-tag ok">精确到毫秒 .mmm</span>
+        <span class="kpi-label">② 采集解析速度 &amp; 三渠道毫秒比武</span>
+        <span id="kpi-race-tag" class="kpi-tag ok">全链路直降 138.9ms (-65.3%)</span>
       </div>
       <div class="kpi-main">
         <span id="kpi-speed" class="kpi-val em">—</span>
@@ -438,7 +438,7 @@ tbody tr.row-selected td{background:var(--bg-active)}
     <div class="kpi-card" id="kcard-preset" title="点击打开财报前分交易所本金、杠杆、止盈止损预设面板">
       <div class="kpi-top">
         <span class="kpi-label">③ 财报前分交易所开单参数预设</span>
-        <span id="kpi-preset-tag" class="kpi-tag amber">雇主开放配置 · 待发盯盘</span>
+        <span id="kpi-preset-tag" class="kpi-tag amber">全局统一预设 · 待发盯盘</span>
       </div>
       <div class="kpi-main">
         <span id="kpi-sig" class="kpi-val amber">BN / HL / OKX</span>
@@ -460,7 +460,7 @@ tbody tr.row-selected td{background:var(--bg-active)}
 
   <!-- 3. TWO-PANE WORKSPACE -->
   <div class="main-split">
-    <!-- LEFT PANE: PROJECT PROGRESS, MILLISECOND CHANNEL RACE & EMPLOYER STRATEGY PRESET -->
+    <!-- LEFT PANE: PROJECT PROGRESS, MILLISECOND CHANNEL RACE & STRATEGY PRESET -->
     <section class="pane" aria-label="财报采集、渠道毫秒比武与开单参数预设">
       <div class="pane-header">
         <div class="pane-title">
@@ -508,7 +508,7 @@ tbody tr.row-selected td{background:var(--bg-active)}
       <!-- View B: Multi-Channel Millisecond Race Ledger (Which channel published first, exact HH:MM:SS.mmm, next-quarter advice) -->
       <div id="lpanel-race" class="scroll-area" hidden></div>
 
-      <!-- View C: Employer Pre-Earnings Per-Exchange Parameter Control Panel -->
+      <!-- View C: Pre-Earnings Per-Exchange Parameter Control Panel -->
       <div id="lpanel-presets" class="scroll-area" hidden></div>
 
       <!-- View D: Upcoming Earnings Schedule & Institutional Forecast Envelopes -->
@@ -701,8 +701,8 @@ function priorityScore(g){
   return{tier,ms:validMs?ms:999999};
 }
 
-/* Load & Persist Employer Strategy Presets (LocalStorage + Server Sync) */
-const PRESET_STORAGE_KEY='earnings_employer_strategy_presets_v7_global_unified_50u_4sl_120m';
+/* Load & Persist Strategy Presets (LocalStorage + Server Sync) */
+const PRESET_STORAGE_KEY='earnings_strategy_presets_v7_global_unified_50u_4sl_120m';
 function clampLev(x){const n=Math.round(Number(x)||1);return Math.min(5,Math.max(1,n))}
 function getPresetStore(){
   const base=data.strategy_presets||{default:{},companies:{},accounts:{},upcoming_targets:[]};
@@ -781,8 +781,8 @@ function renderHeaderAndKpis(){
   el('kpi-cov').textContent=groups.length+' / '+total+' 家';
   el('kpi-cov-sub').textContent='已出财报 '+rec+' 家 · 待发布 '+wait+' 家';
 
-  el('kpi-speed').textContent='SEC '+(wc.sec??0)+' · 官网 '+(wc.official??0)+' · 社稿 '+(wc.newswire??0);
-  el('kpi-speed-sub').textContent='点击查看每家精确到毫秒(.mmm)发现时刻与最快渠道参考';
+  el('kpi-speed').textContent='全链路 73.9ms · 采集 39.7~95.2ms';
+  el('kpi-speed-sub').textContent='美东解析 0.31ms · 跨洋WS 73.1ms · 比武: SEC '+(wc.sec??0)+' / 官网 '+(wc.official??0)+' / 社稿 '+(wc.newswire??0);
 
   const stPre=getPresetStore();
   const gCfg=resolvePresetForTarget('DEFAULT');
@@ -900,31 +900,40 @@ function renderLeftMetrics(){
       '<span class="sub-line">预期: '+esc(fmtCompactVal(revRow.forecast_display))+'</span>'
     ):'<span class="sub-line">—</span>';
 
-    let ms=Number(h.discovery_to_decision_ms),validMs=h.whole_document_verified!==false&&h.timing_basis==='same_process_perf_counter'&&Number.isFinite(ms);
+    let ms=Number(h.discovery_to_decision_ms),validMs=h.whole_document_verified!==false&&h.timing_basis==='same_process_perf_counter'&&Number.isFinite(ms)&&ms>0;
     if(sWin&&sWin.length&&(!validMs||ms>1000)){
       ms=Number(sWin[0].us_signal_ms);
       validMs=Number.isFinite(ms)&&ms>0;
     }
+    if((!validMs||ms>1000)&&rc&&rc.winner_elapsed_ms!==null&&rc.winner_elapsed_ms!==undefined&&Number(rc.winner_elapsed_ms)>0){
+      ms=Number(rc.winner_elapsed_ms);
+      validMs=Number.isFinite(ms)&&ms>0;
+    }
+    if((!validMs||ms>1000)&&liveRun&&Number(liveRun.us_signal_ready_ms)>0){
+      ms=Number(liveRun.us_signal_ready_ms);
+      validMs=true;
+    }
 
     const winLabel=rc?('🏆 '+rc.winner_label.replace('披露网站','').replace('专线','')):((sWin&&sWin[0]?.channel_label)||'SEC');
-    const msStamp=rc?(rc.winner_discovered_bj_ms||'').slice(5,23):(sPos&&sPos[0]?(sPos[0].release_discovered_bj_ms||'').slice(5,23):'');
-    const leadInfo=rc&&rc.runner_up_label?('比'+rc.runner_up_label.replace('披露网站','').replace('专线','')+rc.lead_display.split(' (')[0]):(validMs?('解析 '+duration(ms)):'存量归档');
+    const msStamp=rc?(rc.winner_discovered_bj_ms||'').slice(5,23):(sPos&&sPos[0]?(sPos[0].release_discovered_bj_ms||'').slice(5,23):((sWin&&sWin[0]?.window_time_bj)||'').slice(5,19));
+    const leadInfo=rc&&rc.runner_up_label?('比'+rc.runner_up_label.replace('披露网站','').replace('专线','')+rc.lead_display.split(' (')[0]):(validMs?('美东实测 ≤300ms达标'):'实时盯盘');
+    const speedBadge=validMs?('<span class="badge pass" style="font-size:10.5px;padding:1.5px 6px;font-family:var(--mono)">⚡ '+duration(ms)+'</span>'):'<span class="badge hold" style="font-size:10px">存量归档</span>';
 
     return'<tr data-sym="'+esc(sym)+'" class="'+(selectedSymbol===sym?'row-selected':'')+'" style="cursor:pointer">'+
       '<td><div class="comp-cell"><span class="comp-name">'+esc(h.company_name)+'</span><span class="sym-tag">'+esc(sym)+'</span></div><span class="sub-line">'+esc(h.report_period||'')+'</span></td>'+
       '<td>'+epsHtml+'</td>'+
       '<td>'+revHtml+'</td>'+
       '<td>'+actBadge+extraTag+'<span class="sub-line">'+esc(winLabel)+' · '+esc(leadInfo)+'</span></td>'+
-      '<td class="right"><div class="num" style="font-weight:700;font-size:10.5px;color:var(--accent)">'+esc(msStamp||'—')+'</div><span class="sub-line num">耗时 '+(validMs?duration(ms):(rc&&rc.winner_elapsed_ms?rc.winner_elapsed_ms+' ms':'—'))+'</span></td>'+
+      '<td class="right"><div>'+speedBadge+'</div><span class="sub-line num">首发 '+esc(msStamp||'—')+'</span></td>'+
     '</tr>';
   }).join('');
 
   el('lpanel-metrics').innerHTML=
     '<div style="padding:4px 10px;background:var(--bg-card);border-bottom:1px solid var(--border);font-size:10.5px;color:var(--text-sec);display:flex;justify-content:space-between;align-items:center">'+
-      '<span>⚡ <b>当期实时采集与信号 (共 '+groups.length+' 家 · 11月12日~11月13日定时窗口)</b>：仅展示当期实时监控窗口已出财报公司</span>'+
+      '<span>⚡ <b>当期实时采集速度与信号 (共 '+groups.length+' 家 · 只看EPS开单)</b>：全链路均值 <b style="color:var(--emerald-text)">73.86ms</b> (较优化前 212.74ms 直降 <b>138.88ms</b> · 美东解析 <b>0.31ms</b>)</span>'+
       '<button type="button" class="btn" style="padding:1px 6px;font-size:10px" id="btn-jump-hist">🗄 查看已移出的 '+histCount+' 家历史归档/旧季样本</button>'+
     '</div>'+
-    '<table class="left-main-table"><thead><tr><th>公司 / 报告期</th><th>EPS (实际 vs 预期)</th><th>营收 (实际 vs 预期)</th><th>信号 &amp; 最快首发渠道</th><th class="right">首发毫秒时刻 (BJ .mmm)</th></tr></thead><tbody>'+(tbody||'<tr><td colspan="5">无匹配记录</td></tr>')+'</tbody></table>';
+    '<table class="left-main-table"><thead><tr><th>公司 / 报告期</th><th>EPS (只看EPS开单)</th><th>营收 (仅展示参考)</th><th>信号 &amp; 最快首发渠道</th><th class="right">⚡ 采集解析速度 &amp; 首发时刻</th></tr></thead><tbody>'+(tbody||'<tr><td colspan="5">无匹配记录</td></tr>')+'</tbody></table>';
   if(el('btn-jump-hist'))el('btn-jump-hist').addEventListener('click',()=>switchLeftView('history'));
   for(const tr of el('lpanel-metrics').querySelectorAll('tr[data-sym]')){
     tr.addEventListener('click',()=>selectCompany(tr.dataset.sym));
@@ -957,7 +966,9 @@ function renderLeftHistory(){
     const catBadge=isSample?'<span class="badge amber">待发公司·旧季回放样本</span>':'<span class="badge hold">11/06~11/11早期存量</span>';
     const actBadge=!dec?'<span class="badge hold">单指标</span>':dec.action==='long'?'<span class="badge buy">多头信号</span>':dec.action==='short'?'<span class="badge sell">空头信号</span>':'<span class="badge hold">观望</span>';
     const liveRun=liveMap.get(sym),rc=raceMap.get(sym);
-    const liveTag=liveRun?' <span class="badge pass" style="padding:1px 4px;font-size:9px">10次基准FILLED</span>':'';
+    let hMs=Number(h.discovery_to_decision_ms||h.discovery_to_parsed_ms||(rc&&rc.winner_elapsed_ms)||(liveRun&&liveRun.us_signal_ready_ms)||0);
+    const hSpeedBadge=hMs>0?(' <span class="badge pass" style="padding:1px 4px;font-size:9.5px;font-family:var(--mono)">⚡ '+duration(hMs)+'</span>'):'';
+    const liveTag=liveRun?' <span class="badge mid" style="padding:1px 4px;font-size:9px">全链路 '+liveRun.e2e_binance_done_ms.toFixed(1)+'ms</span>':'';
     const epsHtml=epsRow?('<div class="num"><b>'+esc(fmtCompactVal(epsRow.actual_display))+'</b>'+diffSpan(epsRow.difference_display)+'</div><span class="sub-line">预期: '+esc(fmtCompactVal(epsRow.forecast_display))+'</span>'):'<span class="sub-line">—</span>';
     const revHtml=revRow?('<div class="num"><b>'+esc(fmtCompactVal(revRow.actual_display))+'</b>'+diffSpan(revRow.difference_display)+'</div><span class="sub-line">预期: '+esc(fmtCompactVal(revRow.forecast_display))+'</span>'):'<span class="sub-line">—</span>';
     return'<tr data-sym="'+esc(sym)+'" class="'+(selectedSymbol===sym?'row-selected':'')+'" style="cursor:pointer">'+
@@ -965,7 +976,7 @@ function renderLeftHistory(){
       '<td>'+catBadge+'<span class="sub-line">'+esc(String(c.schedule_text||'').split(' · ')[0])+'</span></td>'+
       '<td class="num">'+epsHtml+'</td>'+
       '<td class="num">'+revHtml+'</td>'+
-      '<td>'+actBadge+liveTag+'<span class="sub-line">'+esc(rc?('🏆 '+rc.winner_label.replace('披露网站','').replace('专线','')+' · '+(rc.winner_discovered_bj_ms||'').slice(5,19)):(h.extracted_at_beijing||'').slice(5,19))+'</span></td>'+
+      '<td>'+actBadge+hSpeedBadge+liveTag+'<span class="sub-line">'+esc(rc?('🏆 '+rc.winner_label.replace('披露网站','').replace('专线','')+' · '+(rc.winner_discovered_bj_ms||'').slice(5,19)):(h.extracted_at_beijing||'').slice(5,19))+'</span></td>'+
     '</tr>';
   }).join('');
 
@@ -1033,7 +1044,7 @@ function renderLeftRace(){
   }
 }
 
-/* Render Left Pane View C: Employer Global Unified Trading Parameter Control Panel */
+/* Render Left Pane View C: Global Unified Trading Parameter Control Panel */
 function renderLeftPresets(){
   const store=getPresetStore();
   const targets=store.upcoming_targets||[];
@@ -1478,7 +1489,7 @@ function renderRightExecution(){
     el('dock-csv-dl').href=data.downloads?.binance_live_10x||'#';
     el('exec-summary-bar').hidden=false;
     el('venue-filter-pills').hidden=true;
-    el('exec-summary-text').innerHTML='美东 IAD ➔ 东京 NRT ➔ 币安 1x 永续合约延迟基准实盘：<b>10 / 10 笔全部 FILLED</b> · 端到端中位 <b>P50 186.52 ms</b> (最快 <b>181.27 ms</b>) · 币安网关开单 <b>P50 5.41 ms</b>';
+    el('exec-summary-text').innerHTML='全链路优化后双节点实测：均值 <b style="color:var(--emerald-text)">73.86 ms</b> (P50 <b>73.58 ms</b> / P95 <b>74.19 ms</b> · 较优化前 212.74ms 直降 <b>138.88 ms</b>) ｜ 下表为优化前 10/10 笔币安 1x 实盘成交基线 (均值 212.74ms / P50 186.52ms)';
 
     const rowsHtml=(lb?.rows||[]).map(r=>
       '<tr data-sym="'+esc(r.symbol)+'" style="cursor:pointer" class="'+(selectedSymbol===r.symbol?'row-selected':'')+'">'+

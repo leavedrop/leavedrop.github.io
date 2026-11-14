@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-14T17:42:00.654+08:00",
+  "generated_at_beijing": "2026-11-14T21:41:58.808+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
     "received_companies": 39,
-    "total_companies": 79,
+    "total_companies": 83,
     "original_companies": 34,
-    "extension_companies": 45,
-    "awaiting_window": 40,
+    "extension_companies": 49,
+    "awaiting_window": 44,
     "new_release_records": 52,
     "new_release_measured": 52,
     "new_release_passed": 27
@@ -87436,7 +87436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.265742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87449,7 +87449,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87563,7 +87563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.265742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -87576,7 +87576,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -87690,7 +87690,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.266741+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.403519+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87703,7 +87703,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0514
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87817,7 +87817,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.266741+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.403519+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -87830,7 +87830,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0514
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -87944,7 +87944,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405372+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -87957,7 +87957,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88074,7 +88074,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405372+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -88087,7 +88087,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -88201,7 +88201,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405372+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88214,7 +88214,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88328,7 +88328,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405372+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -88341,7 +88341,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -88450,7 +88450,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.706609+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.756039+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88463,7 +88463,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0204
+          "simulation_ms": 0.0199
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88572,7 +88572,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.706609+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.756039+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -88585,7 +88585,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0204
+          "simulation_ms": 0.0199
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -88694,7 +88694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.707123+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.757030+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88707,7 +88707,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0147
+          "simulation_ms": 0.0125
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -88816,7 +88816,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.707123+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.757030+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -88829,7 +88829,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0147
+          "simulation_ms": 0.0125
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -89186,7 +89186,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.266741+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.404845+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89199,7 +89199,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0136
+          "simulation_ms": 0.0126
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89313,7 +89313,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.266741+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.404845+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -89326,7 +89326,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0136
+          "simulation_ms": 0.0126
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -89440,7 +89440,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405883+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89453,7 +89453,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0123
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89567,7 +89567,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405883+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -89580,7 +89580,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0123
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -89694,7 +89694,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405958+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89707,7 +89707,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0105
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -89821,7 +89821,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.267328+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.405958+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -89834,7 +89834,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0105
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -90136,7 +90136,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:32.465539+00:00",
+          "created_at_utc": "2026-11-14T13:42:25.652233+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -90149,7 +90149,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0181
+          "simulation_ms": 0.0154
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -90259,7 +90259,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:32.465539+00:00",
+          "created_at_utc": "2026-11-14T13:42:25.652233+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -90272,7 +90272,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0181
+          "simulation_ms": 0.0154
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -92658,7 +92658,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.260742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.398517+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92671,7 +92671,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0225
+          "simulation_ms": 0.0185
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92785,7 +92785,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.260742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.398517+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -92798,7 +92798,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0225
+          "simulation_ms": 0.0185
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -92912,7 +92912,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -92925,7 +92925,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0156
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93039,7 +93039,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -93052,7 +93052,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0156
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -93166,7 +93166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93179,7 +93179,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0259
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93293,7 +93293,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -93306,7 +93306,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0259
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -93420,7 +93420,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93433,7 +93433,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0145
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93547,7 +93547,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -93560,7 +93560,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0145
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -93674,7 +93674,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93687,7 +93687,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93801,7 +93801,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -93814,7 +93814,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -93928,7 +93928,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.265742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -93941,7 +93941,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0136
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94055,7 +94055,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.265742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.402517+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -94068,7 +94068,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0136
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -94182,7 +94182,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.103441+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.267942+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94195,7 +94195,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0306
+          "simulation_ms": 0.017
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94309,7 +94309,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.103441+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.267942+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -94322,7 +94322,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0306
+          "simulation_ms": 0.017
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -94436,7 +94436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.104440+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.267942+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94449,7 +94449,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0257
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94563,7 +94563,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.104440+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.267942+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -94576,7 +94576,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0257
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -94892,7 +94892,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.260742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -94905,7 +94905,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0152
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95020,7 +95020,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.260742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -95033,7 +95033,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0152
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -95147,7 +95147,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.260742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95160,7 +95160,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0144
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95274,7 +95274,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.260742+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -95287,7 +95287,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0144
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -95401,7 +95401,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95414,7 +95414,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0132
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95528,7 +95528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.399522+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -95541,7 +95541,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0132
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -95655,7 +95655,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95668,7 +95668,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.013
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95782,7 +95782,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -95795,7 +95795,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.013
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -95909,7 +95909,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -95922,7 +95922,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96036,7 +96036,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.261740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -96049,7 +96049,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -96166,7 +96166,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.262740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96179,7 +96179,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0135
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -96296,7 +96296,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.262740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -96309,7 +96309,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0135
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -96423,7 +96423,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.262740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96436,7 +96436,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96550,7 +96550,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.262740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -96563,7 +96563,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -96677,7 +96677,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.262740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96690,7 +96690,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0214
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96804,7 +96804,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.262740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.400518+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -96817,7 +96817,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0214
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -96931,7 +96931,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.263740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -96944,7 +96944,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0245
+          "simulation_ms": 0.0105
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97058,7 +97058,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.263740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -97071,7 +97071,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0245
+          "simulation_ms": 0.0105
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -97185,7 +97185,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.263740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97198,7 +97198,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97312,7 +97312,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.263740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -97325,7 +97325,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -97439,7 +97439,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.263740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -97452,7 +97452,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.012
+          "simulation_ms": 0.0098
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -97566,7 +97566,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.263740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97579,7 +97579,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0135
+          "simulation_ms": 0.0108
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97693,7 +97693,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.263740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -97706,7 +97706,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0135
+          "simulation_ms": 0.0108
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -97820,7 +97820,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97833,7 +97833,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0096
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -97948,7 +97948,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:48.264740+00:00",
+          "created_at_utc": "2026-11-14T13:42:40.401517+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -97961,7 +97961,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0133
+          "simulation_ms": 0.0096
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -98070,7 +98070,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.541183+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.600006+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98083,7 +98083,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0202
+          "simulation_ms": 0.0191
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98192,7 +98192,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.541183+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.600006+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -98205,7 +98205,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0202
+          "simulation_ms": 0.0191
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -98314,7 +98314,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.542183+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.600006+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98327,7 +98327,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0129
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98436,7 +98436,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.542183+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.600006+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -98449,7 +98449,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0129
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -98558,7 +98558,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.542183+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.600006+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -98571,7 +98571,7 @@
             "eps": "miss",
             "revenue": null
           },
-          "simulation_ms": 0.011
+          "simulation_ms": 0.0105
         },
         "timings_ms": {
           "queue": 0.0515,
@@ -98680,7 +98680,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.527175+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.587366+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98693,7 +98693,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.013
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98802,7 +98802,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-14T09:42:50.527175+00:00",
+          "created_at_utc": "2026-11-14T13:42:42.587366+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -98815,7 +98815,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.013
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -98844,10 +98844,10 @@
   },
   "institutional_forecasts_review": {
     "rule_summary": "只看 EPS 开单，不再参考营收：超预期标准 = 所有机构预测 EPS 中正向最大数值（max）；低于预期标准 = 所有机构预测 EPS 中最低数值（min）。实际 EPS 高于最高标准即做多（BUY），低于最低标准即做空（SELL），落入区间内不发信号；营收仅作看板展示参考，不参与开单判定。",
-    "total_companies": 79,
-    "upcoming_companies": 40,
+    "total_companies": 83,
+    "upcoming_companies": 44,
     "published_companies": 39,
-    "total_contracts": 180,
+    "total_contracts": 188,
     "items": [
       {
         "symbol": "HUM",
@@ -102168,14 +102168,14 @@
             "unit": "CNY",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "30280000000",
-            "beat_standard": "30280000000",
-            "miss_display": "30,280,000,000 CNY",
-            "beat_display": "30,280,000,000 CNY",
+            "miss_standard": "30270000000",
+            "beat_standard": "30270000000",
+            "miss_display": "30,270,000,000 CNY",
+            "beat_display": "30,270,000,000 CNY",
             "same_bound": true,
-            "readable_span": "≈ 302.8亿 CNY",
+            "readable_span": "≈ 302.7亿 CNY",
             "institution_count": 2,
-            "institutions_summary": "Equibles: 营收 302.8亿人民币 ｜ Yahoo Finance: 营收 302.8亿人民币"
+            "institutions_summary": "Equibles: 营收 302.7亿人民币 ｜ Yahoo Finance: 营收 302.7亿人民币"
           }
         ]
       },
@@ -102211,14 +102211,14 @@
             "unit": "CNY/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "11.01",
-            "beat_standard": "11.01",
-            "miss_display": "11.01 CNY/股",
-            "beat_display": "11.01 CNY/股",
+            "miss_standard": "11.03",
+            "beat_standard": "11.03",
+            "miss_display": "11.03 CNY/股",
+            "beat_display": "11.03 CNY/股",
             "same_bound": true,
             "readable_span": "",
             "institution_count": 2,
-            "institutions_summary": "Equibles: EPS 11.01 人民币 ｜ Yahoo Finance: EPS 11.01 人民币"
+            "institutions_summary": "Equibles: EPS 11.03 人民币 ｜ Yahoo Finance: EPS 11.03 人民币"
           },
           {
             "forecast_id": "inst-env-BABA-2026-09-30-revenue-USD-consolidated",
@@ -102243,14 +102243,14 @@
             "unit": "CNY",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "269580000000",
-            "beat_standard": "269580000000",
-            "miss_display": "269,580,000,000 CNY",
-            "beat_display": "269,580,000,000 CNY",
+            "miss_standard": "269850000000",
+            "beat_standard": "269850000000",
+            "miss_display": "269,850,000,000 CNY",
+            "beat_display": "269,850,000,000 CNY",
             "same_bound": true,
-            "readable_span": "≈ 2,695.8亿 CNY",
+            "readable_span": "≈ 2,698.5亿 CNY",
             "institution_count": 2,
-            "institutions_summary": "Equibles: 营收 2695.8亿人民币 ｜ Yahoo Finance: 营收 2695.8亿人民币"
+            "institutions_summary": "Equibles: 营收 2698.5亿人民币 ｜ Yahoo Finance: 营收 2698.5亿人民币"
           }
         ]
       },
@@ -102373,13 +102373,13 @@
             "business_scope": "consolidated",
             "scope_label": "合并口径",
             "miss_standard": "186520000000",
-            "beat_standard": "187220000000",
+            "beat_standard": "187190000000",
             "miss_display": "186,520,000,000 USD",
-            "beat_display": "187,220,000,000 USD",
+            "beat_display": "187,190,000,000 USD",
             "same_bound": false,
-            "readable_span": "≈ 低标 1,865.2亿 ~ 高标 1,872.2亿 USD",
+            "readable_span": "≈ 低标 1,865.2亿 ~ 高标 1,871.9亿 USD",
             "institution_count": 3,
-            "institutions_summary": "Zacks: 营收 1865.2亿美元 ｜ Earnings Whispers: 营收 1865.2亿美元 ｜ Yahoo Finance: 营收 1872.2亿美元"
+            "institutions_summary": "Zacks: 营收 1865.2亿美元 ｜ Earnings Whispers: 营收 1865.2亿美元 ｜ Yahoo Finance: 营收 1871.9亿美元"
           }
         ]
       },
@@ -102578,7 +102578,7 @@
             "same_bound": false,
             "readable_span": "",
             "institution_count": 3,
-            "institutions_summary": "Zacks: EPS $0.73 ｜ Earnings Whispers: EPS $0.73 ｜ Yahoo Finance: EPS $0.78"
+            "institutions_summary": "Zacks: EPS $0.73 ｜ Earnings Whispers: EPS $0.77 ｜ Yahoo Finance: EPS $0.78"
           },
           {
             "forecast_id": "inst-env-GAP-2026-10-31-revenue-USD-consolidated",
@@ -102595,6 +102595,178 @@
             "readable_span": "≈ 低标 40.1亿 ~ 高标 40.2亿 USD",
             "institution_count": 3,
             "institutions_summary": "Zacks: 营收 40.199999999999995亿美元 ｜ Earnings Whispers: 营收 40.199999999999995亿美元 ｜ Yahoo Finance: 营收 40.1亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "PDD",
+        "company_name": "拼多多",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-19T22:30:00+08:00",
+        "schedule_text": "11月19日(周四) 22:30前 · 美东11/19 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-PDD-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "2.77",
+            "beat_standard": "2.78",
+            "miss_display": "2.77 USD/股",
+            "beat_display": "2.78 USD/股",
+            "same_bound": false,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $2.77 ｜ Earnings Whispers: EPS $2.78"
+          },
+          {
+            "forecast_id": "inst-env-PDD-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "17300000000",
+            "beat_standard": "17300000000",
+            "miss_display": "17,300,000,000 USD",
+            "beat_display": "17,300,000,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 173亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 173亿美元 ｜ Earnings Whispers: 营收 173亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "BJ",
+        "company_name": "BJ’s Wholesale Club",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-10-31",
+        "scheduled_at": "2026-11-20T22:30:00+08:00",
+        "schedule_text": "11月20日(周五) 22:30前 · 美东11/20 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-BJ-2026-10-31-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "1.22",
+            "beat_standard": "1.24",
+            "miss_display": "1.22 USD/股",
+            "beat_display": "1.24 USD/股",
+            "same_bound": false,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $1.22 ｜ Earnings Whispers: EPS $1.24"
+          },
+          {
+            "forecast_id": "inst-env-BJ-2026-10-31-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "5940000000",
+            "beat_standard": "5940000000",
+            "miss_display": "5,940,000,000 USD",
+            "beat_display": "5,940,000,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 59.4亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 59.4亿美元 ｜ Earnings Whispers: 营收 59.4亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "BSP",
+        "company_name": "Bending Spoons",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-20T22:30:00+08:00",
+        "schedule_text": "11月20日(周五) 22:30前 · 美东11/20 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-BSP-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.26",
+            "beat_standard": "0.26",
+            "miss_display": "0.26 USD/股",
+            "beat_display": "0.26 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $0.26 ｜ Earnings Whispers: EPS $0.26"
+          },
+          {
+            "forecast_id": "inst-env-BSP-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "740280000",
+            "beat_standard": "740280000",
+            "miss_display": "740,280,000 USD",
+            "beat_display": "740,280,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 7.4亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 7.4028亿美元 ｜ Earnings Whispers: 营收 7.4028亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "WRD",
+        "company_name": "文远知行",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-20T22:30:00+08:00",
+        "schedule_text": "11月20日(周五) 22:30前 · 美东11/20 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-WRD-2026-09-30-eps-CNY-consolidated",
+            "metric": "eps",
+            "currency": "CNY",
+            "unit": "CNY/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "-0.99",
+            "beat_standard": "-0.99",
+            "miss_display": "-0.99 CNY/股",
+            "beat_display": "-0.99 CNY/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Yahoo Finance: EPS -0.99 人民币 ｜ Equibles: EPS -0.99 人民币"
+          },
+          {
+            "forecast_id": "inst-env-WRD-2026-09-30-revenue-CNY-consolidated",
+            "metric": "revenue",
+            "currency": "CNY",
+            "unit": "CNY",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "269910000",
+            "beat_standard": "269910000",
+            "miss_display": "269,910,000 CNY",
+            "beat_display": "269,910,000 CNY",
+            "same_bound": true,
+            "readable_span": "≈ 2.7亿 CNY",
+            "institution_count": 2,
+            "institutions_summary": "Yahoo Finance: 营收 2.6991亿人民币 ｜ Equibles: 营收 2.6991亿人民币"
           }
         ]
       }
@@ -112877,13 +113049,13 @@
     ]
   },
   "strategy_presets": {
-    "updated_utc": "2026-11-14T08:37:00+00:00",
+    "updated_utc": "2026-11-14T13:09:07.228631+00:00",
     "default": {
       "mode": "custom_or_adaptive",
       "use_custom_tp_sl": true,
       "single_shot_company_lock": true,
       "adverse_impulse_guard_pct": 2.5,
-      "target_tp_pct": 0.0,
+      "target_tp_pct": 6.0,
       "hard_sl_pct": -4.0,
       "breakeven_trigger_pct": 0.0,
       "breakeven_lock_pct": 0.0,
@@ -112898,28 +113070,25 @@
           "enabled": true,
           "margin_usd": 50.0,
           "leverage": 1,
-          "notional_usd": 50.0,
-          "max_slippage_bps": 35
+          "notional_usd": 50.0
         },
         "hyperliquid": {
           "enabled": false,
           "margin_usd": 0.0,
           "leverage": 1,
-          "notional_usd": 0.0,
-          "max_slippage_bps": 45
+          "notional_usd": 0.0
         },
         "okx": {
           "enabled": false,
           "margin_usd": 0.0,
           "leverage": 1,
-          "notional_usd": 0.0,
-          "max_slippage_bps": 40
+          "notional_usd": 0.0
         }
       },
       "signal_filter": "envelope_both",
       "tp_sl": {
         "stop_loss_pct": 4.0,
-        "take_profit_pct": 0.0,
+        "take_profit_pct": 6.0,
         "max_hold_minutes": 120,
         "max_hold_seconds": 7200,
         "breakeven_trigger_pct": 0.0,
@@ -113007,7 +113176,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113022,22 +113191,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113081,7 +113247,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113096,22 +113262,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113155,7 +113318,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113170,22 +113333,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113229,7 +113389,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113244,22 +113404,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113303,7 +113460,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113318,22 +113475,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113377,7 +113531,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113392,22 +113546,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113451,7 +113602,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113466,22 +113617,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113525,7 +113673,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113540,22 +113688,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113599,7 +113744,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113614,22 +113759,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113673,7 +113815,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113688,22 +113830,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113747,7 +113886,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113762,22 +113901,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113821,7 +113957,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113836,22 +113972,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113895,7 +114028,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113910,22 +114043,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -113969,7 +114099,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -113984,22 +114114,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114043,7 +114170,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114058,22 +114185,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114117,7 +114241,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114132,22 +114256,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114191,7 +114312,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114206,22 +114327,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114265,7 +114383,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114280,22 +114398,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114339,7 +114454,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114354,22 +114469,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114413,7 +114525,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114428,22 +114540,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114487,7 +114596,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114502,22 +114611,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114561,7 +114667,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114576,22 +114682,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114635,7 +114738,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114650,22 +114753,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114709,7 +114809,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114724,22 +114824,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114783,7 +114880,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114798,22 +114895,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114857,7 +114951,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114872,22 +114966,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -114931,7 +115022,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -114946,22 +115037,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115005,7 +115093,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115020,22 +115108,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115079,7 +115164,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115094,22 +115179,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115124,7 +115206,7 @@
       },
       {
         "symbol": "YMM",
-        "company_name": "满帮",
+        "company_name": "满帮集团",
         "schedule_text": "11月19日(周四) 22:30前 · 美东 11/19 盘前",
         "report_period": "FY2026 Q3",
         "has_custom_override": false,
@@ -115153,7 +115235,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115168,22 +115250,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115227,7 +115306,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115242,22 +115321,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115301,7 +115377,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115316,22 +115392,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115375,7 +115448,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115390,22 +115463,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115449,7 +115519,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115464,22 +115534,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115523,7 +115590,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115538,22 +115605,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115597,7 +115661,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115612,22 +115676,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115671,7 +115732,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115686,22 +115747,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115745,7 +115803,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115760,22 +115818,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115819,7 +115874,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115834,22 +115889,19 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -115893,7 +115945,7 @@
           "use_custom_tp_sl": true,
           "single_shot_company_lock": true,
           "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 0.0,
+          "target_tp_pct": 6.0,
           "hard_sl_pct": -4.0,
           "breakeven_trigger_pct": 0.0,
           "breakeven_lock_pct": 0.0,
@@ -115908,22 +115960,303 @@
               "enabled": true,
               "margin_usd": 50.0,
               "leverage": 1,
-              "notional_usd": 50.0,
-              "max_slippage_bps": 35
+              "notional_usd": 50.0
             },
             "hyperliquid": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 45
+              "notional_usd": 0.0
             },
             "okx": {
               "enabled": false,
               "margin_usd": 0.0,
               "leverage": 1,
-              "notional_usd": 0.0,
-              "max_slippage_bps": 40
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "PDD",
+        "company_name": "拼多多",
+        "schedule_text": "11月19日(周四) 22:30前 · 美东11/19 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 0.0,
+          "trail_drawdown_pct": 0.0,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 50.0,
+              "leverage": 1,
+              "notional_usd": 50.0
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "BJ",
+        "company_name": "BJ's批发",
+        "schedule_text": "11月20日(周五) 22:30前 · 美东11/20 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 0.0,
+          "trail_drawdown_pct": 0.0,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 50.0,
+              "leverage": 1,
+              "notional_usd": 50.0
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "BSP",
+        "company_name": "Bending Spoons",
+        "schedule_text": "11月20日(周五) 22:30前 · 美东11/20 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 0.0,
+          "trail_drawdown_pct": 0.0,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 50.0,
+              "leverage": 1,
+              "notional_usd": 50.0
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "WRD",
+        "company_name": "文远知行",
+        "schedule_text": "11月20日(周五) 22:30前 · 美东11/20 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 0.0,
+          "trail_drawdown_pct": 0.0,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 40,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 50.0,
+              "leverage": 1,
+              "notional_usd": 50.0
+            },
+            "hyperliquid": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
             }
           },
           "signal_filter": "envelope_both",
@@ -125402,7 +125735,7 @@
       "monitoring_group": "upcoming_7d_extension_20261113",
       "list_group_label": "完整版7天新增",
       "report": "2027财年第一季度（Q1） 季度： 2026-08-01 — 2026-10-31 按公司财历换算",
-      "schedule_text": "11月20日 05:00后 币安预测时间 05:00 美东 11/19 盘后 发布时段跨本轮截止，准确时刻未定",
+      "schedule_text": "11月20日 05:00后 币安预测时间 05:00 美东 11/19 盘后",
       "window_start_beijing": "2026-11-20T04:45:00+08:00",
       "window_end_beijing": "2026-11-20T12:59:00+08:00",
       "state": "waiting",
@@ -125512,7 +125845,7 @@
       "monitoring_group": "upcoming_7d_extension_20261113",
       "list_group_label": "完整版7天新增",
       "report": "2027财年第二季度（Q2） 季度： 2026-08-01 — 2026-10-31 按公司财历换算",
-      "schedule_text": "11月20日 05:00后 币安预测时间 05:05 美东 11/19 盘后 发布时段跨本轮截止，准确时刻未定",
+      "schedule_text": "11月20日 05:00后 币安预测时间 05:05 美东 11/19 盘后",
       "window_start_beijing": "2026-11-20T04:45:00+08:00",
       "window_end_beijing": "2026-11-20T12:59:00+08:00",
       "state": "waiting",
@@ -125567,7 +125900,7 @@
       "monitoring_group": "upcoming_7d_extension_20261113",
       "list_group_label": "完整版7天新增",
       "report": "2026财年第四季度（Q4）及全年 季度： 2026-08-01 — 2026-10-31 全年： 2025-11-01 — 2026-10-31 按公司财历换算",
-      "schedule_text": "11月20日 05:00后 币安预测时间 05:05 美东 11/19 盘后 发布时段跨本轮截止，准确时刻未定",
+      "schedule_text": "11月20日 05:00后 币安预测时间 05:05 美东 11/19 盘后",
       "window_start_beijing": "2026-11-20T04:45:00+08:00",
       "window_end_beijing": "2026-11-20T12:59:00+08:00",
       "state": "waiting",
@@ -125668,6 +126001,226 @@
         }
       ],
       "log_url": "./files/logs/GAP.csv"
+    },
+    {
+      "number": 80,
+      "symbol": "PDD",
+      "name": "拼多多",
+      "original_name": "拼多多",
+      "monitoring_group": "upcoming_7d_extension_20261113",
+      "list_group_label": "完整版7天新增",
+      "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30",
+      "schedule_text": "11月19日 22:30前 币安预测时间 19:30 美东11/19 盘前",
+      "window_start_beijing": "2026-11-19T13:00:00+08:00",
+      "window_end_beijing": "2026-11-19T23:30:00+08:00",
+      "state": "waiting",
+      "state_label": "尚未到监测时间",
+      "materials": [],
+      "supporting_materials": [],
+      "source_checks": [
+        {
+          "label": "公司官网",
+          "channel": "official",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://investor.pddholdings.com/news-releases",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "SEC披露网站",
+          "channel": "sec",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://data.sec.gov/submissions/CIK0001737806.json",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "财经发布网站",
+          "channel": "newswire",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://www.globenewswire.com/en/search/keyword/PDD%20Holdings",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        }
+      ],
+      "log_url": "./files/logs/PDD.csv"
+    },
+    {
+      "number": 81,
+      "symbol": "BJ",
+      "name": "BJ’s Wholesale Club",
+      "original_name": "BJ’s Wholesale Club",
+      "monitoring_group": "upcoming_7d_extension_20261113",
+      "list_group_label": "完整版7天新增",
+      "report": "2026财年第三季度（Q3） 季度： 2026-08-02 — 2026-10-31 按公司财历换算",
+      "schedule_text": "11月20日 22:30前 币安预测时间 19:45 美东11/20 盘前",
+      "window_start_beijing": "2026-11-20T13:00:00+08:00",
+      "window_end_beijing": "2026-11-20T23:30:00+08:00",
+      "state": "waiting",
+      "state_label": "尚未到监测时间",
+      "materials": [],
+      "supporting_materials": [],
+      "source_checks": [
+        {
+          "label": "公司官网",
+          "channel": "official",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://investors.bjs.com/rss/pressrelease.aspx",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "SEC披露网站",
+          "channel": "sec",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://data.sec.gov/submissions/CIK0001531152.json",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "财经发布网站",
+          "channel": "newswire",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://www.businesswire.com/newsroom",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        }
+      ],
+      "log_url": "./files/logs/BJ.csv"
+    },
+    {
+      "number": 82,
+      "symbol": "BSP",
+      "name": "Bending Spoons",
+      "original_name": "Bending Spoons",
+      "monitoring_group": "upcoming_7d_extension_20261113",
+      "list_group_label": "完整版7天新增",
+      "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30",
+      "schedule_text": "11月20日 22:30前 币安预测时间 19:55 美东11/20 盘前",
+      "window_start_beijing": "2026-11-20T13:00:00+08:00",
+      "window_end_beijing": "2026-11-20T23:30:00+08:00",
+      "state": "waiting",
+      "state_label": "尚未到监测时间",
+      "materials": [],
+      "supporting_materials": [],
+      "source_checks": [
+        {
+          "label": "公司官网",
+          "channel": "official",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://investors.bendingspoons.com/",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "SEC披露网站",
+          "channel": "sec",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://data.sec.gov/submissions/CIK0002004711.json",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "财经发布网站",
+          "channel": "newswire",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://www.globenewswire.com/en/search/keyword/Bending%20Spoons",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        }
+      ],
+      "log_url": "./files/logs/BSP.csv"
+    },
+    {
+      "number": 83,
+      "symbol": "WRD",
+      "name": "文远知行",
+      "original_name": "文远知行",
+      "monitoring_group": "upcoming_7d_extension_20261113",
+      "list_group_label": "完整版7天新增",
+      "report": "2026年第三季度（Q3） 季度： 2026-07-01 — 2026-09-30",
+      "schedule_text": "11月20日 22:30前 币安预测时间 20:00 美东11/20 盘前",
+      "window_start_beijing": "2026-11-20T13:00:00+08:00",
+      "window_end_beijing": "2026-11-20T23:30:00+08:00",
+      "state": "waiting",
+      "state_label": "尚未到监测时间",
+      "materials": [],
+      "supporting_materials": [],
+      "source_checks": [
+        {
+          "label": "公司官网",
+          "channel": "official",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://ir.weride.ai/rss/news-releases.xml",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "SEC披露网站",
+          "channel": "sec",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://data.sec.gov/submissions/CIK0001867729.json",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        },
+        {
+          "label": "财经发布网站",
+          "channel": "newswire",
+          "last_checked_at_beijing": null,
+          "last_checked_url": "https://www.globenewswire.com/en/search/keyword/WeRide",
+          "target_kind": "公告入口",
+          "observation": "尚未进入监测时间",
+          "note": "",
+          "observer": null,
+          "status": null,
+          "last_negative_listing_at_beijing": null
+        }
+      ],
+      "log_url": "./files/logs/WRD.csv"
     }
   ],
   "downloads": {

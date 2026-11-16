@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-17T05:02:14.489+08:00",
+  "generated_at_beijing": "2026-11-17T05:10:21.853+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
-    "received_companies": 46,
+    "received_companies": 47,
     "total_companies": 86,
     "original_companies": 34,
     "extension_companies": 52,
@@ -20,11 +20,11 @@
   "us_collector": {
     "state": "running",
     "us_execution_qualified": true,
-    "heartbeat_at_beijing": "2026-11-17T04:59:47.949+08:00"
+    "heartbeat_at_beijing": "2026-11-17T05:07:48.323+08:00"
   },
   "recent_updates": [
     {
-      "at_beijing": "2026-11-17T05:00:11+08:00",
+      "at_beijing": "2026-11-17T05:08:16+08:00",
       "text": "美国东岸（弗吉尼亚）独立采集节点已上线并按财报窗口自动启停；44 家目标旧稿在该节点完成真实网络下载、全文全表解析、完整归档、EPS/营收提取及模拟比较全链路复测：44/44 在 500 毫秒内（40/44 在 300 毫秒内，中位数 110.5 毫秒，P95 340.7 毫秒；历史复测不代表新公告首发表现）。"
     },
     {
@@ -49,6 +49,43 @@
     }
   ],
   "latest_results": [
+    {
+      "id": "b0bf43bb42e18056",
+      "symbol": "POWL",
+      "company_name": "Powell Industries",
+      "document": "财报新闻稿",
+      "source_label": "财经发布网站",
+      "channel": "newswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html",
+      "title": "Powell Industries Announces Fourth Quarter and Full Year Fiscal 2026 Results",
+      "acquired_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "parsed_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "context": "unknown",
+      "context_label": "采集性质待核实",
+      "start_at_beijing": "2026-11-17T05:07:48.251+08:00",
+      "original_received_at_beijing": null,
+      "discovery_to_parsed_ms": 44.317385,
+      "timing_scope": "云端采集",
+      "timing_basis": "recorded",
+      "timing_note": "原始日志记录的发现至全文解析耗时。",
+      "observer": "美国采集器",
+      "already_present_on_first_poll": false,
+      "last_negative_listing_ns": null,
+      "last_negative_listing_at_beijing": null,
+      "listing_observation_gap_ms": null,
+      "outcome": "旧公告本次抓取达到300ms",
+      "latency_budget_passed": true,
+      "current_quality_review": null,
+      "new_release_timing": false,
+      "table_count": 4,
+      "content_complete": true,
+      "full_chain_completed_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "full_chain_ms": 44.317385,
+      "completion_kind": "captured",
+      "report_url": null,
+      "log_reference": "ec2_7a2d4ca6425b-1:192256",
+      "log_url": "./files/logs/POWL.csv"
+    },
     {
       "id": "f338ae295d930f92",
       "symbol": "BIDU",
@@ -307,23 +344,25 @@
       "report_url": null,
       "log_reference": "ec2_7a2d4ca6425b-1:156298",
       "log_url": "./files/logs/ARMK.csv"
-    },
+    }
+  ],
+  "collection_records": [
     {
-      "id": "82cd9764faccc6f8",
-      "symbol": "XPEV",
-      "company_name": "小鹏汽车",
-      "document": "业绩公告",
-      "source_label": "SEC披露网站",
-      "channel": "sec",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1810997/000119312526461897/d182197dex991.htm",
-      "title": "EX-99.1",
-      "acquired_at_beijing": "2026-11-16T19:24:42.986+08:00",
-      "parsed_at_beijing": "2026-11-16T19:24:42.986+08:00",
+      "id": "b0bf43bb42e18056",
+      "symbol": "POWL",
+      "company_name": "Powell Industries",
+      "document": "财报新闻稿",
+      "source_label": "财经发布网站",
+      "channel": "newswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html",
+      "title": "Powell Industries Announces Fourth Quarter and Full Year Fiscal 2026 Results",
+      "acquired_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "parsed_at_beijing": "2026-11-17T05:07:48.295+08:00",
       "context": "unknown",
       "context_label": "采集性质待核实",
-      "start_at_beijing": "2026-11-16T19:24:42.897+08:00",
+      "start_at_beijing": "2026-11-17T05:07:48.251+08:00",
       "original_received_at_beijing": null,
-      "discovery_to_parsed_ms": 89.007017,
+      "discovery_to_parsed_ms": 44.317385,
       "timing_scope": "云端采集",
       "timing_basis": "recorded",
       "timing_note": "原始日志记录的发现至全文解析耗时。",
@@ -336,17 +375,15 @@
       "latency_budget_passed": true,
       "current_quality_review": null,
       "new_release_timing": false,
-      "table_count": 30,
+      "table_count": 4,
       "content_complete": true,
-      "full_chain_completed_at_beijing": "2026-11-16T19:24:42.986+08:00",
-      "full_chain_ms": 89.007017,
+      "full_chain_completed_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "full_chain_ms": 44.317385,
       "completion_kind": "captured",
       "report_url": null,
-      "log_reference": "ec2_7a2d4ca6425b-1:154115",
-      "log_url": "./files/logs/XPEV.csv"
-    }
-  ],
-  "collection_records": [
+      "log_reference": "ec2_7a2d4ca6425b-1:192256",
+      "log_url": "./files/logs/POWL.csv"
+    },
     {
       "id": "f338ae295d930f92",
       "symbol": "BIDU",
@@ -104943,6 +104980,43 @@
   ],
   "latest_retests": [
     {
+      "id": "b0bf43bb42e18056",
+      "symbol": "POWL",
+      "company_name": "Powell Industries",
+      "document": "财报新闻稿",
+      "source_label": "财经发布网站",
+      "channel": "newswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html",
+      "title": "Powell Industries Announces Fourth Quarter and Full Year Fiscal 2026 Results",
+      "acquired_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "parsed_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "context": "unknown",
+      "context_label": "采集性质待核实",
+      "start_at_beijing": "2026-11-17T05:07:48.251+08:00",
+      "original_received_at_beijing": null,
+      "discovery_to_parsed_ms": 44.317385,
+      "timing_scope": "云端采集",
+      "timing_basis": "recorded",
+      "timing_note": "原始日志记录的发现至全文解析耗时。",
+      "observer": "美国采集器",
+      "already_present_on_first_poll": false,
+      "last_negative_listing_ns": null,
+      "last_negative_listing_at_beijing": null,
+      "listing_observation_gap_ms": null,
+      "outcome": "旧公告本次抓取达到300ms",
+      "latency_budget_passed": true,
+      "current_quality_review": null,
+      "new_release_timing": false,
+      "table_count": 4,
+      "content_complete": true,
+      "full_chain_completed_at_beijing": "2026-11-17T05:07:48.295+08:00",
+      "full_chain_ms": 44.317385,
+      "completion_kind": "captured",
+      "report_url": null,
+      "log_reference": "ec2_7a2d4ca6425b-1:192256",
+      "log_url": "./files/logs/POWL.csv"
+    },
+    {
       "id": "f338ae295d930f92",
       "symbol": "BIDU",
       "company_name": "百度",
@@ -114002,7 +114076,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -114015,7 +114089,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0113
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -114129,7 +114203,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -114142,7 +114216,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0113
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -114256,7 +114330,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -114269,7 +114343,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0111
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -114383,7 +114457,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -114396,7 +114470,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0111
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -114510,7 +114584,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -114523,7 +114597,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0115
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -114640,7 +114714,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -114653,7 +114727,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0115
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -114767,7 +114841,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -114780,7 +114854,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0113
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -114894,7 +114968,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -114907,7 +114981,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0113
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -115016,7 +115090,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.471852+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.931745+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -115138,7 +115212,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.471852+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.931745+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -115260,7 +115334,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.471852+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.931745+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -115273,7 +115347,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0122
+          "simulation_ms": 0.0126
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -115382,7 +115456,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.471852+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.931745+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -115395,7 +115469,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0122
+          "simulation_ms": 0.0126
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -115752,7 +115826,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -115765,7 +115839,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0106
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -115879,7 +115953,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -115892,7 +115966,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0106
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -116006,7 +116080,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -116019,7 +116093,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0106
+          "simulation_ms": 0.0105
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -116133,7 +116207,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.758524+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -116146,7 +116220,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0106
+          "simulation_ms": 0.0105
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -116260,7 +116334,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.759522+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -116273,7 +116347,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0105
+          "simulation_ms": 0.0103
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -116387,7 +116461,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.243814+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.759522+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -116400,7 +116474,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0105
+          "simulation_ms": 0.0103
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -116702,7 +116776,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:02:59.669143+00:00",
+          "created_at_utc": "2026-11-16T21:11:10.714319+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -116715,7 +116789,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0134
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -116825,7 +116899,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:02:59.669143+00:00",
+          "created_at_utc": "2026-11-16T21:11:10.714319+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -116838,7 +116912,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0134
+          "simulation_ms": 0.0132
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -119308,7 +119382,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.753515+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -119321,7 +119395,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0201
+          "simulation_ms": 0.0205
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -119435,7 +119509,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.753515+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -119448,7 +119522,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0201
+          "simulation_ms": 0.0205
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -119562,7 +119636,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -119575,7 +119649,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0121
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -119689,7 +119763,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -119702,7 +119776,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0121
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -119816,7 +119890,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -119829,7 +119903,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0117
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -119943,7 +120017,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -119956,7 +120030,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0117
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -120070,7 +120144,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -120083,7 +120157,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0119
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -120197,7 +120271,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -120210,7 +120284,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0119
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -120324,7 +120398,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -120337,7 +120411,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0116
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -120451,7 +120525,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -120464,7 +120538,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0116
+          "simulation_ms": 0.0111
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -120578,7 +120652,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -120591,7 +120665,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.011
+          "simulation_ms": 0.0108
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -120705,7 +120779,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.757522+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -120718,7 +120792,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.011
+          "simulation_ms": 0.0108
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -120832,7 +120906,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:41.962086+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.577303+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -120845,7 +120919,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.0155
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -120959,7 +121033,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:41.962086+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.577303+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -120972,7 +121046,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0211
+          "simulation_ms": 0.0155
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -121086,7 +121160,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:41.962086+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.577303+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -121099,7 +121173,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0151
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -121213,7 +121287,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:41.962086+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.577303+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -121226,7 +121300,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0151
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -121542,7 +121616,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.753515+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -121555,7 +121629,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0126
+          "simulation_ms": 0.0127
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -121670,7 +121744,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.753515+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -121683,7 +121757,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0126
+          "simulation_ms": 0.0127
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -121797,7 +121871,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.753515+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -121810,7 +121884,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0118
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -121924,7 +121998,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.753515+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -121937,7 +122011,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0131
+          "simulation_ms": 0.0118
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -122051,7 +122125,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -122064,7 +122138,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0119
+          "simulation_ms": 0.0118
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -122178,7 +122252,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -122191,7 +122265,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0119
+          "simulation_ms": 0.0118
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -122305,7 +122379,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -122432,7 +122506,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -122559,7 +122633,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -122572,7 +122646,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0117
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -122686,7 +122760,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -122699,7 +122773,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0117
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -122816,7 +122890,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -122829,7 +122903,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0114
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -122946,7 +123020,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.754523+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -122959,7 +123033,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0114
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -123073,7 +123147,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -123086,7 +123160,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0116
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -123200,7 +123274,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -123213,7 +123287,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0116
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -123327,7 +123401,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -123340,7 +123414,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0107
+          "simulation_ms": 0.0112
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -123454,7 +123528,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.238247+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -123467,7 +123541,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0107
+          "simulation_ms": 0.0112
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -123581,7 +123655,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -123594,7 +123668,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0111
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -123708,7 +123782,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -123721,7 +123795,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0111
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -123835,7 +123909,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -123848,7 +123922,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0113
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -123962,7 +124036,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.755523+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -123975,7 +124049,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0113
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -124089,7 +124163,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -124102,7 +124176,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0101
+          "simulation_ms": 0.0097
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -124216,7 +124290,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -124343,7 +124417,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -124470,7 +124544,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -124483,7 +124557,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0096
+          "simulation_ms": 0.0095
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -124598,7 +124672,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:42.241780+00:00",
+          "created_at_utc": "2026-11-16T21:11:54.756522+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -124611,7 +124685,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0096
+          "simulation_ms": 0.0095
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -124720,7 +124794,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.260848+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.822151+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -124733,7 +124807,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0228
+          "simulation_ms": 0.021
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -124842,7 +124916,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.260848+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.822151+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -124855,7 +124929,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0228
+          "simulation_ms": 0.021
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -124964,7 +125038,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.260848+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.822151+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -124977,7 +125051,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0153
+          "simulation_ms": 0.0127
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -125086,7 +125160,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.260848+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.822151+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -125099,7 +125173,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0153
+          "simulation_ms": 0.0127
         },
         "timings_ms": {
           "queue": 0.0514,
@@ -125208,7 +125282,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.260848+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.823160+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -125221,7 +125295,7 @@
             "eps": "miss",
             "revenue": null
           },
-          "simulation_ms": 0.0129
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.0515,
@@ -125330,7 +125404,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.242322+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.715139+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -125343,7 +125417,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0262
+          "simulation_ms": 0.0121
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -125452,7 +125526,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T21:03:50.242322+00:00",
+          "created_at_utc": "2026-11-16T21:12:02.715139+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -125465,7 +125539,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0262
+          "simulation_ms": 0.0121
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -125729,16 +125803,258 @@
         "is_current_period": true,
         "is_historical_sample": false,
         "display_report_period": "FY2026 Q3"
+      },
+      {
+        "log_reference": "ec2_7a2d4ca6425b-1:192257",
+        "metric_index": 2,
+        "symbol": "POWL",
+        "company_name": "Powell Industries",
+        "report_period": "FY2026 Q4",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "metric": "eps",
+        "metric_definition": "US_GAAP",
+        "business_scope": "consolidated",
+        "share_basis": "diluted:common",
+        "basis_label": "EPS · 美国 GAAP · 摊薄 · 普通股",
+        "currency": "USD",
+        "scale": 1,
+        "unit": "USD/股",
+        "raw_label": "Earnings per share (1) : / Diluted",
+        "raw_value": "$ 2.23",
+        "actual_value": "2.23",
+        "forecast_value": "1.52",
+        "beat_standard": "1.52",
+        "miss_standard": "1.52",
+        "institution_count": 2,
+        "envelope_rule": true,
+        "envelope_verdict": "beat",
+        "surprise_pct": "46.71052631578947368421052632",
+        "difference": "0.71",
+        "metric_status": "matched",
+        "comparison_status": "compared",
+        "status_label": "EPS 超机构正向最大标准 → 模拟买入 (只看EPS)",
+        "use_for_decision": true,
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html",
+        "source_position": {
+          "table_index": 0,
+          "row_index": 20,
+          "column_range": [
+            1,
+            4
+          ]
+        },
+        "source_position_label": "第 1 表，第 21 行，第 2–5 列",
+        "document_hash": "f14f57aa72e85df1cb62d60f5406bb1d0d4b0d0ac101552eef7800f14f8b3c70",
+        "document_version": "unknown_version",
+        "context": "unknown",
+        "forecast_origin": "institutional_sheet",
+        "not_a_model_prediction": true,
+        "attempt_status": "completed",
+        "error_type": null,
+        "extracted_at_beijing": "2026-11-17T05:07:48+08:00",
+        "processing_ms": 5.796979,
+        "observer": "美国采集器",
+        "node_region": "US · IAD",
+        "timing_basis": "same_process_perf_counter",
+        "discovery_to_parsed_ms": 44.317385,
+        "discovery_to_comparison_ms": 51.258553,
+        "discovery_to_decision_ms": 51.581326,
+        "decision_completed_at_beijing": "2026-11-17T05:07:48+08:00",
+        "decision_budget_ms": 500,
+        "decision_budget_passed": true,
+        "original_decision_budget_passed": true,
+        "whole_document_verified": null,
+        "original_worker_budget_passed": null,
+        "capture_evidence_id": null,
+        "decision_timing_endpoint": "event_loop_delivery",
+        "simulation_decision": {
+          "mode": "local_simulation",
+          "action": "long",
+          "reason": "eps_above_institutional_max",
+          "eligible": true,
+          "strict_thresholds": true,
+          "contract_selection": "institutional_envelope",
+          "exchange_submitted": false,
+          "exchange_acknowledged": false,
+          "created_at_utc": "2026-11-16T21:07:48.302458+00:00",
+          "simulation_ms": 0.01294,
+          "forecast_ids": {
+            "eps": "inst-env-POWL-2026-09-30-eps-USD-consolidated",
+            "revenue": "inst-env-POWL-2026-09-30-revenue-USD-consolidated"
+          },
+          "surprise_pct": {
+            "eps": "46.71052631578947368421052632",
+            "revenue": "20.81833409471600426374295721"
+          },
+          "thresholds_pct": {
+            "eps": "0",
+            "revenue": "0"
+          },
+          "beat_standards": {
+            "eps": "1.52",
+            "revenue": "328350000"
+          },
+          "miss_standards": {
+            "eps": "1.52",
+            "revenue": "328350000"
+          },
+          "envelope_verdicts": {
+            "eps": "beat",
+            "revenue": "beat"
+          }
+        },
+        "timings_ms": {
+          "queue": 0.110241,
+          "extraction": 5.221864,
+          "comparison": 0.142101,
+          "decision": 0.019681,
+          "pipeline": 5.796979,
+          "delivery_queue": 0.300642
+        },
+        "archive_timing_verified": true,
+        "archive_simulation_budget_passed": true,
+        "archive_completed_at_beijing": "2026-11-17T05:07:48+08:00",
+        "archive_timing_note": "含归档及指标模拟，≤500ms",
+        "actual_display": "2.23 USD/股",
+        "forecast_display": "1.52 USD/股",
+        "forecast_sub_note": "2家机构标准（超>1.52 / 低<1.52）",
+        "difference_display": "+46.71%（超最高）",
+        "decision_pair_complete": true,
+        "is_current_period": true,
+        "is_historical_sample": false,
+        "display_report_period": "FY2026 Q4"
+      },
+      {
+        "log_reference": "ec2_7a2d4ca6425b-1:192257",
+        "metric_index": 0,
+        "symbol": "POWL",
+        "company_name": "Powell Industries",
+        "report_period": "FY2026 Q4",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "metric": "revenue",
+        "metric_definition": "US_GAAP:revenues",
+        "business_scope": "consolidated",
+        "share_basis": null,
+        "basis_label": "营收 · 美国 GAAP · 收入",
+        "currency": "USD",
+        "scale": 1000,
+        "unit": "USD",
+        "raw_label": "Revenues",
+        "raw_value": "$ 396,707",
+        "actual_value": "396707000",
+        "forecast_value": "328350000",
+        "beat_standard": "328350000",
+        "miss_standard": "328350000",
+        "institution_count": 2,
+        "envelope_rule": true,
+        "envelope_verdict": "beat",
+        "surprise_pct": "20.81833409471600426374295721",
+        "difference": "68357000",
+        "metric_status": "matched",
+        "comparison_status": "compared",
+        "status_label": "EPS 超机构正向最大标准 → 模拟买入 (只看EPS)",
+        "use_for_decision": true,
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html",
+        "source_position": {
+          "table_index": 0,
+          "row_index": 5,
+          "column_range": [
+            1,
+            4
+          ]
+        },
+        "source_position_label": "第 1 表，第 6 行，第 2–5 列",
+        "document_hash": "f14f57aa72e85df1cb62d60f5406bb1d0d4b0d0ac101552eef7800f14f8b3c70",
+        "document_version": "unknown_version",
+        "context": "unknown",
+        "forecast_origin": "institutional_sheet",
+        "not_a_model_prediction": true,
+        "attempt_status": "completed",
+        "error_type": null,
+        "extracted_at_beijing": "2026-11-17T05:07:48+08:00",
+        "processing_ms": 5.796979,
+        "observer": "美国采集器",
+        "node_region": "US · IAD",
+        "timing_basis": "same_process_perf_counter",
+        "discovery_to_parsed_ms": 44.317385,
+        "discovery_to_comparison_ms": 51.258553,
+        "discovery_to_decision_ms": 51.581326,
+        "decision_completed_at_beijing": "2026-11-17T05:07:48+08:00",
+        "decision_budget_ms": 500,
+        "decision_budget_passed": true,
+        "original_decision_budget_passed": true,
+        "whole_document_verified": null,
+        "original_worker_budget_passed": null,
+        "capture_evidence_id": null,
+        "decision_timing_endpoint": "event_loop_delivery",
+        "simulation_decision": {
+          "mode": "local_simulation",
+          "action": "long",
+          "reason": "eps_above_institutional_max",
+          "eligible": true,
+          "strict_thresholds": true,
+          "contract_selection": "institutional_envelope",
+          "exchange_submitted": false,
+          "exchange_acknowledged": false,
+          "created_at_utc": "2026-11-16T21:07:48.302458+00:00",
+          "simulation_ms": 0.01294,
+          "forecast_ids": {
+            "eps": "inst-env-POWL-2026-09-30-eps-USD-consolidated",
+            "revenue": "inst-env-POWL-2026-09-30-revenue-USD-consolidated"
+          },
+          "surprise_pct": {
+            "eps": "46.71052631578947368421052632",
+            "revenue": "20.81833409471600426374295721"
+          },
+          "thresholds_pct": {
+            "eps": "0",
+            "revenue": "0"
+          },
+          "beat_standards": {
+            "eps": "1.52",
+            "revenue": "328350000"
+          },
+          "miss_standards": {
+            "eps": "1.52",
+            "revenue": "328350000"
+          },
+          "envelope_verdicts": {
+            "eps": "beat",
+            "revenue": "beat"
+          }
+        },
+        "timings_ms": {
+          "queue": 0.110241,
+          "extraction": 5.221864,
+          "comparison": 0.142101,
+          "decision": 0.019681,
+          "pipeline": 5.796979,
+          "delivery_queue": 0.300642
+        },
+        "archive_timing_verified": true,
+        "archive_simulation_budget_passed": true,
+        "archive_completed_at_beijing": "2026-11-17T05:07:48+08:00",
+        "archive_timing_note": "含归档及指标模拟，≤500ms",
+        "actual_display": "396,707,000 USD",
+        "forecast_display": "328,350,000 USD",
+        "forecast_sub_note": "2家机构标准（超>328,350,000 / 低<328,350,000）",
+        "difference_display": "+20.82%（超最高）",
+        "decision_pair_complete": true,
+        "is_current_period": true,
+        "is_historical_sample": false,
+        "display_report_period": "FY2026 Q4"
       }
     ],
-    "attempts": 2707,
-    "rows": 11926
+    "attempts": 2708,
+    "rows": 11929
   },
   "institutional_forecasts_review": {
     "rule_summary": "只看 EPS 开单，不再参考营收：超预期标准 = 所有机构预测 EPS 中正向最大数值（max）；低于预期标准 = 所有机构预测 EPS 中最低数值（min）。实际 EPS 高于最高标准即做多（BUY），低于最低标准即做空（SELL），落入区间内不发信号；营收仅作看板展示参考，不参与开单判定。",
     "total_companies": 86,
-    "upcoming_companies": 40,
-    "published_companies": 46,
+    "upcoming_companies": 39,
+    "published_companies": 47,
     "total_contracts": 194,
     "items": [
       {
@@ -128693,7 +129009,7 @@
       {
         "symbol": "POWL",
         "company_name": "Powell Industries",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-17T05:00:00+08:00",
@@ -130164,8 +130480,8 @@
         "under_500ms": true
       }
     ],
-    "extra_audit_count": 598,
-    "raw_log_text": "[RUN #01] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (Hims & Hers) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (Oklo核能) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (Nebius算力) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (Cerebras芯片) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n========================================================================================\n[后台实时盯盘与网关路由审计流水 · 共 598 条，最近 20 条]\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T14:36:29.555676+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T14:36:29.571061+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T20:37:37.580682+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T20:37:37.587841+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T20:37:37.598052+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T20:37:37.609474+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:37:37.666979+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:37:37.671320+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T20:46:24.819009+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T20:46:24.825634+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T20:46:24.832624+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T20:46:24.836222+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:46:24.890178+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:46:24.896178+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T21:00:11.375774+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T21:00:11.386472+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T21:00:11.399427+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T21:00:11.415822+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:00:11.503650+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:00:11.518672+00:00"
+    "extra_audit_count": 604,
+    "raw_log_text": "[RUN #01] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (Hims & Hers) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (Oklo核能) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (Nebius算力) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (Cerebras芯片) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n========================================================================================\n[后台实时盯盘与网关路由审计流水 · 共 604 条，最近 20 条]\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:37:37.666979+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:37:37.671320+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T20:46:24.819009+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T20:46:24.825634+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T20:46:24.832624+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T20:46:24.836222+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:46:24.890178+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T20:46:24.896178+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T21:00:11.375774+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T21:00:11.386472+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T21:00:11.399427+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T21:00:11.415822+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:00:11.503650+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:00:11.518672+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T21:08:16.147675+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T21:08:16.155422+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T21:08:16.163420+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T21:08:16.172420+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:08:16.225543+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:08:16.232543+00:00"
   },
   "scheduled_strategy_trades": {
     "updated_at_beijing": "2026-11-13T05:06:29+08:00",
@@ -130178,7 +130494,7 @@
       "total_notional_usd": 70.5,
       "total_net_pnl_usd": -1.889,
       "avg_net_pnl_pct": -2.64,
-      "scheduled_companies_count": 17
+      "scheduled_companies_count": 18
     },
     "positions": [
       {
@@ -137860,6 +138176,23 @@
         "net_pnl_pct": null,
         "net_pnl_usd": null,
         "note": "美东 322.7ms 完成解析"
+      },
+      {
+        "window_time_bj": "2026-11-17 05:07:48",
+        "symbol": "POWL",
+        "company_name": "POWL",
+        "channel_label": "财经发布网站",
+        "us_signal_ms": 51.58,
+        "signal_action": "long",
+        "signal_label": "双超做多 (LONG)",
+        "fundamental_summary": "eps_above_institutional_max",
+        "execution_status": "信号已发送至东京执行端",
+        "trades_count": 0,
+        "entry_summary": "未开仓 (0 笔)",
+        "exit_summary": "—",
+        "net_pnl_pct": null,
+        "net_pnl_usd": null,
+        "note": "美东 51.6ms 完成解析"
       }
     ],
     "venue_matrix": [
@@ -138431,18 +138764,50 @@
         "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
       }
     ],
-    "raw_journal_text": "[昨今定时财报窗口实战开单与止损平仓台账 · 共 9 笔交易，合计净盈亏 -1.8890 USDT (均值 -2.64%)]\n\n[TRADE #01] 交易所=Binance | 合约=NBISUSDT | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.23 USDT | 名义仓位=6.2270 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.54 | 预设止盈线=133.0087 (+6.8%) | 预设硬止损线=121.8001 (-2.2%) | 平仓成交价=121.76\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.292 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.04% | 最大浮亏 MAE=-2.23%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.23% (-0.1390 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.33% (-0.1452 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.8001) 自动平仓；止损离场 (@ 121.76) 后 K 线继续深跌至 120.475 (-3.26%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #02] 交易所=OKX | 合约=NBIS-USDT-SWAP | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.22 USDT | 名义仓位=6.2240 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.48 | 预设止盈线=132.9446 (+6.8%) | 预设硬止损线=121.7414 (-2.2%) | 平仓成交价=121.68\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.293 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.06% | 最大浮亏 MAE=-2.25%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.25% (-0.1400 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.35% (-0.1462 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7414) 自动平仓；止损离场 (@ 121.68) 后 K 线继续深跌至 120.395 (-3.28%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #03] 交易所=Hyperliquid | 合约=xyz:NBIS | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.09 张/币 | 保证金=11.20 USDT | 名义仓位=11.1996 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.44 | 预设止盈线=132.9019 (+6.8%) | 预设硬止损线=121.7023 (-2.2%) | 平仓成交价=121.6\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:24.795 BJ | 持仓时长=167.722 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.28%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.28% (-0.2556 USDT) | 双边手续费=0.09% (-0.0101 USDT) | 净盈亏=-2.37% (-0.2657 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7023) 自动平仓；止损离场 (@ 121.6) 后 K 线继续深跌至 120.305 (-3.32%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #04] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.09 USDT | 名义仓位=6.0876 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.923 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.968 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.120 BJ\n  ├─ 价格与止损水位: 开仓均价=101.46 | 预设止盈线=94.5607 (+6.8%) | 预设硬止损线=103.6921 (-2.2%) | 平仓成交价=104.33\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:44.349 BJ | 持仓时长=14.229 秒 | 盘中最大浮盈 MFE=+0.26% | 最大浮亏 MAE=-2.83%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.83% (-0.1722 USDT) | 双边手续费=0.10% (-0.0061 USDT) | 净盈亏=-2.93% (-0.1783 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (103.6921) 自动平仓；止损离场 (@ 104.33) 后 K 线继续逼空暴拉至 113.195 (空头浮亏达 -11.57%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #05] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=5.91 USDT | 名义仓位=5.9088 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.48 | 预设止盈线=91.7834 (+6.8%) | 预设硬止损线=100.6466 (-2.2%) | 平仓成交价=100.93\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.49%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.49% (-0.1470 USDT) | 双边手续费=0.10% (-0.0059 USDT) | 净盈亏=-2.59% (-0.1529 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.6466) 自动平仓；止损离场 (@ 100.93) 后 K 线继续逼空暴拉至 113.205 (空头浮亏达 -14.95%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #06] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=10.81 USDT | 名义仓位=10.8110 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.282 | 预设止盈线=91.5988 (+6.8%) | 预设硬止损线=100.4442 (-2.2%) | 平仓成交价=101.92\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-3.70%\n  ├─ 盈亏与费用明细: 毛盈亏=-3.70% (-0.4002 USDT) | 双边手续费=0.09% (-0.0097 USDT) | 净盈亏=-3.79% (-0.4099 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.4442) 自动平仓；止损离场 (@ 101.92) 后 K 线继续逼空暴拉至 113.04 (空头浮亏达 -15.02%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #07] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.29 USDT | 名义仓位=6.2892 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.82 | 预设止盈线=97.6922 (+6.8%) | 预设硬止损线=107.126 (-2.2%) | 平仓成交价=107.35\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:37.281 BJ | 持仓时长=13.393 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.41%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.41% (-0.1518 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.51% (-0.1581 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (107.126) 自动平仓；止损离场 (@ 107.35) 后 K 线继续逼空暴拉至 114.235 (空头浮亏达 -8.98%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #08] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.28 USDT | 名义仓位=6.2766 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.61 | 预设止盈线=97.4965 (+6.8%) | 预设硬止损线=106.9114 (-2.2%) | 平仓成交价=107.09\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.37%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.37% (-0.1488 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.47% (-0.1551 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.9114) 自动平仓；止损离场 (@ 107.09) 后 K 线继续逼空暴拉至 114.275 (空头浮亏达 -9.24%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #09] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=11.48 USDT | 名义仓位=11.4752 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.32 | 预设止盈线=97.2262 (+6.8%) | 预设硬止损线=106.615 (-2.2%) | 平仓成交价=106.75\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.33%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.33% (-0.2673 USDT) | 双边手续费=0.09% (-0.0103 USDT) | 净盈亏=-2.42% (-0.2776 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.615) 自动平仓；止损离场 (@ 106.75) 后 K 线继续逼空暴拉至 113.995 (空头浮亏达 -9.27%)，-2.2% 硬止损成功拦截逼空穿仓\n\n========================================================================================\n[昨今定时财报窗口全量 10 场采集、信号与执行汇总]\n\n[WINDOW #01] 2026-11-12 22:22:36 BJ | NBIS  (Nebius算力) | 渠道=SEC披露网站 | 美东解析=347.39 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS -0.13 vs 上限 -0.61 (+78.7%) · 营收 980800000.0 vs 上限 916780000 (+7.0%)\n  └─ 执行结果: 三所同步开多 3 笔 ➔ 触发 -2.2% 硬止损 | 财报双超预期做多，盘中利好兑现反向砸盘跌破 -2.2% 止损线亏损平仓\n\n[WINDOW #02] 2026-11-13 05:04:29 BJ | CBRS  (Cerebras芯片) | 渠道=SEC披露网站 | 美东解析=44.36 ms\n  ├─ 信号判定: 双低做空 (SHORT) — EPS -0.67 vs 下限 -0.13 (-415.4%) · 营收 210809000 vs 下限 215820000 (-2.3%)\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 当期业绩双低触发做空，市场炒作远期指引逆势爆拉逼空，触发 -2.2% 止损平仓\n\n[WINDOW #03] 2026-11-13 05:06:23 BJ | CBRS  (Cerebras芯片) | 渠道=公司官网 | 美东解析=93.91 ms\n  ├─ 信号判定: 双低做空 (SHORT) — 官网新闻稿二次确认 EPS -0.67 / 营收 210809000 双低于机构下限\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 官网通道触发第二波做空，盘后继续逼空上涨，触发 -2.2% 硬止损离场\n\n[WINDOW #04] 2026-11-12 20:33:02 BJ | LUNR  (直觉机器) | 渠道=SEC / 财经社 | 美东解析=53.42 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: OKX 网关验证通过 (BUY @ 13.242) | 美东 53.4ms 产出做多信号直传东京，OKX 永续合约网关校验通过\n\n[WINDOW #05] 2026-11-12 21:05:10 BJ | FIGR  (Figure科技) | 渠道=财经社 / SEC | 美东解析=95.23 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 美东 95.2ms 触发做多并传至东京，因 Binance/OKX/Hyperliquid 均无 FIGR 合约自动跳过\n\n[WINDOW #06] 2026-11-13 05:05:12 BJ | CSCO  (思科) | 渠道=财经社 / SEC | 美东解析=47.90 ms\n  ├─ 信号判定: 区间观望 (HOLD) — EPS 超预期，但营收落入机构预测区间内，方向不一致\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 47.9ms 完成解析，因未同时击穿 EPS+营收包络边界，严格按规则观望不开单\n\n[WINDOW #07] 2026-11-13 05:05:18 BJ | GEMI  (Gemini航天) | 渠道=财经社 / SEC | 美东解析=39.73 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 核心指标落入机构预测包络区间 [min, max] 内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 39.7ms 完成解析，指标在机构预期范围内，严格观望不开单\n\n[WINDOW #08] 2026-11-12 20:01:05 BJ | BN    (布鲁克菲尔德) | 渠道=公司官网 / SEC | 美东解析=94.67 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 指标落入机构预测包络区间内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 94.7ms 完成解析，未触发双超/双低包络突破，不开单\n\n[WINDOW #09] 2026-11-12 18:02:14 BJ | FNV   (Franco-Nevada) | 渠道=SEC / 财经社 | 美东解析=110.37 ms\n  ├─ 信号判定: SEC观望 / 社稿做多 — SEC 110.4ms 落入区间观望；Newswire 458.9ms 触发做多\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 定时窗口首家采集，三大交易所均无 FNV 永续合约\n\n[WINDOW #10] 2026-11-12 21:30:40 BJ | ONDS  (Ondas网络) | 渠道=SEC披露网站 | 美东解析=75.09 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 单指标或落入机构预期区间\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 75.1ms 完成解析，严格按双指标包络规则过滤不开单\n\n[WINDOW #11] 2026-11-16 19:32:16 BJ | ARMK  (爱玛客) | 渠道=SEC披露网站 | 美东解析=100.68 ms\n  ├─ 信号判定: 双低做空 (SHORT) — eps_below_institutional_min\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 100.7ms 完成解析\n\n[WINDOW #12] 2026-11-16 21:48:41 BJ | BIDU  (百度) | 渠道=SEC披露网站 | 美东解析=155.78 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 155.8ms 完成解析\n\n[WINDOW #13] 2026-11-16 20:31:36 BJ | IQ    (爱奇艺) | 渠道=SEC披露网站 | 美东解析=109.23 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 109.2ms 完成解析\n\n[WINDOW #14] 2026-11-16 19:24:42 BJ | XPEV  (小鹏汽车) | 渠道=SEC披露网站 | 美东解析=96.28 ms\n  ├─ 信号判定: 双低做空 (SHORT) — eps_below_institutional_min\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 96.3ms 完成解析\n\n[WINDOW #15] 2026-11-16 18:01:03 BJ | BEKE  (贝壳) | 渠道=财经发布网站 | 美东解析=188.01 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 188.0ms 完成解析\n\n[WINDOW #16] 2026-11-16 19:54:40 BJ | HTHT  (华住集团) | 渠道=财经发布网站 | 美东解析=1429.11 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 1429.1ms 完成解析\n\n[WINDOW #17] 2026-11-16 20:51:30 BJ | TSN   (泰森食品) | 渠道=SEC披露网站 | 美东解析=322.71 ms\n  ├─ 信号判定: 区间观望 (HOLD) — metric_comparison_unavailable\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 322.7ms 完成解析"
+    "raw_journal_text": "[昨今定时财报窗口实战开单与止损平仓台账 · 共 9 笔交易，合计净盈亏 -1.8890 USDT (均值 -2.64%)]\n\n[TRADE #01] 交易所=Binance | 合约=NBISUSDT | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.23 USDT | 名义仓位=6.2270 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.54 | 预设止盈线=133.0087 (+6.8%) | 预设硬止损线=121.8001 (-2.2%) | 平仓成交价=121.76\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.292 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.04% | 最大浮亏 MAE=-2.23%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.23% (-0.1390 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.33% (-0.1452 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.8001) 自动平仓；止损离场 (@ 121.76) 后 K 线继续深跌至 120.475 (-3.26%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #02] 交易所=OKX | 合约=NBIS-USDT-SWAP | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.05 张/币 | 保证金=6.22 USDT | 名义仓位=6.2240 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.48 | 预设止盈线=132.9446 (+6.8%) | 预设硬止损线=121.7414 (-2.2%) | 平仓成交价=121.68\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:23.293 BJ | 持仓时长=166.220 秒 | 盘中最大浮盈 MFE=+0.06% | 最大浮亏 MAE=-2.25%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.25% (-0.1400 USDT) | 双边手续费=0.10% (-0.0062 USDT) | 净盈亏=-2.35% (-0.1462 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7414) 自动平仓；止损离场 (@ 121.68) 后 K 线继续深跌至 120.395 (-3.28%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #03] 交易所=Hyperliquid | 合约=xyz:NBIS | 标的=NBIS (Nebius算力) | 方向=BUY (多头买入 (BUY)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.09 张/币 | 保证金=11.20 USDT | 名义仓位=11.1996 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-12 22:22:36.573 BJ (SEC披露网站) ➔ 信号产出=2026-11-12 22:22:36.921 BJ (耗时 347.39ms) ➔ 买入/开仓成交=2026-11-12 22:22:37.073 BJ\n  ├─ 价格与止损水位: 开仓均价=124.44 | 预设止盈线=132.9019 (+6.8%) | 预设硬止损线=121.7023 (-2.2%) | 平仓成交价=121.6\n  ├─ 卖出/平仓时刻: 2026-11-12 22:25:24.795 BJ | 持仓时长=167.722 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.28%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.28% (-0.2556 USDT) | 双边手续费=0.09% (-0.0101 USDT) | 净盈亏=-2.37% (-0.2657 USDT)\n  └─ K线走势与复盘: 财报数据双超预期触发做多，但盘后利好出尽高开低走反向砸盘，跌破 -2.2% 硬止损线 (121.7023) 自动平仓；止损离场 (@ 121.6) 后 K 线继续深跌至 120.305 (-3.32%)，-2.2% 硬止损有效拦截后续续跌\n\n[TRADE #04] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.09 USDT | 名义仓位=6.0876 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.923 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.968 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.120 BJ\n  ├─ 价格与止损水位: 开仓均价=101.46 | 预设止盈线=94.5607 (+6.8%) | 预设硬止损线=103.6921 (-2.2%) | 平仓成交价=104.33\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:44.349 BJ | 持仓时长=14.229 秒 | 盘中最大浮盈 MFE=+0.26% | 最大浮亏 MAE=-2.83%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.83% (-0.1722 USDT) | 双边手续费=0.10% (-0.0061 USDT) | 净盈亏=-2.93% (-0.1783 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (103.6921) 自动平仓；止损离场 (@ 104.33) 后 K 线继续逼空暴拉至 113.195 (空头浮亏达 -11.57%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #05] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=5.91 USDT | 名义仓位=5.9088 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.48 | 预设止盈线=91.7834 (+6.8%) | 预设硬止损线=100.6466 (-2.2%) | 平仓成交价=100.93\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.49%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.49% (-0.1470 USDT) | 双边手续费=0.10% (-0.0059 USDT) | 净盈亏=-2.59% (-0.1529 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.6466) 自动平仓；止损离场 (@ 100.93) 后 K 线继续逼空暴拉至 113.205 (空头浮亏达 -14.95%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #06] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=10.81 USDT | 名义仓位=10.8110 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:04:29.924 BJ (SEC披露网站) ➔ 信号产出=2026-11-13 05:04:29.969 BJ (耗时 44.36ms) ➔ 买入/开仓成交=2026-11-13 05:04:30.121 BJ\n  ├─ 价格与止损水位: 开仓均价=98.282 | 预设止盈线=91.5988 (+6.8%) | 预设硬止损线=100.4442 (-2.2%) | 平仓成交价=101.92\n  ├─ 卖出/平仓时刻: 2026-11-13 05:04:30.326 BJ | 持仓时长=0.205 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-3.70%\n  ├─ 盈亏与费用明细: 毛盈亏=-3.70% (-0.4002 USDT) | 双边手续费=0.09% (-0.0097 USDT) | 净盈亏=-3.79% (-0.4099 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (100.4442) 自动平仓；止损离场 (@ 101.92) 后 K 线继续逼空暴拉至 113.04 (空头浮亏达 -15.02%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #07] 交易所=Binance | 合约=CBRSUSDT | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.29 USDT | 名义仓位=6.2892 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.82 | 预设止盈线=97.6922 (+6.8%) | 预设硬止损线=107.126 (-2.2%) | 平仓成交价=107.35\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:37.281 BJ | 持仓时长=13.393 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.41%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.41% (-0.1518 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.51% (-0.1581 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (107.126) 自动平仓；止损离场 (@ 107.35) 后 K 线继续逼空暴拉至 114.235 (空头浮亏达 -8.98%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #08] 交易所=OKX | 合约=CBRS-USDT-SWAP | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.06 张/币 | 保证金=6.28 USDT | 名义仓位=6.2766 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.61 | 预设止盈线=97.4965 (+6.8%) | 预设硬止损线=106.9114 (-2.2%) | 平仓成交价=107.09\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.37%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.37% (-0.1488 USDT) | 双边手续费=0.10% (-0.0063 USDT) | 净盈亏=-2.47% (-0.1551 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.9114) 自动平仓；止损离场 (@ 107.09) 后 K 线继续逼空暴拉至 114.275 (空头浮亏达 -9.24%)，-2.2% 硬止损成功拦截逼空穿仓\n\n[TRADE #09] 交易所=Hyperliquid | 合约=xyz:CBRS | 标的=CBRS (Cerebras芯片) | 方向=SELL (空头卖出 (SELL)) | 杠杆=1x\n  ├─ 持仓数量与本金: 成交数量=0.11 张/币 | 保证金=11.48 USDT | 名义仓位=11.4752 USDT\n  ├─ 毫秒级时间链路: 公告发现=2026-11-13 05:06:23.642 BJ (公司官网) ➔ 信号产出=2026-11-13 05:06:23.736 BJ (耗时 93.91ms) ➔ 买入/开仓成交=2026-11-13 05:06:23.888 BJ\n  ├─ 价格与止损水位: 开仓均价=104.32 | 预设止盈线=97.2262 (+6.8%) | 预设硬止损线=106.615 (-2.2%) | 平仓成交价=106.75\n  ├─ 卖出/平仓时刻: 2026-11-13 05:06:29.519 BJ | 持仓时长=5.630 秒 | 盘中最大浮盈 MFE=+0.00% | 最大浮亏 MAE=-2.33%\n  ├─ 盈亏与费用明细: 毛盈亏=-2.33% (-0.2673 USDT) | 双边手续费=0.09% (-0.0103 USDT) | 净盈亏=-2.42% (-0.2776 USDT)\n  └─ K线走势与复盘: 当期 EPS 与营收双低触发做空，但市场聚焦远期算力指引逆势逼空拉升，突破 -2.2% 硬止损线 (106.615) 自动平仓；止损离场 (@ 106.75) 后 K 线继续逼空暴拉至 113.995 (空头浮亏达 -9.27%)，-2.2% 硬止损成功拦截逼空穿仓\n\n========================================================================================\n[昨今定时财报窗口全量 10 场采集、信号与执行汇总]\n\n[WINDOW #01] 2026-11-12 22:22:36 BJ | NBIS  (Nebius算力) | 渠道=SEC披露网站 | 美东解析=347.39 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS -0.13 vs 上限 -0.61 (+78.7%) · 营收 980800000.0 vs 上限 916780000 (+7.0%)\n  └─ 执行结果: 三所同步开多 3 笔 ➔ 触发 -2.2% 硬止损 | 财报双超预期做多，盘中利好兑现反向砸盘跌破 -2.2% 止损线亏损平仓\n\n[WINDOW #02] 2026-11-13 05:04:29 BJ | CBRS  (Cerebras芯片) | 渠道=SEC披露网站 | 美东解析=44.36 ms\n  ├─ 信号判定: 双低做空 (SHORT) — EPS -0.67 vs 下限 -0.13 (-415.4%) · 营收 210809000 vs 下限 215820000 (-2.3%)\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 当期业绩双低触发做空，市场炒作远期指引逆势爆拉逼空，触发 -2.2% 止损平仓\n\n[WINDOW #03] 2026-11-13 05:06:23 BJ | CBRS  (Cerebras芯片) | 渠道=公司官网 | 美东解析=93.91 ms\n  ├─ 信号判定: 双低做空 (SHORT) — 官网新闻稿二次确认 EPS -0.67 / 营收 210809000 双低于机构下限\n  └─ 执行结果: 三所同步开空 3 笔 ➔ 触发 -2.2% 硬止损 | 官网通道触发第二波做空，盘后继续逼空上涨，触发 -2.2% 硬止损离场\n\n[WINDOW #04] 2026-11-12 20:33:02 BJ | LUNR  (直觉机器) | 渠道=SEC / 财经社 | 美东解析=53.42 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: OKX 网关验证通过 (BUY @ 13.242) | 美东 53.4ms 产出做多信号直传东京，OKX 永续合约网关校验通过\n\n[WINDOW #05] 2026-11-12 21:05:10 BJ | FIGR  (Figure科技) | 渠道=财经社 / SEC | 美东解析=95.23 ms\n  ├─ 信号判定: 双超做多 (LONG) — EPS 与营收双双突破机构预期最高包络上限\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 美东 95.2ms 触发做多并传至东京，因 Binance/OKX/Hyperliquid 均无 FIGR 合约自动跳过\n\n[WINDOW #06] 2026-11-13 05:05:12 BJ | CSCO  (思科) | 渠道=财经社 / SEC | 美东解析=47.90 ms\n  ├─ 信号判定: 区间观望 (HOLD) — EPS 超预期，但营收落入机构预测区间内，方向不一致\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 47.9ms 完成解析，因未同时击穿 EPS+营收包络边界，严格按规则观望不开单\n\n[WINDOW #07] 2026-11-13 05:05:18 BJ | GEMI  (Gemini航天) | 渠道=财经社 / SEC | 美东解析=39.73 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 核心指标落入机构预测包络区间 [min, max] 内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 39.7ms 完成解析，指标在机构预期范围内，严格观望不开单\n\n[WINDOW #08] 2026-11-12 20:01:05 BJ | BN    (布鲁克菲尔德) | 渠道=公司官网 / SEC | 美东解析=94.67 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 指标落入机构预测包络区间内部\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 94.7ms 完成解析，未触发双超/双低包络突破，不开单\n\n[WINDOW #09] 2026-11-12 18:02:14 BJ | FNV   (Franco-Nevada) | 渠道=SEC / 财经社 | 美东解析=110.37 ms\n  ├─ 信号判定: SEC观望 / 社稿做多 — SEC 110.4ms 落入区间观望；Newswire 458.9ms 触发做多\n  └─ 执行结果: 三所均未上架合约 (自动跳过) | 定时窗口首家采集，三大交易所均无 FNV 永续合约\n\n[WINDOW #10] 2026-11-12 21:30:40 BJ | ONDS  (Ondas网络) | 渠道=SEC披露网站 | 美东解析=75.09 ms\n  ├─ 信号判定: 区间观望 (HOLD) — 单指标或落入机构预期区间\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 75.1ms 完成解析，严格按双指标包络规则过滤不开单\n\n[WINDOW #11] 2026-11-16 19:32:16 BJ | ARMK  (爱玛客) | 渠道=SEC披露网站 | 美东解析=100.68 ms\n  ├─ 信号判定: 双低做空 (SHORT) — eps_below_institutional_min\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 100.7ms 完成解析\n\n[WINDOW #12] 2026-11-16 21:48:41 BJ | BIDU  (百度) | 渠道=SEC披露网站 | 美东解析=155.78 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 155.8ms 完成解析\n\n[WINDOW #13] 2026-11-16 20:31:36 BJ | IQ    (爱奇艺) | 渠道=SEC披露网站 | 美东解析=109.23 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 109.2ms 完成解析\n\n[WINDOW #14] 2026-11-16 19:24:42 BJ | XPEV  (小鹏汽车) | 渠道=SEC披露网站 | 美东解析=96.28 ms\n  ├─ 信号判定: 双低做空 (SHORT) — eps_below_institutional_min\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 96.3ms 完成解析\n\n[WINDOW #15] 2026-11-16 18:01:03 BJ | BEKE  (贝壳) | 渠道=财经发布网站 | 美东解析=188.01 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 188.0ms 完成解析\n\n[WINDOW #16] 2026-11-16 19:54:40 BJ | HTHT  (华住集团) | 渠道=财经发布网站 | 美东解析=1429.11 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 1429.1ms 完成解析\n\n[WINDOW #17] 2026-11-16 20:51:30 BJ | TSN   (泰森食品) | 渠道=SEC披露网站 | 美东解析=322.71 ms\n  ├─ 信号判定: 区间观望 (HOLD) — metric_comparison_unavailable\n  └─ 执行结果: 包络护栏拦截 · 不开单 | 美东 322.7ms 完成解析\n\n[WINDOW #18] 2026-11-17 05:07:48 BJ | POWL  (POWL) | 渠道=财经发布网站 | 美东解析=51.58 ms\n  ├─ 信号判定: 双超做多 (LONG) — eps_above_institutional_max\n  └─ 执行结果: 信号已发送至东京执行端 | 美东 51.6ms 完成解析"
   },
   "channel_race_review": {
-    "total_companies": 46,
+    "total_companies": 47,
     "multi_channel_companies": 38,
     "win_counts": {
       "sec": 19,
       "official": 16,
-      "newswire": 11
+      "newswire": 12
     },
-    "summary_text": "已采集 46 家公司毫秒级渠道比武台账：SEC 披露网站最快胜出 19 家、公司 IR 官网最快胜出 16 家、专线财经社最快胜出 11 家。精确记录几时几分几秒几毫秒发现与抓齐，供下次财报定向优先盯盘。",
+    "summary_text": "已采集 47 家公司毫秒级渠道比武台账：SEC 披露网站最快胜出 19 家、公司 IR 官网最快胜出 16 家、专线财经社最快胜出 12 家。精确记录几时几分几秒几毫秒发现与抓齐，供下次财报定向优先盯盘。",
     "items": [
+      {
+        "symbol": "POWL",
+        "company_name": "Powell Industries",
+        "schedule_text": "11月17日(周二) 05:00后 · 美东 11/16 盘后",
+        "channels_count": 1,
+        "winner_channel": "newswire",
+        "winner_label": "财经社专线",
+        "winner_discovered_bj_ms": "2026-11-17 05:07:48.251",
+        "winner_parsed_bj_ms": "2026-11-17 05:07:48.295",
+        "winner_elapsed_ms": 44.32,
+        "runner_up_channel": null,
+        "runner_up_label": null,
+        "runner_up_parsed_bj_ms": null,
+        "lead_ms": null,
+        "lead_display": "唯一有效首发源",
+        "next_quarter_advice": "下次财报主盯【财经社专线】（本季唯一有效披露源），其余通道保持后台并发轮询",
+        "sec": null,
+        "official": null,
+        "newswire": {
+          "channel": "newswire",
+          "channel_label": "财经社专线",
+          "discovered_bj_ms": "2026-11-17 05:07:48.251",
+          "parsed_bj_ms": "2026-11-17 05:07:48.295",
+          "discovered_epoch_ms": 1794863268251,
+          "parsed_epoch_ms": 1794863268295,
+          "elapsed_ms": 44.32,
+          "context": "unknown",
+          "observer": "美国采集器",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html"
+        },
+        "seq": 1
+      },
       {
         "symbol": "TSN",
         "company_name": "泰森食品",
@@ -138484,7 +138849,7 @@
           "url": "http://s203.q4cdn.com/483587180/files/content_files/TSN-2026-Q4-Earnings-Release-v4-11-13-26.pdf"
         },
         "newswire": null,
-        "seq": 1
+        "seq": 2
       },
       {
         "symbol": "ARMK",
@@ -138516,7 +138881,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 2
+        "seq": 3
       },
       {
         "symbol": "HTHT",
@@ -138570,7 +138935,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/16/3403248/19355/en/h-world-group-limited-reports-third-quarter-of-2026-unaudited-financial-results.html"
         },
-        "seq": 3
+        "seq": 4
       },
       {
         "symbol": "BEKE",
@@ -138613,7 +138978,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/16/3403244/0/en/ke-holdings-inc-announces-third-quarter-2026-unaudited-financial-results.html"
         },
-        "seq": 4
+        "seq": 5
       },
       {
         "symbol": "XPEV",
@@ -138667,7 +139032,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/16/3403237/0/en/xpeng-reports-third-quarter-2026-unaudited-financial-results.html"
         },
-        "seq": 5
+        "seq": 6
       },
       {
         "symbol": "IQ",
@@ -138710,7 +139075,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/16/3403224/0/en/iqiyi-announces-third-quarter-2026-financial-results.html"
         },
-        "seq": 6
+        "seq": 7
       },
       {
         "symbol": "BIDU",
@@ -138764,7 +139129,7 @@
           "observer": "美国采集器",
           "url": "https://www.prnewswire.com/news-releases/baidu-announces-third-quarter-2026-results-302940183.html"
         },
-        "seq": 7
+        "seq": 8
       },
       {
         "symbol": "GEMI",
@@ -138818,7 +139183,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/12/3402279/0/en/gemini-reports-third-quarter-2026-results.html"
         },
-        "seq": 8
+        "seq": 9
       },
       {
         "symbol": "CSCO",
@@ -138861,7 +139226,7 @@
           "observer": "美国采集器",
           "url": "https://www.prnewswire.com/news-releases/cisco-reports-first-quarter-earnings-302938394.html"
         },
-        "seq": 9
+        "seq": 10
       },
       {
         "symbol": "CBRS",
@@ -138904,7 +139269,7 @@
           "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026"
         },
         "newswire": null,
-        "seq": 10
+        "seq": 11
       },
       {
         "symbol": "NBIS",
@@ -138936,7 +139301,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 11
+        "seq": 12
       },
       {
         "symbol": "ONDS",
@@ -138968,7 +139333,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 12
+        "seq": 13
       },
       {
         "symbol": "LUNR",
@@ -139022,7 +139387,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/12/3401478/0/en/intuitive-machines-reports-third-quarter-2026-financial-results-reports-record-financials-across-the-board-revenue-profitability-positive-cash-flow-and-backlog.html"
         },
-        "seq": 13
+        "seq": 14
       },
       {
         "symbol": "BN",
@@ -139065,7 +139430,7 @@
           "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/Brookfield-BN-IR-V2/2026/Q3/2026-q3-bn-press-release.pdf"
         },
         "newswire": null,
-        "seq": 14
+        "seq": 15
       },
       {
         "symbol": "FIGR",
@@ -139119,7 +139484,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/12/3401369/0/en/figure-technology-solutions-reports-third-quarter-2026-results.html"
         },
-        "seq": 15
+        "seq": 16
       },
       {
         "symbol": "FNV",
@@ -139173,7 +139538,7 @@
           "observer": "美国采集器",
           "url": "https://www.prnewswire.com/news-releases/franco-nevada-reports-q3-2026-results-302936997.html"
         },
-        "seq": 16
+        "seq": 17
       },
       {
         "symbol": "GIB",
@@ -139216,7 +139581,7 @@
           "observer": "美国采集器",
           "url": "https://www.prnewswire.com/news-releases/cgi-reports-fourth-quarter-and-fiscal-2026-results-302935758.html"
         },
-        "seq": 17
+        "seq": 18
       },
       {
         "symbol": "NCMI",
@@ -139259,7 +139624,7 @@
           "url": "https://nationalcinemedia.gcs-web.com/news-releases/news-release-details/national-cinemedia-inc-reports-results-fiscal-third-quarter-2026"
         },
         "newswire": null,
-        "seq": 18
+        "seq": 19
       },
       {
         "symbol": "RGTI",
@@ -139313,7 +139678,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/10/3400214/0/en/rigetti-computing-reports-third-quarter-2026-financial-results.html"
         },
-        "seq": 19
+        "seq": 20
       },
       {
         "symbol": "QBTS",
@@ -139345,7 +139710,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 20
+        "seq": 21
       },
       {
         "symbol": "MRDN",
@@ -139399,7 +139764,7 @@
           "observer": "美国采集器",
           "url": "https://www.newmediawire.com/news/meridian-holdings-reports-third-quarter-2026-results-7091203"
         },
-        "seq": 21
+        "seq": 22
       },
       {
         "symbol": "TDG",
@@ -139453,7 +139818,7 @@
           "observer": "美国采集器",
           "url": "https://www.prnewswire.com/news-releases/transdigm-group-reports-fiscal-2026-fourth-quarter-and-year-end-results-302934228.html"
         },
-        "seq": 22
+        "seq": 23
       },
       {
         "symbol": "SE",
@@ -139496,7 +139861,7 @@
           "url": "https://cdn.sea.com/investor/3Q2026/VZJl6wXWX76O8otphvf6/2026.11.10%20Sea%20Third%20Quarter%202026%20Results.pdf"
         },
         "newswire": null,
-        "seq": 23
+        "seq": 24
       },
       {
         "symbol": "ONON",
@@ -139528,7 +139893,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 24
+        "seq": 25
       },
       {
         "symbol": "SKYD",
@@ -139571,7 +139936,7 @@
           "url": "https://ir.skydance.com/static-files/af510edc-00d2-44ca-8e8c-b73466e99694"
         },
         "newswire": null,
-        "seq": 25
+        "seq": 26
       },
       {
         "symbol": "ACHR",
@@ -139614,7 +139979,7 @@
           "url": "https://investors.archer.com/news/news-details/2026/Archer-Announces-Q3-2026-Results-Receives-FAA-Market-Survey-Certificate-Unlocking-LA-Operations-and-Boeing-Deal-Close-Imminent/default.aspx"
         },
         "newswire": null,
-        "seq": 26
+        "seq": 27
       },
       {
         "symbol": "OXY",
@@ -139646,7 +140011,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 27
+        "seq": 28
       },
       {
         "symbol": "HIMS",
@@ -139689,7 +140054,7 @@
           "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-Health-Inc--Reports-Third-Quarter-2026-Financial-Results/default.aspx"
         },
         "newswire": null,
-        "seq": 28
+        "seq": 29
       },
       {
         "symbol": "LCID",
@@ -139743,7 +140108,7 @@
           "observer": "美国采集器",
           "url": "https://www.prnewswire.com/news-releases/lucid-announces-third-quarter-2026-results-reduces-cash-consumption-by-30-transformation-on-track-liquidity-increased-by-1-75-billion-302933812.html"
         },
-        "seq": 29
+        "seq": 30
       },
       {
         "symbol": "TTD",
@@ -139786,7 +140151,7 @@
           "url": "https://www.thetradedesk.com/press-room/the-trade-desk-reports-third-quarter-2026-financial-results"
         },
         "newswire": null,
-        "seq": 30
+        "seq": 31
       },
       {
         "symbol": "RKLB",
@@ -139840,7 +140205,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/09/3398954/0/en/rocket-lab-announces-third-quarter-2026-financial-results-posts-record-revenue-1-2-billion-or-52-sequential-quarterly-backlog-growth-positive-gaap-operating-cash-flow-and-guides-to.html"
         },
-        "seq": 31
+        "seq": 32
       },
       {
         "symbol": "TTWO",
@@ -139883,7 +140248,7 @@
           "url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-4"
         },
         "newswire": null,
-        "seq": 32
+        "seq": 33
       },
       {
         "symbol": "XENE",
@@ -139926,7 +140291,7 @@
           "url": "https://investor.xenon-pharma.com/news-releases/news-release-details/xenon-reports-q3-2026-financial-results-and-provides-business"
         },
         "newswire": null,
-        "seq": 33
+        "seq": 34
       },
       {
         "symbol": "KKR",
@@ -139969,7 +140334,7 @@
           "url": "https://ir.kkr.com/media/document/39297093-8255-4c8f-aae0-597950d1d2e8/assets/KKR_Q326_Earnings_Release.pdf"
         },
         "newswire": null,
-        "seq": 34
+        "seq": 35
       },
       {
         "symbol": "CECO",
@@ -140012,7 +140377,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/09/3398241/0/en/ceco-environmental-reports-third-quarter-2026-results.html"
         },
-        "seq": 35
+        "seq": 36
       },
       {
         "symbol": "TGTX",
@@ -140055,7 +140420,7 @@
           "url": "https://ir.tgtherapeutics.com/news-releases/news-release-details/tg-therapeutics-reports-third-quarter-2026-financial-results-and"
         },
         "newswire": null,
-        "seq": 36
+        "seq": 37
       },
       {
         "symbol": "FERG",
@@ -140087,7 +140452,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 37
+        "seq": 38
       },
       {
         "symbol": "B",
@@ -140141,7 +140506,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/09/3398168/0/en/barrick-reports-third-quarter-2026-results.html"
         },
-        "seq": 38
+        "seq": 39
       },
       {
         "symbol": "SOHU",
@@ -140195,7 +140560,7 @@
           "observer": "美国采集器",
           "url": "https://www.prnewswire.com/news-releases/sohucom-reports-third-quarter-2026-unaudited-financial-results-302932892.html"
         },
-        "seq": 39
+        "seq": 40
       },
       {
         "symbol": "OKLO",
@@ -140227,7 +140592,7 @@
         },
         "official": null,
         "newswire": null,
-        "seq": 40
+        "seq": 41
       },
       {
         "symbol": "BRK.B",
@@ -140270,7 +140635,7 @@
           "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr26.pdf"
         },
         "newswire": null,
-        "seq": 41
+        "seq": 42
       },
       {
         "symbol": "MSGR",
@@ -140313,7 +140678,7 @@
           "observer": "美国采集器",
           "url": "https://www.businesswire.com/news/home/20261106876135/en/MSG-Rangers-Corp.-Reports-Fiscal-2027-First-Quarter-Results"
         },
-        "seq": 42
+        "seq": 43
       },
       {
         "symbol": "MSGK",
@@ -140367,7 +140732,7 @@
           "observer": "美国采集器",
           "url": "https://www.businesswire.com/news/home/20261106470261/en/MSG-Knickerbockers-Corp.-Reports-Fiscal-2027-First-Quarter-Results"
         },
-        "seq": 43
+        "seq": 44
       },
       {
         "symbol": "BAM",
@@ -140421,7 +140786,7 @@
           "observer": "美国采集器",
           "url": "https://www.globenewswire.com/news-release/2026/11/06/3397448/0/en/brookfield-asset-management-announces-strong-third-quarter-results.html"
         },
-        "seq": 44
+        "seq": 45
       },
       {
         "symbol": "ENB",
@@ -140464,7 +140829,7 @@
           "url": "https://enbridge.mediaroom.com/2026-11-06-Enbridge-Reports-Strong-Third-Quarter-Results,-Places-Over-3-Billion-of-Gas-Transmission-Projects-Into-Service,-and-Reaffirms-2026-Financial-Guidance"
         },
         "newswire": null,
-        "seq": 45
+        "seq": 46
       },
       {
         "symbol": "HUM",
@@ -140507,7 +140872,7 @@
           "url": "https://humana.gcs-web.com/news-releases/news-release-details/humana-reports-third-quarter-2026-financial-results-raises-full"
         },
         "newswire": null,
-        "seq": 46
+        "seq": 47
       }
     ]
   },
@@ -140698,7 +141063,7 @@
         "ref_prices": {
           "binance": null,
           "hyperliquid": null,
-          "okx": 7.892
+          "okx": 7.7305
         },
         "min_notional": {
           "binance": 5.0,
@@ -141051,7 +141416,7 @@
           "okx": false
         },
         "ref_prices": {
-          "binance": 118.635,
+          "binance": 118.495,
           "hyperliquid": null,
           "okx": null
         },
@@ -141264,9 +141629,9 @@
           "okx": true
         },
         "ref_prices": {
-          "binance": 156.285,
-          "hyperliquid": 156.13,
-          "okx": 156.315
+          "binance": 156.915,
+          "hyperliquid": 156.725,
+          "okx": 156.855
         },
         "min_notional": {
           "binance": 5.0,
@@ -141761,80 +142126,9 @@
           "okx": true
         },
         "ref_prices": {
-          "binance": 316.405,
+          "binance": 317.37,
           "hyperliquid": null,
-          "okx": 316.18
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 40,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "POWL",
-        "company_name": "Powell Industries",
-        "schedule_text": "11月17日(周二) 05:00后 · 美东 11/16 盘后",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
+          "okx": 317.285
         },
         "min_notional": {
           "binance": 5.0,
@@ -143641,13 +143935,13 @@
     {
       "key": "existing",
       "label": "事后抓取已发布的公告",
-      "records": 1736,
-      "timed": 1734,
-      "under300": 621,
+      "records": 1737,
+      "timed": 1735,
+      "under300": 622,
       "from300to1000": 311,
       "over1000": 802,
       "unavailable": 2,
-      "passed": 605,
+      "passed": 606,
       "note": "包括程序启动前已发布的公告，不代表首发时的速度。"
     },
     {
@@ -151472,31 +151766,31 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-17T04:59:47.716+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:48.014+08:00",
           "last_checked_url": "https://aecom.gcs-web.com/rss/news-releases.xml",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:47.716+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:48.014+08:00"
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-17T04:59:43.358+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:43.721+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000868857.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:43.358+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:43.721+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-17T04:57:00.573+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:03:00.761+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
@@ -151527,31 +151821,31 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-17T04:58:23.941+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:06:40.694+08:00",
           "last_checked_url": "https://ir.infleqtion.com/news-events/press-releases/rss",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
           "note": "",
           "observer": "美国采集器",
           "status": 403,
-          "last_negative_listing_at_beijing": "2026-11-17T04:58:23.625+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:02:40.345+08:00"
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-17T04:59:44.357+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:44.721+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0002007825.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:44.357+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:44.721+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-17T04:59:00.612+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:05:00.816+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
@@ -151582,31 +151876,31 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-17T04:58:40.682+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:06:57.426+08:00",
           "last_checked_url": "https://investors.stem.com/news-events/press-releases/rss",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
           "note": "",
           "observer": "美国采集器",
           "status": 403,
-          "last_negative_listing_at_beijing": "2026-11-17T04:50:40.309+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:00:57.087+08:00"
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-17T04:59:47.361+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:46.724+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001758766.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:47.361+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:46.724+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-17T04:55:00.527+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:00.894+08:00",
           "last_checked_url": "https://www.businesswire.com/newsroom",
           "target_kind": "公告入口",
           "observation": "HTTP 403",
@@ -153160,46 +153454,84 @@
       "schedule_text": "11月17日 05:00后 币安预测时间 05:05 美东 11/16 盘后",
       "window_start_beijing": "2026-11-17T04:45:00+08:00",
       "window_end_beijing": "2026-11-17T12:59:00+08:00",
-      "state": "monitoring",
-      "state_label": "监测中，尚未取得报告",
-      "materials": [],
+      "state": "received",
+      "state_label": "已取得报告",
+      "materials": [
+        {
+          "id": "b0bf43bb42e18056",
+          "symbol": "POWL",
+          "company_name": "Powell Industries",
+          "document": "财报新闻稿",
+          "source_label": "财经发布网站",
+          "channel": "newswire",
+          "source_url": "https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html",
+          "title": "Powell Industries Announces Fourth Quarter and Full Year Fiscal 2026 Results",
+          "acquired_at_beijing": "2026-11-17T05:07:48.295+08:00",
+          "parsed_at_beijing": "2026-11-17T05:07:48.295+08:00",
+          "context": "unknown",
+          "context_label": "采集性质待核实",
+          "start_at_beijing": "2026-11-17T05:07:48.251+08:00",
+          "original_received_at_beijing": null,
+          "discovery_to_parsed_ms": 44.317385,
+          "timing_scope": "云端采集",
+          "timing_basis": "recorded",
+          "timing_note": "原始日志记录的发现至全文解析耗时。",
+          "observer": "美国采集器",
+          "already_present_on_first_poll": false,
+          "last_negative_listing_ns": null,
+          "last_negative_listing_at_beijing": null,
+          "listing_observation_gap_ms": null,
+          "outcome": "旧公告本次抓取达到300ms",
+          "latency_budget_passed": true,
+          "current_quality_review": null,
+          "new_release_timing": false,
+          "table_count": 4,
+          "content_complete": true,
+          "full_chain_completed_at_beijing": "2026-11-17T05:07:48.295+08:00",
+          "full_chain_ms": 44.317385,
+          "completion_kind": "captured",
+          "report_url": null,
+          "log_reference": "ec2_7a2d4ca6425b-1:192256",
+          "log_url": "./files/logs/POWL.csv"
+        }
+      ],
       "supporting_materials": [],
       "source_checks": [
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-17T04:59:47.614+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:48.158+08:00",
           "last_checked_url": "https://powellindustriesinc.gcs-web.com/rss/news-releases.xml",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:47.614+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:48.158+08:00"
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-17T04:59:45.359+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:45.727+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0000080420.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:45.359+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:45.727+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-17T04:55:01.165+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:05:01.157+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/keyword/Powell%20Industries",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:55:01.165+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:05:01.157+08:00"
         }
       ],
       "log_url": "./files/logs/POWL.csv"
@@ -153223,31 +153555,31 @@
         {
           "label": "公司官网",
           "channel": "official",
-          "last_checked_at_beijing": "2026-11-17T04:59:46.398+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:46.582+08:00",
           "last_checked_url": "https://agora.gcs-web.com/rss/news-releases.xml",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:46.398+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:46.582+08:00"
         },
         {
           "label": "SEC披露网站",
           "channel": "sec",
-          "last_checked_at_beijing": "2026-11-17T04:59:46.357+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:07:47.722+08:00",
           "last_checked_url": "https://data.sec.gov/submissions/CIK0001802883.json",
           "target_kind": "公告入口",
           "observation": "HTTP 200",
           "note": "",
           "observer": "美国采集器",
           "status": 200,
-          "last_negative_listing_at_beijing": "2026-11-17T04:59:46.357+08:00"
+          "last_negative_listing_at_beijing": "2026-11-17T05:07:47.722+08:00"
         },
         {
           "label": "财经发布网站",
           "channel": "newswire",
-          "last_checked_at_beijing": "2026-11-17T04:55:00.153+08:00",
+          "last_checked_at_beijing": "2026-11-17T05:05:00.124+08:00",
           "last_checked_url": "https://www.globenewswire.com/en/search/organization/Agora%20Inc",
           "target_kind": "公告入口",
           "observation": "HTTP 200",

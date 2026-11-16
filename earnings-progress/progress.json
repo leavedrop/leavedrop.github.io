@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-17T06:12:18.590+08:00",
+  "generated_at_beijing": "2026-11-17T06:22:04.957+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -24,7 +24,7 @@
   },
   "recent_updates": [
     {
-      "at_beijing": "2026-11-17T06:04:49+08:00",
+      "at_beijing": "2026-11-17T06:16:42+08:00",
       "text": "美国东岸（弗吉尼亚）独立采集节点已上线并按财报窗口自动启停；44 家目标旧稿在该节点完成真实网络下载、全文全表解析、完整归档、EPS/营收提取及模拟比较全链路复测：44/44 在 500 毫秒内（40/44 在 300 毫秒内，中位数 110.5 毫秒，P95 340.7 毫秒；历史复测不代表新公告首发表现）。"
     },
     {
@@ -115297,7 +115297,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.332671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -115310,7 +115310,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.016
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -115424,7 +115424,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.332671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.4",
             "revenue": "931530000"
@@ -115437,7 +115437,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.016
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.126531,
@@ -115551,7 +115551,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -115564,7 +115564,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -115678,7 +115678,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "1.04",
             "revenue": "8320000000"
@@ -115691,7 +115691,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0158
+          "simulation_ms": 0.0114
         },
         "timings_ms": {
           "queue": 0.125771,
@@ -115805,7 +115805,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -115818,7 +115818,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -115935,7 +115935,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "12.31",
             "revenue": "2940000000"
@@ -115948,7 +115948,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.12445,
@@ -116062,7 +116062,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -116075,7 +116075,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -116189,7 +116189,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.14",
             "revenue": "50950000"
@@ -116202,7 +116202,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.110301,
@@ -116311,7 +116311,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.847454+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.830200+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -116324,7 +116324,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0235
+          "simulation_ms": 0.0191
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -116433,7 +116433,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.847454+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.830200+00:00",
           "beat_standards": {
             "eps": "1.33",
             "revenue": "18090000000"
@@ -116446,7 +116446,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0235
+          "simulation_ms": 0.0191
         },
         "timings_ms": {
           "queue": 21.797495,
@@ -116555,7 +116555,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.848454+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.830200+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -116568,7 +116568,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0125
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -116677,7 +116677,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.848454+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.830200+00:00",
           "beat_standards": {
             "eps": "-0.61",
             "revenue": "916780000"
@@ -116690,7 +116690,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0125
         },
         "timings_ms": {
           "queue": 30.651766,
@@ -117047,7 +117047,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -117060,7 +117060,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0106
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -117174,7 +117174,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.333671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-0.1",
             "revenue": "4370000"
@@ -117187,7 +117187,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0137
+          "simulation_ms": 0.0106
         },
         "timings_ms": {
           "queue": 0.136501,
@@ -117301,7 +117301,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.334671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -117314,7 +117314,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0106
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -117428,7 +117428,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.334671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.03",
             "revenue": "74630000"
@@ -117441,7 +117441,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0138
+          "simulation_ms": 0.0106
         },
         "timings_ms": {
           "queue": 0.395743,
@@ -117555,7 +117555,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.334671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.685598+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -117568,7 +117568,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -117682,7 +117682,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.334671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.685598+00:00",
           "beat_standards": {
             "eps": "-0.05",
             "revenue": "3680000"
@@ -117695,7 +117695,7 @@
             "eps": "in_range",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0107
         },
         "timings_ms": {
           "queue": 0.120081,
@@ -117997,7 +117997,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:04.954124+00:00",
+          "created_at_utc": "2026-11-16T22:22:47.409692+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -118010,7 +118010,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -118120,7 +118120,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:04.954124+00:00",
+          "created_at_utc": "2026-11-16T22:22:47.409692+00:00",
           "beat_standards": {
             "eps": "1.77",
             "revenue": "568440000"
@@ -118133,7 +118133,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0142
+          "simulation_ms": 0.0124
         },
         "timings_ms": {
           "queue": 0.170749,
@@ -120645,7 +120645,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.679302+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -120658,7 +120658,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0228
+          "simulation_ms": 0.0197
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -120772,7 +120772,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.679302+00:00",
           "beat_standards": {
             "eps": "-0.28",
             "revenue": "2170000"
@@ -120785,7 +120785,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0228
+          "simulation_ms": 0.0197
         },
         "timings_ms": {
           "queue": 0.132561,
@@ -120899,7 +120899,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -120912,7 +120912,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -121026,7 +121026,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "5.91",
             "revenue": "97300000000"
@@ -121039,7 +121039,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0143
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.156991,
@@ -121153,7 +121153,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -121166,7 +121166,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0151
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -121280,7 +121280,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.07",
             "revenue": "893370000"
@@ -121293,7 +121293,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0151
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.12181,
@@ -121407,7 +121407,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -121420,7 +121420,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -121534,7 +121534,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-0.02",
             "revenue": "257210000"
@@ -121547,7 +121547,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0148
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.133811,
@@ -121661,7 +121661,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -121674,7 +121674,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0145
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -121788,7 +121788,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.9",
             "revenue": "1660000000"
@@ -121801,7 +121801,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0145
+          "simulation_ms": 0.0113
         },
         "timings_ms": {
           "queue": 0.13143,
@@ -121915,7 +121915,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.332671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -121928,7 +121928,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -122042,7 +122042,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.332671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "1.45",
             "revenue": "6800000000"
@@ -122055,7 +122055,7 @@
             "eps": "beat",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.014
+          "simulation_ms": 0.0104
         },
         "timings_ms": {
           "queue": 0.134741,
@@ -122169,7 +122169,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.015211+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.412065+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -122182,7 +122182,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0251
+          "simulation_ms": 0.0161
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -122296,7 +122296,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.015211+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.412065+00:00",
           "beat_standards": {
             "eps": "-1.03",
             "revenue": "40460000000"
@@ -122309,7 +122309,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0251
+          "simulation_ms": 0.0161
         },
         "timings_ms": {
           "queue": 0.148081,
@@ -122423,7 +122423,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.015211+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.412065+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -122436,7 +122436,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.0121
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -122550,7 +122550,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.015211+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.412065+00:00",
           "beat_standards": {
             "eps": "0.47",
             "revenue": "1570000000"
@@ -122563,7 +122563,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0164
+          "simulation_ms": 0.0121
         },
         "timings_ms": {
           "queue": 0.170631,
@@ -122879,7 +122879,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.679302+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -122892,7 +122892,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0154
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -123007,7 +123007,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.679302+00:00",
           "beat_standards": {
             "eps": "-1.18",
             "revenue": "39780000"
@@ -123020,7 +123020,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0154
+          "simulation_ms": 0.0129
         },
         "timings_ms": {
           "queue": 0.139441,
@@ -123134,7 +123134,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -123147,7 +123147,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0123
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -123261,7 +123261,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "-0.23",
             "revenue": "10500000"
@@ -123274,7 +123274,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.015
+          "simulation_ms": 0.0123
         },
         "timings_ms": {
           "queue": 0.122101,
@@ -123388,7 +123388,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -123401,7 +123401,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0139
+          "simulation_ms": 0.0119
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -123515,7 +123515,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "-0.15",
             "revenue": "169950000"
@@ -123528,7 +123528,7 @@
             "eps": "miss",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0139
+          "simulation_ms": 0.0119
         },
         "timings_ms": {
           "queue": 0.116291,
@@ -123642,7 +123642,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -123655,7 +123655,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0144
+          "simulation_ms": 0.0118
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -123769,7 +123769,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "0.74",
             "revenue": "5080000000"
@@ -123782,7 +123782,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0144
+          "simulation_ms": 0.0118
         },
         "timings_ms": {
           "queue": 0.135751,
@@ -123896,7 +123896,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -123909,7 +123909,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -124023,7 +124023,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.680302+00:00",
           "beat_standards": {
             "eps": "3.28",
             "revenue": "8760000000"
@@ -124036,7 +124036,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0141
+          "simulation_ms": 0.0116
         },
         "timings_ms": {
           "queue": 0.138081,
@@ -124153,7 +124153,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.681302+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -124166,7 +124166,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0139
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -124283,7 +124283,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.320074+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.681302+00:00",
           "beat_standards": {
             "eps": "1.58",
             "revenue": "2660000000"
@@ -124296,7 +124296,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0139
+          "simulation_ms": 0.012
         },
         "timings_ms": {
           "queue": 0.153861,
@@ -124410,7 +124410,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.329671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.681302+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -124423,7 +124423,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0341
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -124537,7 +124537,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.329671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.681302+00:00",
           "beat_standards": {
             "eps": "0.61",
             "revenue": "397960000"
@@ -124550,7 +124550,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0341
+          "simulation_ms": 0.0115
         },
         "timings_ms": {
           "queue": 0.156461,
@@ -124664,7 +124664,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.329671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.681302+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -124677,7 +124677,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0219
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -124791,7 +124791,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.329671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.681302+00:00",
           "beat_standards": {
             "eps": "0.37",
             "revenue": "247160000"
@@ -124804,7 +124804,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0219
+          "simulation_ms": 0.011
         },
         "timings_ms": {
           "queue": 0.137591,
@@ -124918,7 +124918,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.329671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -124931,7 +124931,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0233
+          "simulation_ms": 0.013
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -125045,7 +125045,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.329671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.18",
             "revenue": "7070000000"
@@ -125058,7 +125058,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0233
+          "simulation_ms": 0.013
         },
         "timings_ms": {
           "queue": 0.148371,
@@ -125172,7 +125172,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.330671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -125185,7 +125185,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0182
+          "simulation_ms": 0.0109
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -125299,7 +125299,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.330671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "0.26",
             "revenue": "650930000"
@@ -125312,7 +125312,7 @@
             "eps": "in_range",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0182
+          "simulation_ms": 0.0109
         },
         "timings_ms": {
           "queue": 0.147821,
@@ -125426,7 +125426,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.330671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "1330000"
@@ -125439,7 +125439,7 @@
             "eps": "beat",
             "revenue": null
           },
-          "simulation_ms": 0.0168
+          "simulation_ms": 0.0098
         },
         "timings_ms": {
           "queue": 0.124231,
@@ -125553,7 +125553,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.330671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -125566,7 +125566,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0149
+          "simulation_ms": 0.0109
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -125680,7 +125680,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.330671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-0.25",
             "revenue": "4000000"
@@ -125693,7 +125693,7 @@
             "eps": "miss",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0149
+          "simulation_ms": 0.0109
         },
         "timings_ms": {
           "queue": 0.12252,
@@ -125807,7 +125807,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -125820,7 +125820,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0134
+          "simulation_ms": 0.01
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -125935,7 +125935,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:47.331671+00:00",
+          "created_at_utc": "2026-11-16T22:23:29.682085+00:00",
           "beat_standards": {
             "eps": "-2.27",
             "revenue": "395670000"
@@ -125948,7 +125948,7 @@
             "eps": "in_range",
             "revenue": "in_range"
           },
-          "simulation_ms": 0.0134
+          "simulation_ms": 0.01
         },
         "timings_ms": {
           "queue": 0.131381,
@@ -126057,7 +126057,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.620755+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.627580+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -126070,7 +126070,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0193
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -126179,7 +126179,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.620755+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.627580+00:00",
           "beat_standards": {
             "eps": "0.34",
             "revenue": "253270000"
@@ -126192,7 +126192,7 @@
             "eps": "beat",
             "revenue": "beat"
           },
-          "simulation_ms": 0.0193
+          "simulation_ms": 0.0186
         },
         "timings_ms": {
           "queue": 0.0904,
@@ -126301,7 +126301,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.621752+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.627580+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -126423,7 +126423,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.621752+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.627580+00:00",
           "beat_standards": {
             "eps": "-0.11",
             "revenue": "247560000"
@@ -126545,7 +126545,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.621752+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.627580+00:00",
           "beat_standards": {
             "eps": "-0.09",
             "revenue": "148040000"
@@ -126667,7 +126667,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.604980+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.611743+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -126680,7 +126680,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0146
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -126789,7 +126789,7 @@
           "exchange_submitted": false,
           "exchange_acknowledged": false,
           "fill_price": null,
-          "created_at_utc": "2026-11-16T22:13:56.604980+00:00",
+          "created_at_utc": "2026-11-16T22:23:37.611743+00:00",
           "beat_standards": {
             "eps": "-1.13",
             "revenue": "45440000"
@@ -126802,7 +126802,7 @@
             "eps": "beat",
             "revenue": "miss"
           },
-          "simulation_ms": 0.0146
+          "simulation_ms": 0.0117
         },
         "timings_ms": {
           "queue": 0.0891,
@@ -131985,8 +131985,8 @@
         "under_500ms": true
       }
     ],
-    "extra_audit_count": 643,
-    "raw_log_text": "[RUN #01] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (Hims & Hers) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (Oklo核能) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (Nebius算力) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (Cerebras芯片) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n========================================================================================\n[后台实时盯盘与网关路由审计流水 · 共 643 条，最近 20 条]\n[AUDIT]  | STEM: state=skipped_unlisted | us_ready=205.85ms | e2e=282.49ms | key=STEM:2026-09-30:8a645aa3-2cbf-423c-b621-e5cf49b6f766\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T21:45:27.419705+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T21:45:27.428105+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T21:45:27.434738+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T21:45:27.441259+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:45:27.497060+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:45:27.503646+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T21:55:55.056752+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T21:55:55.070914+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T21:55:55.077085+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T21:55:55.081602+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:55:55.140657+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:55:55.150906+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T22:04:49.787646+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T22:04:49.795643+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T22:04:49.803471+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T22:04:49.807680+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T22:04:49.870260+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T22:04:49.870791+00:00\n[AUDIT]  | API: state=skipped_unlisted | us_ready=223.98ms | e2e=299.35ms | key=API:2026-09-30:120ff18e-34e9-4e79-be3b-b35acc7437d4"
+    "extra_audit_count": 649,
+    "raw_log_text": "[RUN #01] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      : 119.51 ms\n  ├─ ② 全文与表格解析校验    :  10.85 ms (累计 130.36 ms)\n  ├─ ③ EPS/营收指标提取      :   8.14 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.141 ms -> 信号=LONG (美东就绪 141.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.72 ms (双程RTT 157.41 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.67 ms (东京总处理 5.98 ms)\n     => 【全链路至币安FILLED】: 222.74 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993233 (clientOrderId=ew8928bc3ee0bc0660932d583dbd)\n\n[RUN #02] OXY   (西方石油) | 渠道=sec (HTTP/2, 1,645,913B)\n  ├─ ① 美东拉取财报页面      : 205.80 ms\n  ├─ ② 全文与表格解析校验    :  18.88 ms (累计 224.68 ms)\n  ├─ ③ EPS/营收指标提取      :  19.46 ms (提取 7 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.250 ms -> 信号=LONG (美东就绪 248.68 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.92 ms (双程RTT 157.45 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.33 ms (东京总处理 5.60 ms)\n     => 【全链路至币安FILLED】: 330.20 ms | 合约=OXYUSDT BUY 1x | 价格=57.73 成交量=0.11 | 状态=FILLED | orderId=2023197 (clientOrderId=ew25f8ed34b4ffd7f233a04f8552)\n\n[RUN #03] HIMS  (Hims & Hers) | 渠道=sec (HTTP/2, 491,742B)\n  ├─ ① 美东拉取财报页面      : 134.96 ms\n  ├─ ② 全文与表格解析校验    :   5.51 ms (累计 140.47 ms)\n  ├─ ③ EPS/营收指标提取      :   6.33 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.148 ms -> 信号=LONG (美东就绪 149.04 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 158.54 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   6.68 ms (东京总处理 6.87 ms)\n     => 【全链路至币安FILLED】: 231.74 ms | 合约=HIMSUSDT BUY 1x | 价格=20.36 成交量=0.32 | 状态=FILLED | orderId=62493200 (clientOrderId=ewa09c6ca1c84c696da3fd808e01)\n\n[RUN #04] RKLB  (火箭实验室) | 渠道=sec (HTTP/2, 327,755B)\n  ├─ ① 美东拉取财报页面      :  38.44 ms\n  ├─ ② 全文与表格解析校验    :   3.76 ms (累计 42.20 ms)\n  ├─ ③ EPS/营收指标提取      :   3.96 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.119 ms -> 信号=LONG (美东就绪 47.73 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.53 ms (双程RTT 156.12 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.88 ms (东京总处理 5.05 ms)\n     => 【全链路至币安FILLED】: 128.31 ms | 合约=RKLBUSDT BUY 1x | 价格=65.03 成交量=0.10 | 状态=FILLED | orderId=402479314 (clientOrderId=ew1011d98dc9af6f04c90f9fc8a3)\n\n[RUN #05] OKLO  (Oklo核能) | 渠道=sec (HTTP/2, 1,151,776B)\n  ├─ ① 美东拉取财报页面      : 182.46 ms\n  ├─ ② 全文与表格解析校验    :  13.87 ms (累计 196.33 ms)\n  ├─ ③ EPS/营收指标提取      :   5.32 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.114 ms -> 信号=LONG (美东就绪 206.06 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.61 ms (双程RTT 157.00 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.48 ms (东京总处理 5.78 ms)\n     => 【全链路至币安FILLED】: 287.45 ms | 合约=OKLOUSDT BUY 1x | 价格=25.65 成交量=0.25 | 状态=FILLED | orderId=12429061 (clientOrderId=ew7cbc5de8ad5f77bb88711b8e9e)\n\n[RUN #06] NBIS  (Nebius算力) | 渠道=sec (HTTP/2, 334,590B)\n  ├─ ① 美东拉取财报页面      :  33.24 ms\n  ├─ ② 全文与表格解析校验    :   6.29 ms (累计 39.53 ms)\n  ├─ ③ EPS/营收指标提取      :   6.07 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.177 ms -> 信号=LONG (美东就绪 47.47 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.84 ms (双程RTT 157.43 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.55 ms (东京总处理 5.74 ms)\n     => 【全链路至币安FILLED】: 129.05 ms | 合约=NBISUSDT BUY 1x | 价格=159.26 成交量=0.04 | 状态=FILLED | orderId=1115995990 (clientOrderId=ew2625ff714cd9b401c61976b4fb)\n\n[RUN #07] CSCO  (思科) | 渠道=sec (HTTP/2, 683,555B)\n  ├─ ① 美东拉取财报页面      :  26.04 ms\n  ├─ ② 全文与表格解析校验    :   8.35 ms (累计 34.39 ms)\n  ├─ ③ EPS/营收指标提取      :   7.18 ms (提取 5 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 44.07 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.83 ms (双程RTT 156.91 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.09 ms (东京总处理 5.25 ms)\n     => 【全链路至币安FILLED】: 125.15 ms | 合约=CSCOUSDT BUY 1x | 价格=101.37 成交量=0.06 | 状态=FILLED | orderId=65347074 (clientOrderId=ew192a033b30a59d4aace75f5b69)\n\n[RUN #08] BRK.B (伯克希尔·哈撒韦) | 渠道=sec (HTTP/2, 6,684,856B)\n  ├─ ① 美东拉取财报页面      : 195.99 ms\n  ├─ ② 全文与表格解析校验    :  73.11 ms (累计 269.10 ms)\n  ├─ ③ EPS/营收指标提取      :  14.17 ms (提取 3 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.144 ms -> 信号=LONG (美东就绪 300.05 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.67 ms (双程RTT 157.27 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.62 ms (东京总处理 5.93 ms)\n     => 【全链路至币安FILLED】: 381.65 ms | 合约=BRKBUSDT BUY 1x | 价格=594.59 成交量=0.01 | 状态=FILLED | orderId=30755621 (clientOrderId=ewda9c0fd9f5a4387f6f14a90ff6)\n\n[RUN #09] CBRS  (Cerebras芯片) | 渠道=official (HTTP/2, 409,494B)\n  ├─ ① 美东拉取财报页面      :  54.18 ms\n  ├─ ② 全文与表格解析校验    :   5.26 ms (累计 59.44 ms)\n  ├─ ③ EPS/营收指标提取      :   7.41 ms (提取 4 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.156 ms -> 信号=LONG (美东就绪 68.94 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.86 ms (双程RTT 157.23 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   5.25 ms (东京总处理 5.50 ms)\n     => 【全链路至币安FILLED】: 150.30 ms | 合约=CBRSUSDT BUY 1x | 价格=100.6 成交量=0.06 | 状态=FILLED | orderId=674257433 (clientOrderId=ew3b3d79f72247353ba88b6fd15e)\n\n[RUN #10] TTWO  (Take-Two互动) | 渠道=sec (HTTP/2, 659,144B)\n  ├─ ① 美东拉取财报页面      :  43.18 ms\n  ├─ ② 全文与表格解析校验    :   8.43 ms (累计 51.61 ms)\n  ├─ ③ EPS/营收指标提取      :   7.30 ms (提取 2 项指标)\n  ├─ ④ 机构预期比对与信号    :  0.123 ms -> 信号=LONG (美东就绪 59.85 ms)\n  ├─ ⑤ 美东→东京跨洋专线单程 :  75.88 ms (双程RTT 156.88 ms)\n  └─ ⑥ 东京→币安1x合约开单   :   4.96 ms (东京总处理 5.13 ms)\n     => 【全链路至币安FILLED】: 140.86 ms | 合约=TTWOUSDT BUY 1x | 价格=231.97 成交量=0.03 | 状态=FILLED | orderId=43993290 (clientOrderId=ew6de1c30fc746689deab6918bff)\n\n========================================================================================\n[后台实时盯盘与网关路由审计流水 · 共 649 条，最近 20 条]\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:45:27.503646+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T21:55:55.056752+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T21:55:55.070914+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T21:55:55.077085+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T21:55:55.081602+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:55:55.140657+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T21:55:55.150906+00:00\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T22:04:49.787646+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T22:04:49.795643+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T22:04:49.803471+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T22:04:49.807680+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T22:04:49.870260+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T22:04:49.870791+00:00\n[AUDIT]  | API: state=skipped_unlisted | us_ready=223.98ms | e2e=299.35ms | key=API:2026-09-30:120ff18e-34e9-4e79-be3b-b35acc7437d4\n[AUDIT]  | FIGR: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=FIGR:2026-11-16T22:16:42.441138+00:00\n[AUDIT]  | FIGR: state=skipped_unlisted | us_ready=95.23ms | e2e=247.69ms | key=FIGR:2026-11-16T22:16:42.452231+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=53.42ms | e2e=204.43ms | key=LUNR:2026-11-16T22:16:42.459230+00:00\n[AUDIT]  | LUNR: state=skipped_unlisted | us_ready=77.12ms | e2e=154.29ms | key=LUNR:2026-11-16T22:16:42.467238+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T22:16:42.525697+00:00\n[AUDIT]  | TSN: state=relay_error | us_ready=0.00ms | e2e=0.00ms | key=TSN:2026-11-16T22:16:42.537533+00:00"
   },
   "scheduled_strategy_trades": {
     "updated_at_beijing": "2026-11-13T05:06:29+08:00",

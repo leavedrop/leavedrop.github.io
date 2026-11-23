@@ -1,278 +1,293 @@
-symbol,report_period,period_end,metric,currency,business_scope,beat_standard,miss_standard,institution_count,source
-HUM,FY2026 Q3,2026-09-30,eps,USD,consolidated,-1.03,-1.03,2,"Zacks, Earnings Whispers"
-HUM,FY2026 Q3,2026-09-30,revenue,USD,consolidated,40460000000,40460000000,2,"Zacks, Earnings Whispers"
-BAM,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.47,0.44,2,"Zacks, Earnings Whispers"
-BAM,FY2026 Q3,2026-09-30,revenue,USD,consolidated,1570000000,1570000000,2,"Zacks, Earnings Whispers"
-ENB,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.36,0.36,2,"Zacks, Earnings Whispers"
-ENB,FY2026 Q3,2026-09-30,revenue,USD,consolidated,10320000000,10320000000,2,"Zacks, Earnings Whispers"
-OKLO,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.28,-0.29,2,"Zacks, Earnings Whispers"
-OKLO,FY2026 Q3,2026-09-30,revenue,USD,consolidated,2170000,1880000,2,"Zacks, Earnings Whispers"
-MSGK,FY2027 Q1,2026-09-30,eps,USD,consolidated,-1.18,-1.18,2,"Zacks, Earnings Whispers"
-MSGK,FY2027 Q1,2026-09-30,revenue,USD,consolidated,39780000,39780000,2,"Zacks, Earnings Whispers"
-MSGR,FY2027 Q1,2026-09-30,eps,USD,consolidated,-0.23,-0.23,2,"Equibles, Yahoo Finance"
-MSGR,FY2027 Q1,2026-09-30,revenue,USD,consolidated,10500000,10490000,2,"Equibles, Yahoo Finance"
-BRK.B,FY2026 Q3,2026-09-30,eps,USD,consolidated,5.91,5.91,2,"Zacks, Earnings Whispers"
-BRK.B,FY2026 Q3,2026-09-30,revenue,USD,consolidated,97300000000,97300000000,2,"Zacks, Earnings Whispers"
-SOHU,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.15,-0.15,1,Business Quant
-SOHU,FY2026 Q3,2026-09-30,revenue,USD,consolidated,169950000,169950000,1,Business Quant
-B,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.74,0.74,2,"Zacks, Earnings Whispers"
-B,FY2026 Q3,2026-09-30,revenue,USD,consolidated,5080000000,5080000000,2,"Zacks, Earnings Whispers"
-FERG,FY2026 Q3,2026-09-30,eps,USD,consolidated,3.28,3.28,2,"Zacks, Earnings Whispers"
-FERG,FY2026 Q3,2026-09-30,revenue,USD,consolidated,8760000000,8760000000,2,"Zacks, Earnings Whispers"
-KKR,FY2026 Q3,2026-09-30,eps,USD,consolidated,1.58,1.58,3,"Zacks, Earnings Whispers, MarketBeat"
-KKR,FY2026 Q3,2026-09-30,revenue,USD,consolidated,2660000000,1750000000,3,"Zacks, Earnings Whispers, MarketBeat"
-CECO,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.61,0.61,2,"Zacks, Earnings Whispers"
-CECO,FY2026 Q3,2026-09-30,revenue,USD,consolidated,397960000,397960000,2,"Zacks, Earnings Whispers"
-TGTX,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.37,0.28,3,"Zacks, Earnings Whispers, MarketBeat"
-TGTX,FY2026 Q3,2026-09-30,revenue,USD,consolidated,247160000,245470000,3,"Zacks, Earnings Whispers, MarketBeat"
-SKYD,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.18,0.18,2,"Zacks, Earnings Whispers"
-SKYD,FY2026 Q3,2026-09-30,revenue,USD,consolidated,7070000000,7070000000,2,"Zacks, Earnings Whispers"
-TTD,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.26,0.04,3,"Zacks, Earnings Whispers, MarketBeat"
-TTD,FY2026 Q3,2026-09-30,revenue,USD,consolidated,650930000,650710000,3,"Zacks, Earnings Whispers, MarketBeat"
-XENE,FY2026 Q3,2026-09-30,eps,USD,consolidated,-1.13,-1.14,4,"Zacks, Earnings Whispers, MarketBeat, MarketBeat（10月26日版本）"
-XENE,FY2026 Q3,2026-09-30,revenue,USD,consolidated,1330000,1330000,2,"MarketBeat, MarketBeat（10月26日版本）"
-ACHR,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.25,-0.34,3,"Zacks, Earnings Whispers, MarketBeat"
-ACHR,FY2026 Q3,2026-09-30,revenue,USD,consolidated,4000000,3570000,3,"Zacks, Earnings Whispers, MarketBeat"
-HIMS,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.07,0.06,3,"Zacks, Earnings Whispers, MarketBeat"
-HIMS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,893370000,892880000,3,"Zacks, Earnings Whispers, MarketBeat"
-LCID,FY2026 Q3,2026-09-30,eps,USD,consolidated,-2.27,-2.78,3,"Zacks, Earnings Whispers, MarketBeat"
-LCID,FY2026 Q3,2026-09-30,revenue,USD,consolidated,395670000,316250000,3,"Zacks, Earnings Whispers, MarketBeat"
-RKLB,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.02,-0.07,3,"Zacks, Earnings Whispers, MarketBeat"
-RKLB,FY2026 Q3,2026-09-30,revenue,USD,consolidated,257210000,256510000,3,"Zacks, Earnings Whispers, MarketBeat"
-TTWO,FY2027 Q2,2026-09-30,eps,USD,consolidated,0.9,0.9,2,"Zacks, Earnings Whispers"
-TTWO,FY2027 Q2,2026-09-30,revenue,USD,consolidated,1660000000,1660000000,2,"Zacks, Earnings Whispers"
-OXY,FY2026 Q3,2026-09-30,eps,USD,consolidated,1.45,1.43,3,"Zacks, Earnings Whispers, MarketBeat"
-OXY,FY2026 Q3,2026-09-30,revenue,USD,consolidated,6800000000,6730000000,3,"Zacks, Earnings Whispers, MarketBeat"
-ONON,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.5,0.5,2,"Zacks, Earnings Whispers"
-ONON,FY2026 Q3,2026-09-30,eps,CHF,consolidated,0.4,0.4,1,Yahoo Finance
-ONON,FY2026 Q3,2026-09-30,revenue,USD,consolidated,1140000000,1140000000,2,"Zacks, Earnings Whispers"
-ONON,FY2026 Q3,2026-09-30,revenue,CHF,consolidated,931530000,931530000,1,Yahoo Finance
-SE,FY2026 Q3,2026-09-30,eps,USD,consolidated,1.04,0.97,3,"Zacks, Earnings Whispers, MarketBeat"
-SE,FY2026 Q3,2026-09-30,revenue,USD,consolidated,8320000000,8080000000,3,"Zacks, Earnings Whispers, MarketBeat"
-QBTS,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.1,-0.14,3,"Zacks, Earnings Whispers, MarketBeat"
-QBTS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,4370000,3950000,3,"Zacks, Earnings Whispers, MarketBeat"
-TDG,FY2026 Q4,2026-09-30,eps,USD,consolidated,12.31,12.15,2,"Zacks, Earnings Whispers"
-TDG,FY2026 Q4,2026-09-30,revenue,USD,consolidated,2940000000,2940000000,2,"Zacks, Earnings Whispers"
-MRDN,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.14,0.14,2,"Zacks, Earnings Whispers"
-MRDN,FY2026 Q3,2026-09-30,revenue,USD,consolidated,50950000,50950000,2,"Zacks, Earnings Whispers"
-NCMI,FY2026 Q3,2026-10-01,eps,USD,consolidated,0.03,0.03,3,"Zacks, Earnings Whispers, MarketBeat"
-NCMI,FY2026 Q3,2026-10-01,revenue,USD,consolidated,74630000,72220000,3,"Zacks, Earnings Whispers, MarketBeat"
-RGTI,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.05,-0.06,3,"Zacks, Earnings Whispers, MarketBeat"
-RGTI,FY2026 Q3,2026-09-30,revenue,USD,consolidated,3680000,3300000,3,"Zacks, Earnings Whispers, MarketBeat"
-GIB,FY2026 Q4,2026-09-30,eps,USD,consolidated,1.64,1.64,2,"Zacks, Earnings Whispers"
-GIB,FY2026 Q4,2026-09-30,revenue,USD,consolidated,2930000000,2930000000,2,"Zacks, Earnings Whispers"
-FNV,FY2026 Q3,2026-09-30,eps,USD,consolidated,1.77,1.73,4,"Zacks, Earnings Whispers, MarketBeat, Equibles"
-FNV,FY2026 Q3,2026-09-30,revenue,USD,consolidated,568440000,552330000,2,"MarketBeat, Equibles"
-BN,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.72,0.682,3,"Zacks, Earnings Whispers, MarketBeat"
-BN,FY2026 Q3,2026-09-30,revenue,USD,consolidated,1780000000,1710000000,2,"MarketBeat, Yahoo Finance"
-NBIS,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.61,-1.24,4,"Zacks, Earnings Whispers, Yahoo Finance, Equibles"
-NBIS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,916780000,907170000,4,"Zacks, Earnings Whispers, Yahoo Finance, Equibles"
-CSCO,FY2027 Q1,2026-10-24,eps,USD,consolidated,1.33,1.33,2,"Zacks, Earnings Whispers"
-CSCO,FY2027 Q1,2026-10-24,revenue,USD,consolidated,18090000000,18090000000,2,"Zacks, Earnings Whispers"
-CBRS,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.13,-0.13,2,"Zacks, Earnings Whispers"
-CBRS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,215820000,215820000,2,"Zacks, Earnings Whispers"
-XPEV,FY2026 Q3,2026-09-30,eps,CNY,consolidated,-0.7,-0.71,2,"Yahoo Finance, Equibles"
-XPEV,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,23170000000,23170000000,2,"Yahoo Finance, Equibles"
-BIDU,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.85,0.85,2,"Zacks, Earnings Whispers"
-BIDU,FY2026 Q3,2026-09-30,revenue,USD,consolidated,4610000000,4610000000,2,"Zacks, Earnings Whispers"
-BEKE,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.25,0.25,2,"Zacks, Earnings Whispers"
-BEKE,FY2026 Q3,2026-09-30,eps,CNY,consolidated,1.71,1.71,1,Equibles
-BEKE,FY2026 Q3,2026-09-30,revenue,USD,consolidated,3070000000,3070000000,2,"Zacks, Earnings Whispers"
-BEKE,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,20760000000,20760000000,1,Equibles
-HTHT,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.8,0.75,2,"Zacks, Earnings Whispers"
-HTHT,FY2026 Q3,2026-09-30,eps,CNY,consolidated,5.6,5.6,2,"Yahoo Finance, Equibles"
-HTHT,FY2026 Q3,2026-09-30,revenue,USD,consolidated,1140000000,1140000000,2,"Zacks, Earnings Whispers"
-HTHT,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,7330000000,7330000000,2,"Yahoo Finance, Equibles"
-ARMK,FY2026 Q4,2026-10-02,eps,USD,consolidated,0.75,0.75,2,"Zacks, Earnings Whispers"
-ARMK,FY2026 Q4,2026-10-02,revenue,USD,consolidated,5270000000,5270000000,2,"Zacks, Earnings Whispers"
-TSN,FY2026 Q4,2026-10-03,eps,USD,consolidated,0.65,0.65,2,"Zacks, Earnings Whispers"
-TSN,FY2026 Q4,2026-10-03,revenue,USD,consolidated,13880000000,13880000000,2,"Zacks, Earnings Whispers"
-ACM,FY2026 Q4,2026-10-02,eps,USD,consolidated,1.59,1.59,4,"Zacks, Earnings Whispers, Yahoo Finance, Equibles"
-ACM,FY2026 Q4,2026-10-02,revenue,USD,consolidated,4100000000,1930000000,3,"Earnings Whispers, Yahoo Finance, Equibles"
-ACM,FY2026 Q4,2026-10-02,revenue,USD,net_service_revenue,1930000000,1930000000,1,Zacks
-INFQ,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.05,-0.05,2,"Zacks, Earnings Whispers"
-INFQ,FY2026 Q3,2026-09-30,revenue,USD,consolidated,10750000,10750000,2,"Zacks, Earnings Whispers"
-STEM,FY2026 Q3,2026-09-30,eps,USD,consolidated,-1.57,-1.57,2,"Zacks, Earnings Whispers"
-STEM,FY2026 Q3,2026-09-30,revenue,USD,consolidated,37200000,37200000,2,"Zacks, Earnings Whispers"
-FIGR,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.34,0.31,3,"Zacks公告前文章, Yahoo Finance, Equibles"
-FIGR,FY2026 Q3,2026-09-30,revenue,USD,consolidated,253270000,249490000,3,"Zacks公告前文章, Yahoo Finance, Equibles"
-LUNR,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.11,-0.12,3,"Zacks公告前文章, Yahoo Finance, Equibles"
-LUNR,FY2026 Q3,2026-09-30,revenue,USD,consolidated,247560000,243300000,3,"Zacks公告前文章, Yahoo Finance, Equibles"
-ONDS,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.09,-0.09,3,"Zacks公告前文章, Yahoo Finance, Equibles"
-ONDS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,148040000,147050000,3,"Zacks公告前文章, Yahoo Finance, Equibles"
-GEMI,FY2026 Q3,2026-09-30,eps,USD,consolidated,-1.13,-1.13,2,"Zacks, Earnings Whispers"
-GEMI,FY2026 Q3,2026-09-30,revenue,USD,consolidated,45440000,45440000,2,"Zacks, Earnings Whispers"
-IQ,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.01,-0.01,2,"Zacks, Earnings Whispers"
-IQ,FY2026 Q3,2026-09-30,eps,CNY,consolidated,-0.069,-0.069,1,Equibles
-IQ,FY2026 Q3,2026-09-30,revenue,USD,consolidated,909000000,909000000,2,"Zacks, Earnings Whispers"
-IQ,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,6150000000,6150000000,1,Equibles
-TME,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.22,0.22,2,"Zacks, Earnings Whispers"
-TME,FY2026 Q3,2026-09-30,eps,CNY,consolidated,1.5,1.5,1,Equibles
-TME,FY2026 Q3,2026-09-30,revenue,USD,consolidated,1350000000,1350000000,2,"Zacks, Earnings Whispers"
-TME,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,9140000000,9140000000,1,Equibles
-AS,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.34,0.34,2,"Zacks, Earnings Whispers"
-AS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,2130000000,2130000000,2,"Zacks, Earnings Whispers"
-JD,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.98,0.98,2,"Zacks, Earnings Whispers"
-JD,FY2026 Q3,2026-09-30,eps,CNY,consolidated,5.88,5.88,1,Equibles
-JD,FY2026 Q3,2026-09-30,revenue,USD,consolidated,46330000000,46330000000,2,"Zacks, Earnings Whispers"
-JD,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,309800000000,309800000000,1,Equibles
-DIS,FY2026 Q4,2026-10-03,eps,USD,consolidated,1.67,1.67,2,"Zacks, Earnings Whispers"
-DIS,FY2026 Q4,2026-10-03,revenue,USD,consolidated,25260000000,25260000000,2,"Zacks, Earnings Whispers"
-VIK,FY2026 Q3,2026-09-30,eps,USD,consolidated,1.23,1.23,2,"Zacks, Earnings Whispers"
-VIK,FY2026 Q3,2026-09-30,revenue,USD,consolidated,2180000000,2180000000,2,"Zacks, Earnings Whispers"
-KLAR,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.16,-0.16,2,"Zacks, Earnings Whispers"
-KLAR,FY2026 Q3,2026-09-30,revenue,USD,consolidated,962790000,962790000,2,"Zacks, Earnings Whispers"
-NVDA,FY2027 Q3,2026-10-25,eps,USD,consolidated,2.49,2.49,2,"Zacks, Earnings Whispers"
-NVDA,FY2027 Q3,2026-10-25,revenue,USD,consolidated,108990000000,108920000000,2,"Zacks, Earnings Whispers"
-ZTO,FY2026 Q3,2026-09-30,eps,CNY,consolidated,3.13,3.13,2,"Yahoo Finance, Equibles"
-ZTO,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.4777,0.4777,1,MarketBeat
-ZTO,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,13970000000,13970000000,2,"Yahoo Finance, Equibles"
-ZTO,FY2026 Q3,2026-09-30,revenue,USD,consolidated,2090000000,2090000000,1,MarketBeat
-PONY,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.18,-0.18,2,"Equibles, Yahoo Finance"
-PONY,FY2026 Q3,2026-09-30,revenue,USD,consolidated,39120000,39120000,2,"Equibles, Yahoo Finance"
-GLBE,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.33,0.33,2,"Zacks, Earnings Whispers"
-GLBE,FY2026 Q3,2026-09-30,revenue,USD,consolidated,314780000,314780000,2,"Zacks, Earnings Whispers"
-TJX,FY2027 Q3,2026-10-31,eps,USD,consolidated,1.33,1.33,2,"Zacks, Earnings Whispers"
-TJX,FY2027 Q3,2026-10-31,revenue,USD,consolidated,15810000000,15800000000,2,"Zacks, Earnings Whispers"
-GLNG,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.01,-0.01,2,"Zacks, Earnings Whispers"
-GLNG,FY2026 Q3,2026-09-30,revenue,USD,consolidated,67630000,67630000,2,"Zacks, Earnings Whispers"
-WWD,FY2026 Q4,2026-09-30,eps,USD,consolidated,2.5,2.5,2,"Zacks, Earnings Whispers"
-WWD,FY2026 Q4,2026-09-30,revenue,USD,consolidated,1130000000,1130000000,2,"Zacks, Earnings Whispers"
-PANW,FY2027 Q1,2026-10-31,eps,USD,consolidated,0.97,0.97,2,"Zacks, Earnings Whispers"
-PANW,FY2027 Q1,2026-10-31,revenue,USD,consolidated,3310000000,3310000000,2,"Zacks, Earnings Whispers"
-POWL,FY2026 Q4,2026-09-30,eps,USD,consolidated,1.52,1.52,2,"Zacks, Earnings Whispers"
-POWL,FY2026 Q4,2026-09-30,revenue,USD,consolidated,328350000,328350000,2,"Zacks, Earnings Whispers"
-API,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.18,-0.18,1,MarketBeat
-API,FY2026 Q3,2026-09-30,revenue,USD,consolidated,41080000,41080000,1,MarketBeat
-JMIA,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.05,-0.05,2,"Zacks, Earnings Whispers"
-JMIA,FY2026 Q3,2026-09-30,revenue,USD,consolidated,53400000,53400000,2,"Zacks, Earnings Whispers"
-ZIM,FY2026 Q3,2026-09-30,eps,USD,consolidated,4.77,4.77,2,"Zacks, Earnings Whispers"
-ZIM,FY2026 Q3,2026-09-30,revenue,USD,consolidated,2490000000,2490000000,2,"Zacks, Earnings Whispers"
-FUTU,FY2026 Q3,2026-09-30,eps,HKD,consolidated,26.15,26.15,2,"Equibles, Yahoo Finance"
-FUTU,FY2026 Q3,2026-09-30,eps,USD,consolidated,3.21,3.21,1,TradingView
-FUTU,FY2026 Q3,2026-09-30,revenue,USD,consolidated,820490000,814820000,3,"Zacks, Earnings Whispers, TradingView"
-FUTU,FY2026 Q3,2026-09-30,revenue,HKD,consolidated,6590000000,6590000000,2,"Equibles, Yahoo Finance"
-YMM,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.2,0.2,2,"Zacks, Earnings Whispers"
-YMM,FY2026 Q3,2026-09-30,eps,CNY,consolidated,1.32,1.32,1,Equibles
-YMM,FY2026 Q3,2026-09-30,revenue,USD,consolidated,496440000,496440000,2,"Zacks, Earnings Whispers"
-YMM,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,3310000000,3310000000,1,Equibles
-NTES,FY2026 Q3,2026-09-30,eps,USD,consolidated,2.58,2.58,2,"Zacks, Earnings Whispers"
-NTES,FY2026 Q3,2026-09-30,eps,CNY,consolidated,16.07,16.07,2,"Equibles, Yahoo Finance"
-NTES,FY2026 Q3,2026-09-30,revenue,USD,consolidated,4520000000,4520000000,2,"Zacks, Earnings Whispers"
-NTES,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,30270000000,30270000000,2,"Equibles, Yahoo Finance"
-BABA,FY2027 Q2,2026-09-30,eps,USD,consolidated,1.71,1.63,2,"Zacks, Earnings Whispers"
-BABA,FY2027 Q2,2026-09-30,eps,CNY,consolidated,11.03,11.03,2,"Equibles, Yahoo Finance"
-BABA,FY2027 Q2,2026-09-30,revenue,USD,consolidated,40410000000,40410000000,2,"Zacks, Earnings Whispers"
-BABA,FY2027 Q2,2026-09-30,revenue,CNY,consolidated,269850000000,269850000000,2,"Equibles, Yahoo Finance"
-MMS,FY2026 Q4,2026-09-30,eps,USD,consolidated,1.88,1.88,2,"Zacks, Earnings Whispers"
-MMS,FY2026 Q4,2026-09-30,revenue,USD,consolidated,1290000000,1290000000,2,"Zacks, Earnings Whispers"
-BBWI,FY2026 Q3,2026-10-31,eps,USD,consolidated,0.12,0.12,2,"Zacks, Earnings Whispers"
-BBWI,FY2026 Q3,2026-10-31,revenue,USD,consolidated,1540000000,1540000000,2,"Zacks, Earnings Whispers"
-WMT,FY2027 Q3,2026-10-31,eps,USD,consolidated,0.64,0.64,3,"Zacks, Earnings Whispers, Yahoo Finance"
-WMT,FY2027 Q3,2026-10-31,revenue,USD,consolidated,187250000000,186520000000,3,"Zacks, Earnings Whispers, Yahoo Finance"
-INTU,FY2027 Q1,2026-10-31,eps,USD,consolidated,2.64,2.46,3,"Zacks, Earnings Whispers, Yahoo Finance"
-INTU,FY2027 Q1,2026-10-31,revenue,USD,consolidated,4310000000,4300000000,3,"Zacks, Earnings Whispers, Yahoo Finance"
-ROST,FY2026 Q3,2026-10-31,eps,USD,consolidated,1.87,1.85,3,"Zacks, Earnings Whispers, Yahoo Finance"
-ROST,FY2026 Q3,2026-10-31,revenue,USD,consolidated,6260000000,6230000000,3,"Zacks, Earnings Whispers, Yahoo Finance"
-ESTC,FY2027 Q2,2026-10-31,eps,USD,consolidated,0.81,0.81,2,"Zacks, Earnings Whispers"
-ESTC,FY2027 Q2,2026-10-31,revenue,USD,consolidated,486730000,486730000,2,"Zacks, Earnings Whispers"
-KEYS,FY2026 Q4,2026-10-31,eps,USD,consolidated,3.36,3.36,2,"Zacks, Earnings Whispers"
-KEYS,FY2026 Q4,2026-10-31,revenue,USD,consolidated,1940000000,1940000000,2,"Zacks, Earnings Whispers"
-GAP,FY2026 Q3,2026-10-31,eps,USD,consolidated,0.78,0.76,3,"Zacks, Earnings Whispers, Yahoo Finance"
-GAP,FY2026 Q3,2026-10-31,revenue,USD,consolidated,4010000000,4010000000,3,"Zacks, Earnings Whispers, Yahoo Finance"
-PDD,FY2026 Q3,2026-09-30,eps,USD,consolidated,2.78,2.77,2,"Zacks, Earnings Whispers"
-PDD,FY2026 Q3,2026-09-30,revenue,USD,consolidated,17300000000,17300000000,2,"Zacks, Earnings Whispers"
-BJ,FY2026 Q3,2026-10-31,eps,USD,consolidated,1.24,1.24,2,"Zacks, Earnings Whispers"
-BJ,FY2026 Q3,2026-10-31,revenue,USD,consolidated,5950000000,5950000000,2,"Zacks, Earnings Whispers"
-BSP,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.26,0.25,2,"Zacks, Earnings Whispers"
-BSP,FY2026 Q3,2026-09-30,revenue,USD,consolidated,740280000,740280000,2,"Zacks, Earnings Whispers"
-WRD,FY2026 Q3,2026-09-30,eps,CNY,consolidated,-0.99,-0.99,2,"Yahoo Finance, Equibles"
-WRD,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,269910000,269910000,2,"Yahoo Finance, Equibles"
-WB,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.3,0.3,2,"Zacks, Earnings Whispers"
-WB,FY2026 Q3,2026-09-30,revenue,USD,consolidated,426220000,426220000,2,"Zacks, Earnings Whispers"
-SQM,FY2026 Q3,2026-09-30,eps,USD,consolidated,1.97,1.97,2,"Zacks, Earnings Whispers"
-SQM,FY2026 Q3,2026-09-30,revenue,USD,consolidated,2200000000,2200000000,2,"Zacks, Earnings Whispers"
-WSM,FY2026 Q3,2026-11-01,eps,USD,consolidated,2.18,2.18,2,"Zacks, Earnings Whispers"
-WSM,FY2026 Q3,2026-11-01,revenue,USD,consolidated,1980000000,1980000000,2,"Zacks, Earnings Whispers"
-FLNC,FY2026 Q4,2026-09-30,eps,USD,consolidated,-0.54,-0.54,2,"Zacks, Earnings Whispers"
-FLNC,FY2026 Q4,2026-09-30,revenue,USD,consolidated,811530000,811530000,2,"Zacks, Earnings Whispers"
-J,FY2026 Q4,2026-10-02,eps,USD,consolidated,2.11,2.11,2,"Zacks, Earnings Whispers"
-J,FY2026 Q4,2026-10-02,revenue,USD,consolidated,3610000000,3610000000,2,"Zacks, Earnings Whispers"
-SYM,FY2026 Q4,2026-09-26,eps,USD,consolidated,0.16,0.16,2,"Zacks, Earnings Whispers"
-SYM,FY2026 Q4,2026-09-26,revenue,USD,consolidated,773890000,773890000,2,"Zacks, Earnings Whispers"
-A,FY2026 Q4,2026-10-31,eps,USD,consolidated,1.72,1.72,2,"Zacks, Earnings Whispers"
-A,FY2026 Q4,2026-10-31,revenue,USD,consolidated,1980000000,1980000000,2,"Zacks, Earnings Whispers"
-SMTC,FY2027 Q3,2026-10-25,eps,USD,consolidated,1.13,1.13,2,"Zacks, Earnings Whispers"
-SMTC,FY2027 Q3,2026-10-25,revenue,USD,consolidated,416030000,416030000,2,"Zacks, Earnings Whispers"
-ZM,FY2027 Q3,2026-10-31,eps,USD,consolidated,1.49,1.49,2,"Zacks, Earnings Whispers"
-ZM,FY2027 Q3,2026-10-31,revenue,USD,consolidated,1280000000,1280000000,2,"Zacks, Earnings Whispers"
-VIPS,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.41,0.31,2,"Zacks, Earnings Whispers"
-VIPS,FY2026 Q3,2026-09-30,eps,CNY,consolidated,2.72,2.72,2,"Yahoo Finance, Equibles"
-VIPS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,3050000000,3050000000,2,"Zacks, Earnings Whispers"
-VIPS,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,20400000000,20400000000,2,"Yahoo Finance, Equibles"
-BILI,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.27,0.27,2,"Zacks, Earnings Whispers"
-BILI,FY2026 Q3,2026-09-30,eps,CNY,consolidated,1.78,1.78,2,"Yahoo Finance, Equibles"
-BILI,FY2026 Q3,2026-09-30,revenue,USD,consolidated,1230000000,1230000000,2,"Zacks, Earnings Whispers"
-BILI,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,8240000000,8240000000,2,"Yahoo Finance, Equibles"
-DLTR,FY2026 Q3,2026-10-31,eps,USD,consolidated,0.89,0.89,2,"Zacks, Earnings Whispers"
-DLTR,FY2026 Q3,2026-10-31,revenue,USD,consolidated,5050000000,5050000000,2,"Zacks, Earnings Whispers"
-BURL,FY2026 Q3,2026-10-31,eps,USD,consolidated,1.67,1.67,2,"Zacks, Earnings Whispers"
-BURL,FY2026 Q3,2026-10-31,revenue,USD,consolidated,2980000000,2980000000,2,"Zacks, Earnings Whispers"
-MDT,FY2027 Q2,2026-10-30,eps,USD,consolidated,1.34,1.34,2,"Zacks, Earnings Whispers"
-MDT,FY2027 Q2,2026-10-30,revenue,USD,consolidated,9460000000,9460000000,2,"Zacks, Earnings Whispers"
-MMED,FY2027 Q2,2026-10-30,eps,USD,consolidated,0.1,0.1,2,"Zacks, Earnings Whispers"
-MMED,FY2027 Q2,2026-10-30,revenue,USD,consolidated,827510000,827510000,2,"Zacks, Earnings Whispers"
-DY,FY2027 Q3,2026-10-31,eps,USD,consolidated,4.56,4.56,2,"Zacks, Earnings Whispers"
-DY,FY2027 Q3,2026-10-31,revenue,USD,consolidated,1920000000,1920000000,2,"Zacks, Earnings Whispers"
-ADI,FY2026 Q4,2026-10-31,eps,USD,consolidated,3.89,3.89,2,"Zacks, Earnings Whispers"
-ADI,FY2026 Q4,2026-10-31,revenue,USD,consolidated,4320000000,4320000000,2,"Zacks, Earnings Whispers"
-DKS,FY2026 Q3,2026-10-31,eps,USD,consolidated,1.38,1.38,2,"Zacks, Earnings Whispers"
-DKS,FY2026 Q3,2026-10-31,revenue,USD,consolidated,5060000000,5060000000,2,"Zacks, Earnings Whispers"
-SJM,FY2027 Q2,2026-10-31,eps,USD,consolidated,2.57,2.57,2,"Zacks, Earnings Whispers"
-SJM,FY2027 Q2,2026-10-31,revenue,USD,consolidated,2280000000,2280000000,2,"Zacks, Earnings Whispers"
-ANF,FY2026 Q3,2026-10-31,eps,USD,consolidated,3.14,3.14,2,"Zacks, Earnings Whispers"
-ANF,FY2026 Q3,2026-10-31,revenue,USD,consolidated,1370000000,1370000000,2,"Zacks, Earnings Whispers"
-AMTM,FY2026 Q4,2026-10-02,eps,USD,consolidated,0.66,0.66,2,"Zacks, Earnings Whispers"
-AMTM,FY2026 Q4,2026-10-02,revenue,USD,consolidated,3660000000,3660000000,2,"Zacks, Earnings Whispers"
-NTNX,FY2027 Q1,2026-10-31,eps,USD,consolidated,0.6,0.6,2,"Zacks, Earnings Whispers"
-NTNX,FY2027 Q1,2026-10-31,revenue,USD,consolidated,762440000,761760000,2,"Zacks, Earnings Whispers"
-WDAY,FY2027 Q3,2026-10-31,eps,USD,consolidated,2.74,2.74,2,"Zacks, Earnings Whispers"
-WDAY,FY2027 Q3,2026-10-31,revenue,USD,consolidated,2690000000,2690000000,2,"Zacks, Earnings Whispers"
-RLX,FY2026 Q3,2026-09-30,eps,CNY,consolidated,0.23,0.23,1,Yahoo Finance
-RLX,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,1750000000,1750000000,1,Yahoo Finance
-IESC,FY2026 Q4,2026-09-30,eps,USD,consolidated,2.81,2.81,1,Equibles
-IESC,FY2026 Q4,2026-09-30,revenue,USD,consolidated,1150000000,1150000000,2,"Yahoo Finance, Equibles"
-VNET,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.53,0.53,2,"Zacks, Earnings Whispers"
-VNET,FY2026 Q3,2026-09-30,revenue,USD,consolidated,441850000,441850000,2,"Zacks, Earnings Whispers"
-CENT,FY2026 Q4,2026-09-26,eps,USD,consolidated,-0.06,-0.06,2,"Zacks, Earnings Whispers"
-CENT,FY2026 Q4,2026-09-26,revenue,USD,consolidated,600170000,600170000,2,"Zacks, Earnings Whispers"
-DAC,FY2026 Q3,2026-09-30,eps,USD,consolidated,7.06,7.06,1,Equibles
-DAC,FY2026 Q3,2026-09-30,revenue,USD,consolidated,274040000,274040000,2,"Yahoo Finance, Equibles"
-TUYA,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.03,0.03,2,"Zacks, Earnings Whispers"
-TUYA,FY2026 Q3,2026-09-30,revenue,USD,consolidated,94480000,94480000,2,"Zacks, Earnings Whispers"
-BWLP,FY2026 Q3,2026-09-30,eps,USD,consolidated,1.85,1.85,1,BW LPG 官网分析师汇总
-BWLP,FY2026 Q3,2026-09-30,revenue,USD,consolidated,464770000,436030000,2,"Yahoo Finance, Equibles"
-CMBT,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.72,0.72,2,"Yahoo Finance, Equibles"
-CMBT,FY2026 Q3,2026-09-30,revenue,USD,consolidated,690740000,690740000,2,"Yahoo Finance, Equibles"
-TIGR,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.2329,0.21,2,"MarketBeat 公告前预览, Equibles"
-TIGR,FY2026 Q3,2026-09-30,revenue,USD,consolidated,173770000,173770000,1,MarketBeat 公告前预览
-ITRN,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.94,0.91,3,"Zacks, Earnings Whispers, Yahoo Finance"
-ITRN,FY2026 Q3,2026-09-30,revenue,USD,consolidated,105710000,104720000,3,"Zacks, Earnings Whispers, Yahoo Finance"
-KC,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.04,-0.04,2,"Zacks, Earnings Whispers"
-KC,FY2026 Q3,2026-09-30,eps,CNY,consolidated,-0.22,-0.22,1,Yahoo Finance
-KC,FY2026 Q3,2026-09-30,revenue,USD,consolidated,492790000,492790000,2,"Zacks, Earnings Whispers"
-KC,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,3330000000,3330000000,1,Yahoo Finance
-AMBA,FY2027 Q3,2026-10-31,eps,USD,consolidated,0.32,0.32,2,"Zacks, Earnings Whispers"
-AMBA,FY2027 Q3,2026-10-31,revenue,USD,consolidated,119940000,119940000,2,"Zacks, Earnings Whispers"
-QFIN,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.46,0.46,2,"Zacks, Earnings Whispers"
-QFIN,FY2026 Q3,2026-09-30,revenue,USD,consolidated,439730000,439730000,2,"Zacks, Earnings Whispers"
-LI,FY2026 Q3,2026-09-30,eps,USD,consolidated,-0.08,-0.08,2,"Zacks, Earnings Whispers"
-LI,FY2026 Q3,2026-09-30,eps,CNY,consolidated,-0.84,-0.84,2,"Yahoo Finance, Equibles"
-LI,FY2026 Q3,2026-09-30,revenue,USD,consolidated,4090000000,4090000000,2,"Zacks, Earnings Whispers"
-LI,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,27450000000,27450000000,2,"Yahoo Finance, Equibles"
-GDS,FY2026 Q3,2026-09-30,revenue,USD,consolidated,474430000,474430000,2,"Zacks, Earnings Whispers"
-GDS,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,3180000000,3180000000,2,"Yahoo Finance, Equibles"
-BZ,FY2026 Q3,2026-09-30,eps,USD,consolidated,0.34,0.27,2,"Zacks, Earnings Whispers"
-BZ,FY2026 Q3,2026-09-30,eps,CNY,consolidated,2.24,2.24,2,"Yahoo Finance, Equibles"
-BZ,FY2026 Q3,2026-09-30,revenue,USD,consolidated,362680000,362680000,2,"Zacks, Earnings Whispers"
-BZ,FY2026 Q3,2026-09-30,revenue,CNY,consolidated,2440000000,2440000000,2,"Yahoo Finance, Equibles"
+﻿代码,公司,发布分组,报告期,期末日期,预定发布时间（北京）,指标,业务口径,币种,低于预期标准（机构最低值）,超预期标准（机构正向最大值）,机构预测数,各机构原始预测明细
+HUM,Humana,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 19:00 · 美东 11/06 06:00,EPS,合并口径,USD,'-1.03,'-1.03,2,Zacks: EPS $-1.03 ｜ Earnings Whispers: EPS $-1.03
+HUM,Humana,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 19:00 · 美东 11/06 06:00,营收,合并口径,USD,40460000000,40460000000,2,Zacks: 营收 404.6亿美元 ｜ Earnings Whispers: 营收 404.6亿美元
+BAM,布鲁克菲尔德资产管理,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 20:00前 · 美东 11/06 07:00前,EPS,合并口径,USD,0.44,0.47,2,Zacks: EPS $0.47 ｜ Earnings Whispers: EPS $0.44
+BAM,布鲁克菲尔德资产管理,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 20:00前 · 美东 11/06 07:00前,营收,合并口径,USD,1570000000,1570000000,2,Zacks: 营收 15.7亿美元 ｜ Earnings Whispers: 营收 15.7亿美元
+ENB,恩桥,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 22:30前 · 美东 11/06 盘前,EPS,合并口径,USD,0.36,0.36,2,Zacks: EPS $0.36 ｜ Earnings Whispers: EPS $0.36
+ENB,恩桥,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 22:30前 · 美东 11/06 盘前,营收,合并口径,USD,10320000000,10320000000,2,Zacks: 营收 103.2亿美元 ｜ Earnings Whispers: 营收 103.2亿美元
+OKLO,Oklo,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 21:30前 · 美东 11/06 08:30前,EPS,合并口径,USD,'-0.29,'-0.28,2,Zacks: EPS $-0.29 ｜ Earnings Whispers: EPS $-0.28
+OKLO,Oklo,已出财报,FY2026 Q3,2026-09-30,11月06日(周五) 21:30前 · 美东 11/06 08:30前,营收,合并口径,USD,1880000,2170000,2,Zacks: 营收 188万美元 ｜ Earnings Whispers: 营收 217万美元
+MSGK,MSG Knickerbockers Corp.,已出财报,FY2027 Q1,2026-09-30,11月06日(周五) 22:30前 · 美东 11/06 盘前,EPS,合并口径,USD,'-1.18,'-1.18,2,Zacks: EPS $-1.18 ｜ Earnings Whispers: EPS $-1.18
+MSGK,MSG Knickerbockers Corp.,已出财报,FY2027 Q1,2026-09-30,11月06日(周五) 22:30前 · 美东 11/06 盘前,营收,合并口径,USD,39780000,39780000,2,Zacks: 营收 3978万美元 ｜ Earnings Whispers: 营收 3978万美元
+MSGR,MSG Rangers Corp.,已出财报,FY2027 Q1,2026-09-30,11月06日(周五) 22:30前 · 美东 11/06 盘前,EPS,合并口径,USD,'-0.23,'-0.23,2,Equibles: EPS $-0.23 ｜ Yahoo Finance: EPS $-0.23
+MSGR,MSG Rangers Corp.,已出财报,FY2027 Q1,2026-09-30,11月06日(周五) 22:30前 · 美东 11/06 盘前,营收,合并口径,USD,10490000,10500000,2,Equibles: 营收 1050万美元 ｜ Yahoo Finance: 营收 1049万美元
+BRK.B,伯克希尔·哈撒韦,已出财报,FY2026 Q3,2026-09-30,11月07日(周六) 约21:00,EPS,合并口径,USD,5.91,5.91,2,Zacks: EPS $5.91 ｜ Earnings Whispers: EPS $5.91
+BRK.B,伯克希尔·哈撒韦,已出财报,FY2026 Q3,2026-09-30,11月07日(周六) 约21:00,营收,合并口径,USD,97300000000,97300000000,2,Zacks: 营收 973亿美元 ｜ Earnings Whispers: 营收 973亿美元
+SOHU,搜狐,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 20:30前 · 美东 11/09 07:30前,EPS,合并口径,USD,'-0.15,'-0.15,1,Business Quant: EPS $-0.15
+SOHU,搜狐,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 20:30前 · 美东 11/09 07:30前,营收,合并口径,USD,169950000,169950000,1,Business Quant: 营收 1.6995亿美元
+B,巴里克矿业,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 19:00 · 美东 11/09 06:00,EPS,合并口径,USD,0.74,0.74,2,Zacks: EPS $0.74 ｜ Earnings Whispers: EPS $0.74
+B,巴里克矿业,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 19:00 · 美东 11/09 06:00,营收,合并口径,USD,5080000000,5080000000,2,Zacks: 营收 50.8亿美元 ｜ Earnings Whispers: 营收 50.8亿美元
+FERG,弗格森,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 19:45 · 美东 11/09 06:45,EPS,合并口径,USD,3.28,3.28,2,Zacks: EPS $3.28 ｜ Earnings Whispers: EPS $3.28
+FERG,弗格森,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 19:45 · 美东 11/09 06:45,营收,合并口径,USD,8760000000,8760000000,2,Zacks: 营收 87.6亿美元 ｜ Earnings Whispers: 营收 87.6亿美元
+KKR,KKR,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 22:30前 · 美东 11/09 盘前,EPS,合并口径,USD,1.58,1.58,3,Zacks: EPS $1.58 ｜ Earnings Whispers: EPS $1.58 ｜ MarketBeat: EPS $1.58
+KKR,KKR,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 22:30前 · 美东 11/09 盘前,营收,合并口径,USD,1750000000,2660000000,3,Zacks: 营收 17.5亿美元 ｜ Earnings Whispers: 营收 17.5亿美元 ｜ MarketBeat: 营收 26.6亿美元
+CECO,CECO Environmental,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 22:30前 · 美东 11/09 盘前,EPS,合并口径,USD,0.61,0.61,2,Zacks: EPS $0.61 ｜ Earnings Whispers: EPS $0.61
+CECO,CECO Environmental,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 22:30前 · 美东 11/09 盘前,营收,合并口径,USD,397960000,397960000,2,Zacks: 营收 3.9796亿美元 ｜ Earnings Whispers: 营收 3.9796亿美元
+TGTX,TG Therapeutics,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 21:30前 · 美东 11/09 08:30前,EPS,合并口径,USD,0.28,0.37,3,Zacks: EPS $0.28 ｜ Earnings Whispers: EPS $0.28 ｜ MarketBeat: EPS $0.37
+TGTX,TG Therapeutics,已出财报,FY2026 Q3,2026-09-30,11月09日(周一) 21:30前 · 美东 11/09 08:30前,营收,合并口径,USD,245470000,247160000,3,Zacks: 营收 2.4716亿美元 ｜ Earnings Whispers: 营收 2.4716亿美元 ｜ MarketBeat: 营收 2.4547亿美元
+SKYD,Skydance,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 06:00前 · 美东 11/09 17:00前,EPS,合并口径,USD,0.18,0.18,2,Zacks: EPS $0.18 ｜ Earnings Whispers: EPS $0.18
+SKYD,Skydance,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 06:00前 · 美东 11/09 17:00前,营收,合并口径,USD,7070000000,7070000000,2,Zacks: 营收 70.7亿美元 ｜ Earnings Whispers: 营收 70.7亿美元
+TTD,The Trade Desk,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,EPS,合并口径,USD,0.04,0.26,3,Zacks: EPS $0.26 ｜ Earnings Whispers: EPS $0.26 ｜ MarketBeat: EPS $0.04
+TTD,The Trade Desk,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,营收,合并口径,USD,650710000,650930000,3,Zacks: 营收 6.5071亿美元 ｜ Earnings Whispers: 营收 6.5071亿美元 ｜ MarketBeat: 营收 6.5093亿美元
+XENE,Xenon Pharmaceuticals,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,EPS,合并口径,USD,'-1.14,'-1.13,4,Zacks: EPS $-1.14 ｜ Earnings Whispers: EPS $-1.14 ｜ MarketBeat: EPS $-1.13 ｜ MarketBeat（10月26日版本）: EPS $-1.13
+XENE,Xenon Pharmaceuticals,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,营收,合并口径,USD,1330000,1330000,2,MarketBeat: 营收 133万美元 ｜ MarketBeat（10月26日版本）: 营收 133万美元
+ACHR,阿彻航空,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,EPS,合并口径,USD,'-0.34,'-0.25,3,Zacks: EPS $-0.25 ｜ Earnings Whispers: EPS $-0.25 ｜ MarketBeat: EPS $-0.34
+ACHR,阿彻航空,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,营收,合并口径,USD,3570000,4000000,3,Zacks: 营收 400万美元 ｜ Earnings Whispers: 营收 400万美元 ｜ MarketBeat: 营收 357万美元
+HIMS,Hims & Hers,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,EPS,合并口径,USD,0.06,0.07,3,Zacks: EPS $0.07 ｜ Earnings Whispers: EPS $0.07 ｜ MarketBeat: EPS $0.06
+HIMS,Hims & Hers,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,营收,合并口径,USD,892880000,893370000,3,Zacks: 营收 8.9337亿美元 ｜ Earnings Whispers: 营收 8.9337亿美元 ｜ MarketBeat: 营收 8.9288亿美元
+LCID,路西德,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 06:30前,EPS,合并口径,USD,'-2.78,'-2.27,3,Zacks: EPS $-2.78 ｜ Earnings Whispers: EPS $-2.78 ｜ MarketBeat: EPS $-2.27
+LCID,路西德,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 06:30前,营收,合并口径,USD,316250000,395670000,3,Zacks: 营收 3.1625亿美元 ｜ Earnings Whispers: 营收 3.1625亿美元 ｜ MarketBeat: 营收 3.9567亿美元
+RKLB,火箭实验室,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,EPS,合并口径,USD,'-0.07,'-0.02,3,Zacks: EPS $-0.02 ｜ Earnings Whispers: EPS $-0.02 ｜ MarketBeat: EPS $-0.07
+RKLB,火箭实验室,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,营收,合并口径,USD,256510000,257210000,3,Zacks: 营收 2.5651亿美元 ｜ Earnings Whispers: 营收 2.5651亿美元 ｜ MarketBeat: 营收 2.5721亿美元
+TTWO,Take-Two Interactive,已出财报,FY2027 Q2,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,EPS,合并口径,USD,0.9,0.9,2,Zacks: EPS $0.9 ｜ Earnings Whispers: EPS $0.9
+TTWO,Take-Two Interactive,已出财报,FY2027 Q2,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,营收,合并口径,USD,1660000000,1660000000,2,Zacks: 营收 16.6亿美元 ｜ Earnings Whispers: 营收 16.6亿美元
+OXY,西方石油,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,EPS,合并口径,USD,1.43,1.45,3,Zacks: EPS $1.43 ｜ Earnings Whispers: EPS $1.43 ｜ MarketBeat: EPS $1.45
+OXY,西方石油,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 05:00后 · 美东 11/09 盘后,营收,合并口径,USD,6730000000,6800000000,3,Zacks: 营收 67.3亿美元 ｜ Earnings Whispers: 营收 67.3亿美元 ｜ MarketBeat: 营收 68亿美元
+ONON,昂跑,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,EPS,合并口径,USD,0.5,0.5,2,Zacks: EPS $0.5 ｜ Earnings Whispers: EPS $0.5
+ONON,昂跑,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,EPS,合并口径,CHF,0.4,0.4,1,Yahoo Finance: EPS 0.4 瑞郎
+ONON,昂跑,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,营收,合并口径,USD,1140000000,1140000000,2,Zacks: 营收 11.4亿美元 ｜ Earnings Whispers: 营收 11.4亿美元
+ONON,昂跑,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,营收,合并口径,CHF,931530000,931530000,1,Yahoo Finance: 营收 9.3153亿瑞郎
+SE,冬海集团,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,EPS,合并口径,USD,0.97,1.04,3,Zacks: EPS $1.04 ｜ Earnings Whispers: EPS $1.04 ｜ MarketBeat: EPS $0.97
+SE,冬海集团,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,营收,合并口径,USD,8080000000,8320000000,3,Zacks: 营收 83.2亿美元 ｜ Earnings Whispers: 营收 83.2亿美元 ｜ MarketBeat: 营收 80.8亿美元
+QBTS,D-Wave Quantum,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,EPS,合并口径,USD,'-0.14,'-0.1,3,Zacks: EPS $-0.1 ｜ Earnings Whispers: EPS $-0.14 ｜ MarketBeat: EPS $-0.1
+QBTS,D-Wave Quantum,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,营收,合并口径,USD,3950000,4370000,3,Zacks: 营收 395万美元 ｜ Earnings Whispers: 营收 395万美元 ｜ MarketBeat: 营收 437万美元
+TDG,TransDigm Group,已出财报,FY2026 Q4,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,EPS,合并口径,USD,12.15,12.31,2,Zacks: EPS $12.15 ｜ Earnings Whispers: EPS $12.31
+TDG,TransDigm Group,已出财报,FY2026 Q4,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,营收,合并口径,USD,2940000000,2940000000,2,Zacks: 营收 29.4亿美元 ｜ Earnings Whispers: 营收 29.4亿美元
+MRDN,Meridian Holdings,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,EPS,合并口径,USD,0.14,0.14,2,Zacks: EPS $0.14 ｜ Earnings Whispers: EPS $0.14
+MRDN,Meridian Holdings,已出财报,FY2026 Q3,2026-09-30,11月10日(周二) 22:30前 · 美东 11/10 盘前,营收,合并口径,USD,50950000,50950000,2,Zacks: 营收 5095万美元 ｜ Earnings Whispers: 营收 5095万美元
+NCMI,National CineMedia,已出财报,FY2026 Q3,2026-10-01,11月11日(周三) 05:00后 · 美东 11/10 盘后,EPS,合并口径,USD,0.03,0.03,3,Zacks: EPS $0.03 ｜ Earnings Whispers: EPS $0.03 ｜ MarketBeat: EPS $0.03
+NCMI,National CineMedia,已出财报,FY2026 Q3,2026-10-01,11月11日(周三) 05:00后 · 美东 11/10 盘后,营收,合并口径,USD,72220000,74630000,3,Zacks: 营收 7463万美元 ｜ Earnings Whispers: 营收 7463万美元 ｜ MarketBeat: 营收 7222万美元
+RGTI,Rigetti Computing,已出财报,FY2026 Q3,2026-09-30,11月11日(周三) 05:00后 · 美东 11/10 盘后,EPS,合并口径,USD,'-0.06,'-0.05,3,Zacks: EPS $-0.06 ｜ Earnings Whispers: EPS $-0.06 ｜ MarketBeat: EPS $-0.05
+RGTI,Rigetti Computing,已出财报,FY2026 Q3,2026-09-30,11月11日(周三) 05:00后 · 美东 11/10 盘后,营收,合并口径,USD,3300000,3680000,3,Zacks: 营收 330万美元 ｜ Earnings Whispers: 营收 330万美元 ｜ MarketBeat: 营收 368万美元
+GIB,CGI,已出财报,FY2026 Q4,2026-09-30,11月11日(周三) 22:30前 · 美东 11/11 盘前,EPS,合并口径,USD,1.64,1.64,2,Zacks: EPS $1.64 ｜ Earnings Whispers: EPS $1.64
+GIB,CGI,已出财报,FY2026 Q4,2026-09-30,11月11日(周三) 22:30前 · 美东 11/11 盘前,营收,合并口径,USD,2930000000,2930000000,2,Zacks: 营收 29.3亿美元 ｜ Earnings Whispers: 营收 29.3亿美元
+FNV,Franco-Nevada,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 05:00后 · 美东 11/11 盘后,EPS,合并口径,USD,1.73,1.77,4,Zacks: EPS $1.77 ｜ Earnings Whispers: EPS $1.77 ｜ MarketBeat: EPS $1.77 ｜ Equibles: EPS $1.73
+FNV,Franco-Nevada,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 05:00后 · 美东 11/11 盘后,营收,合并口径,USD,552330000,568440000,2,MarketBeat: 营收 5.6844亿美元 ｜ Equibles: 营收 5.5233亿美元
+BN,布鲁克菲尔德,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 约20:00 · 美东 11/12 约07:00,EPS,合并口径,USD,0.682,0.72,3,Zacks: EPS $0.72 ｜ Earnings Whispers: EPS $0.72 ｜ MarketBeat: EPS $0.682
+BN,布鲁克菲尔德,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 约20:00 · 美东 11/12 约07:00,营收,合并口径,USD,1710000000,1780000000,2,MarketBeat: 营收 17.8亿美元 ｜ Yahoo Finance: 营收 17.1亿美元
+NBIS,Nebius Group,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 22:30前 · 美东 11/12 盘前,EPS,合并口径,USD,'-1.24,'-0.61,4,Zacks: EPS $-0.61 ｜ Earnings Whispers: EPS $-0.61 ｜ Yahoo Finance: EPS $-1.24 ｜ Equibles: EPS $-1.24
+NBIS,Nebius Group,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 22:30前 · 美东 11/12 盘前,营收,合并口径,USD,907170000,916780000,4,Zacks: 营收 9.1678亿美元 ｜ Earnings Whispers: 营收 9.1678亿美元 ｜ Yahoo Finance: 营收 9.0717亿美元 ｜ Equibles: 营收 9.0717亿美元
+CSCO,思科,已出财报,FY2027 Q1,2026-10-24,11月13日(周五) 05:00后 · 美东 11/12 盘后,EPS,合并口径,USD,1.33,1.33,2,Zacks: EPS $1.33 ｜ Earnings Whispers: EPS $1.33
+CSCO,思科,已出财报,FY2027 Q1,2026-10-24,11月13日(周五) 05:00后 · 美东 11/12 盘后,营收,合并口径,USD,18090000000,18090000000,2,Zacks: 营收 180.9亿美元 ｜ Earnings Whispers: 营收 180.9亿美元
+CBRS,Cerebras Systems,已出财报,FY2026 Q3,2026-09-30,11月13日(周五) 05:00后 · 美东 11/12 盘后,EPS,合并口径,USD,'-0.13,'-0.13,2,Zacks: EPS $-0.13 ｜ Earnings Whispers: EPS $-0.13
+CBRS,Cerebras Systems,已出财报,FY2026 Q3,2026-09-30,11月13日(周五) 05:00后 · 美东 11/12 盘后,营收,合并口径,USD,215820000,215820000,2,Zacks: 营收 2.1582亿美元 ｜ Earnings Whispers: 营收 2.1582亿美元
+XPEV,小鹏汽车,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,EPS,合并口径,CNY,'-0.71,'-0.7,2,Yahoo Finance: EPS -0.7 人民币 ｜ Equibles: EPS -0.71 人民币
+XPEV,小鹏汽车,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,营收,合并口径,CNY,23170000000,23170000000,2,Yahoo Finance: 营收 231.7亿人民币 ｜ Equibles: 营收 231.7亿人民币
+BIDU,百度,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,EPS,合并口径,USD,0.85,0.85,2,Zacks: EPS $0.85 ｜ Earnings Whispers: EPS $0.85
+BIDU,百度,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,营收,合并口径,USD,4610000000,4610000000,2,Zacks: 营收 46.1亿美元 ｜ Earnings Whispers: 营收 46.1亿美元
+BEKE,贝壳,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,EPS,合并口径,CNY,1.71,1.71,1,Equibles: EPS 1.71 人民币
+BEKE,贝壳,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,EPS,合并口径,USD,0.25,0.25,2,Zacks: EPS $0.25 ｜ Earnings Whispers: EPS $0.25
+BEKE,贝壳,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,营收,合并口径,CNY,20760000000,20760000000,1,Equibles: 营收 207.6亿人民币
+BEKE,贝壳,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,营收,合并口径,USD,3070000000,3070000000,2,Zacks: 营收 30.7亿美元 ｜ Earnings Whispers: 营收 30.7亿美元
+HTHT,华住集团,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 16:00后—19:00前 · 美东11/16 盘前,EPS,合并口径,CNY,5.6,5.6,2,Yahoo Finance: EPS 5.6 人民币 ｜ Equibles: EPS 5.6 人民币
+HTHT,华住集团,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 16:00后—19:00前 · 美东11/16 盘前,EPS,合并口径,USD,0.75,0.8,2,Zacks: EPS $0.8 ｜ Earnings Whispers: EPS $0.75
+HTHT,华住集团,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 16:00后—19:00前 · 美东11/16 盘前,营收,合并口径,CNY,7330000000,7330000000,2,Yahoo Finance: 营收 73.3亿人民币 ｜ Equibles: 营收 73.3亿人民币
+HTHT,华住集团,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 16:00后—19:00前 · 美东11/16 盘前,营收,合并口径,USD,1140000000,1140000000,2,Zacks: 营收 11.4亿美元 ｜ Earnings Whispers: 营收 11.4亿美元
+ARMK,Aramark,已出财报,FY2026 Q4,2026-10-02,11月16日(周一) 21:30前 · 美东11/16 盘前,EPS,合并口径,USD,0.75,0.75,2,Zacks: EPS $0.75 ｜ Earnings Whispers: EPS $0.75
+ARMK,Aramark,已出财报,FY2026 Q4,2026-10-02,11月16日(周一) 21:30前 · 美东11/16 盘前,营收,合并口径,USD,5270000000,5270000000,2,Zacks: 营收 52.7亿美元 ｜ Earnings Whispers: 营收 52.7亿美元
+TSN,泰森食品,已出财报,FY2026 Q4,2026-10-03,11月16日(周一) 22:30前 · 美东 11/16 盘前,EPS,合并口径,USD,0.65,0.65,2,Zacks: EPS $0.65 ｜ Earnings Whispers: EPS $0.65
+TSN,泰森食品,已出财报,FY2026 Q4,2026-10-03,11月16日(周一) 22:30前 · 美东 11/16 盘前,营收,合并口径,USD,13880000000,13880000000,2,Zacks: 营收 138.8亿美元 ｜ Earnings Whispers: 营收 138.8亿美元
+ACM,AECOM,已出财报,FY2026 Q4,2026-10-02,11月17日(周二) 05:00后 · 美东11/16 盘后,EPS,合并口径,USD,1.59,1.59,4,Zacks: EPS $1.59 ｜ Earnings Whispers: EPS $1.59 ｜ Yahoo Finance: EPS $1.59 ｜ Equibles: EPS $1.59
+ACM,AECOM,已出财报,FY2026 Q4,2026-10-02,11月17日(周二) 05:00后 · 美东11/16 盘后,营收,合并口径,USD,1930000000,4100000000,3,Earnings Whispers: 营收 19.3亿美元 ｜ Yahoo Finance: 总营收 41亿美元 ｜ Equibles: 总营收 41亿美元
+ACM,AECOM,已出财报,FY2026 Q4,2026-10-02,11月17日(周二) 05:00后 · 美东11/16 盘后,营收,净服务收入(NSR),USD,1930000000,1930000000,1,Zacks: 净服务营收 19.3亿美元
+INFQ,Infleqtion,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 05:00后 · 美东11/16 盘后,EPS,合并口径,USD,'-0.05,'-0.05,2,Zacks: EPS $-0.05 ｜ Earnings Whispers: EPS $-0.05
+INFQ,Infleqtion,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 05:00后 · 美东11/16 盘后,营收,合并口径,USD,10750000,10750000,2,Zacks: 营收 1075万美元 ｜ Earnings Whispers: 营收 1075万美元
+STEM,Stem,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 约05:05 · 美东11/16 约16:05,EPS,合并口径,USD,'-1.57,'-1.57,2,Zacks: EPS $-1.57 ｜ Earnings Whispers: EPS $-1.57
+STEM,Stem,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 约05:05 · 美东11/16 约16:05,营收,合并口径,USD,37200000,37200000,2,Zacks: 营收 3720万美元 ｜ Earnings Whispers: 营收 3720万美元
+FIGR,Figure Technology Solutions,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 22:30前 · 美东 11/12 盘前,EPS,合并口径,USD,0.31,0.34,3,Zacks公告前文章: EPS $0.31 ｜ Yahoo Finance: EPS $0.34 ｜ Equibles: EPS $0.34
+FIGR,Figure Technology Solutions,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 22:30前 · 美东 11/12 盘前,营收,合并口径,USD,249490000,253270000,3,Zacks公告前文章: 营收 2.4949亿美元 ｜ Yahoo Finance: 营收 2.5327亿美元 ｜ Equibles: 营收 2.5327亿美元
+LUNR,Intuitive Machines,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 22:30前 · 美东 11/12 盘前,EPS,合并口径,USD,'-0.12,'-0.11,3,Zacks公告前文章: EPS $-0.12 ｜ Yahoo Finance: EPS $-0.11 ｜ Equibles: EPS $-0.11
+LUNR,Intuitive Machines,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 22:30前 · 美东 11/12 盘前,营收,合并口径,USD,243300000,247560000,3,Zacks公告前文章: 营收 2.433亿美元 ｜ Yahoo Finance: 营收 2.4756亿美元 ｜ Equibles: 营收 2.4756亿美元
+ONDS,Ondas,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 21:30前 · 美东 11/12 盘前,EPS,合并口径,USD,'-0.09,'-0.09,3,Zacks公告前文章: EPS $-0.09 ｜ Yahoo Finance: EPS $-0.09 ｜ Equibles: EPS $-0.09
+ONDS,Ondas,已出财报,FY2026 Q3,2026-09-30,11月12日(周四) 21:30前 · 美东 11/12 盘前,营收,合并口径,USD,147050000,148040000,3,Zacks公告前文章: 营收 1.4705亿美元 ｜ Yahoo Finance: 营收 1.4804亿美元 ｜ Equibles: 营收 1.4804亿美元
+GEMI,Gemini Space Station,已出财报,FY2026 Q3,2026-09-30,11月13日(周五) 05:00后 · 美东 11/12 盘后,EPS,合并口径,USD,'-1.13,'-1.13,2,Zacks: EPS $-1.13 ｜ Earnings Whispers: EPS $-1.13
+GEMI,Gemini Space Station,已出财报,FY2026 Q3,2026-09-30,11月13日(周五) 05:00后 · 美东 11/12 盘后,营收,合并口径,USD,45440000,45440000,2,Zacks: 营收 4544万美元 ｜ Earnings Whispers: 营收 4544万美元
+IQ,爱奇艺,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,EPS,合并口径,CNY,'-0.069,'-0.069,1,Equibles: EPS -0.069 人民币
+IQ,爱奇艺,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,EPS,合并口径,USD,'-0.01,'-0.01,2,Zacks: EPS $-0.01 ｜ Earnings Whispers: EPS $-0.01
+IQ,爱奇艺,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,营收,合并口径,CNY,6150000000,6150000000,1,Equibles: 营收 61.5亿人民币
+IQ,爱奇艺,已出财报,FY2026 Q3,2026-09-30,11月16日(周一) 22:30前 · 美东 11/16 盘前,营收,合并口径,USD,909000000,909000000,2,Zacks: 营收 9.09亿美元 ｜ Earnings Whispers: 营收 9.09亿美元
+TME,腾讯音乐,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,EPS,合并口径,CNY,1.5,1.5,1,Equibles: EPS 1.5 人民币
+TME,腾讯音乐,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,EPS,合并口径,USD,0.22,0.22,2,Zacks: EPS $0.22 ｜ Earnings Whispers: EPS $0.22
+TME,腾讯音乐,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,营收,合并口径,CNY,9140000000,9140000000,1,Equibles: 营收 91.4亿人民币
+TME,腾讯音乐,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,营收,合并口径,USD,1350000000,1350000000,2,Zacks: 营收 13.5亿美元 ｜ Earnings Whispers: 营收 13.5亿美元
+AS,亚玛芬体育,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,EPS,合并口径,USD,0.34,0.34,2,Zacks: EPS $0.34 ｜ Earnings Whispers: EPS $0.34
+AS,亚玛芬体育,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,营收,合并口径,USD,2130000000,2130000000,2,Zacks: 营收 21.3亿美元 ｜ Earnings Whispers: 营收 21.3亿美元
+JD,京东,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 16:00后—22:30前 · 美东 11/17 03:00后,EPS,合并口径,CNY,5.88,5.88,1,Equibles: EPS 5.88 人民币
+JD,京东,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 16:00后—22:30前 · 美东 11/17 03:00后,EPS,合并口径,USD,0.98,0.98,2,Zacks: EPS $0.98 ｜ Earnings Whispers: EPS $0.98
+JD,京东,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 16:00后—22:30前 · 美东 11/17 03:00后,营收,合并口径,CNY,309800000000,309800000000,1,Equibles: 营收 3098亿人民币
+JD,京东,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 16:00后—22:30前 · 美东 11/17 03:00后,营收,合并口径,USD,46330000000,46330000000,2,Zacks: 营收 463.3亿美元 ｜ Earnings Whispers: 营收 463.3亿美元
+DIS,迪士尼,已出财报,FY2026 Q4,2026-10-03,11月17日(周二) 约19:30 · 美东 11/17 约06:30,EPS,合并口径,USD,1.67,1.67,2,Zacks: EPS $1.67 ｜ Earnings Whispers: EPS $1.67
+DIS,迪士尼,已出财报,FY2026 Q4,2026-10-03,11月17日(周二) 约19:30 · 美东 11/17 约06:30,营收,合并口径,USD,25260000000,25260000000,2,Zacks: 营收 252.6亿美元 ｜ Earnings Whispers: 营收 252.6亿美元
+VIK,Viking Holdings,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,EPS,合并口径,USD,1.23,1.23,2,Zacks: EPS $1.23 ｜ Earnings Whispers: EPS $1.23
+VIK,Viking Holdings,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,营收,合并口径,USD,2180000000,2180000000,2,Zacks: 营收 21.8亿美元 ｜ Earnings Whispers: 营收 21.8亿美元
+KLAR,Klarna Group,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,EPS,合并口径,USD,'-0.16,'-0.16,2,Zacks: EPS $-0.16 ｜ Earnings Whispers: EPS $-0.16
+KLAR,Klarna Group,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,营收,合并口径,USD,962790000,962790000,2,Zacks: 营收 9.6279亿美元 ｜ Earnings Whispers: 营收 9.6279亿美元
+NVDA,英伟达,已出财报,FY2027 Q3,2026-10-25,11月18日(周三) 约05:20 · 美东 11/17 约16:20,EPS,合并口径,USD,2.49,2.49,2,Zacks: EPS $2.49 ｜ Earnings Whispers: EPS $2.49
+NVDA,英伟达,已出财报,FY2027 Q3,2026-10-25,11月18日(周三) 约05:20 · 美东 11/17 约16:20,营收,合并口径,USD,108920000000,108990000000,2,Zacks: 营收 1089.2亿美元 ｜ Earnings Whispers: 营收 1089.9亿美元
+ZTO,中通快递,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 05:00后 · 美东 11/17 盘后,EPS,合并口径,CNY,3.13,3.13,2,Yahoo Finance: EPS 3.13 人民币 ｜ Equibles: EPS 3.13 人民币
+ZTO,中通快递,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 05:00后 · 美东 11/17 盘后,EPS,合并口径,USD,0.4777,0.4777,1,MarketBeat: EPS $0.4777
+ZTO,中通快递,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 05:00后 · 美东 11/17 盘后,营收,合并口径,CNY,13970000000,13970000000,2,Yahoo Finance: 营收 139.7亿人民币 ｜ Equibles: 营收 139.7亿人民币
+ZTO,中通快递,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 05:00后 · 美东 11/17 盘后,营收,合并口径,USD,2090000000,2090000000,1,MarketBeat: 营收 20.9亿美元
+PONY,小马智行,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,EPS,合并口径,USD,'-0.18,'-0.18,2,Equibles: EPS $-0.18 ｜ Yahoo Finance: EPS $-0.18
+PONY,小马智行,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,营收,合并口径,USD,39120000,39120000,2,Equibles: 营收 3912万美元 ｜ Yahoo Finance: 营收 3912万美元
+GLBE,Global-e Online,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,EPS,合并口径,USD,0.33,0.33,2,Zacks: EPS $0.33 ｜ Earnings Whispers: EPS $0.33
+GLBE,Global-e Online,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,营收,合并口径,USD,314780000,314780000,2,Zacks: 营收 3.1478亿美元 ｜ Earnings Whispers: 营收 3.1478亿美元
+TJX,TJX零售,已出财报,FY2027 Q3,2026-10-31,11月18日(周三) 22:30前 · 美东 11/18 盘前,EPS,合并口径,USD,1.33,1.33,2,Zacks: EPS $1.33 ｜ Earnings Whispers: EPS $1.33
+TJX,TJX零售,已出财报,FY2027 Q3,2026-10-31,11月18日(周三) 22:30前 · 美东 11/18 盘前,营收,合并口径,USD,15800000000,15810000000,2,Zacks: 营收 158亿美元 ｜ Earnings Whispers: 营收 158.1亿美元
+GLNG,Golar LNG,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,EPS,合并口径,USD,'-0.01,'-0.01,2,Zacks: EPS $-0.01 ｜ Earnings Whispers: EPS $-0.01
+GLNG,Golar LNG,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,营收,合并口径,USD,67630000,67630000,2,Zacks: 营收 6763万美元 ｜ Earnings Whispers: 营收 6763万美元
+WWD,Woodward,已出财报,FY2026 Q4,2026-09-30,11月19日(周四) 约05:00 · 美东 11/18 约16:00,EPS,合并口径,USD,2.5,2.5,2,Zacks: EPS $2.5 ｜ Earnings Whispers: EPS $2.5
+WWD,Woodward,已出财报,FY2026 Q4,2026-09-30,11月19日(周四) 约05:00 · 美东 11/18 约16:00,营收,合并口径,USD,1130000000,1130000000,2,Zacks: 营收 11.3亿美元 ｜ Earnings Whispers: 营收 11.3亿美元
+PANW,派拓网络,已出财报,FY2027 Q1,2026-10-31,11月19日(周四) 05:00后—05:30前 · 美东 11/18 盘后,EPS,合并口径,USD,0.97,0.97,2,Zacks: EPS $0.97 ｜ Earnings Whispers: EPS $0.97
+PANW,派拓网络,已出财报,FY2027 Q1,2026-10-31,11月19日(周四) 05:00后—05:30前 · 美东 11/18 盘后,营收,合并口径,USD,3310000000,3310000000,2,Zacks: 营收 33.1亿美元 ｜ Earnings Whispers: 营收 33.1亿美元
+POWL,Powell Industries,已出财报,FY2026 Q4,2026-09-30,11月17日(周二) 05:00后 · 美东 11/16 盘后,EPS,合并口径,USD,1.52,1.52,2,Zacks: EPS $1.52 ｜ Earnings Whispers: EPS $1.52
+POWL,Powell Industries,已出财报,FY2026 Q4,2026-09-30,11月17日(周二) 05:00后 · 美东 11/16 盘后,营收,合并口径,USD,328350000,328350000,2,Zacks: 营收 3.2835亿美元 ｜ Earnings Whispers: 营收 3.2835亿美元
+API,声网,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 05:00后—09:00前 · 美东 11/16 盘后,EPS,合并口径,USD,'-0.18,'-0.18,1,MarketBeat: EPS $-0.18
+API,声网,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 05:00后—09:00前 · 美东 11/16 盘后,营收,合并口径,USD,41080000,41080000,1,MarketBeat: 营收 4108万美元
+JMIA,Jumia Technologies,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,EPS,合并口径,USD,'-0.05,'-0.05,2,Zacks: EPS $-0.05 ｜ Earnings Whispers: EPS $-0.05
+JMIA,Jumia Technologies,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,营收,合并口径,USD,53400000,53400000,2,Zacks: 营收 5340万美元 ｜ Earnings Whispers: 营收 5340万美元
+ZIM,以星航运,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,EPS,合并口径,USD,4.77,4.77,2,Zacks: EPS $4.77 ｜ Earnings Whispers: EPS $4.77
+ZIM,以星航运,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 22:30前 · 美东 11/18 盘前,营收,合并口径,USD,2490000000,2490000000,2,Zacks: 营收 24.9亿美元 ｜ Earnings Whispers: 营收 24.9亿美元
+FUTU,富途控股,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,HKD,26.15,26.15,2,Equibles: EPS 26.15 港元 ｜ Yahoo Finance: EPS 26.15 港元
+FUTU,富途控股,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,USD,3.21,3.21,1,TradingView: EPS $3.21
+FUTU,富途控股,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,USD,814820000,820490000,3,Zacks: 营收 8.1482亿美元 ｜ Earnings Whispers: 营收 8.1482亿美元 ｜ TradingView: 营收 8.2049亿美元
+FUTU,富途控股,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,HKD,6590000000,6590000000,2,Equibles: 营收 65.9亿港元 ｜ Yahoo Finance: 营收 65.9亿港元
+YMM,满帮,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,CNY,1.32,1.32,1,Equibles: EPS 1.32 人民币
+YMM,满帮,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,USD,0.2,0.2,2,Zacks: EPS $0.2 ｜ Earnings Whispers: EPS $0.2
+YMM,满帮,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,CNY,3310000000,3310000000,1,Equibles: 营收 33.1亿人民币
+YMM,满帮,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,USD,496440000,496440000,2,Zacks: 营收 4.9644亿美元 ｜ Earnings Whispers: 营收 4.9644亿美元
+NTES,网易,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,CNY,16.07,16.07,2,Equibles: EPS 16.07 人民币 ｜ Yahoo Finance: EPS 16.07 人民币
+NTES,网易,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,USD,2.58,2.58,2,Zacks: EPS $2.58 ｜ Earnings Whispers: EPS $2.58
+NTES,网易,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,CNY,30270000000,30270000000,2,Equibles: 营收 302.7亿人民币 ｜ Yahoo Finance: 营收 302.7亿人民币
+NTES,网易,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,USD,4520000000,4520000000,2,Zacks: 营收 45.2亿美元 ｜ Earnings Whispers: 营收 45.2亿美元
+BABA,阿里巴巴,已出财报,FY2027 Q2,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,CNY,11.03,11.03,2,Equibles: EPS 11.03 人民币 ｜ Yahoo Finance: EPS 11.03 人民币
+BABA,阿里巴巴,已出财报,FY2027 Q2,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,USD,1.63,1.71,2,Zacks: EPS $1.71 ｜ Earnings Whispers: EPS $1.63
+BABA,阿里巴巴,已出财报,FY2027 Q2,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,CNY,269850000000,269850000000,2,Equibles: 营收 2698.5亿人民币 ｜ Yahoo Finance: 营收 2698.5亿人民币
+BABA,阿里巴巴,已出财报,FY2027 Q2,2026-09-30,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,USD,40410000000,40410000000,2,Zacks: 营收 404.1亿美元 ｜ Earnings Whispers: 营收 404.1亿美元
+MMS,Maximus,已出财报,FY2026 Q4,2026-09-30,11月19日(周四) 19:30 · 美东 11/19 06:30,EPS,合并口径,USD,1.88,1.88,2,Zacks: EPS $1.88 ｜ Earnings Whispers: EPS $1.88
+MMS,Maximus,已出财报,FY2026 Q4,2026-09-30,11月19日(周四) 19:30 · 美东 11/19 06:30,营收,合并口径,USD,1290000000,1290000000,2,Zacks: 营收 12.9亿美元 ｜ Earnings Whispers: 营收 12.9亿美元
+BBWI,Bath & Body Works,已出财报,FY2026 Q3,2026-10-31,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,USD,0.12,0.12,2,Zacks: EPS $0.12 ｜ Earnings Whispers: EPS $0.12
+BBWI,Bath & Body Works,已出财报,FY2026 Q3,2026-10-31,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,USD,1540000000,1540000000,2,Zacks: 营收 15.4亿美元 ｜ Earnings Whispers: 营收 15.4亿美元
+WMT,沃尔玛,已出财报,FY2027 Q3,2026-10-31,11月19日(周四) 20:00 · 美东 11/19 07:00,EPS,合并口径,USD,0.64,0.64,3,Zacks: EPS $0.64 ｜ Earnings Whispers: EPS $0.64 ｜ Yahoo Finance: EPS $0.64
+WMT,沃尔玛,已出财报,FY2027 Q3,2026-10-31,11月19日(周四) 20:00 · 美东 11/19 07:00,营收,合并口径,USD,186520000000,187250000000,3,Zacks: 营收 1865.2亿美元 ｜ Earnings Whispers: 营收 1865.2亿美元 ｜ Yahoo Finance: 营收 1872.5亿美元
+INTU,Intuit,已出财报,FY2027 Q1,2026-10-31,11月20日(周五) 05:00后 · 美东 11/19 盘后,EPS,合并口径,USD,2.46,2.64,3,Zacks: EPS $2.46 ｜ Earnings Whispers: EPS $2.47 ｜ Yahoo Finance: EPS $2.64
+INTU,Intuit,已出财报,FY2027 Q1,2026-10-31,11月20日(周五) 05:00后 · 美东 11/19 盘后,营收,合并口径,USD,4300000000,4310000000,3,Zacks: 营收 43亿美元 ｜ Earnings Whispers: 营收 43亿美元 ｜ Yahoo Finance: 营收 43.1亿美元
+ROST,Ross Stores,已出财报,FY2026 Q3,2026-10-31,11月20日(周五) 约05:00 · 美东 11/19 约16:00,EPS,合并口径,USD,1.85,1.87,3,Zacks: EPS $1.85 ｜ Earnings Whispers: EPS $1.85 ｜ Yahoo Finance: EPS $1.87
+ROST,Ross Stores,已出财报,FY2026 Q3,2026-10-31,11月20日(周五) 约05:00 · 美东 11/19 约16:00,营收,合并口径,USD,6230000000,6260000000,3,Zacks: 营收 62.3亿美元 ｜ Earnings Whispers: 营收 62.3亿美元 ｜ Yahoo Finance: 营收 62.6亿美元
+ESTC,Elastic,已出财报,FY2027 Q2,2026-10-31,11月20日(周五) 05:00后 · 美东 11/19 盘后,EPS,合并口径,USD,0.81,0.81,2,Zacks: EPS $0.81 ｜ Earnings Whispers: EPS $0.81
+ESTC,Elastic,已出财报,FY2027 Q2,2026-10-31,11月20日(周五) 05:00后 · 美东 11/19 盘后,营收,合并口径,USD,486730000,486730000,2,Zacks: 营收 4.8673亿美元 ｜ Earnings Whispers: 营收 4.8673亿美元
+KEYS,是德科技,已出财报,FY2026 Q4,2026-10-31,11月20日(周五) 05:00后 · 美东 11/19 盘后,EPS,合并口径,USD,3.36,3.36,2,Zacks: EPS $3.36 ｜ Earnings Whispers: EPS $3.36
+KEYS,是德科技,已出财报,FY2026 Q4,2026-10-31,11月20日(周五) 05:00后 · 美东 11/19 盘后,营收,合并口径,USD,1940000000,1940000000,2,Zacks: 营收 19.4亿美元 ｜ Earnings Whispers: 营收 19.4亿美元
+GAP,Gap,已出财报,FY2026 Q3,2026-10-31,11月20日(周五) 约05:15 · 美东 11/19 约16:15,EPS,合并口径,USD,0.76,0.78,3,Zacks: EPS $0.76 ｜ Earnings Whispers: EPS $0.76 ｜ Yahoo Finance: EPS $0.78
+GAP,Gap,已出财报,FY2026 Q3,2026-10-31,11月20日(周五) 约05:15 · 美东 11/19 约16:15,营收,合并口径,USD,4010000000,4010000000,3,Zacks: 营收 40.1亿美元 ｜ Earnings Whispers: 营收 40.1亿美元 ｜ Yahoo Finance: 营收 40.1亿美元
+PDD,拼多多,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东11/19 盘前,EPS,合并口径,USD,2.77,2.78,2,Zacks: EPS $2.77 ｜ Earnings Whispers: EPS $2.78
+PDD,拼多多,已出财报,FY2026 Q3,2026-09-30,11月19日(周四) 22:30前 · 美东11/19 盘前,营收,合并口径,USD,17300000000,17300000000,2,Zacks: 营收 173亿美元 ｜ Earnings Whispers: 营收 173亿美元
+BJ,BJ’s Wholesale Club,已出财报,FY2026 Q3,2026-10-31,11月20日(周五) 22:30前 · 美东11/20 盘前,EPS,合并口径,USD,1.24,1.24,2,Zacks: EPS $1.24 ｜ Earnings Whispers: EPS $1.24
+BJ,BJ’s Wholesale Club,已出财报,FY2026 Q3,2026-10-31,11月20日(周五) 22:30前 · 美东11/20 盘前,营收,合并口径,USD,5950000000,5950000000,2,Zacks: 营收 59.5亿美元 ｜ Earnings Whispers: 营收 59.5亿美元
+BSP,Bending Spoons,已出财报,FY2026 Q3,2026-09-30,11月20日(周五) 22:30前 · 美东11/20 盘前,EPS,合并口径,USD,0.25,0.26,2,Zacks: EPS $0.26 ｜ Earnings Whispers: EPS $0.25
+BSP,Bending Spoons,已出财报,FY2026 Q3,2026-09-30,11月20日(周五) 22:30前 · 美东11/20 盘前,营收,合并口径,USD,740280000,740280000,2,Zacks: 营收 7.4028亿美元 ｜ Earnings Whispers: 营收 7.4028亿美元
+WRD,文远知行,已出财报,FY2026 Q3,2026-09-30,11月20日(周五) 22:30前 · 美东11/20 盘前,EPS,合并口径,CNY,'-0.99,'-0.99,2,Yahoo Finance: EPS -0.99 人民币 ｜ Equibles: EPS -0.99 人民币
+WRD,文远知行,已出财报,FY2026 Q3,2026-09-30,11月20日(周五) 22:30前 · 美东11/20 盘前,营收,合并口径,CNY,269910000,269910000,2,Yahoo Finance: 营收 2.6991亿人民币 ｜ Equibles: 营收 2.6991亿人民币
+WB,微博,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,EPS,合并口径,USD,0.3,0.3,2,Zacks: EPS $0.3 ｜ Earnings Whispers: EPS $0.3
+WB,微博,已出财报,FY2026 Q3,2026-09-30,11月17日(周二) 22:30前 · 美东 11/17 盘前,营收,合并口径,USD,426220000,426220000,2,Zacks: 营收 4.2622亿美元 ｜ Earnings Whispers: 营收 4.2622亿美元
+SQM,智利矿业化工,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 12:00 · 美东 11/17 23:00,EPS,合并口径,USD,1.97,1.97,2,Zacks: EPS $1.97 ｜ Earnings Whispers: EPS $1.97
+SQM,智利矿业化工,已出财报,FY2026 Q3,2026-09-30,11月18日(周三) 12:00 · 美东 11/17 23:00,营收,合并口径,USD,2200000000,2200000000,2,Zacks: 营收 22亿美元 ｜ Earnings Whispers: 营收 22亿美元
+WSM,威廉姆斯索诺玛,已出财报,FY2026 Q3,2026-11-01,11月19日(周四) 22:30前 · 美东 11/19 盘前,EPS,合并口径,USD,2.18,2.18,2,Zacks: EPS $2.18 ｜ Earnings Whispers: EPS $2.18
+WSM,威廉姆斯索诺玛,已出财报,FY2026 Q3,2026-11-01,11月19日(周四) 22:30前 · 美东 11/19 盘前,营收,合并口径,USD,1980000000,1980000000,2,Zacks: 营收 19.8亿美元 ｜ Earnings Whispers: 营收 19.8亿美元
+FLNC,Fluence Energy,待发布,FY2026 Q4,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,'-0.54,'-0.54,2,Zacks: EPS $-0.54 ｜ Earnings Whispers: EPS $-0.54
+FLNC,Fluence Energy,待发布,FY2026 Q4,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,811530000,811530000,2,Zacks: 营收 8.1153亿美元 ｜ Earnings Whispers: 营收 8.1153亿美元
+J,Jacobs,待发布,FY2026 Q4,2026-10-02,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,2.11,2.11,2,Zacks: EPS $2.11 ｜ Earnings Whispers: EPS $2.11
+J,Jacobs,待发布,FY2026 Q4,2026-10-02,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,3610000000,3610000000,2,Zacks: 营收 36.1亿美元 ｜ Earnings Whispers: 营收 36.1亿美元
+SYM,Symbotic,待发布,FY2026 Q4,2026-09-26,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,0.16,0.16,2,Zacks: EPS $0.16 ｜ Earnings Whispers: EPS $0.16
+SYM,Symbotic,待发布,FY2026 Q4,2026-09-26,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,773890000,773890000,2,Zacks: 营收 7.7389亿美元 ｜ Earnings Whispers: 营收 7.7389亿美元
+A,安捷伦,待发布,FY2026 Q4,2026-10-31,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,1.72,1.72,2,Zacks: EPS $1.72 ｜ Earnings Whispers: EPS $1.72
+A,安捷伦,待发布,FY2026 Q4,2026-10-31,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,1980000000,1980000000,2,Zacks: 营收 19.8亿美元 ｜ Earnings Whispers: 营收 19.8亿美元
+SMTC,Semtech,待发布,FY2027 Q3,2026-10-25,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,1.13,1.13,2,Zacks: EPS $1.13 ｜ Earnings Whispers: EPS $1.13
+SMTC,Semtech,待发布,FY2027 Q3,2026-10-25,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,416030000,416030000,2,Zacks: 营收 4.1603亿美元 ｜ Earnings Whispers: 营收 4.1603亿美元
+ZM,Zoom,待发布,FY2027 Q3,2026-10-31,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,1.49,1.49,2,Zacks: EPS $1.49 ｜ Earnings Whispers: EPS $1.49
+ZM,Zoom,待发布,FY2027 Q3,2026-10-31,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,1280000000,1280000000,2,Zacks: 营收 12.8亿美元 ｜ Earnings Whispers: 营收 12.8亿美元
+VIPS,唯品会,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,CNY,2.72,2.72,2,Equibles: EPS 2.72 人民币 ｜ Yahoo Finance: EPS 2.72 人民币
+VIPS,唯品会,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,0.31,0.41,2,Zacks: EPS $0.41 ｜ Earnings Whispers: EPS $0.31
+VIPS,唯品会,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,CNY,20400000000,20400000000,2,Equibles: 营收 204亿人民币 ｜ Yahoo Finance: 营收 204亿人民币
+VIPS,唯品会,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,3050000000,3050000000,2,Zacks: 营收 30.5亿美元 ｜ Earnings Whispers: 营收 30.5亿美元
+BILI,哔哩哔哩,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,CNY,1.78,1.78,2,Equibles: EPS 1.78 人民币 ｜ Yahoo Finance: EPS 1.78 人民币
+BILI,哔哩哔哩,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,0.27,0.27,2,Zacks: EPS $0.27 ｜ Earnings Whispers: EPS $0.27
+BILI,哔哩哔哩,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,CNY,8240000000,8240000000,2,Equibles: 营收 82.4亿人民币 ｜ Yahoo Finance: 营收 82.4亿人民币
+BILI,哔哩哔哩,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,1230000000,1230000000,2,Zacks: 营收 12.3亿美元 ｜ Earnings Whispers: 营收 12.3亿美元
+DLTR,美元树,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,0.89,0.89,2,Zacks: EPS $0.89 ｜ Earnings Whispers: EPS $0.89
+DLTR,美元树,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,5050000000,5050000000,2,Zacks: 营收 50.5亿美元 ｜ Earnings Whispers: 营收 50.5亿美元
+BURL,伯灵顿百货,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,1.67,1.67,2,Zacks: EPS $1.67 ｜ Earnings Whispers: EPS $1.67
+BURL,伯灵顿百货,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,2980000000,2980000000,2,Zacks: 营收 29.8亿美元 ｜ Earnings Whispers: 营收 29.8亿美元
+MDT,美敦力,待发布,FY2027 Q2,2026-10-30,11月24日(周二) 19:45 · 美东 11/24 06:45,EPS,合并口径,USD,1.34,1.34,2,Zacks: EPS $1.34 ｜ Earnings Whispers: EPS $1.34
+MDT,美敦力,待发布,FY2027 Q2,2026-10-30,11月24日(周二) 19:45 · 美东 11/24 06:45,营收,合并口径,USD,9460000000,9460000000,2,Zacks: 营收 94.6亿美元 ｜ Earnings Whispers: 营收 94.6亿美元
+MMED,MiniMed,待发布,FY2027 Q2,2026-10-30,11月24日(周二) 约19:45 · 美东 11/24 约06:45,EPS,合并口径,USD,0.1,0.1,2,Zacks: EPS $0.1 ｜ Earnings Whispers: EPS $0.1
+MMED,MiniMed,待发布,FY2027 Q2,2026-10-30,11月24日(周二) 约19:45 · 美东 11/24 约06:45,营收,合并口径,USD,827510000,827510000,2,Zacks: 营收 8.2751亿美元 ｜ Earnings Whispers: 营收 8.2751亿美元
+DY,Dycom Industries,待发布,FY2027 Q3,2026-10-31,11月24日(周二) 22:00前,EPS,合并口径,USD,4.56,4.56,2,Zacks: EPS $4.56 ｜ Earnings Whispers: EPS $4.56
+DY,Dycom Industries,待发布,FY2027 Q3,2026-10-31,11月24日(周二) 22:00前,营收,合并口径,USD,1920000000,1920000000,2,Zacks: 营收 19.2亿美元 ｜ Earnings Whispers: 营收 19.2亿美元
+ADI,亚德诺,待发布,FY2026 Q4,2026-10-31,11月24日(周二) 20:00 · 美东 11/24 07:00,EPS,合并口径,USD,3.89,3.89,2,Zacks: EPS $3.89 ｜ Earnings Whispers: EPS $3.89
+ADI,亚德诺,待发布,FY2026 Q4,2026-10-31,11月24日(周二) 20:00 · 美东 11/24 07:00,营收,合并口径,USD,4320000000,4320000000,2,Zacks: 营收 43.2亿美元 ｜ Earnings Whispers: 营收 43.2亿美元
+DKS,迪克体育用品,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,1.38,1.38,2,Zacks: EPS $1.38 ｜ Earnings Whispers: EPS $1.38
+DKS,迪克体育用品,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,5060000000,5060000000,2,Zacks: 营收 50.6亿美元 ｜ Earnings Whispers: 营收 50.6亿美元
+SJM,斯马克,待发布,FY2027 Q2,2026-10-31,11月24日(周二) 20:00 · 美东 11/24 07:00,EPS,合并口径,USD,2.57,2.57,2,Zacks: EPS $2.57 ｜ Earnings Whispers: EPS $2.57
+SJM,斯马克,待发布,FY2027 Q2,2026-10-31,11月24日(周二) 20:00 · 美东 11/24 07:00,营收,合并口径,USD,2280000000,2280000000,2,Zacks: 营收 22.8亿美元 ｜ Earnings Whispers: 营收 22.8亿美元
+ANF,Abercrombie & Fitch,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 约20:30稍后 · 美东 11/24 约07:30,EPS,合并口径,USD,3.08,3.15,2,Zacks: EPS $3.08 ｜ Earnings Whispers: EPS $3.15
+ANF,Abercrombie & Fitch,待发布,FY2026 Q3,2026-10-31,11月24日(周二) 约20:30稍后 · 美东 11/24 约07:30,营收,合并口径,USD,1370000000,1370000000,2,Zacks: 营收 13.7亿美元 ｜ Earnings Whispers: 营收 13.7亿美元
+AMTM,Amentum,待发布,FY2026 Q4,2026-10-02,11月24日(周二) 21:30前,EPS,合并口径,USD,0.66,0.66,2,Zacks: EPS $0.66 ｜ Earnings Whispers: EPS $0.66
+AMTM,Amentum,待发布,FY2026 Q4,2026-10-02,11月24日(周二) 21:30前,营收,合并口径,USD,3660000000,3660000000,2,Zacks: 营收 36.6亿美元 ｜ Earnings Whispers: 营收 36.6亿美元
+NTNX,Nutanix,待发布,FY2027 Q1,2026-10-31,11月25日(周三) 05:00后 · 美东 11/24 盘后,EPS,合并口径,USD,0.6,0.6,2,Zacks: EPS $0.6 ｜ Earnings Whispers: EPS $0.6
+NTNX,Nutanix,待发布,FY2027 Q1,2026-10-31,11月25日(周三) 05:00后 · 美东 11/24 盘后,营收,合并口径,USD,762440000,762440000,2,Zacks: 营收 7.6244亿美元 ｜ Earnings Whispers: 营收 7.6244亿美元
+WDAY,Workday,待发布,FY2027 Q3,2026-10-31,11月25日(周三) 05:00后 · 美东 11/24 盘后,EPS,合并口径,USD,2.74,2.74,2,Zacks: EPS $2.74 ｜ Earnings Whispers: EPS $2.74
+WDAY,Workday,待发布,FY2027 Q3,2026-10-31,11月25日(周三) 05:00后 · 美东 11/24 盘后,营收,合并口径,USD,2690000000,2690000000,2,Zacks: 营收 26.9亿美元 ｜ Earnings Whispers: 营收 26.9亿美元
+RLX,雾芯科技,已出财报,FY2026 Q3,2026-09-30,11月20日(周五) 22:30前 · 美东 11/20 盘前,EPS,合并口径,CNY,0.23,0.23,1,Yahoo Finance: EPS 0.23 人民币
+RLX,雾芯科技,已出财报,FY2026 Q3,2026-09-30,11月20日(周五) 22:30前 · 美东 11/20 盘前,营收,合并口径,CNY,1750000000,1750000000,1,Yahoo Finance: 营收 17.5亿人民币
+IESC,IES Holdings,已出财报,FY2026 Q4,2026-09-30,11月20日(周五) 22:30前 · 美东 11/20 盘前,EPS,合并口径,USD,2.81,2.81,1,Equibles: EPS $2.81
+IESC,IES Holdings,已出财报,FY2026 Q4,2026-09-30,11月20日(周五) 22:30前 · 美东 11/20 盘前,营收,合并口径,USD,1150000000,1150000000,2,Yahoo Finance: 营收 11.5亿美元 ｜ Equibles: 营收 11.5亿美元
+VNET,世纪互联,待发布,FY2026 Q3,2026-09-30,11月23日(周一) 22:30前 · 美东 11/23 盘前,营收,合并口径,USD,441850000,441850000,2,Zacks: 营收 4.4185亿美元 ｜ Earnings Whispers: 营收 4.4185亿美元
+CENT,Central Garden & Pet,待发布,FY2026 Q4,2026-09-26,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,'-0.06,'-0.06,2,Zacks: EPS $-0.06 ｜ Earnings Whispers: EPS $-0.06
+CENT,Central Garden & Pet,待发布,FY2026 Q4,2026-09-26,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,600170000,600170000,2,Zacks: 营收 6.0017亿美元 ｜ Earnings Whispers: 营收 6.0017亿美元
+DAC,Danaos Corporation,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,7.06,7.06,1,Equibles: EPS $7.06
+DAC,Danaos Corporation,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,274040000,274040000,2,Equibles: 营收 2.7404亿美元 ｜ Yahoo Finance: 营收 2.7404亿美元
+TUYA,涂鸦智能,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,0.03,0.03,2,Zacks: EPS $0.03 ｜ Earnings Whispers: EPS $0.03
+TUYA,涂鸦智能,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,94480000,94480000,2,Zacks: 营收 0.9448亿美元 ｜ Earnings Whispers: 营收 0.9448亿美元
+BWLP,BW LPG,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 约14:00 · 美东 11/24 约01:00,EPS,合并口径,USD,1.85,1.85,1,BW LPG 官网分析师汇总: EPS $1.85
+BWLP,BW LPG,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 约14:00 · 美东 11/24 约01:00,营收,合并口径,USD,464660000,464780000,2,Yahoo Finance: 营收 4.6466亿美元 ｜ Equibles: 营收 4.6478亿美元
+CMBT,CMB.TECH,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,0.72,0.72,2,Equibles: EPS $0.72 ｜ Yahoo Finance: EPS $0.72
+CMBT,CMB.TECH,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,690740000,690740000,2,Equibles: 营收 6.9074亿美元 ｜ Yahoo Finance: 营收 6.9074亿美元
+TIGR,老虎证券,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,0.21,0.2329,2,MarketBeat 公告前预览: EPS $0.2329 ｜ Equibles: EPS $0.21
+TIGR,老虎证券,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,173770000,174100000,2,MarketBeat 公告前预览: 营收 1.7377亿美元 ｜ Yahoo Finance: 营收 1.741亿美元
+ITRN,Ituran Location and Control,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:00前 · 美东 11/24 盘前,EPS,合并口径,USD,0.91,0.94,3,Zacks: EPS $0.91 ｜ Earnings Whispers: EPS $0.91 ｜ Yahoo Finance: EPS $0.94
+ITRN,Ituran Location and Control,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:00前 · 美东 11/24 盘前,营收,合并口径,USD,104720000,104720000,3,Zacks: 营收 1.0472亿美元 ｜ Earnings Whispers: 营收 1.0472亿美元 ｜ Yahoo Finance: 营收 1.0472亿美元
+KC,金山云,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,CNY,'-0.22,'-0.22,1,Yahoo Finance: EPS -0.22 人民币
+KC,金山云,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,'-0.04,'-0.04,2,Zacks: EPS $-0.04 ｜ Earnings Whispers: EPS $-0.04
+KC,金山云,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,CNY,3330000000,3330000000,1,Yahoo Finance: 营收 33.3亿人民币
+KC,金山云,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,492790000,492790000,2,Zacks: 营收 4.9279亿美元 ｜ Earnings Whispers: 营收 4.9279亿美元
+AMBA,安霸,待发布,FY2027 Q3,2026-10-31,11月25日(周三) 05:00后 · 美东 11/24 盘后,EPS,合并口径,USD,0.32,0.32,2,Zacks: EPS $0.32 ｜ Earnings Whispers: EPS $0.32
+AMBA,安霸,待发布,FY2027 Q3,2026-10-31,11月25日(周三) 05:00后 · 美东 11/24 盘后,营收,合并口径,USD,119940000,119940000,2,Zacks: 营收 1.1994亿美元 ｜ Earnings Whispers: 营收 1.1994亿美元
+QFIN,奇富科技,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 05:00后 · 美东 11/24 盘后,EPS,合并口径,USD,0.46,0.46,2,Zacks: EPS $0.46 ｜ Earnings Whispers: EPS $0.46
+QFIN,奇富科技,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 05:00后 · 美东 11/24 盘后,营收,合并口径,USD,439730000,439730000,2,Zacks: 营收 4.3973亿美元 ｜ Earnings Whispers: 营收 4.3973亿美元
+LI,理想汽车,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,EPS,合并口径,CNY,'-0.84,'-0.84,2,Equibles: EPS -0.84 人民币 ｜ Yahoo Finance: EPS -0.84 人民币
+LI,理想汽车,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,EPS,合并口径,USD,'-0.08,'-0.08,2,Zacks: EPS $-0.08 ｜ Earnings Whispers: EPS $-0.08
+LI,理想汽车,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,CNY,27450000000,27450000000,2,Equibles: 营收 274.5亿人民币 ｜ Yahoo Finance: 营收 274.5亿人民币
+LI,理想汽车,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,USD,4090000000,4090000000,2,Zacks: 营收 40.9亿美元 ｜ Earnings Whispers: 营收 40.9亿美元
+GDS,万国数据,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,CNY,3180000000,3180000000,2,Equibles: 营收 31.8亿人民币 ｜ Yahoo Finance: 营收 31.8亿人民币
+GDS,万国数据,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,USD,474430000,474430000,2,Zacks: 营收 4.7443亿美元 ｜ Earnings Whispers: 营收 4.7443亿美元
+BZ,BOSS直聘,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,EPS,合并口径,CNY,2.24,2.24,2,Equibles: EPS 2.24 人民币 ｜ Yahoo Finance: EPS 2.24 人民币
+BZ,BOSS直聘,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,EPS,合并口径,USD,0.11,0.33,2,Zacks: EPS $0.33 ｜ Earnings Whispers: EPS $0.11
+BZ,BOSS直聘,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,CNY,2440000000,2440000000,2,Equibles: 营收 24.4亿人民币 ｜ Yahoo Finance: 营收 24.4亿人民币
+BZ,BOSS直聘,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,USD,362680000,362680000,2,Zacks: 营收 3.6268亿美元 ｜ Earnings Whispers: 营收 3.6268亿美元
+LOCL,Local Bounti,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,EPS,合并口径,USD,'-0.47,'-0.47,1,MarketBeat: EPS $-0.47
+LOCL,Local Bounti,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 05:00后 · 美东 11/23 盘后,营收,合并口径,USD,25000000,25000000,1,MarketBeat: 营收 2500万美元
+ZH,知乎,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,USD,'-0.01,'-0.01,1,Business Quant: EPS $-0.01
+ZH,知乎,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,CNY,635770000,635770000,1,Yahoo Finance: 营收 6.3577亿人民币
+ZH,知乎,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,USD,100110000,100110000,1,Business Quant: 营收 1.0011亿美元
+BZUN,宝尊电商,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,EPS,合并口径,CNY,'-1.61,'-1.61,1,ChartMill: EPS -1.61 人民币
+BZUN,宝尊电商,待发布,FY2026 Q3,2026-09-30,11月24日(周二) 22:30前 · 美东 11/24 盘前,营收,合并口径,CNY,2310000000,2350000000,2,ChartMill: 营收 23.5亿人民币 ｜ Yahoo Finance: 营收 23.1亿人民币
+TITN,Titan Machinery,待发布,FY2027 Q3,2026-10-31,11月24日(周二) 21:30前 · 美东 11/24 盘前,EPS,合并口径,USD,'-0.08,'-0.05,3,Zacks: EPS $-0.08 ｜ Earnings Whispers: EPS $-0.08 ｜ Yahoo Finance: EPS $-0.05
+TITN,Titan Machinery,待发布,FY2027 Q3,2026-10-31,11月24日(周二) 21:30前 · 美东 11/24 盘前,营收,合并口径,USD,538530000,552110000,3,Zacks: 营收 5.5211亿美元 ｜ Earnings Whispers: 营收 5.5211亿美元 ｜ Yahoo Finance: 营收 5.3853亿美元
+NOAH,诺亚控股,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 约06:00 · 美东 11/24 约17:00,EPS,合并口径,USD,0.58,0.58,1,Business Quant: EPS $0.58
+NOAH,诺亚控股,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 约06:00 · 美东 11/24 约17:00,营收,合并口径,USD,91920000,91920000,1,Business Quant: 营收 9192万美元
+YSG,逸仙电商,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,USD,174380000,174380000,1,Business Quant: 营收 1.7438亿美元
+HDL,特海国际,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,EPS,合并口径,USD,0.01,0.01,2,Yahoo Finance: EPS $0.01 ｜ Equibles: EPS $0.01
+HDL,特海国际,待发布,FY2026 Q3,2026-09-30,11月25日(周三) 22:30前 · 美东 11/25 盘前,营收,合并口径,USD,231170000,231170000,2,Yahoo Finance: 营收 2.3117亿美元 ｜ Equibles: 营收 2.3117亿美元
+XYF,小赢科技,待发布,FY2026 Q3,2026-09-30,11月27日(周五) 22:30前 · 美东 11/27 盘前,EPS,合并口径,USD,0.3018,0.3018,1,MarketBeat: EPS $0.3018
+XYF,小赢科技,待发布,FY2026 Q3,2026-09-30,11月27日(周五) 22:30前 · 美东 11/27 盘前,营收,合并口径,USD,163520000,163520000,1,MarketBeat: 营收 1.6352亿美元

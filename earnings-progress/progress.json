@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-23T12:26:50.676+08:00",
+  "generated_at_beijing": "2026-11-23T12:36:52.845+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -241246,7 +241246,7 @@
     ]
   },
   "work_progress": {
-    "updated_at_beijing": "2026-11-23 12:18:00",
+    "updated_at_beijing": "2026-11-23 12:40:00",
     "weekly_summaries": [
       {
         "week": "2026-W47（11/16 ~ 11/20，每日 09:00—22:00）",
@@ -241311,8 +241311,8 @@
         "id": "TODO-06",
         "priority": "高",
         "status": "已完成",
-        "title": "扩展活跃美股合约标的「股票回购（Buyback）」常驻监控与毫秒级规则开单模块（分 6 项逐一闭环）",
-        "detail": "已在独立解耦包 buyback/ 与 tests/buyback/ 内完成全部 6 项闭环（零触碰 16 项财报热路径文件，verify-only 16/16 OK）：① [TODO-06A] 实拉 Hyperliquid HIP-3 + Binance TradFi + OKX 筛出 94 家 SEC CIK 核验活跃美股合约，结合 SEC XBRL 18 个月新鲜度校验、TSM/UMC 5:1 ADR 折算与多源实时价落盘 buyback_universe.json（89/94 具精准实时市值、32 家新鲜旧回购残值）；② [TODO-06B] 实现零 AI <3ms 四口径金额/股数/占比提取器与五道硬否决闸（P99 < 3ms）；③ [TODO-06C] 下载 18 份真实 SEC EDGAR 历史 8-K 原件零 Mock 回放，9/9 干扰反例（可转债对冲/债券要约/财报夹带/勘误）100% 拦截，并回补 5 条真实 8-K 回归用例；④ [TODO-06D] 实现 7 道风控闸（3%/ASR 2% 阈值、>72h 市值过期拒单、替代旧计划残值未知保守拒单、>60% 防乌龙指上限、SQLite 30 天原子去重）并产出 tokyo_execution.py 兼容 LONG 信号；⑤ [TODO-06E] 实现 5×16h 美股交易日（含 2026-2028 NYSE 节假日）调度器、16:30 BJ 自动盘前刷新与 O(1) 共享流常驻监控（SEC getcurrent + EX-99.1 自动联抓 + PRN/GNW RSS + <=8 req/s 令牌桶 + 内存零落盘去重 + --dry-run/--replay/--live 三模式 + iOS Bark 推送）；⑥ [TODO-06F] 全套 53 项测试 1.29s 全绿，CLI --dry-run --once 与 --replay 实测通过。"
+        "title": "扩展活跃美股合约标的「股票回购（Buyback）」常驻监控与毫秒级规则开单模块（分 6 项逐一闭环 + 红队对抗排雷）",
+        "detail": "已在独立解耦包 buyback/ 与 tests/buyback/ 内完成全部 6 项闭环及全维度红队对抗排雷（零触碰 16 项财报热路径文件，verify-only 16/16 OK）：① [TODO-06A] 100% 对接三大交易所官方实时 API（Binance bStocks 96 家 + Hyperliquid HIP-3 85 家 + OKX instCategory=3 101 家）合并 116 家 SEC CIK 核验美股合约，109/116（94%）具精准实时市值，修正 TSM/UMC 5:1 ADR 折算、剔除超 18 个月过期及 SNDK 超 50% 市值异常 XBRL 残值，同步输出东京专享路由表 buyback_watchlist_for_tokyo.json；② [TODO-06B] 零 AI <3ms 提取器支持全 7 类口径、$750MM 双 M 单位、to $B from $A 倒装、分红回购混稿剥离，焊死 6 道硬否决闸（含同步股权增发、定向大股东接盘、债股混合授权、非约束性股东提案）；③ [TODO-06C] 18 份真实 SEC 8-K 零 Mock 回放 9/9 干扰反例 100% 拦截；④ [TODO-06D] 9 道风控闸（新增 HL 日成交额 <$50k 流动性拦截、15 分钟公告新鲜度硬闸、东京 check_anti_chasing 锚字段对齐、SQLite 30 天原子去重）；⑤ [TODO-06E] 5×16h 美股交易日调度 + 6 条共享流真火 6/6 HTTP 200（SEC getcurrent+EX-99.1 / SEC EFTS / PRN 全行业+金融 / curl_cffi 击穿 GlobeNewswire 403）、冷启动防旧稿风暴预热、修正东京 X-Tokyo-Timestamp/Signature HMAC 头与 iOS Bark DPAPI runtime_dir 中文推送卡片及非静默健康告警；⑥ [TODO-06F] 全套 65 项对抗与回归测试 1.37s 全绿。"
       },
       {
         "id": "TODO-07",
@@ -241340,9 +241340,9 @@
             "scope": "execution / ops / alerts"
           },
           {
-            "title": "完整交付美股股票回购（Buyback）常驻监控与毫秒级规则开单模块（TODO-06 全 6 项闭环）",
+            "title": "完整交付美股股票回购（Buyback）常驻监控与毫秒级规则开单模块并完成全套红队对抗排雷（TODO-06 全 6 项闭环）",
             "status": "已完成",
-            "detail": "在独立解耦包 buyback/ 内完成：94 家活跃美股永续标的池 + SEC XBRL 盘前股本/市值/旧残值同步（89 家精准实时市值、修正 TSM/UMC 5:1 ADR 折算与 >18 个月过期 XBRL 残值过滤）；零 AI <3ms 提取器与五道硬否决闸；18 份真实 SEC 8-K 原件零 Mock 回放（9/9 可转债/债券要约/财报夹带干扰反例全拦）；7 道风控闸与 30 天 SQLite 去重防重单；5×16h 美股交易日调度与 O(1) 共享流常驻监控（支持 --dry-run/--replay/--live 与 iOS Bark 推送）。全套 53 项测试 1.29s 全绿，16 项财报实盘清单 verify-only 16/16 OK。",
+            "detail": "在独立解耦包 buyback/ 内完成 6 项开发并逐项执行红队对抗审查与真火验证：① 升级三所官方 API 真相源扩池至 116 家美股合约（Binance 96 / HL 85 / OKX instCategory=3 101，109 家精准实时市值），剔除 SNDK 异常 10 倍 XBRL 残值并同步生成东京专享路由表；② 提取器补强 $750MM、to $B from $A 倒装、分红回购混稿剥离及同步增发/定向大股东接盘/债股混合否决闸；③ 18 份真实 SEC 8-K 回放 9/9 干扰反例全拦；④ 新增 HL <$50k 流动性拦截、15 分钟公告新鲜度硬闸与东京 check_anti_chasing 锚字段对齐；⑤ 根治东京 HMAC 头名（X-Tokyo-Timestamp/Signature）、iOS Bark 漏传 runtime_dir 静默坑、SEC EFTS 接通、curl_cffi 击穿 GlobeNewswire 403（6/6 外部实时流全 HTTP 200）及冷启动旧稿防追高预热。全套 65 项测试 1.37s 全绿，16 项财报清单 verify-only 16/16 OK。",
             "scope": "buyback / tests / portal"
           }
         ]

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-23T16:46:49.909+08:00",
+  "generated_at_beijing": "2026-11-23T18:26:49.879+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -226389,10 +226389,10 @@
   },
   "institutional_forecasts_review": {
     "rule_summary": "只看 EPS 开单，不再参考营收：超预期标准 = 所有机构预测 EPS 中正向最大数值（max）；低于预期标准 = 所有机构预测 EPS 中最低数值（min）。实际 EPS 高于最高标准即做多（BUY），低于最低标准即做空（SELL），落入区间内不发信号；营收仅作看板展示参考，不参与开单判定。",
-    "total_companies": 130,
-    "upcoming_companies": 42,
-    "published_companies": 88,
-    "total_contracts": 292,
+    "total_companies": 139,
+    "upcoming_companies": 50,
+    "published_companies": 89,
+    "total_contracts": 312,
     "items": [
       {
         "symbol": "HUM",
@@ -230943,14 +230943,14 @@
             "unit": "USD",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "2980000000",
+            "miss_standard": "2970000000",
             "beat_standard": "2980000000",
-            "miss_display": "2,980,000,000 USD",
+            "miss_display": "2,970,000,000 USD",
             "beat_display": "2,980,000,000 USD",
-            "same_bound": true,
-            "readable_span": "≈ 29.8亿 USD",
+            "same_bound": false,
+            "readable_span": "≈ 低标 29.7亿 ~ 高标 29.8亿 USD",
             "institution_count": 2,
-            "institutions_summary": "Zacks: 营收 29.8亿美元 ｜ Earnings Whispers: 营收 29.8亿美元"
+            "institutions_summary": "Zacks: 营收 29.7亿美元 ｜ Earnings Whispers: 营收 29.8亿美元"
           }
         ]
       },
@@ -231228,14 +231228,14 @@
             "unit": "USD/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "3.08",
+            "miss_standard": "3.07",
             "beat_standard": "3.15",
-            "miss_display": "3.08 USD/股",
+            "miss_display": "3.07 USD/股",
             "beat_display": "3.15 USD/股",
             "same_bound": false,
             "readable_span": "",
             "institution_count": 2,
-            "institutions_summary": "Zacks: EPS $3.08 ｜ Earnings Whispers: EPS $3.15"
+            "institutions_summary": "Zacks: EPS $3.07 ｜ Earnings Whispers: EPS $3.15"
           },
           {
             "forecast_id": "inst-env-ANF-2026-10-31-revenue-USD-consolidated",
@@ -231659,13 +231659,13 @@
             "business_scope": "consolidated",
             "scope_label": "合并口径",
             "miss_standard": "464660000",
-            "beat_standard": "464780000",
+            "beat_standard": "464660000",
             "miss_display": "464,660,000 USD",
-            "beat_display": "464,780,000 USD",
-            "same_bound": false,
-            "readable_span": "≈ 低标 4.65亿 ~ 高标 4.65亿 USD",
+            "beat_display": "464,660,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 4.65亿 USD",
             "institution_count": 2,
-            "institutions_summary": "Yahoo Finance: 营收 4.6466亿美元 ｜ Equibles: 营收 4.6478亿美元"
+            "institutions_summary": "Yahoo Finance: 营收 4.6466亿美元 ｜ Equibles: 营收 4.6466亿美元"
           }
         ]
       },
@@ -231728,14 +231728,14 @@
             "unit": "USD/股",
             "business_scope": "consolidated",
             "scope_label": "合并口径",
-            "miss_standard": "0.21",
+            "miss_standard": "0.22",
             "beat_standard": "0.2329",
-            "miss_display": "0.21 USD/股",
+            "miss_display": "0.22 USD/股",
             "beat_display": "0.2329 USD/股",
             "same_bound": false,
             "readable_span": "",
             "institution_count": 2,
-            "institutions_summary": "MarketBeat 公告前预览: EPS $0.2329 ｜ Equibles: EPS $0.21"
+            "institutions_summary": "MarketBeat 公告前预览: EPS $0.2329 ｜ Equibles: EPS $0.22"
           },
           {
             "forecast_id": "inst-env-TIGR-2026-09-30-revenue-USD-consolidated",
@@ -231750,8 +231750,8 @@
             "beat_display": "174,100,000 USD",
             "same_bound": false,
             "readable_span": "≈ 低标 1.74亿 ~ 高标 1.74亿 USD",
-            "institution_count": 2,
-            "institutions_summary": "MarketBeat 公告前预览: 营收 1.7377亿美元 ｜ Yahoo Finance: 营收 1.741亿美元"
+            "institution_count": 3,
+            "institutions_summary": "MarketBeat 公告前预览: 营收 1.7377亿美元 ｜ Equibles: 营收 1.741亿美元 ｜ Yahoo Finance: 营收 1.741亿美元"
           }
         ]
       },
@@ -232432,8 +232432,8 @@
             "beat_display": "0.01 USD/股",
             "same_bound": true,
             "readable_span": "",
-            "institution_count": 2,
-            "institutions_summary": "Yahoo Finance: EPS $0.01 ｜ Equibles: EPS $0.01"
+            "institution_count": 3,
+            "institutions_summary": "Zacks: EPS $0.01 ｜ Yahoo Finance: EPS $0.01 ｜ Equibles: EPS $0.01"
           },
           {
             "forecast_id": "inst-env-HDL-2026-09-30-revenue-USD-consolidated",
@@ -232493,6 +232493,425 @@
             "readable_span": "≈ 1.64亿 USD",
             "institution_count": 1,
             "institutions_summary": "MarketBeat: 营收 1.6352亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "CDLR",
+        "company_name": "Cadeler plc",
+        "section": "published",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-23T15:00:00+08:00",
+        "schedule_text": "11月23日(周一) 约15:00 · 美东 11/23 约02:00",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-CDLR-2026-09-30-eps-EUR-consolidated",
+            "metric": "eps",
+            "currency": "EUR",
+            "unit": "EUR/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.18",
+            "beat_standard": "0.18",
+            "miss_display": "0.18 EUR/股",
+            "beat_display": "0.18 EUR/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 1,
+            "institutions_summary": "MarketScreener: EPS 0.18 欧元"
+          },
+          {
+            "forecast_id": "inst-env-CDLR-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.21",
+            "beat_standard": "0.21",
+            "miss_display": "0.21 USD/股",
+            "beat_display": "0.21 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 1,
+            "institutions_summary": "TradingView: EPS $0.21"
+          },
+          {
+            "forecast_id": "inst-env-CDLR-2026-09-30-revenue-EUR-consolidated",
+            "metric": "revenue",
+            "currency": "EUR",
+            "unit": "EUR",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "264000000",
+            "beat_standard": "264330000",
+            "miss_display": "264,000,000 EUR",
+            "beat_display": "264,330,000 EUR",
+            "same_bound": false,
+            "readable_span": "≈ 低标 2.64亿 ~ 高标 2.64亿 EUR",
+            "institution_count": 3,
+            "institutions_summary": "Yahoo Finance: 营收 2.6433亿欧元 ｜ Equibles: 营收 2.6433亿欧元 ｜ MarketScreener: 营收 2.64亿欧元"
+          },
+          {
+            "forecast_id": "inst-env-CDLR-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "308780000",
+            "beat_standard": "308780000",
+            "miss_display": "308,780,000 USD",
+            "beat_display": "308,780,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 3.09亿 USD",
+            "institution_count": 1,
+            "institutions_summary": "TradingView: 营收 3.0878亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "PFLT",
+        "company_name": "PennantPark Floating Rate Capital",
+        "section": "upcoming",
+        "report_period": "FY2026 Q4",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-24T05:00:00+08:00",
+        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-PFLT-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.27",
+            "beat_standard": "0.27",
+            "miss_display": "0.27 USD/股",
+            "beat_display": "0.27 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $0.27 ｜ Earnings Whispers: EPS $0.27"
+          },
+          {
+            "forecast_id": "inst-env-PFLT-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "66510000",
+            "beat_standard": "66510000",
+            "miss_display": "66,510,000 USD",
+            "beat_display": "66,510,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 6,651万 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 0.6651亿美元 ｜ Earnings Whispers: 营收 0.6651亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "PNNT",
+        "company_name": "PennantPark Investment",
+        "section": "upcoming",
+        "report_period": "FY2026 Q4",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-24T05:00:00+08:00",
+        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-PNNT-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.14",
+            "beat_standard": "0.14",
+            "miss_display": "0.14 USD/股",
+            "beat_display": "0.14 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $0.14 ｜ Earnings Whispers: EPS $0.14"
+          },
+          {
+            "forecast_id": "inst-env-PNNT-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "25130000",
+            "beat_standard": "25130000",
+            "miss_display": "25,130,000 USD",
+            "beat_display": "25,130,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 2,513万 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 0.2513亿美元 ｜ Earnings Whispers: 营收 0.2513亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "MOV",
+        "company_name": "莫瓦多",
+        "section": "upcoming",
+        "report_period": "FY2027 Q3",
+        "period_end": "2026-10-31",
+        "scheduled_at": "2026-11-24T22:30:00+08:00",
+        "schedule_text": "11月24日(周二) 22:30前 · 美东 11/24 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-MOV-2026-10-31-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.55",
+            "beat_standard": "0.55",
+            "miss_display": "0.55 USD/股",
+            "beat_display": "0.55 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: EPS $0.55 ｜ Earnings Whispers: EPS $0.55"
+          },
+          {
+            "forecast_id": "inst-env-MOV-2026-10-31-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "195370000",
+            "beat_standard": "195370000",
+            "miss_display": "195,370,000 USD",
+            "beat_display": "195,370,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 1.95亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Zacks: 营收 1.9537亿美元 ｜ Earnings Whispers: 营收 1.9537亿美元"
+          }
+        ]
+      },
+      {
+        "symbol": "GOTU",
+        "company_name": "高途",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-25T22:30:00+08:00",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-GOTU-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.0058",
+            "beat_standard": "0.0058",
+            "miss_display": "0.0058 USD/股",
+            "beat_display": "0.0058 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 1,
+            "institutions_summary": "MarketBeat: EPS $0.0058"
+          },
+          {
+            "forecast_id": "inst-env-GOTU-2026-09-30-revenue-CNY-consolidated",
+            "metric": "revenue",
+            "currency": "CNY",
+            "unit": "CNY",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "1910000000",
+            "beat_standard": "1910000000",
+            "miss_display": "1,910,000,000 CNY",
+            "beat_display": "1,910,000,000 CNY",
+            "same_bound": true,
+            "readable_span": "≈ 19.1亿 CNY",
+            "institution_count": 2,
+            "institutions_summary": "Yahoo Finance: 营收 19.1亿人民币 ｜ Equibles: 营收 19.1亿人民币"
+          }
+        ]
+      },
+      {
+        "symbol": "DSX",
+        "company_name": "Diana Shipping",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-25T22:30:00+08:00",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-DSX-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.1",
+            "beat_standard": "0.1038",
+            "miss_display": "0.1 USD/股",
+            "beat_display": "0.1038 USD/股",
+            "same_bound": false,
+            "readable_span": "",
+            "institution_count": 3,
+            "institutions_summary": "MarketBeat: EPS $0.1038 ｜ Yahoo Finance: EPS $0.1 ｜ Equibles: EPS $0.1"
+          },
+          {
+            "forecast_id": "inst-env-DSX-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "63000000",
+            "beat_standard": "63370000",
+            "miss_display": "63,000,000 USD",
+            "beat_display": "63,370,000 USD",
+            "same_bound": false,
+            "readable_span": "≈ 低标 6,300万 ~ 高标 6,337万 USD",
+            "institution_count": 3,
+            "institutions_summary": "MarketBeat: 营收 6337万美元 ｜ Yahoo Finance: 营收 6300万美元 ｜ Equibles: 营收 6300万美元"
+          }
+        ]
+      },
+      {
+        "symbol": "GASS",
+        "company_name": "StealthGas",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-25T22:30:00+08:00",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-GASS-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.39",
+            "beat_standard": "0.39",
+            "miss_display": "0.39 USD/股",
+            "beat_display": "0.39 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 2,
+            "institutions_summary": "MarketBeat: EPS $0.39 ｜ Equibles: EPS $0.39"
+          },
+          {
+            "forecast_id": "inst-env-GASS-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "42400000",
+            "beat_standard": "42400000",
+            "miss_display": "42,400,000 USD",
+            "beat_display": "42,400,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 4,240万 USD",
+            "institution_count": 3,
+            "institutions_summary": "MarketBeat: 营收 4240万美元 ｜ Yahoo Finance: 营收 4240万美元 ｜ Equibles: 营收 4240万美元"
+          }
+        ]
+      },
+      {
+        "symbol": "OMSE",
+        "company_name": "OMS Energy Technologies",
+        "section": "upcoming",
+        "report_period": "FY2027 H1",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-25T22:30:00+08:00",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-OMSE-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.26",
+            "beat_standard": "0.26",
+            "miss_display": "0.26 USD/股",
+            "beat_display": "0.26 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 1,
+            "institutions_summary": "MarketScreener: EPS $0.26"
+          },
+          {
+            "forecast_id": "inst-env-OMSE-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "64370000",
+            "beat_standard": "64370000",
+            "miss_display": "64,370,000 USD",
+            "beat_display": "64,370,000 USD",
+            "same_bound": true,
+            "readable_span": "≈ 6,437万 USD",
+            "institution_count": 1,
+            "institutions_summary": "MarketScreener: 营收 6437万美元"
+          }
+        ]
+      },
+      {
+        "symbol": "FINV",
+        "company_name": "信也科技",
+        "section": "upcoming",
+        "report_period": "FY2026 Q3",
+        "period_end": "2026-09-30",
+        "scheduled_at": "2026-11-26T05:00:00+08:00",
+        "schedule_text": "11月26日(周四) 05:00后 · 美东 11/25 盘后",
+        "contracts": [
+          {
+            "forecast_id": "inst-env-FINV-2026-09-30-eps-USD-consolidated",
+            "metric": "eps",
+            "currency": "USD",
+            "unit": "USD/股",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "0.23",
+            "beat_standard": "0.23",
+            "miss_display": "0.23 USD/股",
+            "beat_display": "0.23 USD/股",
+            "same_bound": true,
+            "readable_span": "",
+            "institution_count": 1,
+            "institutions_summary": "Business Quant: EPS $0.23"
+          },
+          {
+            "forecast_id": "inst-env-FINV-2026-09-30-revenue-USD-consolidated",
+            "metric": "revenue",
+            "currency": "USD",
+            "unit": "USD",
+            "business_scope": "consolidated",
+            "scope_label": "合并口径",
+            "miss_standard": "449370000",
+            "beat_standard": "506000000",
+            "miss_display": "449,370,000 USD",
+            "beat_display": "506,000,000 USD",
+            "same_bound": false,
+            "readable_span": "≈ 低标 4.49亿 ~ 高标 5.06亿 USD",
+            "institution_count": 2,
+            "institutions_summary": "Big Earnings: 营收 5.06亿美元 ｜ Business Quant: 营收 4.4937亿美元"
           }
         ]
       }
@@ -238486,7 +238905,7 @@
         },
         "ref_prices": {
           "binance": 94.065,
-          "hyperliquid": 82.3145,
+          "hyperliquid": 83.22,
           "okx": 94.185
         },
         "min_notional": {
@@ -241242,11 +241661,611 @@
             "max_hold_seconds": 7200
           }
         }
+      },
+      {
+        "symbol": "PFLT",
+        "company_name": "PennantPark Floating Rate Capital",
+        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
+        "report_period": "FY2026 Q4",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "PNNT",
+        "company_name": "PennantPark Investment",
+        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
+        "report_period": "FY2026 Q4",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "MOV",
+        "company_name": "莫瓦多",
+        "schedule_text": "11月24日(周二) 22:30前 · 美东 11/24 盘前",
+        "report_period": "FY2027 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "GOTU",
+        "company_name": "高途",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "DSX",
+        "company_name": "Diana Shipping",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "GASS",
+        "company_name": "StealthGas",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "OMSE",
+        "company_name": "OMS Energy Technologies",
+        "schedule_text": "11月25日(周三) 22:30前 · 美东 11/25 盘前",
+        "report_period": "FY2027 H1",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
+      },
+      {
+        "symbol": "FINV",
+        "company_name": "信也科技",
+        "schedule_text": "11月26日(周四) 05:00后 · 美东 11/25 盘后",
+        "report_period": "FY2026 Q3",
+        "has_custom_override": false,
+        "contracts": {
+          "binance": "未上架",
+          "hyperliquid": "未上架",
+          "okx": "未上架"
+        },
+        "listed": {
+          "binance": false,
+          "hyperliquid": false,
+          "okx": false
+        },
+        "ref_prices": {
+          "binance": null,
+          "hyperliquid": null,
+          "okx": null
+        },
+        "min_notional": {
+          "binance": 5.0,
+          "hyperliquid": 10.0,
+          "okx": 5.0
+        },
+        "preset": {
+          "mode": "custom_or_adaptive",
+          "use_custom_tp_sl": true,
+          "single_shot_company_lock": true,
+          "adverse_impulse_guard_pct": 2.5,
+          "target_tp_pct": 6.0,
+          "hard_sl_pct": -4.0,
+          "breakeven_trigger_pct": 0.0,
+          "breakeven_lock_pct": 0.0,
+          "trail_activate_pct": 2.8,
+          "trail_drawdown_pct": 0.8,
+          "max_hold_s": 7200,
+          "max_hold_mins": 120,
+          "entry_slippage_bps": 180,
+          "min_surprise_score": 0.0,
+          "venues": {
+            "binance": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "notional_usd": 5.0
+            },
+            "hyperliquid": {
+              "enabled": true,
+              "margin_usd": 5.0,
+              "leverage": 1,
+              "max_slippage_bps": 180,
+              "priority_fee_bps": 8.0,
+              "notional_usd": 5.0
+            },
+            "okx": {
+              "enabled": false,
+              "margin_usd": 0.0,
+              "leverage": 1,
+              "notional_usd": 0.0
+            }
+          },
+          "signal_filter": "envelope_both",
+          "has_company_override": false,
+          "_preset_file_exists": true,
+          "tp_sl": {
+            "stop_loss_pct": 4.0,
+            "take_profit_pct": 6.0,
+            "max_hold_minutes": 120,
+            "max_hold_seconds": 7200
+          }
+        }
       }
     ]
   },
   "work_progress": {
-    "updated_at_beijing": "2026-11-23 13:20:00",
+    "updated_at_beijing": "2026-11-23 17:00:00",
     "weekly_summaries": [
       {
         "week": "2026-W47（11/16 ~ 11/20，每日 09:00—22:00）",
@@ -241276,8 +242295,8 @@
         "id": "TODO-01",
         "priority": "高",
         "status": "进行中",
-        "title": "跟进 11/22—11/27 全部 130 家监控标的（完整版(11) 新增 LOCL/ZH/BZUN/TITN/NOAH/YSG/HDL/XYF 8 家、293 条机构预测包络）实盘采集与交易",
-        "detail": "已完成完整版(11) 全部 8 家新增标的官网/新闻社双跳探活、机构预测上下沿导入（剔除 YSG/GDS 冲突 EPS 契约）及上一季真实 SEC 财报零 Mock 回放核对，三所合约核验完毕。"
+        "title": "跟进 11/22—11/27 全部 139 家监控标的（完整版(12) 新增 CDLR/PFLT/PNNT/MOV/GOTU/DSX/GASS/OMSE/FINV 9 家、312 条机构预测包络）实盘采集与交易",
+        "detail": "已完成完整版(12) 全部 9 家新增标的官网反爬/TLS/HTTP1 探活、乱码新闻社清洗、欧元(CDLR)与半年报H1(OMSE)解析适配、9 份真实 SEC 原件零 Mock 回放（9/9 精准命中，含 PFLT/PNNT BDC 科目、MOV 横向 Non-GAAP、GASS 精确 1 美元、FINV GAAP 基准对齐）、5 家已有预测刷新及 16/16 清单同步；三所合约核验 0/9 可交易（纯观察标的）。"
       },
       {
         "id": "TODO-02",
@@ -241325,8 +242344,14 @@
     "daily_logs": [
       {
         "date": "2026-11-23",
-        "weekday": "周一（09:00—12:20）",
+        "weekday": "周一（09:00—17:00）",
         "items": [
+          {
+            "title": "导入完整版(12) 新排期表（130→139 家，+9 家新标的、312 条预测包络）并完成 9 份真 SEC 原件回放与反爬配置",
+            "status": "已完成",
+            "detail": "新增 CDLR / PFLT / PNNT / MOV / GOTU / DSX / GASS / OMSE / FINV 共 9 家（三所合约 0/9 可交易，属观察标的），同步刷新 ANF / BURL / BWLP / HDL / TIGR 5 家已有预测值；升级导入器与解析器原生支持欧元（CDLR）、半年报 H1（OMSE）、BDC Total investment income/Core NII（PFLT/PNNT）、横向转置 Non-GAAP 调节表（MOV）、精确 1 美元（GASS）、Time charter revenues（DSX）及 FINV GAAP 基准对齐；9/9 真实 SEC 历史财报零 Mock 回放全命中，16/16 采集运行清单校验通过。",
+            "scope": "watchlist / parser / collector / ops"
+          },
           {
             "title": "清空全部 Shadow 模拟单并切换看板为纯实盘成交账本（LIVE_EXCHANGE_FILL）",
             "status": "已完成",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-23T10:46:50.621+08:00",
+  "generated_at_beijing": "2026-11-23T11:26:52.838+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -232889,7 +232889,1178 @@
     },
     "positions": [],
     "window_events": [],
-    "venue_matrix": [],
+    "venue_matrix": [
+      {
+        "symbol": "HUM",
+        "company": "Humana",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BAM",
+        "company": "布鲁克菲尔德资产管理",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ENB",
+        "company": "恩桥",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "OKLO",
+        "company": "Oklo",
+        "available_count": 2,
+        "binance": "OKLOUSDT",
+        "okx": "OKLO-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "MSGK",
+        "company": "MSG Knickerbockers Corp.",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "MSGR",
+        "company": "MSG Rangers Corp.",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "伯克希尔·哈撒韦",
+        "available_count": 2,
+        "binance": "BRKBUSDT",
+        "okx": "BRKB-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "SOHU",
+        "company": "搜狐",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "B",
+        "company": "巴里克矿业",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FERG",
+        "company": "弗格森",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "KKR",
+        "company": "KKR",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "CECO",
+        "company": "CECO Environmental",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TGTX",
+        "company": "TG Therapeutics",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SKYD",
+        "company": "Skydance",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TTD",
+        "company": "The Trade Desk",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "XENE",
+        "company": "Xenon Pharmaceuticals",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ACHR",
+        "company": "阿彻航空",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "HIMS",
+        "company": "Hims & Hers",
+        "available_count": 3,
+        "binance": "HIMSUSDT",
+        "okx": "HIMS-USDT-SWAP",
+        "hyperliquid": "xyz:HIMS",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "LCID",
+        "company": "路西德",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "RKLB",
+        "company": "火箭实验室",
+        "available_count": 3,
+        "binance": "RKLBUSDT",
+        "okx": "RKLB-USDT-SWAP",
+        "hyperliquid": "xyz:RKLB",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "TTWO",
+        "company": "Take-Two Interactive",
+        "available_count": 3,
+        "binance": "TTWOUSDT",
+        "okx": "TTWO-USDT-SWAP",
+        "hyperliquid": "xyz:TTWO",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "OXY",
+        "company": "西方石油",
+        "available_count": 2,
+        "binance": "OXYUSDT",
+        "okx": "OXY-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "ONON",
+        "company": "昂跑",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SE",
+        "company": "冬海集团",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "QBTS",
+        "company": "D-Wave Quantum",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TDG",
+        "company": "TransDigm Group",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "MRDN",
+        "company": "Meridian Holdings",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NCMI",
+        "company": "National CineMedia",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "RGTI",
+        "company": "Rigetti Computing",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GIB",
+        "company": "CGI",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FNV",
+        "company": "Franco-Nevada",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BN",
+        "company": "布鲁克菲尔德",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NBIS",
+        "company": "Nebius Group",
+        "available_count": 3,
+        "binance": "NBISUSDT",
+        "okx": "NBIS-USDT-SWAP",
+        "hyperliquid": "xyz:NBIS",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "CSCO",
+        "company": "思科",
+        "available_count": 2,
+        "binance": "CSCOUSDT",
+        "okx": "CSCO-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "CBRS",
+        "company": "Cerebras Systems",
+        "available_count": 3,
+        "binance": "CBRSUSDT",
+        "okx": "CBRS-USDT-SWAP",
+        "hyperliquid": "xyz:CBRS",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "XPEV",
+        "company": "小鹏汽车",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BIDU",
+        "company": "百度",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "BIDU-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "BEKE",
+        "company": "贝壳",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "HTHT",
+        "company": "华住集团",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ARMK",
+        "company": "Aramark",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TSN",
+        "company": "泰森食品",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ACM",
+        "company": "AECOM",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "INFQ",
+        "company": "Infleqtion",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "INFQ-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "STEM",
+        "company": "Stem",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FIGR",
+        "company": "Figure Technology Solutions",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "LUNR",
+        "company": "Intuitive Machines",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "LUNR-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "ONDS",
+        "company": "Ondas",
+        "available_count": 2,
+        "binance": "ONDSUSDT",
+        "okx": "ONDS-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "GEMI",
+        "company": "Gemini Space Station",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "IQ",
+        "company": "爱奇艺",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TME",
+        "company": "腾讯音乐",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "AS",
+        "company": "亚玛芬体育",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "JD",
+        "company": "京东",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "DIS",
+        "company": "迪士尼",
+        "available_count": 1,
+        "binance": "DISUSDT",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "VIK",
+        "company": "Viking Holdings",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "KLAR",
+        "company": "Klarna Group",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NVDA",
+        "company": "英伟达",
+        "available_count": 3,
+        "binance": "NVDAUSDT",
+        "okx": "NVDA-USDT-SWAP",
+        "hyperliquid": "xyz:NVDA",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "ZTO",
+        "company": "中通快递",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "PONY",
+        "company": "小马智行",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GLBE",
+        "company": "Global-e Online",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TJX",
+        "company": "TJX零售",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GLNG",
+        "company": "Golar LNG",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "WWD",
+        "company": "Woodward",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "PANW",
+        "company": "派拓网络",
+        "available_count": 3,
+        "binance": "PANWUSDT",
+        "okx": "PANW-USDT-SWAP",
+        "hyperliquid": "xyz:PANW",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "POWL",
+        "company": "Powell Industries",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "API",
+        "company": "声网",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "JMIA",
+        "company": "Jumia Technologies",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ZIM",
+        "company": "以星航运",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FUTU",
+        "company": "富途控股",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "YMM",
+        "company": "满帮",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NTES",
+        "company": "网易",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BABA",
+        "company": "阿里巴巴",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "xyz:BABA",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "MMS",
+        "company": "Maximus",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BBWI",
+        "company": "Bath & Body Works",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "WMT",
+        "company": "沃尔玛",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "WMT-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "INTU",
+        "company": "Intuit",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ROST",
+        "company": "Ross Stores",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ESTC",
+        "company": "Elastic",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "KEYS",
+        "company": "是德科技",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GAP",
+        "company": "Gap",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "PDD",
+        "company": "拼多多",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "PDD-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BJ",
+        "company": "BJ’s Wholesale Club",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BSP",
+        "company": "Bending Spoons",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "BSP-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "WRD",
+        "company": "文远知行",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "WB",
+        "company": "微博",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SQM",
+        "company": "智利矿业化工",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "WSM",
+        "company": "威廉姆斯索诺玛",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "FLNC",
+        "company": "Fluence Energy",
+        "available_count": 2,
+        "binance": "FLNCBUSDT",
+        "okx": "FLNC-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "J",
+        "company": "Jacobs",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SYM",
+        "company": "Symbotic",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "A",
+        "company": "安捷伦",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SMTC",
+        "company": "Semtech",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ZM",
+        "company": "Zoom",
+        "available_count": 3,
+        "binance": "ZMBUSDT",
+        "okx": "ZM-USDT-SWAP",
+        "hyperliquid": "xyz:ZM",
+        "kline_note": "Binance/Hyperliquid 原生K线仅到1m；东京节点已启用实时WS BBO盘口+本地1s微观K线补偿"
+      },
+      {
+        "symbol": "VIPS",
+        "company": "唯品会",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BILI",
+        "company": "哔哩哔哩",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "DLTR",
+        "company": "美元树",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BURL",
+        "company": "伯灵顿百货",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "MDT",
+        "company": "美敦力",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "MMED",
+        "company": "MiniMed",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "DY",
+        "company": "Dycom Industries",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ADI",
+        "company": "亚德诺",
+        "available_count": 1,
+        "binance": "未上架",
+        "okx": "ADI-USDT-SWAP",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "DKS",
+        "company": "迪克体育用品",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "SJM",
+        "company": "斯马克",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ANF",
+        "company": "Abercrombie & Fitch",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "AMTM",
+        "company": "Amentum",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NTNX",
+        "company": "Nutanix",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "WDAY",
+        "company": "Workday",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "RLX",
+        "company": "雾芯科技",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "IESC",
+        "company": "IES Holdings",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "VNET",
+        "company": "世纪互联",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "CENT",
+        "company": "Central Garden & Pet",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "DAC",
+        "company": "Danaos Corporation",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TUYA",
+        "company": "涂鸦智能",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BWLP",
+        "company": "BW LPG",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "CMBT",
+        "company": "CMB.TECH",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TIGR",
+        "company": "老虎证券",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ITRN",
+        "company": "Ituran Location and Control",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "KC",
+        "company": "金山云",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "AMBA",
+        "company": "安霸",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "QFIN",
+        "company": "奇富科技",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "LI",
+        "company": "理想汽车",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "GDS",
+        "company": "万国数据",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BZ",
+        "company": "BOSS直聘",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "LOCL",
+        "company": "Local Bounti",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "ZH",
+        "company": "知乎",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "BZUN",
+        "company": "宝尊电商",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "TITN",
+        "company": "Titan Machinery",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "NOAH",
+        "company": "诺亚控股",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "YSG",
+        "company": "逸仙电商",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "HDL",
+        "company": "特海国际",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      },
+      {
+        "symbol": "XYF",
+        "company": "小赢科技",
+        "available_count": 0,
+        "binance": "未上架",
+        "okx": "未上架",
+        "hyperliquid": "未上架",
+        "kline_note": "三所均未上架该美股合约/现货，触发信号时自动安全跳过"
+      }
+    ],
     "raw_journal_text": "[财报实盘交易台账 · 历史影子模拟单已全部清除，当前共 0 笔实盘成交（待后续窗口实盘触发后自动写入真实成交回执与 1s K 线）]"
   },
   "channel_race_review": {
@@ -236929,19 +238100,19 @@
         "report_period": "FY2026 Q4",
         "has_custom_override": false,
         "contracts": {
-          "binance": "未上架",
+          "binance": "FLNCBUSDT",
           "hyperliquid": "未上架",
-          "okx": "未上架"
+          "okx": "FLNC-USDT-SWAP"
         },
         "listed": {
-          "binance": false,
+          "binance": true,
           "hyperliquid": false,
-          "okx": false
+          "okx": true
         },
         "ref_prices": {
-          "binance": null,
+          "binance": 4.08,
           "hyperliquid": null,
-          "okx": null
+          "okx": 4.0865
         },
         "min_notional": {
           "binance": 5.0,
@@ -237304,19 +238475,19 @@
         "report_period": "FY2027 Q3",
         "has_custom_override": false,
         "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
+          "binance": "ZMBUSDT",
+          "hyperliquid": "xyz:ZM",
+          "okx": "ZM-USDT-SWAP"
         },
         "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
+          "binance": true,
+          "hyperliquid": true,
+          "okx": true
         },
         "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
+          "binance": 94.065,
+          "hyperliquid": 83.842,
+          "okx": 94.185
         },
         "min_notional": {
           "binance": 5.0,
@@ -237906,17 +239077,17 @@
         "contracts": {
           "binance": "未上架",
           "hyperliquid": "未上架",
-          "okx": "未上架"
+          "okx": "ADI-USDT-SWAP"
         },
         "listed": {
           "binance": false,
           "hyperliquid": false,
-          "okx": false
+          "okx": true
         },
         "ref_prices": {
           "binance": null,
           "hyperliquid": null,
-          "okx": null
+          "okx": 387.8
         },
         "min_notional": {
           "binance": 5.0,
@@ -240111,9 +241282,9 @@
       {
         "id": "TODO-02",
         "priority": "高",
-        "status": "待开发",
+        "status": "已完成",
         "title": "接入开单与平仓实时警报通知（触发信号 / 成交 / 止损与移动止盈平仓推送）",
-        "detail": "实盘触发开单、触发 -4% 硬止损或移动止盈平仓时第一时间推送实时警报，便于盯盘介入与核对成交状态。"
+        "detail": "已复用本机与东京节点加密注入的飞书企业应用通道接入零热路径损耗（<5μs 异步入队）实时卡片推送，覆盖实盘开仓成交、拒单/超时对账、移动止盈与硬止损平仓及平仓重试告警，并落盘 trade_alerts.jsonl 审计流水。"
       },
       {
         "id": "TODO-03",

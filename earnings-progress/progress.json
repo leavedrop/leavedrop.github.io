@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-23T19:36:49.962+08:00",
+  "generated_at_beijing": "2026-11-23T19:46:50.199+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -238905,7 +238905,7 @@
         },
         "ref_prices": {
           "binance": 94.065,
-          "hyperliquid": 83.769,
+          "hyperliquid": 83.7255,
           "okx": 94.185
         },
         "min_notional": {

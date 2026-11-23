@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-23T13:06:50.616+08:00",
+  "generated_at_beijing": "2026-11-23T13:16:50.993+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -238486,7 +238486,7 @@
         },
         "ref_prices": {
           "binance": 94.065,
-          "hyperliquid": 82.484,
+          "hyperliquid": 82.56,
           "okx": 94.185
         },
         "min_notional": {
@@ -241246,7 +241246,7 @@
     ]
   },
   "work_progress": {
-    "updated_at_beijing": "2026-11-23 12:56:00",
+    "updated_at_beijing": "2026-11-23 13:20:00",
     "weekly_summaries": [
       {
         "week": "2026-W47（11/16 ~ 11/20，每日 09:00—22:00）",
@@ -241311,8 +241311,8 @@
         "id": "TODO-06",
         "priority": "高",
         "status": "已完成",
-        "title": "扩展活跃美股合约标的「股票回购（Buyback）」常驻监控与毫秒级规则开单模块（分 6 项闭环 + 两轮深度红队排雷）",
-        "detail": "已在独立解耦包 buyback/ 与 tests/buyback/ 内完成全部 6 项闭环及两轮极限红队排雷（零触碰 16 项财报热路径，verify-only 16/16 OK）：① [TODO-06A] 对接三大交易所官方实时 API 合并 115 家唯一 CIK 主普通股（剔除 MSTR 优先股 STRC 防 CIK 覆盖，108/115=93.9% 精准市值，Yahoo 115/116 实时价吻合；修正 PDD 4:1 与 TSM/UMC 5:1 ADR 折算；拦截 SNDK 超 50% 市值异常 XBRL 残值；屏蔽 Strategy/Coherent/Arm 等通用英文裸词防新闻社误撞；同步生成东京兼容数组路由表与专属风控预设 buyback_tokyo_strategy_presets.json）；② [TODO-06B/C] 零 AI <3ms 提取器经 18 份全市场 + 21 份池内大厂真 8-K 回放（NFLX +10.58%/LRCX +4.12%/HIMS +7.09% 毫秒命中），补强 Coinbase Q3 股东信财报夹带拦截、$750MM、to $B from $A 倒装、分红回购剥离及 6 道硬否决闸；③ [TODO-06D/E] 美东原生 04:00-20:30 ET 夏冬令时自动调度 + 6/6 外部实时流全 HTTP 200（curl_cffi 击穿 GlobeNewswire 403 + SEC 表格级 EX-99.1 解析 + live/dry-run 物理分库去重 + 冷启动旧稿预热 + 修正东京 X-Tokyo-* HMAC 头与 Bark DPAPI 中文卡片）；④ [TODO-06F] 零 Mock 真实 TokyoMultiVenueExecutor 全链路联调通过（115 家加载、-2.5% SL / 48h 持仓预设真生效、12 秒旧稿过反追高），全套 69 项测试 1.52s 全绿。"
+        "title": "扩展活跃美股合约标的「股票回购（Buyback）」常驻监控与毫秒级规则开单模块（分 6 项闭环 + 三轮全链路红队排雷）",
+        "detail": "已在独立解耦包 buyback/ 与 tests/buyback/ 内完成全部 6 项闭环及三轮全链路红队排雷（零触碰 16 项财报热路径，verify-only 16/16 OK）：① [前端采集 Node 0-3] 对接三所官方 API 合并 115 家唯一 CIK 主普通股（108/115 精准市值，Yahoo 115/116 吻合；PDD 4:1 / TSM·UMC 5:1 ADR 折算；拦截 SNDK 10 倍异常 XBRL 残值；修复通用词封杀误伤，池内 23/23 大厂无 ticker 标题召回率从 16.7% 提至 100% 且 0 误报）；SEC getcurrent 扩至 8-K+6-K 双表 count=100 无缓存直连（彻底覆盖阿里/拼多多/台积电/ASML 等外国 ADR）；PRNewswire/GlobeNewswire 切换 600 槽唯一路径环 100% 穿透 60s Cloudflare CDN 缓存（cf-cache-status: MISS）并并发拉取；新增可选 Alpaca/Benzinga 0ms News WS 覆盖 BusinessWire；SEC 索引表格解析 EX-99.1 并置顶 8-K 头防止长新闻稿截断 Item 2.02；② [提取与风控 Node 4] 零 AI <3ms 提取器经 39 份真 8-K 回放（18 全市场 + 21 池内大厂，命中 NFLX +10.58%/LRCX +4.12%/HIMS +7.09%，拦死 COIN Q3 股东信与全部干扰件）+ 9 道资金风控闸 + 美东原生 04:00-20:30 ET 夏冬令时调度；③ [执行与推送 Node 5-6] 修正东京 X-Tokyo-* HMAC 头、Bark DPAPI 中文卡片、live/dry-run 物理分库去重；零 Mock 真实 TokyoMultiVenueExecutor 加载 115 家路由表与 -2.5% SL/48h 预设真生效，6 路并发真火全 HTTP 200（预热 258 条），全套 70 项测试全绿。"
       },
       {
         "id": "TODO-07",

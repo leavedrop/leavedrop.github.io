@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-23T23:26:49.916+08:00",
+  "generated_at_beijing": "2026-11-23T23:36:49.924+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -226390,8 +226390,8 @@
   "institutional_forecasts_review": {
     "rule_summary": "只看 EPS 开单，不再参考营收：超预期标准 = 所有机构预测 EPS 中正向最大数值（max）；低于预期标准 = 所有机构预测 EPS 中最低数值（min）。实际 EPS 高于最高标准即做多（BUY），低于最低标准即做空（SELL），落入区间内不发信号；营收仅作看板展示参考，不参与开单判定。",
     "total_companies": 139,
-    "upcoming_companies": 50,
-    "published_companies": 89,
+    "upcoming_companies": 49,
+    "published_companies": 90,
     "total_contracts": 312,
     "items": [
       {
@@ -231473,7 +231473,7 @@
       {
         "symbol": "VNET",
         "company_name": "世纪互联",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-23T22:30:00+08:00",
@@ -239942,81 +239942,6 @@
         "company_name": "Workday",
         "schedule_text": "11月25日(周三) 05:00后 · 美东 11/24 盘后",
         "report_period": "FY2027 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "VNET",
-        "company_name": "世纪互联",
-        "schedule_text": "11月23日(周一) 22:30前 · 美东 11/23 盘前",
-        "report_period": "FY2026 Q3",
         "has_custom_override": false,
         "contracts": {
           "binance": "未上架",

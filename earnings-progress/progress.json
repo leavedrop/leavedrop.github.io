@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_beijing": "2026-11-24T12:56:50.588+08:00",
+  "generated_at_beijing": "2026-11-24T13:06:50.558+08:00",
   "timezone": "Asia/Shanghai",
   "summary": {
     "conclusion": "当前目标：发现→收齐全文及归档→EPS/营收比较→模拟信号500ms（美东→东京跨洋专线极速量化系统全链路验证完毕：端到端 P50 73.58ms / P95 74.19ms / P99 85.90ms 压进百毫秒SLA；79家标的与180张机构预期包络已注入；三所路由与双节点按需启停守护中）",
@@ -226390,8 +226390,8 @@
   "institutional_forecasts_review": {
     "rule_summary": "只看 EPS 开单，不再参考营收：超预期标准 = 所有机构预测 EPS 中正向最大数值（max）；低于预期标准 = 所有机构预测 EPS 中最低数值（min）。实际 EPS 高于最高标准即做多（BUY），低于最低标准即做空（SELL），落入区间内不发信号；营收仅作看板展示参考，不参与开单判定。",
     "total_companies": 139,
-    "upcoming_companies": 49,
-    "published_companies": 90,
+    "upcoming_companies": 37,
+    "published_companies": 102,
     "total_contracts": 312,
     "items": [
       {
@@ -230463,7 +230463,7 @@
       {
         "symbol": "FLNC",
         "company_name": "Fluence Energy",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -230506,7 +230506,7 @@
       {
         "symbol": "J",
         "company_name": "Jacobs",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-10-02",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -230549,7 +230549,7 @@
       {
         "symbol": "SYM",
         "company_name": "Symbotic",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-26",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -230592,7 +230592,7 @@
       {
         "symbol": "A",
         "company_name": "安捷伦",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-10-31",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -230635,7 +230635,7 @@
       {
         "symbol": "SMTC",
         "company_name": "Semtech",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2027 Q3",
         "period_end": "2026-10-25",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -230678,7 +230678,7 @@
       {
         "symbol": "ZM",
         "company_name": "Zoom",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2027 Q3",
         "period_end": "2026-10-31",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -231500,7 +231500,7 @@
       {
         "symbol": "CENT",
         "company_name": "Central Garden & Pet",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-26",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -231543,7 +231543,7 @@
       {
         "symbol": "DAC",
         "company_name": "Danaos Corporation",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -231586,7 +231586,7 @@
       {
         "symbol": "TUYA",
         "company_name": "涂鸦智能",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -232155,7 +232155,7 @@
       {
         "symbol": "LOCL",
         "company_name": "Local Bounti",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q3",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -232574,7 +232574,7 @@
       {
         "symbol": "PFLT",
         "company_name": "PennantPark Floating Rate Capital",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -232617,7 +232617,7 @@
       {
         "symbol": "PNNT",
         "company_name": "PennantPark Investment",
-        "section": "upcoming",
+        "section": "published",
         "report_period": "FY2026 Q4",
         "period_end": "2026-09-30",
         "scheduled_at": "2026-11-24T05:00:00+08:00",
@@ -238513,456 +238513,6 @@
     },
     "upcoming_targets": [
       {
-        "symbol": "FLNC",
-        "company_name": "Fluence Energy",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "FLNCBUSDT",
-          "hyperliquid": "未上架",
-          "okx": "FLNC-USDT-SWAP"
-        },
-        "listed": {
-          "binance": true,
-          "hyperliquid": false,
-          "okx": true
-        },
-        "ref_prices": {
-          "binance": 4.08,
-          "hyperliquid": null,
-          "okx": 4.0865
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "J",
-        "company_name": "Jacobs",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "SYM",
-        "company_name": "Symbotic",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "A",
-        "company_name": "安捷伦",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "SMTC",
-        "company_name": "Semtech",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2027 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "ZM",
-        "company_name": "Zoom",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2027 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "ZMBUSDT",
-          "hyperliquid": "xyz:ZM",
-          "okx": "ZM-USDT-SWAP"
-        },
-        "listed": {
-          "binance": true,
-          "hyperliquid": true,
-          "okx": true
-        },
-        "ref_prices": {
-          "binance": 94.065,
-          "hyperliquid": 85.908,
-          "okx": 94.185
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
         "symbol": "VIPS",
         "company_name": "唯品会",
         "schedule_text": "11月24日(周二) 22:30前 · 美东 11/24 盘前",
@@ -240013,231 +239563,6 @@
         }
       },
       {
-        "symbol": "CENT",
-        "company_name": "Central Garden & Pet",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "DAC",
-        "company_name": "Danaos Corporation",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "TUYA",
-        "company_name": "涂鸦智能",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
         "symbol": "BWLP",
         "company_name": "BW LPG",
         "schedule_text": "11月24日(周二) 约14:00 · 美东 11/24 约01:00",
@@ -240988,81 +240313,6 @@
         }
       },
       {
-        "symbol": "LOCL",
-        "company_name": "Local Bounti",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
         "symbol": "ZH",
         "company_name": "知乎",
         "schedule_text": "11月24日(周二) 22:30前 · 美东 11/24 盘前",
@@ -241517,156 +240767,6 @@
         "company_name": "小赢科技",
         "schedule_text": "11月27日(周五) 22:30前 · 美东 11/27 盘前",
         "report_period": "FY2026 Q3",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "PFLT",
-        "company_name": "PennantPark Floating Rate Capital",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q4",
-        "has_custom_override": false,
-        "contracts": {
-          "binance": "未上架",
-          "hyperliquid": "未上架",
-          "okx": "未上架"
-        },
-        "listed": {
-          "binance": false,
-          "hyperliquid": false,
-          "okx": false
-        },
-        "ref_prices": {
-          "binance": null,
-          "hyperliquid": null,
-          "okx": null
-        },
-        "min_notional": {
-          "binance": 5.0,
-          "hyperliquid": 10.0,
-          "okx": 5.0
-        },
-        "preset": {
-          "mode": "custom_or_adaptive",
-          "use_custom_tp_sl": true,
-          "single_shot_company_lock": true,
-          "adverse_impulse_guard_pct": 2.5,
-          "target_tp_pct": 6.0,
-          "hard_sl_pct": -4.0,
-          "breakeven_trigger_pct": 0.0,
-          "breakeven_lock_pct": 0.0,
-          "trail_activate_pct": 2.8,
-          "trail_drawdown_pct": 0.8,
-          "max_hold_s": 7200,
-          "max_hold_mins": 120,
-          "entry_slippage_bps": 180,
-          "min_surprise_score": 0.0,
-          "venues": {
-            "binance": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "notional_usd": 5.0
-            },
-            "hyperliquid": {
-              "enabled": true,
-              "margin_usd": 5.0,
-              "leverage": 1,
-              "max_slippage_bps": 180,
-              "priority_fee_bps": 8.0,
-              "notional_usd": 5.0
-            },
-            "okx": {
-              "enabled": false,
-              "margin_usd": 0.0,
-              "leverage": 1,
-              "notional_usd": 0.0
-            }
-          },
-          "signal_filter": "envelope_both",
-          "has_company_override": false,
-          "_preset_file_exists": true,
-          "tp_sl": {
-            "stop_loss_pct": 4.0,
-            "take_profit_pct": 6.0,
-            "max_hold_minutes": 120,
-            "max_hold_seconds": 7200
-          }
-        }
-      },
-      {
-        "symbol": "PNNT",
-        "company_name": "PennantPark Investment",
-        "schedule_text": "11月24日(周二) 05:00后 · 美东 11/23 盘后",
-        "report_period": "FY2026 Q4",
         "has_custom_override": false,
         "contracts": {
           "binance": "未上架",
